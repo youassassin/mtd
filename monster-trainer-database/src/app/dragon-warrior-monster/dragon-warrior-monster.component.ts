@@ -10,7 +10,7 @@ export class DragonWarriorMonsterComponent implements OnInit {
 
   left = '{';
   right = '}';
-  monsterList: { id: string; name: string; family: string; maxLevel: string; xpGrowth: string; sexChance: string; isFlying: string; isMetal: string; hpGrowth: string; mpGrowth: string; atkGrowth: string; defGrowth: string; agiGrowth: string; intGrowth: string; skills: string[]; }[] | undefined;
+  monsterList: { id: string; image: string; name: string; family: string; maxLevel: string; xpGrowth: string; sexChance: string; isFlying: string; isMetal: string; hpGrowth: string; mpGrowth: string; atkGrowth: string; defGrowth: string; agiGrowth: string; intGrowth: string; skills: string[]; }[] | undefined;
   constructor(private dwmService: DragonWarriorMonsterService) { }
 
   ngOnInit(): void {
@@ -18,4 +18,7 @@ export class DragonWarriorMonsterComponent implements OnInit {
     console.log('hi')
   }
 
+  toLower(str: string) {
+    return str.toLowerCase();
+  }
 }

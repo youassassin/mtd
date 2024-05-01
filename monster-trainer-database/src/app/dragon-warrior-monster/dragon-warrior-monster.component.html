@@ -1,8 +1,10 @@
 <p>dragon-warrior-monster works!</p>
 <li *ngFor="let monster of monsterList; let i = index">
-    <a class="button" routerLink="/dwm/id/{{monster.id}}">{{monster.id}}, {{monster.name}}</a>
+    <a class="button" routerLink="/dwm/id/{{monster.id}}">{{monster.id}}, {{monster.name}}<img
+            src="{{monster.image}}"></a>
     <!-- {{left}}
     "id": "{{i+1}}",
+    "image": "/assets/images/dragon-warrior-monster/{{toLower(monster.name)}}.png",
     "name": "{{monster.name}}",
     "family": "{{monster.family}}",
     "maxLevel": "{{monster.maxLevel}}",

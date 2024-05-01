@@ -2,6 +2,7 @@
     "dwmMonsterList": [
         {
             "id": "1",
+            "image": "/assets/images/dragon-warrior-monster/drakslime.png",
             "name": "DrakSlime",
             "family": "0",
             "maxLevel": "45",
@@ -23,6 +24,7 @@
         },
         {
             "id": "2",
+            "image": "/assets/images/dragon-warrior-monster/spotslime.png",
             "name": "SpotSlime",
             "family": "0",
             "maxLevel": "35",
@@ -44,6 +46,7 @@
         },
         {
             "id": "3",
+            "image": "/assets/images/dragon-warrior-monster/wingslime.png",
             "name": "WingSlime",
             "family": "0",
             "maxLevel": "35",
@@ -65,6 +68,7 @@
         },
         {
             "id": "4",
+            "image": "/assets/images/dragon-warrior-monster/treeslime.png",
             "name": "TreeSlime",
             "family": "0",
             "maxLevel": "50",
@@ -86,6 +90,7 @@
         },
         {
             "id": "5",
+            "image": "/assets/images/dragon-warrior-monster/snaily.png",
             "name": "Snaily",
             "family": "0",
             "maxLevel": "30",
@@ -107,6 +112,7 @@
         },
         {
             "id": "6",
+            "image": "/assets/images/dragon-warrior-monster/slimenite.png",
             "name": "SlimeNite",
             "family": "0",
             "maxLevel": "40",
@@ -128,6 +134,7 @@
         },
         {
             "id": "7",
+            "image": "/assets/images/dragon-warrior-monster/babble.png",
             "name": "Babble",
             "family": "0",
             "maxLevel": "45",
@@ -149,6 +156,7 @@
         },
         {
             "id": "8",
+            "image": "/assets/images/dragon-warrior-monster/boxslime.png",
             "name": "BoxSlime",
             "family": "0",
             "maxLevel": "50",
@@ -170,6 +178,7 @@
         },
         {
             "id": "9",
+            "image": "/assets/images/dragon-warrior-monster/slime.png",
             "name": "Slime",
             "family": "0",
             "maxLevel": "40",
@@ -191,6 +200,7 @@
         },
         {
             "id": "10",
+            "image": "/assets/images/dragon-warrior-monster/healer.png",
             "name": "Healer",
             "family": "0",
             "maxLevel": "50",
@@ -212,6 +222,7 @@
         },
         {
             "id": "11",
+            "image": "/assets/images/dragon-warrior-monster/fangslime.png",
             "name": "FangSlime",
             "family": "0",
             "maxLevel": "35",
@@ -233,6 +244,7 @@
         },
         {
             "id": "12",
+            "image": "/assets/images/dragon-warrior-monster/rockslime.png",
             "name": "RockSlime",
             "family": "0",
             "maxLevel": "50",
@@ -254,6 +266,7 @@
         },
         {
             "id": "13",
+            "image": "/assets/images/dragon-warrior-monster/slimeborg.png",
             "name": "SlimeBorg",
             "family": "0",
             "maxLevel": "50",
@@ -275,6 +288,7 @@
         },
         {
             "id": "14",
+            "image": "/assets/images/dragon-warrior-monster/slabbit.png",
             "name": "Slabbit",
             "family": "0",
             "maxLevel": "35",
@@ -296,6 +310,7 @@
         },
         {
             "id": "15",
+            "image": "/assets/images/dragon-warrior-monster/spotking.png",
             "name": "SpotKing",
             "family": "0",
             "maxLevel": "40",
@@ -317,6 +332,7 @@
         },
         {
             "id": "16",
+            "image": "/assets/images/dragon-warrior-monster/kingslime.png",
             "name": "KingSlime",
             "family": "0",
             "maxLevel": "40",
@@ -338,6 +354,7 @@
         },
         {
             "id": "17",
+            "image": "/assets/images/dragon-warrior-monster/metaly.png",
             "name": "Metaly",
             "family": "0",
             "maxLevel": "20",
@@ -359,6 +376,7 @@
         },
         {
             "id": "18",
+            "image": "/assets/images/dragon-warrior-monster/metabble.png",
             "name": "Metabble",
             "family": "0",
             "maxLevel": "40",
@@ -380,6 +398,7 @@
         },
         {
             "id": "19",
+            "image": "/assets/images/dragon-warrior-monster/metalking.png",
             "name": "MetalKing",
             "family": "0",
             "maxLevel": "60",
@@ -401,6 +420,7 @@
         },
         {
             "id": "20",
+            "image": "/assets/images/dragon-warrior-monster/goldslime.png",
             "name": "GoldSlime",
             "family": "0",
             "maxLevel": "80",
@@ -422,6 +442,7 @@
         },
         {
             "id": "21",
+            "image": "/assets/images/dragon-warrior-monster/dragonkid.png",
             "name": "DragonKid",
             "family": "1",
             "maxLevel": "25",
@@ -443,6 +464,7 @@
         },
         {
             "id": "22",
+            "image": "/assets/images/dragon-warrior-monster/tortragon.png",
             "name": "Tortragon",
             "family": "1",
             "maxLevel": "35",
@@ -464,6 +486,7 @@
         },
         {
             "id": "23",
+            "image": "/assets/images/dragon-warrior-monster/pteranod.png",
             "name": "Pteranod",
             "family": "1",
             "maxLevel": "35",
@@ -485,6 +508,7 @@
         },
         {
             "id": "24",
+            "image": "/assets/images/dragon-warrior-monster/gasgon.png",
             "name": "Gasgon",
             "family": "1",
             "maxLevel": "50",
@@ -506,6 +530,7 @@
         },
         {
             "id": "25",
+            "image": "/assets/images/dragon-warrior-monster/fairydrak.png",
             "name": "FairyDrak",
             "family": "1",
             "maxLevel": "30",
@@ -527,6 +552,7 @@
         },
         {
             "id": "26",
+            "image": "/assets/images/dragon-warrior-monster/lizardman.png",
             "name": "LizardMan",
             "family": "1",
             "maxLevel": "40",
@@ -548,6 +574,7 @@
         },
         {
             "id": "27",
+            "image": "/assets/images/dragon-warrior-monster/poisongon.png",
             "name": "Poisongon",
             "family": "1",
             "maxLevel": "45",
@@ -569,6 +596,7 @@
         },
         {
             "id": "28",
+            "image": "/assets/images/dragon-warrior-monster/swordgon.png",
             "name": "Swordgon",
             "family": "1",
             "maxLevel": "50",
@@ -590,6 +618,7 @@
         },
         {
             "id": "29",
+            "image": "/assets/images/dragon-warrior-monster/dragon.png",
             "name": "Dragon",
             "family": "1",
             "maxLevel": "40",
@@ -611,6 +640,7 @@
         },
         {
             "id": "30",
+            "image": "/assets/images/dragon-warrior-monster/minidrak.png",
             "name": "Minidrak",
             "family": "1",
             "maxLevel": "35",
@@ -632,6 +662,7 @@
         },
         {
             "id": "31",
+            "image": "/assets/images/dragon-warrior-monster/maddragon.png",
             "name": "MadDragon",
             "family": "1",
             "maxLevel": "35",
@@ -653,6 +684,7 @@
         },
         {
             "id": "32",
+            "image": "/assets/images/dragon-warrior-monster/rayburn.png",
             "name": "Rayburn",
             "family": "1",
             "maxLevel": "35",
@@ -674,6 +706,7 @@
         },
         {
             "id": "33",
+            "image": "/assets/images/dragon-warrior-monster/chamelgon.png",
             "name": "Chamelgon",
             "family": "1",
             "maxLevel": "50",
@@ -695,6 +728,7 @@
         },
         {
             "id": "34",
+            "image": "/assets/images/dragon-warrior-monster/lizardfly.png",
             "name": "LizardFly",
             "family": "1",
             "maxLevel": "30",
@@ -716,6 +750,7 @@
         },
         {
             "id": "35",
+            "image": "/assets/images/dragon-warrior-monster/andreal.png",
             "name": "Andreal",
             "family": "1",
             "maxLevel": "50",
@@ -737,6 +772,7 @@
         },
         {
             "id": "36",
+            "image": "/assets/images/dragon-warrior-monster/kingcobra.png",
             "name": "KingCobra",
             "family": "1",
             "maxLevel": "40",
@@ -758,6 +794,7 @@
         },
         {
             "id": "37",
+            "image": "/assets/images/dragon-warrior-monster/spikerous.png",
             "name": "Spikerous",
             "family": "1",
             "maxLevel": "30",
@@ -779,6 +816,7 @@
         },
         {
             "id": "38",
+            "image": "/assets/images/dragon-warrior-monster/greatdrak.png",
             "name": "GreatDrak",
             "family": "1",
             "maxLevel": "60",
@@ -800,6 +838,7 @@
         },
         {
             "id": "39",
+            "image": "/assets/images/dragon-warrior-monster/crestpent.png",
             "name": "Crestpent",
             "family": "1",
             "maxLevel": "35",
@@ -821,6 +860,7 @@
         },
         {
             "id": "40",
+            "image": "/assets/images/dragon-warrior-monster/wingsnake.png",
             "name": "WingSnake",
             "family": "1",
             "maxLevel": "45",
@@ -842,6 +882,7 @@
         },
         {
             "id": "41",
+            "image": "/assets/images/dragon-warrior-monster/coatol.png",
             "name": "Coatol",
             "family": "1",
             "maxLevel": "60",
@@ -863,6 +904,7 @@
         },
         {
             "id": "42",
+            "image": "/assets/images/dragon-warrior-monster/orochi.png",
             "name": "Orochi",
             "family": "1",
             "maxLevel": "60",
@@ -884,6 +926,7 @@
         },
         {
             "id": "43",
+            "image": "/assets/images/dragon-warrior-monster/battlerex.png",
             "name": "BattleRex",
             "family": "1",
             "maxLevel": "60",
@@ -905,6 +948,7 @@
         },
         {
             "id": "44",
+            "image": "/assets/images/dragon-warrior-monster/skydragon.png",
             "name": "SkyDragon",
             "family": "1",
             "maxLevel": "35",
@@ -926,6 +970,7 @@
         },
         {
             "id": "45",
+            "image": "/assets/images/dragon-warrior-monster/divinegon.png",
             "name": "Divinegon",
             "family": "1",
             "maxLevel": "80",
@@ -947,6 +992,7 @@
         },
         {
             "id": "46",
+            "image": "/assets/images/dragon-warrior-monster/tonguella.png",
             "name": "Tonguella",
             "family": "2",
             "maxLevel": "40",
@@ -968,6 +1014,7 @@
         },
         {
             "id": "47",
+            "image": "/assets/images/dragon-warrior-monster/almiraj.png",
             "name": "Almiraj",
             "family": "2",
             "maxLevel": "45",
@@ -989,6 +1036,7 @@
         },
         {
             "id": "48",
+            "image": "/assets/images/dragon-warrior-monster/catfly.png",
             "name": "Catfly",
             "family": "2",
             "maxLevel": "35",
@@ -1010,6 +1058,7 @@
         },
         {
             "id": "49",
+            "image": "/assets/images/dragon-warrior-monster/pillowrat.png",
             "name": "PillowRat",
             "family": "2",
             "maxLevel": "50",
@@ -1031,6 +1080,7 @@
         },
         {
             "id": "50",
+            "image": "/assets/images/dragon-warrior-monster/saccer.png",
             "name": "Saccer",
             "family": "2",
             "maxLevel": "40",
@@ -1052,6 +1102,7 @@
         },
         {
             "id": "51",
+            "image": "/assets/images/dragon-warrior-monster/gulpbeast.png",
             "name": "GulpBeast",
             "family": "2",
             "maxLevel": "45",
@@ -1073,6 +1124,7 @@
         },
         {
             "id": "52",
+            "image": "/assets/images/dragon-warrior-monster/skullroo.png",
             "name": "Skullroo",
             "family": "2",
             "maxLevel": "45",
@@ -1094,6 +1146,7 @@
         },
         {
             "id": "53",
+            "image": "/assets/images/dragon-warrior-monster/windbeast.png",
             "name": "WindBeast",
             "family": "2",
             "maxLevel": "50",
@@ -1115,6 +1168,7 @@
         },
         {
             "id": "54",
+            "image": "/assets/images/dragon-warrior-monster/anteater.png",
             "name": "Anteater",
             "family": "2",
             "maxLevel": "40",
@@ -1136,6 +1190,7 @@
         },
         {
             "id": "55",
+            "image": "/assets/images/dragon-warrior-monster/superten.png",
             "name": "SuperTen",
             "family": "2",
             "maxLevel": "45",
@@ -1157,6 +1212,7 @@
         },
         {
             "id": "56",
+            "image": "/assets/images/dragon-warrior-monster/ironturt.png",
             "name": "IronTurt",
             "family": "2",
             "maxLevel": "45",
@@ -1178,6 +1234,7 @@
         },
         {
             "id": "57",
+            "image": "/assets/images/dragon-warrior-monster/mommonja.png",
             "name": "Mommonja",
             "family": "2",
             "maxLevel": "35",
@@ -1199,6 +1256,7 @@
         },
         {
             "id": "58",
+            "image": "/assets/images/dragon-warrior-monster/hammerman.png",
             "name": "HammerMan",
             "family": "2",
             "maxLevel": "50",
@@ -1220,6 +1278,7 @@
         },
         {
             "id": "59",
+            "image": "/assets/images/dragon-warrior-monster/grizzly.png",
             "name": "Grizzly",
             "family": "2",
             "maxLevel": "40",
@@ -1241,6 +1300,7 @@
         },
         {
             "id": "60",
+            "image": "/assets/images/dragon-warrior-monster/yeti.png",
             "name": "Yeti",
             "family": "2",
             "maxLevel": "40",
@@ -1262,6 +1322,7 @@
         },
         {
             "id": "61",
+            "image": "/assets/images/dragon-warrior-monster/madgopher.png",
             "name": "MadGopher",
             "family": "2",
             "maxLevel": "50",
@@ -1283,6 +1344,7 @@
         },
         {
             "id": "62",
+            "image": "/assets/images/dragon-warrior-monster/fairyrat.png",
             "name": "FairyRat",
             "family": "2",
             "maxLevel": "45",
@@ -1304,6 +1366,7 @@
         },
         {
             "id": "63",
+            "image": "/assets/images/dragon-warrior-monster/unicorn.png",
             "name": "Unicorn",
             "family": "2",
             "maxLevel": "50",
@@ -1325,6 +1388,7 @@
         },
         {
             "id": "64",
+            "image": "/assets/images/dragon-warrior-monster/goategon.png",
             "name": "Goategon",
             "family": "2",
             "maxLevel": "40",
@@ -1346,6 +1410,7 @@
         },
         {
             "id": "65",
+            "image": "/assets/images/dragon-warrior-monster/wildape.png",
             "name": "WildApe",
             "family": "2",
             "maxLevel": "35",
@@ -1367,6 +1432,7 @@
         },
         {
             "id": "66",
+            "image": "/assets/images/dragon-warrior-monster/trumpeter.png",
             "name": "Trumpeter",
             "family": "2",
             "maxLevel": "50",
@@ -1388,6 +1454,7 @@
         },
         {
             "id": "67",
+            "image": "/assets/images/dragon-warrior-monster/kingleo.png",
             "name": "KingLeo",
             "family": "2",
             "maxLevel": "70",
@@ -1409,6 +1476,7 @@
         },
         {
             "id": "68",
+            "image": "/assets/images/dragon-warrior-monster/darkhorn.png",
             "name": "DarkHorn",
             "family": "2",
             "maxLevel": "50",
@@ -1430,6 +1498,7 @@
         },
         {
             "id": "69",
+            "image": "/assets/images/dragon-warrior-monster/madcat.png",
             "name": "MadCat",
             "family": "2",
             "maxLevel": "40",
@@ -1451,6 +1520,7 @@
         },
         {
             "id": "70",
+            "image": "/assets/images/dragon-warrior-monster/bigeye.png",
             "name": "BigEye",
             "family": "2",
             "maxLevel": "40",
@@ -1472,6 +1542,7 @@
         },
         {
             "id": "71",
+            "image": "/assets/images/dragon-warrior-monster/picky.png",
             "name": "Picky",
             "family": "3",
             "maxLevel": "40",
@@ -1493,6 +1564,7 @@
         },
         {
             "id": "72",
+            "image": "/assets/images/dragon-warrior-monster/wyvern.png",
             "name": "Wyvern",
             "family": "3",
             "maxLevel": "45",
@@ -1514,6 +1586,7 @@
         },
         {
             "id": "73",
+            "image": "/assets/images/dragon-warrior-monster/bullbird.png",
             "name": "BullBird",
             "family": "3",
             "maxLevel": "35",
@@ -1535,6 +1608,7 @@
         },
         {
             "id": "74",
+            "image": "/assets/images/dragon-warrior-monster/florajay.png",
             "name": "FloraJay",
             "family": "3",
             "maxLevel": "50",
@@ -1556,6 +1630,7 @@
         },
         {
             "id": "75",
+            "image": "/assets/images/dragon-warrior-monster/duckkite.png",
             "name": "DuckKite",
             "family": "3",
             "maxLevel": "30",
@@ -1577,6 +1652,7 @@
         },
         {
             "id": "76",
+            "image": "/assets/images/dragon-warrior-monster/madpecker.png",
             "name": "MadPecker",
             "family": "3",
             "maxLevel": "40",
@@ -1598,6 +1674,7 @@
         },
         {
             "id": "77",
+            "image": "/assets/images/dragon-warrior-monster/madraven.png",
             "name": "MadRaven",
             "family": "3",
             "maxLevel": "45",
@@ -1619,6 +1696,7 @@
         },
         {
             "id": "78",
+            "image": "/assets/images/dragon-warrior-monster/mistywing.png",
             "name": "MistyWing",
             "family": "3",
             "maxLevel": "50",
@@ -1640,6 +1718,7 @@
         },
         {
             "id": "79",
+            "image": "/assets/images/dragon-warrior-monster/dracky.png",
             "name": "Dracky",
             "family": "3",
             "maxLevel": "40",
@@ -1661,6 +1740,7 @@
         },
         {
             "id": "80",
+            "image": "/assets/images/dragon-warrior-monster/bigroost.png",
             "name": "BigRoost",
             "family": "3",
             "maxLevel": "40",
@@ -1682,6 +1762,7 @@
         },
         {
             "id": "81",
+            "image": "/assets/images/dragon-warrior-monster/stubbird.png",
             "name": "StubBird",
             "family": "3",
             "maxLevel": "40",
@@ -1703,6 +1784,7 @@
         },
         {
             "id": "82",
+            "image": "/assets/images/dragon-warrior-monster/landowl.png",
             "name": "LandOwl",
             "family": "3",
             "maxLevel": "35",
@@ -1724,6 +1806,7 @@
         },
         {
             "id": "83",
+            "image": "/assets/images/dragon-warrior-monster/madgoose.png",
             "name": "MadGoose",
             "family": "3",
             "maxLevel": "30",
@@ -1745,6 +1828,7 @@
         },
         {
             "id": "84",
+            "image": "/assets/images/dragon-warrior-monster/madcondor.png",
             "name": "MadCondor",
             "family": "3",
             "maxLevel": "50",
@@ -1766,6 +1850,7 @@
         },
         {
             "id": "85",
+            "image": "/assets/images/dragon-warrior-monster/blizzardy.png",
             "name": "Blizzardy",
             "family": "3",
             "maxLevel": "50",
@@ -1787,6 +1872,7 @@
         },
         {
             "id": "86",
+            "image": "/assets/images/dragon-warrior-monster/phoenix.png",
             "name": "Phoenix",
             "family": "3",
             "maxLevel": "50",
@@ -1808,6 +1894,7 @@
         },
         {
             "id": "87",
+            "image": "/assets/images/dragon-warrior-monster/zapbird.png",
             "name": "ZapBird",
             "family": "3",
             "maxLevel": "50",
@@ -1829,6 +1916,7 @@
         },
         {
             "id": "88",
+            "image": "/assets/images/dragon-warrior-monster/whipbird.png",
             "name": "WhipBird",
             "family": "3",
             "maxLevel": "60",
@@ -1850,6 +1938,7 @@
         },
         {
             "id": "89",
+            "image": "/assets/images/dragon-warrior-monster/funkybird.png",
             "name": "FunkyBird",
             "family": "3",
             "maxLevel": "50",
@@ -1871,6 +1960,7 @@
         },
         {
             "id": "90",
+            "image": "/assets/images/dragon-warrior-monster/rainhawk.png",
             "name": "RainHawk",
             "family": "3",
             "maxLevel": "70",
@@ -1892,6 +1982,7 @@
         },
         {
             "id": "91",
+            "image": "/assets/images/dragon-warrior-monster/madplant.png",
             "name": "MadPlant",
             "family": "4",
             "maxLevel": "40",
@@ -1913,6 +2004,7 @@
         },
         {
             "id": "92",
+            "image": "/assets/images/dragon-warrior-monster/fireweed.png",
             "name": "FireWeed",
             "family": "4",
             "maxLevel": "45",
@@ -1934,6 +2026,7 @@
         },
         {
             "id": "93",
+            "image": "/assets/images/dragon-warrior-monster/floraman.png",
             "name": "FloraMan",
             "family": "4",
             "maxLevel": "35",
@@ -1955,6 +2048,7 @@
         },
         {
             "id": "94",
+            "image": "/assets/images/dragon-warrior-monster/wingtree.png",
             "name": "WingTree",
             "family": "4",
             "maxLevel": "35",
@@ -1976,6 +2070,7 @@
         },
         {
             "id": "95",
+            "image": "/assets/images/dragon-warrior-monster/cactiball.png",
             "name": "CactiBall",
             "family": "4",
             "maxLevel": "30",
@@ -1997,6 +2092,7 @@
         },
         {
             "id": "96",
+            "image": "/assets/images/dragon-warrior-monster/gulpple.png",
             "name": "Gulpple",
             "family": "4",
             "maxLevel": "40",
@@ -2018,6 +2114,7 @@
         },
         {
             "id": "97",
+            "image": "/assets/images/dragon-warrior-monster/toadstool.png",
             "name": "Toadstool",
             "family": "4",
             "maxLevel": "45",
@@ -2039,6 +2136,7 @@
         },
         {
             "id": "98",
+            "image": "/assets/images/dragon-warrior-monster/amberweed.png",
             "name": "AmberWeed",
             "family": "4",
             "maxLevel": "50",
@@ -2060,6 +2158,7 @@
         },
         {
             "id": "99",
+            "image": "/assets/images/dragon-warrior-monster/stubsuck.png",
             "name": "Stubsuck",
             "family": "4",
             "maxLevel": "40",
@@ -2081,6 +2180,7 @@
         },
         {
             "id": "100",
+            "image": "/assets/images/dragon-warrior-monster/oniono.png",
             "name": "Oniono",
             "family": "4",
             "maxLevel": "35",
@@ -2102,6 +2202,7 @@
         },
         {
             "id": "101",
+            "image": "/assets/images/dragon-warrior-monster/dancevegi.png",
             "name": "DanceVegi",
             "family": "4",
             "maxLevel": "50",
@@ -2123,6 +2224,7 @@
         },
         {
             "id": "102",
+            "image": "/assets/images/dragon-warrior-monster/treeboy.png",
             "name": "TreeBoy",
             "family": "4",
             "maxLevel": "40",
@@ -2144,6 +2246,7 @@
         },
         {
             "id": "103",
+            "image": "/assets/images/dragon-warrior-monster/facetree.png",
             "name": "FaceTree",
             "family": "4",
             "maxLevel": "45",
@@ -2165,6 +2268,7 @@
         },
         {
             "id": "104",
+            "image": "/assets/images/dragon-warrior-monster/herbman.png",
             "name": "HerbMan",
             "family": "4",
             "maxLevel": "40",
@@ -2186,6 +2290,7 @@
         },
         {
             "id": "105",
+            "image": "/assets/images/dragon-warrior-monster/beanman.png",
             "name": "BeanMan",
             "family": "4",
             "maxLevel": "35",
@@ -2207,6 +2312,7 @@
         },
         {
             "id": "106",
+            "image": "/assets/images/dragon-warrior-monster/evilseed.png",
             "name": "EvilSeed",
             "family": "4",
             "maxLevel": "30",
@@ -2228,6 +2334,7 @@
         },
         {
             "id": "107",
+            "image": "/assets/images/dragon-warrior-monster/maneater.png",
             "name": "ManEater",
             "family": "4",
             "maxLevel": "50",
@@ -2249,6 +2356,7 @@
         },
         {
             "id": "108",
+            "image": "/assets/images/dragon-warrior-monster/snapper.png",
             "name": "Snapper",
             "family": "4",
             "maxLevel": "60",
@@ -2270,6 +2378,7 @@
         },
         {
             "id": "109",
+            "image": "/assets/images/dragon-warrior-monster/rosevine.png",
             "name": "Rosevine",
             "family": "4",
             "maxLevel": "80",
@@ -2291,6 +2400,7 @@
         },
         {
             "id": "110",
+            "image": "/assets/images/dragon-warrior-monster/watabou.png",
             "name": "Watabou",
             "family": "4",
             "maxLevel": "80",
@@ -2312,6 +2422,7 @@
         },
         {
             "id": "111",
+            "image": "/assets/images/dragon-warrior-monster/giantslug.png",
             "name": "GiantSlug",
             "family": "5",
             "maxLevel": "35",
@@ -2333,6 +2444,7 @@
         },
         {
             "id": "112",
+            "image": "/assets/images/dragon-warrior-monster/catapila.png",
             "name": "Catapila",
             "family": "5",
             "maxLevel": "40",
@@ -2354,6 +2466,7 @@
         },
         {
             "id": "113",
+            "image": "/assets/images/dragon-warrior-monster/gophecada.png",
             "name": "Gophecada",
             "family": "5",
             "maxLevel": "30",
@@ -2375,6 +2488,7 @@
         },
         {
             "id": "114",
+            "image": "/assets/images/dragon-warrior-monster/butterfly.png",
             "name": "Butterfly",
             "family": "5",
             "maxLevel": "30",
@@ -2396,6 +2510,7 @@
         },
         {
             "id": "115",
+            "image": "/assets/images/dragon-warrior-monster/weedbug.png",
             "name": "WeedBug",
             "family": "5",
             "maxLevel": "45",
@@ -2417,6 +2532,7 @@
         },
         {
             "id": "116",
+            "image": "/assets/images/dragon-warrior-monster/giantworm.png",
             "name": "GiantWorm",
             "family": "5",
             "maxLevel": "35",
@@ -2438,6 +2554,7 @@
         },
         {
             "id": "117",
+            "image": "/assets/images/dragon-warrior-monster/lipsy.png",
             "name": "Lipsy",
             "family": "5",
             "maxLevel": "40",
@@ -2459,6 +2576,7 @@
         },
         {
             "id": "118",
+            "image": "/assets/images/dragon-warrior-monster/stagbug.png",
             "name": "StagBug",
             "family": "5",
             "maxLevel": "45",
@@ -2480,6 +2598,7 @@
         },
         {
             "id": "119",
+            "image": "/assets/images/dragon-warrior-monster/armyant.png",
             "name": "ArmyAnt",
             "family": "5",
             "maxLevel": "35",
@@ -2501,6 +2620,7 @@
         },
         {
             "id": "120",
+            "image": "/assets/images/dragon-warrior-monster/gohopper.png",
             "name": "GoHopper",
             "family": "5",
             "maxLevel": "35",
@@ -2522,6 +2642,7 @@
         },
         {
             "id": "121",
+            "image": "/assets/images/dragon-warrior-monster/taileater.png",
             "name": "TailEater",
             "family": "5",
             "maxLevel": "45",
@@ -2543,6 +2664,7 @@
         },
         {
             "id": "122",
+            "image": "/assets/images/dragon-warrior-monster/armorpede.png",
             "name": "ArmorPede",
             "family": "5",
             "maxLevel": "30",
@@ -2564,6 +2686,7 @@
         },
         {
             "id": "123",
+            "image": "/assets/images/dragon-warrior-monster/eyeder.png",
             "name": "Eyeder",
             "family": "5",
             "maxLevel": "45",
@@ -2585,6 +2708,7 @@
         },
         {
             "id": "124",
+            "image": "/assets/images/dragon-warrior-monster/giantmoth.png",
             "name": "GiantMoth",
             "family": "5",
             "maxLevel": "30",
@@ -2606,6 +2730,7 @@
         },
         {
             "id": "125",
+            "image": "/assets/images/dragon-warrior-monster/droll.png",
             "name": "Droll",
             "family": "5",
             "maxLevel": "40",
@@ -2627,6 +2752,7 @@
         },
         {
             "id": "126",
+            "image": "/assets/images/dragon-warrior-monster/armycrab.png",
             "name": "ArmyCrab",
             "family": "5",
             "maxLevel": "40",
@@ -2648,6 +2774,7 @@
         },
         {
             "id": "127",
+            "image": "/assets/images/dragon-warrior-monster/madhornet.png",
             "name": "MadHornet",
             "family": "5",
             "maxLevel": "40",
@@ -2669,6 +2796,7 @@
         },
         {
             "id": "128",
+            "image": "/assets/images/dragon-warrior-monster/hornbeet.png",
             "name": "HornBeet",
             "family": "5",
             "maxLevel": "50",
@@ -2690,6 +2818,7 @@
         },
         {
             "id": "129",
+            "image": "/assets/images/dragon-warrior-monster/armorpion.png",
             "name": "Armorpion",
             "family": "5",
             "maxLevel": "60",
@@ -2711,6 +2840,7 @@
         },
         {
             "id": "130",
+            "image": "/assets/images/dragon-warrior-monster/digster.png",
             "name": "Digster",
             "family": "5",
             "maxLevel": "50",
@@ -2732,6 +2862,7 @@
         },
         {
             "id": "131",
+            "image": "/assets/images/dragon-warrior-monster/pixy.png",
             "name": "Pixy",
             "family": "6",
             "maxLevel": "40",
@@ -2753,6 +2884,7 @@
         },
         {
             "id": "132",
+            "image": "/assets/images/dragon-warrior-monster/arcdemon.png",
             "name": "ArcDemon",
             "family": "6",
             "maxLevel": "45",
@@ -2774,6 +2906,7 @@
         },
         {
             "id": "133",
+            "image": "/assets/images/dragon-warrior-monster/agdevil.png",
             "name": "AgDevil",
             "family": "6",
             "maxLevel": "35",
@@ -2795,6 +2928,7 @@
         },
         {
             "id": "134",
+            "image": "/assets/images/dragon-warrior-monster/demonite.png",
             "name": "Demonite",
             "family": "6",
             "maxLevel": "25",
@@ -2816,6 +2950,7 @@
         },
         {
             "id": "135",
+            "image": "/assets/images/dragon-warrior-monster/darkeye.png",
             "name": "DarkEye",
             "family": "6",
             "maxLevel": "50",
@@ -2837,6 +2972,7 @@
         },
         {
             "id": "136",
+            "image": "/assets/images/dragon-warrior-monster/eyeball.png",
             "name": "EyeBall",
             "family": "6",
             "maxLevel": "35",
@@ -2858,6 +2994,7 @@
         },
         {
             "id": "137",
+            "image": "/assets/images/dragon-warrior-monster/skulrider.png",
             "name": "SkulRider",
             "family": "6",
             "maxLevel": "45",
@@ -2879,6 +3016,7 @@
         },
         {
             "id": "138",
+            "image": "/assets/images/dragon-warrior-monster/evilbeast.png",
             "name": "EvilBeast",
             "family": "6",
             "maxLevel": "50",
@@ -2900,6 +3038,7 @@
         },
         {
             "id": "139",
+            "image": "/assets/images/dragon-warrior-monster/1eyeclown.png",
             "name": "1EyeClown",
             "family": "6",
             "maxLevel": "25",
@@ -2921,6 +3060,7 @@
         },
         {
             "id": "140",
+            "image": "/assets/images/dragon-warrior-monster/gremlin.png",
             "name": "Gremlin",
             "family": "6",
             "maxLevel": "25",
@@ -2942,6 +3082,7 @@
         },
         {
             "id": "141",
+            "image": "/assets/images/dragon-warrior-monster/medusaeye.png",
             "name": "MedusaEye",
             "family": "6",
             "maxLevel": "35",
@@ -2963,6 +3104,7 @@
         },
         {
             "id": "142",
+            "image": "/assets/images/dragon-warrior-monster/lionex.png",
             "name": "Lionex",
             "family": "6",
             "maxLevel": "45",
@@ -2984,6 +3126,7 @@
         },
         {
             "id": "143",
+            "image": "/assets/images/dragon-warrior-monster/goathorn.png",
             "name": "GoatHorn",
             "family": "6",
             "maxLevel": "35",
@@ -3005,6 +3148,7 @@
         },
         {
             "id": "144",
+            "image": "/assets/images/dragon-warrior-monster/orc.png",
             "name": "Orc",
             "family": "6",
             "maxLevel": "50",
@@ -3026,6 +3170,7 @@
         },
         {
             "id": "145",
+            "image": "/assets/images/dragon-warrior-monster/ogre.png",
             "name": "Ogre",
             "family": "6",
             "maxLevel": "35",
@@ -3047,6 +3192,7 @@
         },
         {
             "id": "146",
+            "image": "/assets/images/dragon-warrior-monster/gateguard.png",
             "name": "GateGuard",
             "family": "6",
             "maxLevel": "50",
@@ -3068,6 +3214,7 @@
         },
         {
             "id": "147",
+            "image": "/assets/images/dragon-warrior-monster/chopclown.png",
             "name": "ChopClown",
             "family": "6",
             "maxLevel": "50",
@@ -3089,6 +3236,7 @@
         },
         {
             "id": "148",
+            "image": "/assets/images/dragon-warrior-monster/grendal.png",
             "name": "Grendal",
             "family": "6",
             "maxLevel": "60",
@@ -3110,6 +3258,7 @@
         },
         {
             "id": "149",
+            "image": "/assets/images/dragon-warrior-monster/akubar.png",
             "name": "Akubar",
             "family": "6",
             "maxLevel": "80",
@@ -3131,6 +3280,7 @@
         },
         {
             "id": "150",
+            "image": "/assets/images/dragon-warrior-monster/madknight.png",
             "name": "MadKnight",
             "family": "6",
             "maxLevel": "50",
@@ -3152,6 +3302,7 @@
         },
         {
             "id": "151",
+            "image": "/assets/images/dragon-warrior-monster/gigantes.png",
             "name": "Gigantes",
             "family": "6",
             "maxLevel": "35",
@@ -3173,6 +3324,7 @@
         },
         {
             "id": "152",
+            "image": "/assets/images/dragon-warrior-monster/centasaur.png",
             "name": "Centasaur",
             "family": "6",
             "maxLevel": "45",
@@ -3194,6 +3346,7 @@
         },
         {
             "id": "153",
+            "image": "/assets/images/dragon-warrior-monster/evilarmor.png",
             "name": "EvilArmor",
             "family": "6",
             "maxLevel": "30",
@@ -3215,6 +3368,7 @@
         },
         {
             "id": "154",
+            "image": "/assets/images/dragon-warrior-monster/jamirus.png",
             "name": "Jamirus",
             "family": "6",
             "maxLevel": "60",
@@ -3236,6 +3390,7 @@
         },
         {
             "id": "155",
+            "image": "/assets/images/dragon-warrior-monster/durran.png",
             "name": "Durran",
             "family": "6",
             "maxLevel": "70",
@@ -3257,6 +3412,7 @@
         },
         {
             "id": "156",
+            "image": "/assets/images/dragon-warrior-monster/spooky.png",
             "name": "Spooky",
             "family": "7",
             "maxLevel": "40",
@@ -3278,6 +3434,7 @@
         },
         {
             "id": "157",
+            "image": "/assets/images/dragon-warrior-monster/skullgon.png",
             "name": "Skullgon",
             "family": "7",
             "maxLevel": "45",
@@ -3299,6 +3456,7 @@
         },
         {
             "id": "158",
+            "image": "/assets/images/dragon-warrior-monster/putrepup.png",
             "name": "Putrepup",
             "family": "7",
             "maxLevel": "35",
@@ -3320,6 +3478,7 @@
         },
         {
             "id": "159",
+            "image": "/assets/images/dragon-warrior-monster/rotraven.png",
             "name": "RotRaven",
             "family": "7",
             "maxLevel": "35",
@@ -3341,6 +3500,7 @@
         },
         {
             "id": "160",
+            "image": "/assets/images/dragon-warrior-monster/mummy.png",
             "name": "Mummy",
             "family": "7",
             "maxLevel": "50",
@@ -3362,6 +3522,7 @@
         },
         {
             "id": "161",
+            "image": "/assets/images/dragon-warrior-monster/darkcrab.png",
             "name": "DarkCrab",
             "family": "7",
             "maxLevel": "30",
@@ -3383,6 +3544,7 @@
         },
         {
             "id": "162",
+            "image": "/assets/images/dragon-warrior-monster/deadnite.png",
             "name": "DeadNite",
             "family": "7",
             "maxLevel": "45",
@@ -3404,6 +3566,7 @@
         },
         {
             "id": "163",
+            "image": "/assets/images/dragon-warrior-monster/shadow.png",
             "name": "Shadow",
             "family": "7",
             "maxLevel": "50",
@@ -3425,6 +3588,7 @@
         },
         {
             "id": "164",
+            "image": "/assets/images/dragon-warrior-monster/hork.png",
             "name": "Hork",
             "family": "7",
             "maxLevel": "40",
@@ -3446,6 +3610,7 @@
         },
         {
             "id": "165",
+            "image": "/assets/images/dragon-warrior-monster/mudron.png",
             "name": "Mudron",
             "family": "7",
             "maxLevel": "30",
@@ -3467,6 +3632,7 @@
         },
         {
             "id": "166",
+            "image": "/assets/images/dragon-warrior-monster/nitewhip.png",
             "name": "NiteWhip",
             "family": "7",
             "maxLevel": "35",
@@ -3488,6 +3654,7 @@
         },
         {
             "id": "167",
+            "image": "/assets/images/dragon-warrior-monster/madspirit.png",
             "name": "MadSpirit",
             "family": "7",
             "maxLevel": "50",
@@ -3509,6 +3676,7 @@
         },
         {
             "id": "168",
+            "image": "/assets/images/dragon-warrior-monster/windmerge.png",
             "name": "WindMerge",
             "family": "7",
             "maxLevel": "35",
@@ -3530,6 +3698,7 @@
         },
         {
             "id": "169",
+            "image": "/assets/images/dragon-warrior-monster/reaper.png",
             "name": "Reaper",
             "family": "7",
             "maxLevel": "50",
@@ -3551,6 +3720,7 @@
         },
         {
             "id": "170",
+            "image": "/assets/images/dragon-warrior-monster/deadnoble.png",
             "name": "DeadNoble",
             "family": "7",
             "maxLevel": "50",
@@ -3572,6 +3742,7 @@
         },
         {
             "id": "171",
+            "image": "/assets/images/dragon-warrior-monster/whiteking.png",
             "name": "WhiteKing",
             "family": "7",
             "maxLevel": "70",
@@ -3593,6 +3764,7 @@
         },
         {
             "id": "172",
+            "image": "/assets/images/dragon-warrior-monster/boneslave.png",
             "name": "BoneSlave",
             "family": "7",
             "maxLevel": "40",
@@ -3614,6 +3786,7 @@
         },
         {
             "id": "173",
+            "image": "/assets/images/dragon-warrior-monster/skeletor.png",
             "name": "Skeletor",
             "family": "7",
             "maxLevel": "60",
@@ -3635,6 +3808,7 @@
         },
         {
             "id": "174",
+            "image": "/assets/images/dragon-warrior-monster/servant.png",
             "name": "Servant",
             "family": "7",
             "maxLevel": "80",
@@ -3656,6 +3830,7 @@
         },
         {
             "id": "175",
+            "image": "/assets/images/dragon-warrior-monster/copycat.png",
             "name": "Copycat",
             "family": "7",
             "maxLevel": "40",
@@ -3677,6 +3852,7 @@
         },
         {
             "id": "176",
+            "image": "/assets/images/dragon-warrior-monster/jewelbag.png",
             "name": "JewelBag",
             "family": "8",
             "maxLevel": "40",
@@ -3698,6 +3874,7 @@
         },
         {
             "id": "177",
+            "image": "/assets/images/dragon-warrior-monster/evilwand.png",
             "name": "EvilWand",
             "family": "8",
             "maxLevel": "50",
@@ -3719,6 +3896,7 @@
         },
         {
             "id": "178",
+            "image": "/assets/images/dragon-warrior-monster/madcandle.png",
             "name": "MadCandle",
             "family": "8",
             "maxLevel": "35",
@@ -3740,6 +3918,7 @@
         },
         {
             "id": "179",
+            "image": "/assets/images/dragon-warrior-monster/coilbird.png",
             "name": "CoilBird",
             "family": "8",
             "maxLevel": "35",
@@ -3761,6 +3940,7 @@
         },
         {
             "id": "180",
+            "image": "/assets/images/dragon-warrior-monster/facer.png",
             "name": "Facer",
             "family": "8",
             "maxLevel": "50",
@@ -3782,6 +3962,7 @@
         },
         {
             "id": "181",
+            "image": "/assets/images/dragon-warrior-monster/spikyboy.png",
             "name": "SpikyBoy",
             "family": "8",
             "maxLevel": "30",
@@ -3803,6 +3984,7 @@
         },
         {
             "id": "182",
+            "image": "/assets/images/dragon-warrior-monster/madmirror.png",
             "name": "MadMirror",
             "family": "8",
             "maxLevel": "45",
@@ -3824,6 +4006,7 @@
         },
         {
             "id": "183",
+            "image": "/assets/images/dragon-warrior-monster/roguenite.png",
             "name": "RogueNite",
             "family": "8",
             "maxLevel": "45",
@@ -3845,6 +4028,7 @@
         },
         {
             "id": "184",
+            "image": "/assets/images/dragon-warrior-monster/goopi.png",
             "name": "Goopi",
             "family": "8",
             "maxLevel": "40",
@@ -3866,6 +4050,7 @@
         },
         {
             "id": "185",
+            "image": "/assets/images/dragon-warrior-monster/voodoll.png",
             "name": "Voodoll",
             "family": "8",
             "maxLevel": "35",
@@ -3887,6 +4072,7 @@
         },
         {
             "id": "186",
+            "image": "/assets/images/dragon-warrior-monster/metaldrak.png",
             "name": "MetalDrak",
             "family": "8",
             "maxLevel": "45",
@@ -3908,6 +4094,7 @@
         },
         {
             "id": "187",
+            "image": "/assets/images/dragon-warrior-monster/balzak.png",
             "name": "Balzak",
             "family": "8",
             "maxLevel": "35",
@@ -3929,6 +4116,7 @@
         },
         {
             "id": "188",
+            "image": "/assets/images/dragon-warrior-monster/sabreman.png",
             "name": "SabreMan",
             "family": "8",
             "maxLevel": "30",
@@ -3950,6 +4138,7 @@
         },
         {
             "id": "189",
+            "image": "/assets/images/dragon-warrior-monster/curselamp.png",
             "name": "CurseLamp",
             "family": "8",
             "maxLevel": "50",
@@ -3971,6 +4160,7 @@
         },
         {
             "id": "190",
+            "image": "/assets/images/dragon-warrior-monster/roboster.png",
             "name": "Roboster",
             "family": "8",
             "maxLevel": "40",
@@ -3992,6 +4182,7 @@
         },
         {
             "id": "191",
+            "image": "/assets/images/dragon-warrior-monster/evilpot.png",
             "name": "EvilPot",
             "family": "8",
             "maxLevel": "40",
@@ -4013,6 +4204,7 @@
         },
         {
             "id": "192",
+            "image": "/assets/images/dragon-warrior-monster/gismo.png",
             "name": "Gismo",
             "family": "8",
             "maxLevel": "40",
@@ -4034,6 +4226,7 @@
         },
         {
             "id": "193",
+            "image": "/assets/images/dragon-warrior-monster/lavaman.png",
             "name": "LavaMan",
             "family": "8",
             "maxLevel": "40",
@@ -4055,6 +4248,7 @@
         },
         {
             "id": "194",
+            "image": "/assets/images/dragon-warrior-monster/iceman.png",
             "name": "IceMan",
             "family": "8",
             "maxLevel": "40",
@@ -4076,6 +4270,7 @@
         },
         {
             "id": "195",
+            "image": "/assets/images/dragon-warrior-monster/mimic.png",
             "name": "Mimic",
             "family": "8",
             "maxLevel": "40",
@@ -4097,6 +4292,7 @@
         },
         {
             "id": "196",
+            "image": "/assets/images/dragon-warrior-monster/muddoll.png",
             "name": "MudDoll",
             "family": "8",
             "maxLevel": "40",
@@ -4118,6 +4314,7 @@
         },
         {
             "id": "197",
+            "image": "/assets/images/dragon-warrior-monster/golem.png",
             "name": "Golem",
             "family": "8",
             "maxLevel": "40",
@@ -4139,6 +4336,7 @@
         },
         {
             "id": "198",
+            "image": "/assets/images/dragon-warrior-monster/stoneman.png",
             "name": "StoneMan",
             "family": "8",
             "maxLevel": "50",
@@ -4160,6 +4358,7 @@
         },
         {
             "id": "199",
+            "image": "/assets/images/dragon-warrior-monster/bombcrag.png",
             "name": "BombCrag",
             "family": "8",
             "maxLevel": "50",
@@ -4181,6 +4380,7 @@
         },
         {
             "id": "200",
+            "image": "/assets/images/dragon-warrior-monster/goldgolem.png",
             "name": "GoldGolem",
             "family": "8",
             "maxLevel": "80",
@@ -4202,7 +4402,8 @@
         },
         {
             "id": "201",
-            "name": "DracoLord",
+            "image": "/assets/images/dragon-warrior-monster/dracolord1.png",
+            "name": "DracoLord1",
             "family": "9",
             "maxLevel": "50",
             "xpGrowth": "24",
@@ -4223,7 +4424,8 @@
         },
         {
             "id": "202",
-            "name": "DracoLord",
+            "image": "/assets/images/dragon-warrior-monster/dracolord2.png",
+            "name": "DracoLord2",
             "family": "9",
             "maxLevel": "80",
             "xpGrowth": "25",
@@ -4244,6 +4446,7 @@
         },
         {
             "id": "203",
+            "image": "/assets/images/dragon-warrior-monster/hargon.png",
             "name": "Hargon",
             "family": "9",
             "maxLevel": "70",
@@ -4265,6 +4468,7 @@
         },
         {
             "id": "204",
+            "image": "/assets/images/dragon-warrior-monster/sidoh.png",
             "name": "Sidoh",
             "family": "9",
             "maxLevel": "80",
@@ -4286,6 +4490,7 @@
         },
         {
             "id": "205",
+            "image": "/assets/images/dragon-warrior-monster/baramos.png",
             "name": "Baramos",
             "family": "9",
             "maxLevel": "70",
@@ -4307,6 +4512,7 @@
         },
         {
             "id": "206",
+            "image": "/assets/images/dragon-warrior-monster/zoma.png",
             "name": "Zoma",
             "family": "9",
             "maxLevel": "80",
@@ -4328,6 +4534,7 @@
         },
         {
             "id": "207",
+            "image": "/assets/images/dragon-warrior-monster/pizzaro.png",
             "name": "Pizzaro",
             "family": "9",
             "maxLevel": "70",
@@ -4349,6 +4556,7 @@
         },
         {
             "id": "208",
+            "image": "/assets/images/dragon-warrior-monster/esterk.png",
             "name": "Esterk",
             "family": "9",
             "maxLevel": "80",
@@ -4370,7 +4578,8 @@
         },
         {
             "id": "209",
-            "name": "Mirudraas",
+            "image": "/assets/images/dragon-warrior-monster/mirudraas1.png",
+            "name": "Mirudraas1",
             "family": "9",
             "maxLevel": "70",
             "xpGrowth": "30",
@@ -4391,7 +4600,8 @@
         },
         {
             "id": "210",
-            "name": "Mirudraas",
+            "image": "/assets/images/dragon-warrior-monster/mirudraas2.png",
+            "name": "Mirudraas2",
             "family": "9",
             "maxLevel": "80",
             "xpGrowth": "31",
@@ -4412,6 +4622,7 @@
         },
         {
             "id": "211",
+            "image": "/assets/images/dragon-warrior-monster/mudou.png",
             "name": "Mudou",
             "family": "9",
             "maxLevel": "70",
@@ -4433,7 +4644,8 @@
         },
         {
             "id": "212",
-            "name": "DeathMore",
+            "image": "/assets/images/dragon-warrior-monster/deathmore1.png",
+            "name": "DeathMore1",
             "family": "9",
             "maxLevel": "60",
             "xpGrowth": "27",
@@ -4454,7 +4666,8 @@
         },
         {
             "id": "213",
-            "name": "DeathMore",
+            "image": "/assets/images/dragon-warrior-monster/deathmore2.png",
+            "name": "DeathMore2",
             "family": "9",
             "maxLevel": "70",
             "xpGrowth": "29",
@@ -4475,7 +4688,8 @@
         },
         {
             "id": "214",
-            "name": "DeathMore",
+            "image": "/assets/images/dragon-warrior-monster/deathmore3.png",
+            "name": "DeathMore3",
             "family": "9",
             "maxLevel": "80",
             "xpGrowth": "31",
@@ -4496,6 +4710,7 @@
         },
         {
             "id": "215",
+            "image": "/assets/images/dragon-warrior-monster/darkdrium.png",
             "name": "DarkDrium",
             "family": "9",
             "maxLevel": "80",
