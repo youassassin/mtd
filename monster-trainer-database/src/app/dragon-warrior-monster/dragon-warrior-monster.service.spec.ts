@@ -13,4 +13,7 @@ describe('DragonWarriorMonsterService', () => {
   it('should be created', () => {
     expect(service).toBeTruthy();
   });
+  it('should get monster list', () => {
+    expect(service.getMonsterList().length).toBe(215);
+  });
 });
