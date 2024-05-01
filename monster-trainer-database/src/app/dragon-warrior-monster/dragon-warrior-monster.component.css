@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80px;
+    height: 80px;
+}
+
+img {
+    display: block;
+    width: auto;
+    height: 100%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column {
+    flex: 12.5%;
+    padding: 20px;
+}
+
+@media screen and (max-width: 1024px) {
+    .column {
+        flex: 25%;
+        padding: 8px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .column {
+        flex: 50%;
+        padding: 4px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .row {
+        flex-direction: column;
+    }
+}

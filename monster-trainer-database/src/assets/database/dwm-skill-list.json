@@ -1,0 +1,2581 @@
+{
+    "dwmSkillList": [
+        {
+            "name": "Ahhh",
+            "description": "Female foe: Stops action for 1 turn Male foe: Damage to one foe",
+            "lvl": "10",
+            "hp": "0",
+            "mp": "0",
+            "atk": "60",
+            "def": "0",
+            "agl": "60",
+            "int": "0"
+        },
+        {
+            "name": "Antidote",
+            "description": "Cures poison to one ally",
+            "lvl": "5",
+            "hp": "0",
+            "mp": "21",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "20",
+            "combine": [
+                [
+                    "Surge",
+                    "Antidote",
+                    "NumbOff",
+                    "DeChaos",
+                    "CurseOff"
+                ]
+            ]
+        },
+        {
+            "name": "Bang",
+            "description": "20-30 Explosion Damage to all foes",
+            "lvl": "4",
+            "hp": "0",
+            "mp": "13",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "26",
+            "upgrade": [
+                "Bang",
+                "Boom",
+                "Explodet"
+            ]
+        },
+        {
+            "name": "Barrier",
+            "description": "Reduces Fire and Ice breath damage by 50% for the rest of the fight",
+            "lvl": "18",
+            "hp": "0",
+            "mp": "76",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "70"
+        },
+        {
+            "name": "BazooCall",
+            "description": "Summons a Bazoo that uses IceStorm,Hellblast,DeMagic to fight with",
+            "lvl": "35",
+            "hp": "0",
+            "mp": "160",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "180",
+            "upgrade": [
+                "TatsuCall",
+                "DiagoCall",
+                "SamsiCall",
+                "BazooCall"
+            ]
+        },
+        {
+            "name": "BeastCut",
+            "description": "50% more Damage to beasts Normal against other foes",
+            "lvl": "12",
+            "hp": "62",
+            "mp": "0",
+            "atk": "68",
+            "def": "0",
+            "agl": "72",
+            "int": "0"
+        },
+        {
+            "name": "Beat",
+            "description": "Instant death to one foe",
+            "lvl": "16",
+            "hp": "0",
+            "mp": "58",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "76",
+            "upgrade": [
+                "Beat",
+                "Defeat"
+            ]
+        },
+        {
+            "name": "BeDragon",
+            "description": "Transforms you into a dragon for the rest of the fight with skills: SnowStorm,Scorching,DeMagic",
+            "lvl": "28",
+            "hp": "0",
+            "mp": "124",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "160"
+        },
+        {
+            "name": "Beserker",
+            "description": "Normal attack with increased Damage and defence at 0",
+            "lvl": "14",
+            "hp": "98",
+            "mp": "0",
+            "atk": "84",
+            "def": "84",
+            "agl": "0",
+            "int": "0"
+        },
+        {
+            "name": "BiAttack",
+            "description": "Attacks twice one turn with 75% strength",
+            "lvl": "19",
+            "hp": "88",
+            "mp": "0",
+            "atk": "98",
+            "def": "0",
+            "agl": "112",
+            "int": "0",
+            "upgrade": [
+                "BiAttack",
+                "QuadHits"
+            ],
+            "combine": [
+                [
+                    "RainSlash",
+                    "BiAttack",
+                    "SquallHit"
+                ]
+            ]
+        },
+        {
+            "name": "BigBang",
+            "description": "300-400 Explosion Damage to all foes",
+            "lvl": "36",
+            "hp": "196",
+            "mp": "196",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "208",
+            "combine": [
+                [
+                    "BigBang",
+                    "Explodet",
+                    "WhiteFire",
+                    "WhiteAir"
+                ]
+            ]
+        },
+        {
+            "name": "BigTrip",
+            "description": "Trips all foes and stops their actions for 1 turn",
+            "lvl": "12",
+            "hp": "66",
+            "mp": "0",
+            "atk": "63",
+            "def": "0",
+            "agl": "48",
+            "int": "0",
+            "upgrade": [
+                "LegSweep",
+                "BigTrip"
+            ]
+        },
+        {
+            "name": "BirdBlow",
+            "description": "50% more Damage to birds Normal against other foes",
+            "lvl": "12",
+            "hp": "62",
+            "mp": "0",
+            "atk": "68",
+            "def": "0",
+            "agl": "72",
+            "int": "0"
+        },
+        {
+            "name": "BladeD",
+            "description": "Halves the Damage inflicted by the foe from physical attacks and reflects the Damage taken 50% of the time",
+            "lvl": "14",
+            "hp": "98",
+            "mp": "0",
+            "atk": "84",
+            "def": "84",
+            "agl": "84",
+            "int": "0"
+        },
+        {
+            "name": "Blaze",
+            "description": "12-15 Fire Damage to one foe",
+            "lvl": "1",
+            "hp": "0",
+            "mp": "7",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "20",
+            "upgrade": [
+                "Blaze",
+                "Blazemore",
+                "Blazemost"
+            ]
+        },
+        {
+            "name": "BlazeAir",
+            "description": "32-48 Fire Damage to all foes",
+            "lvl": "10",
+            "hp": "70",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "0",
+            "upgrade": [
+                "FireAir",
+                "BlazeAir",
+                "Scorching",
+                "WhiteFire"
+            ]
+        },
+        {
+            "name": "Blazemore",
+            "description": "70-90 Fire Damage to one foe",
+            "lvl": "13",
+            "hp": "0",
+            "mp": "46",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "64",
+            "upgrade": [
+                "Blaze",
+                "Blazemore",
+                "Blazemost"
+            ],
+            "combine": [
+                [
+                    "FireSlash",
+                    "Blazemore",
+                    "ChargeUp"
+                ]
+            ]
+        },
+        {
+            "name": "Blazemost",
+            "description": "180-200 Fire Damage to one foe",
+            "lvl": "28",
+            "hp": "0",
+            "mp": "112",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "146",
+            "upgrade": [
+                "Blaze",
+                "Blazemore",
+                "Blazemost"
+            ],
+            "combine": [
+                [
+                    "MegaMagic",
+                    "Blazemost",
+                    "Blizzard",
+                    "Explodet",
+                    "Firebolt",
+                    "Infermost"
+                ]
+            ]
+        },
+        {
+            "name": "Blizzard",
+            "description": "80-104 Ice Damage to all foes",
+            "lvl": "25",
+            "hp": "0",
+            "mp": "88",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "110",
+            "upgrade": [
+                "IceBolt",
+                "SnowStorm",
+                "Blizzard"
+            ],
+            "combine": [
+                [
+                    "MegaMagic",
+                    "Blazemost",
+                    "Blizzard",
+                    "Explodet",
+                    "Firebolt",
+                    "Infermost"
+                ]
+            ]
+        },
+        {
+            "name": "Bolt",
+            "description": "35-50 Lightning Damage to all foes",
+            "lvl": "6",
+            "hp": "0",
+            "mp": "20",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "35",
+            "upgrade": [
+                "Bolt",
+                "Zap",
+                "Thordain"
+            ]
+        },
+        {
+            "name": "BoltSlash",
+            "description": "Normal attack based on Lightning resistance of the foe",
+            "lvl": "11",
+            "hp": "77",
+            "mp": "34",
+            "atk": "66",
+            "def": "0",
+            "agl": "0",
+            "int": "42",
+            "combine": [
+                [
+                    "BoltSlash",
+                    "ChargeUP",
+                    "Lightning"
+                ],
+                [
+                    "GigaSlash",
+                    "FireSlash",
+                    "BoltSlash",
+                    "VacuSlash",
+                    "IceSlash"
+                ]
+            ]
+        },
+        {
+            "name": "Boom",
+            "description": "52-68 Explosion Damage to all foes",
+            "lvl": "14",
+            "hp": "0",
+            "mp": "50",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "68",
+            "upgrade": [
+                "Bang",
+                "Boom",
+                "Explodet"
+            ]
+        },
+        {
+            "name": "Bounce",
+            "description": "Reflects spells back at opponents",
+            "lvl": "20",
+            "hp": "0",
+            "mp": "84",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "78"
+        },
+        {
+            "name": "Branching",
+            "description": "50% more damage to plants Normal against other foes",
+            "lvl": "12",
+            "hp": "62",
+            "mp": "0",
+            "atk": "68",
+            "def": "0",
+            "agl": "72",
+            "int": "0"
+        },
+        {
+            "name": "CallHelp",
+            "description": "Calls randomly allies to help,level based Damage",
+            "lvl": "17",
+            "hp": "84",
+            "mp": "42",
+            "atk": "0",
+            "def": "0",
+            "agl": "68",
+            "int": "54",
+            "upgrade": [
+                "CallHelp",
+                "YelpHelp"
+            ]
+        },
+        {
+            "name": "Chance",
+            "description": "Casts a random effect - Can be good or bad",
+            "lvl": "40",
+            "hp": "0",
+            "mp": "224",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "236"
+        },
+        {
+            "name": "ChargeUP",
+            "description": "Additional Damage next turn.",
+            "lvl": "14",
+            "hp": "98",
+            "mp": "0",
+            "atk": "0",
+            "def": "84",
+            "agl": "0",
+            "int": "0",
+            "combine": [
+                [
+                    "BoltSlash",
+                    "ChargeUP",
+                    "Lightning"
+                ],
+                [
+                    "FireSlash",
+                    "Blazemore",
+                    "ChargeUP"
+                ],
+                [
+                    "Focus",
+                    "ChargeUP",
+                    "SuckAir",
+                    "Meditate"
+                ],
+                [
+                    "IceSlash",
+                    "ChargeUP",
+                    "SnowStorm"
+                ],
+                [
+                    "Kamikaze",
+                    "ChargeUP",
+                    "Ramming"
+                ],
+                [
+                    "VacuSlash",
+                    "ChargeUP",
+                    "WindBeast"
+                ]
+            ]
+        },
+        {
+            "name": "CleanCut",
+            "description": "50% more damage to Materials Normal against other foes",
+            "lvl": "12",
+            "hp": "62",
+            "mp": "0",
+            "atk": "68",
+            "def": "0",
+            "agl": "72",
+            "int": "0"
+        },
+        {
+            "name": "Cover",
+            "description": "Takes the attack against one ally",
+            "lvl": "5",
+            "hp": "35",
+            "mp": "0",
+            "atk": "0",
+            "def": "30",
+            "agl": "30",
+            "int": "0",
+            "upgrade": [
+                "Cover",
+                "Guardian"
+            ]
+        },
+        {
+            "name": "Curse",
+            "description": "Curses all foes,random effects",
+            "lvl": "15",
+            "hp": "0",
+            "mp": "65",
+            "atk": "0",
+            "def": "0",
+            "agl": "82",
+            "int": "82",
+            "combine": [
+                [
+                    "EerieLite",
+                    "Curse",
+                    "Radiant"
+                ]
+            ]
+        },
+        {
+            "name": "CurseOff",
+            "description": "Remove the curse from one ally",
+            "lvl": "7",
+            "hp": "0",
+            "mp": "27",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "24",
+            "combine": [
+                [
+                    "Surge",
+                    "Antidote",
+                    "NumbOff",
+                    "DeChaos",
+                    "CurseOff"
+                ]
+            ]
+        },
+        {
+            "name": "DanceShut",
+            "description": "Suspends all foes Dance attacks",
+            "lvl": "16",
+            "hp": "100",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "120",
+            "int": "0"
+        },
+        {
+            "name": "DeChaos",
+            "description": "Cures confusion",
+            "lvl": "6",
+            "hp": "0",
+            "mp": "24",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "22",
+            "combine": [
+                [
+                    "Surge",
+                    "Antidote",
+                    "NumbOff",
+                    "DeChaos",
+                    "CurseOff"
+                ]
+            ]
+        },
+        {
+            "name": "Defeat",
+            "description": "Instant death to all foes",
+            "lvl": "24",
+            "hp": "0",
+            "mp": "80",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "98",
+            "upgrade": [
+                "Beat",
+                "Defeat"
+            ]
+        },
+        {
+            "name": "Defence",
+            "description": "Decreases defense of all foes by 50%",
+            "lvl": "8",
+            "hp": "0",
+            "mp": "36",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "32",
+            "upgrade": [
+                "Sap",
+                "Defence"
+            ],
+            "combine": [
+                [
+                    "UltraDown",
+                    "Surround",
+                    "Defence",
+                    "SlowAll"
+                ]
+            ]
+        },
+        {
+            "name": "DeMagic",
+            "description": "Dispels magic effects on all foes (Upper,Speed,Barrier,MagicWall)",
+            "lvl": "20",
+            "hp": "0",
+            "mp": "100",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "140",
+            "combine": [
+                [
+                    "DeMagic",
+                    "Surge",
+                    "UltraDown"
+                ]
+            ]
+        },
+        {
+            "name": "DevilCut",
+            "description": "50% more Damage to Devils Normal against other foes",
+            "lvl": "12",
+            "hp": "64",
+            "mp": "0",
+            "atk": "58",
+            "def": "0",
+            "agl": "62",
+            "int": "48"
+        },
+        {
+            "name": "DiagoCall",
+            "description": "Summons a Diago that uses TwinHits,SickLick,Scorching to fight with",
+            "lvl": "25",
+            "hp": "0",
+            "mp": "100",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "120",
+            "upgrade": [
+                "TatsuCall",
+                "DiagoCall",
+                "SamsiCall",
+                "BazooCall"
+            ]
+        },
+        {
+            "name": "Dodge",
+            "description": "Changes the target of a physical attack against the caster 20% Chance target is an ally, 80% Chance target is an enemy",
+            "lvl": "18",
+            "hp": "126",
+            "mp": "0",
+            "atk": "108",
+            "def": "108",
+            "agl": "108",
+            "int": "0"
+        },
+        {
+            "name": "DrakSlash",
+            "description": "50% more damage against Dragons Normal against other foes",
+            "lvl": "12",
+            "hp": "68",
+            "mp": "0",
+            "atk": "72",
+            "def": "0",
+            "agl": "62",
+            "int": "0"
+        },
+        {
+            "name": "EerieLite",
+            "description": "Lowers magic resistance for all foes",
+            "lvl": "14",
+            "hp": "0",
+            "mp": "65",
+            "atk": "0",
+            "def": "0",
+            "agl": "84",
+            "int": "84",
+            "combine": [
+                [
+                    "EerieLite",
+                    "Curse",
+                    "Radiant"
+                ]
+            ]
+        },
+        {
+            "name": "EvilSlash",
+            "description": "Physical Damage based on the attack of user",
+            "lvl": "15",
+            "hp": "106",
+            "mp": "0",
+            "atk": "90",
+            "def": "0",
+            "agl": "0",
+            "int": "0"
+        },
+        {
+            "name": "Explodet",
+            "description": "130-140 Explosion Damage to all foes",
+            "lvl": "29",
+            "hp": "0",
+            "mp": "120",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "158",
+            "upgrade": [
+                "Bang",
+                "Boom",
+                "Explodet"
+            ],
+            "combine": [
+                [
+                    "BigBang",
+                    "Explodet",
+                    "WhiteFire",
+                    "WhiteAir"
+                ],
+                [
+                    "MegaMagic",
+                    "Blazemost",
+                    "Blizzard",
+                    "Explodet",
+                    "Firebolt",
+                    "Infermost"
+                ]
+            ]
+        },
+        {
+            "name": "Farewell",
+            "description": "Revives all allies and causes instant death to the caster",
+            "lvl": "32",
+            "hp": "0",
+            "mp": "188",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "176",
+            "combine": [
+                [
+                    "Farewell",
+                    "Sacrifice",
+                    "Revive"
+                ]
+            ]
+        },
+        {
+            "name": "FireAir",
+            "description": "14-22 Fire Damage to all foes",
+            "lvl": "3",
+            "hp": "21",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "0",
+            "upgrade": [
+                "FireAir",
+                "BlazeAir",
+                "Scorching",
+                "WhiteFire"
+            ]
+        },
+        {
+            "name": "Firebal",
+            "description": "16-24 Fire Damage to all foes",
+            "lvl": "3",
+            "hp": "0",
+            "mp": "11",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "23",
+            "upgrade": [
+                "Firebal",
+                "Firebane",
+                "Firebolt"
+            ]
+        },
+        {
+            "name": "Firebane",
+            "description": "30-42 Fire Damage to all foes",
+            "lvl": "10",
+            "hp": "0",
+            "mp": "34",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "52",
+            "upgrade": [
+                "Firebal",
+                "Firebane",
+                "Firebolt"
+            ]
+        },
+        {
+            "name": "Firebolt",
+            "description": "88-112 Fire Damage to all foes",
+            "lvl": "26",
+            "hp": "0",
+            "mp": "96",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "122",
+            "upgrade": [
+                "Firebal",
+                "Firebane",
+                "Firebolt"
+            ],
+            "combine": [
+                [
+                    "MegaMagic",
+                    "Blazemost",
+                    "Blizzard",
+                    "Explodet",
+                    "Firebolt",
+                    "Infermost"
+                ]
+            ]
+        },
+        {
+            "name": "FireSlash",
+            "description": "Normal attack based on Fire resistance of the foe",
+            "lvl": "11",
+            "hp": "77",
+            "mp": "34",
+            "atk": "66",
+            "def": "0",
+            "agl": "0",
+            "int": "42",
+            "combine": [
+                [
+                    "FireSlash",
+                    "Blazemore",
+                    "ChargeUp"
+                ],
+                [
+                    "GigaSlash",
+                    "FireSlash",
+                    "BoltSlash",
+                    "VacuSlash",
+                    "IceSlash"
+                ]
+            ]
+        },
+        {
+            "name": "Focus",
+            "description": "Two attacks next turn",
+            "lvl": "18",
+            "hp": "126",
+            "mp": "0",
+            "atk": "0",
+            "def": "108",
+            "agl": "108",
+            "int": "108",
+            "combine": [
+                [
+                    "Focus",
+                    "ChargeUP",
+                    "SuckAir",
+                    "Meditate"
+                ],
+                [
+                    "Imitate",
+                    "Transform",
+                    "Focus"
+                ]
+            ]
+        },
+        {
+            "name": "FrigidAir",
+            "description": "16-24 Ice Damage to all foes",
+            "lvl": "3",
+            "hp": "21",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "0",
+            "upgrade": [
+                "FrigidAir",
+                "IceAir",
+                "IceStorm",
+                "WhiteAir"
+            ]
+        },
+        {
+            "name": "GigaSlash",
+            "description": "350-410 Damage to one foe",
+            "lvl": "33",
+            "hp": "231",
+            "mp": "164",
+            "atk": "198",
+            "def": "0",
+            "agl": "198",
+            "int": "0",
+            "combine": [
+                [
+                    "GigaSlash",
+                    "FireSlash",
+                    "BoltSlash",
+                    "VacuSlash",
+                    "IceSlash"
+                ]
+            ]
+        },
+        {
+            "name": "Guardian",
+            "description": "Takes all attacks for one turn",
+            "lvl": "12",
+            "hp": "84",
+            "mp": "0",
+            "atk": "0",
+            "def": "72",
+            "agl": "72",
+            "int": "0",
+            "upgrade": [
+                "Cover",
+                "Guardian"
+            ],
+            "combine": [
+                [
+                    "Meditate",
+                    "Guardian",
+                    "StrongD"
+                ]
+            ]
+        },
+        {
+            "name": "Heal",
+            "description": "Heals 30-40 Hp for one ally",
+            "lvl": "1",
+            "hp": "0",
+            "mp": "7",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "6",
+            "upgrade": [
+                "Heal",
+                "HealMore",
+                "HealAll"
+            ]
+        },
+        {
+            "name": "HealAll",
+            "description": "Heals all Hp for one ally",
+            "lvl": "16",
+            "hp": "0",
+            "mp": "82",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "80",
+            "upgrade": [
+                "Heal",
+                "HealMore",
+                "HealAll"
+            ],
+            "combine": [
+                [
+                    "Hustle",
+                    "HealAll",
+                    "SideStep"
+                ]
+            ]
+        },
+        {
+            "name": "HealMore",
+            "description": "Heals 75-90 Hp for one ally",
+            "lvl": "10",
+            "hp": "0",
+            "mp": "52",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "48",
+            "upgrade": [
+                "Heal",
+                "HealMore",
+                "HealAll"
+            ]
+        },
+        {
+            "name": "HealUs",
+            "description": "Heals 90-120 Hp for all allies",
+            "lvl": "20",
+            "hp": "0",
+            "mp": "140",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "120",
+            "upgrade": [
+                "HealUs",
+                "HealUsAll"
+            ]
+        },
+        {
+            "name": "HealUsAll",
+            "description": "Heals all Hp for all allies",
+            "lvl": "28",
+            "hp": "0",
+            "mp": "196",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "160",
+            "upgrade": [
+                "HealUs",
+                "HealUsAll"
+            ]
+        },
+        {
+            "name": "HellBlast",
+            "description": "210-290 Lightning Damage to all foes",
+            "lvl": "34",
+            "hp": "184",
+            "mp": "184",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "196",
+            "combine": [
+                [
+                    "Hellblast",
+                    "Thordain",
+                    "Lightning"
+                ]
+            ]
+        },
+        {
+            "name": "HighJump",
+            "description": "Jump into the Air and attack next turn with increased attack",
+            "lvl": "20",
+            "hp": "140",
+            "mp": "0",
+            "atk": "120",
+            "def": "0",
+            "agl": "120",
+            "int": "0"
+        },
+        {
+            "name": "Hustle",
+            "description": "Heals 70-80 Hp for all allies",
+            "lvl": "18",
+            "hp": "114",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "130",
+            "int": "96",
+            "combine": [
+                [
+                    "Hustle",
+                    "HealAll",
+                    "SideStep"
+                ],
+                [
+                    "LifeDance",
+                    "Hustle",
+                    "Sacrifice"
+                ]
+            ]
+        },
+        {
+            "name": "IceAir",
+            "description": "42-54 Ice Damage to all foes",
+            "lvl": "10",
+            "hp": "70",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "0",
+            "upgrade": [
+                "FrigidAir",
+                "IceAir",
+                "IceStorm",
+                "WhiteAir"
+            ]
+        },
+        {
+            "name": "IceBolt",
+            "description": "25-35 Ice Damage to all foes",
+            "lvl": "5",
+            "hp": "0",
+            "mp": "16",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "30",
+            "upgrade": [
+                "IceBolt",
+                "SnowStorm",
+                "Blizzard"
+            ]
+        },
+        {
+            "name": "IceSlash",
+            "description": "Normal attack based on Ice resistance of the foe",
+            "lvl": "11",
+            "hp": "77",
+            "mp": "34",
+            "atk": "66",
+            "def": "0",
+            "agl": "60",
+            "int": "0",
+            "combine": [
+                [
+                    "IceSlash",
+                    "ChargeUP",
+                    "SnowStorm"
+                ],
+                [
+                    "GigaSlash",
+                    "FireSlash",
+                    "BoltSlash",
+                    "VacuSlash",
+                    "IceSlash"
+                ]
+            ]
+        },
+        {
+            "name": "IceStorm",
+            "description": "82-112 Ice Damage to all foes",
+            "lvl": "20",
+            "hp": "140",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "0",
+            "upgrade": [
+                "FrigidAir",
+                "IceAir",
+                "IceStorm",
+                "WhiteAir"
+            ]
+        },
+        {
+            "name": "Imitate",
+            "description": "Copy and return every skill cast on Caster for 1 turn",
+            "lvl": "21",
+            "hp": "147",
+            "mp": "147",
+            "atk": "126",
+            "def": "126",
+            "agl": "0",
+            "int": "126",
+            "combine": [
+                [
+                    "Imitate",
+                    "Transform",
+                    "Focus"
+                ]
+            ]
+        },
+        {
+            "name": "Increase",
+            "description": "Increases defence for all allies by 50%",
+            "lvl": "6",
+            "hp": "0",
+            "mp": "27",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "12",
+            "upgrade": [
+                "Upper",
+                "Increase"
+            ]
+        },
+        {
+            "name": "Infermore",
+            "description": "25-55 Air Damage to all foes",
+            "lvl": "11",
+            "hp": "0",
+            "mp": "38",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "56",
+            "upgrade": [
+                "Infernos",
+                "Infermore",
+                "Infermost"
+            ]
+        },
+        {
+            "name": "Infermost",
+            "description": "80-180 Air Damage to all foes",
+            "lvl": "27",
+            "hp": "0",
+            "mp": "104",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "134",
+            "upgrade": [
+                "Infernos",
+                "Infermore",
+                "Infermost"
+            ]
+        },
+        {
+            "name": "Infernos",
+            "description": "8-24 Air Damage to all foes",
+            "lvl": "2",
+            "hp": "0",
+            "mp": "10",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "21",
+            "upgrade": [
+                "Infernos",
+                "Infermore",
+                "Infermost"
+            ],
+            "combine": [
+                [
+                    "MegaMagic",
+                    "Blazemost",
+                    "Blizzard",
+                    "Explodet",
+                    "Firebolt",
+                    "Infermost"
+                ]
+            ]
+        },
+        {
+            "name": "Ironize",
+            "description": "All allies become invulernable for 3 turns [but can't move]",
+            "lvl": "15",
+            "hp": "0",
+            "mp": "62",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "58"
+        },
+        {
+            "name": "K.O.Dance",
+            "description": "Instant death to all foes",
+            "lvl": "20",
+            "hp": "140",
+            "mp": "72",
+            "atk": "0",
+            "def": "0",
+            "agl": "120",
+            "int": "120"
+        },
+        {
+            "name": "Kamikaze",
+            "description": "Reduces foe's Hp to 1 and attacker's Hp to 1 if successful",
+            "lvl": "18",
+            "hp": "126",
+            "mp": "0",
+            "atk": "108",
+            "def": "108",
+            "agl": "0",
+            "int": "0",
+            "combine": [
+                [
+                    "Kamikaze",
+                    "ChargeUP",
+                    "Ramming"
+                ]
+            ]
+        },
+        {
+            "name": "LegSweep",
+            "description": "Trips one foe and stops his action for 1 turn",
+            "lvl": "6",
+            "hp": "32",
+            "mp": "0",
+            "atk": "31",
+            "def": "0",
+            "agl": "48",
+            "int": "0",
+            "upgrade": [
+                "LegSweep",
+                "BigTrip"
+            ]
+        },
+        {
+            "name": "LifeDance",
+            "description": "Revives all allies and causes instant death to the caster",
+            "lvl": "30",
+            "hp": "210",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "180",
+            "int": "180",
+            "combine": [
+                [
+                    "LifeDance",
+                    "Hustle",
+                    "Sacrifice"
+                ]
+            ]
+        },
+        {
+            "name": "LifeSong",
+            "description": "Revives all allies (requires 2 turns and can fail)",
+            "lvl": "27",
+            "hp": "198",
+            "mp": "94",
+            "atk": "0",
+            "def": "0",
+            "agl": "145",
+            "int": "162",
+            "combine": [
+                [
+                    "LifeSong",
+                    "Revive",
+                    "WarCry"
+                ]
+            ]
+        },
+        {
+            "name": "Lightning",
+            "description": "40-60 Lightning Damage to all foes",
+            "lvl": "10",
+            "hp": "65",
+            "mp": "0",
+            "atk": "90",
+            "def": "0",
+            "agl": "52",
+            "int": "0",
+            "combine": [
+                [
+                    "BoltSlash",
+                    "ChargeUP",
+                    "Lightning"
+                ],
+                [
+                    "Hellblast",
+                    "Thordain",
+                    "Lightning"
+                ]
+            ]
+        },
+        {
+            "name": "LureDance",
+            "description": "Stops actions of all foes for one turn by inviting them to dance",
+            "lvl": "14",
+            "hp": "84",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "98",
+            "int": "0"
+        },
+        {
+            "name": "LushLicks",
+            "description": "Stops the action of one foe for one turn",
+            "lvl": "7",
+            "hp": "55",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "67",
+            "int": "0",
+            "upgrade": [
+                "LushLicks",
+                "SickLick"
+            ]
+        },
+        {
+            "name": "MagicBack",
+            "description": "Reflects back a skill once to the foes",
+            "lvl": "16",
+            "hp": "0",
+            "mp": "68",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "62"
+        },
+        {
+            "name": "MagicWall",
+            "description": "Increases resistance against foes' skills",
+            "lvl": "19",
+            "hp": "0",
+            "mp": "80",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "74"
+        },
+        {
+            "name": "MapMagic",
+            "description": "Reveals whole map of current level inside a gate",
+            "lvl": "10",
+            "hp": "0",
+            "mp": "40",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "34"
+        },
+        {
+            "name": "Massacre",
+            "description": "Inflicts 95-105% of the caster's attack against one random monster",
+            "lvl": "12",
+            "hp": "84",
+            "mp": "0",
+            "atk": "72",
+            "def": "0",
+            "agl": "72",
+            "int": "0"
+        },
+        {
+            "name": "Meditate",
+            "description": "Heals 500 Hp to the caster in combat only",
+            "lvl": "26",
+            "hp": "182",
+            "mp": "0",
+            "atk": "0",
+            "def": "156",
+            "agl": "0",
+            "int": "156",
+            "combine": [
+                [
+                    "Focus",
+                    "ChargeUP",
+                    "SuckAir",
+                    "Meditate"
+                ],
+                [
+                    "Meditate",
+                    "Guardian",
+                    "StrongD"
+                ]
+            ]
+        },
+        {
+            "name": "MegaMagic",
+            "description": "Highest Damage spell to all foes",
+            "lvl": "38",
+            "hp": "0",
+            "mp": "210",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "224",
+            "combine": [
+                [
+                    "MegaMagic",
+                    "Blazemost",
+                    "Blizzard",
+                    "Explodet",
+                    "Firebolt",
+                    "Infermost"
+                ]
+            ]
+        },
+        {
+            "name": "MetalCut",
+            "description": "50% more Damage against Metal monsters, Normal against other foes",
+            "lvl": "12",
+            "hp": "68",
+            "mp": "0",
+            "atk": "72",
+            "def": "0",
+            "agl": "62",
+            "int": "0"
+        },
+        {
+            "name": "MouthShut",
+            "description": "Suspends one foe's breath attack",
+            "lvl": "17",
+            "hp": "120",
+            "mp": "0",
+            "atk": "100",
+            "def": "0",
+            "agl": "140",
+            "int": "0"
+        },
+        {
+            "name": "MultiCut",
+            "description": "180-210 Cut Damage to all foes",
+            "lvl": "28",
+            "hp": "154",
+            "mp": "140",
+            "atk": "168",
+            "def": "0",
+            "agl": "168",
+            "int": "0",
+            "combine": [
+                [
+                    "MultiCut",
+                    "ZombieCut",
+                    "Vacuum"
+                ]
+            ]
+        },
+        {
+            "name": "NapAttack",
+            "description": "Normal attack and tries to sleep the foe",
+            "lvl": "7",
+            "hp": "49",
+            "mp": "0",
+            "atk": "42",
+            "def": "0",
+            "agl": "0",
+            "int": "42",
+            "combine": [
+                [
+                    "Paralyze",
+                    "PosionHit",
+                    "NapAttack"
+                ]
+            ]
+        },
+        {
+            "name": "NumbOff",
+            "description": "Cures paralysis or wakes an ally",
+            "lvl": "8",
+            "hp": "0",
+            "mp": "30",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "26",
+            "combine": [
+                [
+                    "Surge",
+                    "Antidote",
+                    "NumbOff",
+                    "DeChaos",
+                    "CurseOff"
+                ]
+            ]
+        },
+        {
+            "name": "OddDance",
+            "description": "Lowers one foe's Mp depending on the caster's level",
+            "lvl": "10",
+            "hp": "54",
+            "mp": "27",
+            "atk": "0",
+            "def": "0",
+            "agl": "63",
+            "int": "49"
+        },
+        {
+            "name": "PalsyAir",
+            "description": "Breathes Air to paralyze all foes",
+            "lvl": "16",
+            "hp": "112",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "96",
+            "combine": [
+                [
+                    "PalsyAir",
+                    "SleepAir",
+                    "PosionAir"
+                ]
+            ]
+        },
+        {
+            "name": "PanicAll",
+            "description": "Confuses all foes",
+            "lvl": "12",
+            "hp": "0",
+            "mp": "56",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "49"
+        },
+        {
+            "name": "PaniDance",
+            "description": "Confuses or paralyzes all foes",
+            "lvl": "13",
+            "hp": "74",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "78",
+            "int": "78"
+        },
+        {
+            "name": "Paralyze",
+            "description": "Normal attack and tries to paralyze the foe",
+            "lvl": "9",
+            "hp": "63",
+            "mp": "0",
+            "atk": "54",
+            "def": "0",
+            "agl": "0",
+            "int": "54",
+            "combine": [
+                [
+                    "Paralyze",
+                    "PosionHit",
+                    "NapAttack"
+                ]
+            ]
+        },
+        {
+            "name": "PoisonAir",
+            "description": "Breathes gas to poison all foes",
+            "lvl": "14",
+            "hp": "98",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "84",
+            "upgrade": [
+                "PosionGas",
+                "PosionAir"
+            ],
+            "combine": [
+                [
+                    "PalsyAir",
+                    "SleepAir",
+                    "PosionAir"
+                ]
+            ]
+        },
+        {
+            "name": "PoisonGas",
+            "description": "Breathes Air to poison all foes",
+            "lvl": "9",
+            "hp": "63",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "54",
+            "upgrade": [
+                "PosionGas",
+                "PosionAir"
+            ]
+        },
+        {
+            "name": "PoisonHit",
+            "description": "Normal attack and tries to poison the foe",
+            "lvl": "5",
+            "hp": "35",
+            "mp": "0",
+            "atk": "30",
+            "def": "0",
+            "agl": "0",
+            "int": "30",
+            "combine": [
+                [
+                    "Paralyze",
+                    "PosionHit",
+                    "NapAttack"
+                ]
+            ]
+        },
+        {
+            "name": "PsycheUp",
+            "description": "Greater Damage with normal attack after end of this turn",
+            "lvl": "12",
+            "hp": "72",
+            "mp": "0",
+            "atk": "82",
+            "def": "68",
+            "agl": "0",
+            "int": "0"
+        },
+        {
+            "name": "QuadHits",
+            "description": "Attacks 4 times random foes",
+            "lvl": "24",
+            "hp": "124",
+            "mp": "0",
+            "atk": "112",
+            "def": "0",
+            "agl": "136",
+            "int": "0",
+            "upgrade": [
+                "BiAttack",
+                "QuadHits"
+            ]
+        },
+        {
+            "name": "Radiant",
+            "description": "Decreases physical hit chance of all foes",
+            "lvl": "12",
+            "hp": "0",
+            "mp": "42",
+            "atk": "0",
+            "def": "0",
+            "agl": "72",
+            "int": "72",
+            "combine": [
+                [
+                    "EerieLite",
+                    "Curse",
+                    "Radiant"
+                ]
+            ]
+        },
+        {
+            "name": "RainSlash",
+            "description": "Physical attack against all foes",
+            "lvl": "15",
+            "hp": "92",
+            "mp": "0",
+            "atk": "90",
+            "def": "0",
+            "agl": "96",
+            "int": "0",
+            "combine": [
+                [
+                    "RainSlash",
+                    "BiAttack",
+                    "SquallHit"
+                ]
+            ]
+        },
+        {
+            "name": "Ramming",
+            "description": "Reduces the foe's Hp by 50% and hurts the caster too",
+            "lvl": "12",
+            "hp": "70",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "70",
+            "int": "0",
+            "combine": [
+                [
+                    "Kamikaze",
+                    "ChargeUP",
+                    "Ramming"
+                ]
+            ]
+        },
+        {
+            "name": "Revive",
+            "description": "Restores life to one ally with full Hp",
+            "lvl": "27",
+            "hp": "0",
+            "mp": "174",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "152",
+            "upgrade": [
+                "Vivify",
+                "Revive"
+            ],
+            "combine": [
+                [
+                    "Farewell",
+                    "Sacrifice",
+                    "Revive"
+                ],
+                [
+                    "LifeSong",
+                    "Revive",
+                    "WarCry"
+                ]
+            ]
+        },
+        {
+            "name": "RobMagic",
+            "description": "Steals one foe's Mp",
+            "lvl": "7",
+            "hp": "0",
+            "mp": "32",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "28",
+            "upgrade": [
+                "RobMagic",
+                "TakeMagic"
+            ]
+        },
+        {
+            "name": "RockThrow",
+            "description": "75-100 Damage with rocks to all foes",
+            "lvl": "16",
+            "hp": "124",
+            "mp": "0",
+            "atk": "102",
+            "def": "0",
+            "agl": "0",
+            "int": "0"
+        },
+        {
+            "name": "Sacrifice",
+            "description": "Causes instant death or close to it to all foes and caster",
+            "lvl": "1",
+            "hp": "0",
+            "mp": "7",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "6",
+            "combine": [
+                [
+                    "Farewell",
+                    "Sacrifice",
+                    "Revive"
+                ],
+                [
+                    "LifeDance",
+                    "Hustle",
+                    "Sacrifice"
+                ]
+            ]
+        },
+        {
+            "name": "SamsiCall",
+            "description": "Summons a Samsi to fight using EvilSlash,SquallHit,RainSlash",
+            "lvl": "30",
+            "hp": "0",
+            "mp": "130",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "150",
+            "upgrade": [
+                "TatsuCall",
+                "DiagoCall",
+                "SamsiCall",
+                "BazooCall"
+            ]
+        },
+        {
+            "name": "SandStorm",
+            "description": "Decreases hit chance of all foes",
+            "lvl": "10",
+            "hp": "70",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "70",
+            "int": "0"
+        },
+        {
+            "name": "Sap",
+            "description": "Decreases defense of one foe by 50%",
+            "lvl": "4",
+            "hp": "0",
+            "mp": "18",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "15",
+            "upgrade": [
+                "Sap",
+                "Defence"
+            ]
+        },
+        {
+            "name": "Scorching",
+            "description": "75-100 Fire Damage to all foes",
+            "lvl": "20",
+            "hp": "140",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "0",
+            "upgrade": [
+                "FireAir",
+                "BlazeAir",
+                "Scorching",
+                "WhiteFire"
+            ]
+        },
+        {
+            "name": "Sheldodge",
+            "description": "50% more damge against Bugs Normal against other foes",
+            "lvl": "5",
+            "hp": "0",
+            "mp": "21",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "20"
+        },
+        {
+            "name": "SickLick",
+            "description": "Stops action of one foe and reduces his defense to 1 for one turn",
+            "lvl": "13",
+            "hp": "81",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "94",
+            "int": "0",
+            "upgrade": [
+                "LushLicks",
+                "SickLick"
+            ]
+        },
+        {
+            "name": "SideStep",
+            "description": "Increase chance to dodge foes' attacks",
+            "lvl": "9",
+            "hp": "63",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "54",
+            "int": "0",
+            "combine": [
+                [
+                    "Hustle",
+                    "HealAll",
+                    "SideStep"
+                ]
+            ]
+        },
+        {
+            "name": "Sleep",
+            "description": "Puts one foe to sleep",
+            "lvl": "4",
+            "hp": "0",
+            "mp": "24",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "16",
+            "upgrade": [
+                "Sleep",
+                "SleepAll"
+            ]
+        },
+        {
+            "name": "SleepAir",
+            "description": "Puts all foes to sleep",
+            "lvl": "10",
+            "hp": "70",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "60",
+            "combine": [
+                [
+                    "PalsyAir",
+                    "SleepAir",
+                    "PosionAir"
+                ]
+            ]
+        },
+        {
+            "name": "SleepAll",
+            "description": "Puts all foes to sleep",
+            "lvl": "11",
+            "hp": "0",
+            "mp": "52",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "46",
+            "upgrade": [
+                "Sleep",
+                "SleepAll"
+            ]
+        },
+        {
+            "name": "Slow",
+            "description": "Decreases agility of one foe by 50%",
+            "lvl": "3",
+            "hp": "0",
+            "mp": "16",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "14",
+            "upgrade": [
+                "Slow",
+                "SlowAll"
+            ]
+        },
+        {
+            "name": "SlowAll",
+            "description": "Decreases agility of all foes by 50%",
+            "lvl": "7",
+            "hp": "0",
+            "mp": "32",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "28",
+            "upgrade": [
+                "Slow",
+                "SlowAll"
+            ],
+            "combine": [
+                [
+                    "UltraDown",
+                    "Surround",
+                    "Defence",
+                    "SlowAll"
+                ]
+            ]
+        },
+        {
+            "name": "Smashlime",
+            "description": "50% more Damage against Slimes Normal against other foes",
+            "lvl": "12",
+            "hp": "62",
+            "mp": "0",
+            "atk": "68",
+            "def": "0",
+            "agl": "72",
+            "int": "0"
+        },
+        {
+            "name": "SnowStorm",
+            "description": "42-58 Ice Damage to all foes",
+            "lvl": "12",
+            "hp": "0",
+            "mp": "42",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "60",
+            "upgrade": [
+                "IceBolt",
+                "SnowStorm",
+                "Blizzard"
+            ],
+            "combine": [
+                [
+                    "IceSlash",
+                    "ChargeUP",
+                    "SnowStorm"
+                ]
+            ]
+        },
+        {
+            "name": "Speed",
+            "description": "Increases agility of one foe by 50%",
+            "lvl": "1",
+            "hp": "0",
+            "mp": "10",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "8",
+            "upgrade": [
+                "Speed",
+                "SpeedUp"
+            ]
+        },
+        {
+            "name": "SpeedUp",
+            "description": "Increases agility of all foes by 50%",
+            "lvl": "5",
+            "hp": "0",
+            "mp": "24",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "20",
+            "upgrade": [
+                "Speed",
+                "SpeedUp"
+            ]
+        },
+        {
+            "name": "SquallHit",
+            "description": "Physical Attack which lets you always attack first this turn",
+            "lvl": "12",
+            "hp": "72",
+            "mp": "0",
+            "atk": "68",
+            "def": "0",
+            "agl": "82",
+            "int": "0",
+            "combine": [
+                [
+                    "RainSlash",
+                    "BiAttack",
+                    "SquallHit"
+                ]
+            ]
+        },
+        {
+            "name": "StepGuard",
+            "description": "Prevents Damage from lava, swamp, barrier for 1 level inside Gates",
+            "lvl": "10",
+            "hp": "0",
+            "mp": "40",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "34"
+        },
+        {
+            "name": "StopSpell",
+            "description": "Suspends all magical skills of all foes",
+            "lvl": "9",
+            "hp": "0",
+            "mp": "44",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "38"
+        },
+        {
+            "name": "StormWind",
+            "description": "Reflects breath attacks to all foes",
+            "lvl": "19",
+            "hp": "140",
+            "mp": "0",
+            "atk": "0",
+            "def": "126",
+            "agl": "140",
+            "int": "0",
+            "upgrade": [
+                "TailWind",
+                "StormWind"
+            ]
+        },
+        {
+            "name": "StrongD",
+            "description": "Reduces every Damage taken this turn by 90%",
+            "lvl": "14",
+            "hp": "98",
+            "mp": "0",
+            "atk": "0",
+            "def": "84",
+            "agl": "0",
+            "int": "0",
+            "combine": [
+                [
+                    "Meditate",
+                    "Guardian",
+                    "StrongD"
+                ]
+            ]
+        },
+        {
+            "name": "SuckAir",
+            "description": "More Damage next turn with breath skills",
+            "lvl": "17",
+            "hp": "119",
+            "mp": "0",
+            "atk": "0",
+            "def": "102",
+            "agl": "0",
+            "int": "0",
+            "combine": [
+                [
+                    "Focus",
+                    "ChargeUP",
+                    "SuckAir",
+                    "Meditate"
+                ]
+            ]
+        },
+        {
+            "name": "SuckAll",
+            "description": "Sucks in all attacks targeted at one ally for one turn",
+            "lvl": "13",
+            "hp": "91",
+            "mp": "0",
+            "atk": "0",
+            "def": "78",
+            "agl": "0",
+            "int": "0"
+        },
+        {
+            "name": "Surge",
+            "description": "Cures any ailments for all allies",
+            "lvl": "23",
+            "hp": "0",
+            "mp": "130",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "170",
+            "combine": [
+                [
+                    "DeMagic",
+                    "Surge",
+                    "UltraDown"
+                ],
+                [
+                    "Surge",
+                    "Antidote",
+                    "NumbOff",
+                    "DeChaos",
+                    "CurseOff"
+                ]
+            ]
+        },
+        {
+            "name": "Surround",
+            "description": "Decreases hit chance of all foes",
+            "lvl": "10",
+            "hp": "0",
+            "mp": "47",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "41",
+            "combine": [
+                [
+                    "UltraDown",
+                    "Surround",
+                    "Defence",
+                    "SlowAll"
+                ]
+            ]
+        },
+        {
+            "name": "TailWind",
+            "description": "Reflects breath attacks to one foe",
+            "lvl": "11",
+            "hp": "75",
+            "mp": "0",
+            "atk": "0",
+            "def": "84",
+            "agl": "70",
+            "int": "0",
+            "upgrade": [
+                "TailWind",
+                "StormWind"
+            ]
+        },
+        {
+            "name": "TakeMagic",
+            "description": "Absorbs Mp of one spell cast by foe",
+            "lvl": "13",
+            "hp": "0",
+            "mp": "58",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "52",
+            "upgrade": [
+                "RobMagic",
+                "TakeMagic"
+            ]
+        },
+        {
+            "name": "TatsuCall",
+            "description": "Summons a Tatsu using HealMore,Lightning,Cover",
+            "lvl": "20",
+            "hp": "0",
+            "mp": "70",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "90",
+            "upgrade": [
+                "TatsuCall",
+                "DiagoCall",
+                "SamsiCall",
+                "BazooCall"
+            ]
+        },
+        {
+            "name": "ThickFog",
+            "description": "Suspends the skills of everyone for one round",
+            "lvl": "22",
+            "hp": "0",
+            "mp": "120",
+            "atk": "60",
+            "def": "0",
+            "agl": "0",
+            "int": "160"
+        },
+        {
+            "name": "Thordain",
+            "description": "175-225 Lightning Damage to all foes",
+            "lvl": "30",
+            "hp": "0",
+            "mp": "128",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "174",
+            "upgrade": [
+                "Bolt",
+                "Zap",
+                "Thordain"
+            ],
+            "combine": [
+                [
+                    "Hellblast",
+                    "Thordain",
+                    "Lightning"
+                ]
+            ]
+        },
+        {
+            "name": "Transform",
+            "description": "Transforms a monsters skills and stats to those of the selected foe",
+            "lvl": "21",
+            "hp": "0",
+            "mp": "92",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "88",
+            "combine": [
+                [
+                    "Imitate",
+                    "Transform",
+                    "Focus"
+                ]
+            ]
+        },
+        {
+            "name": "TwinHits",
+            "description": "Increases the amount of Damage of the physical attacks",
+            "lvl": "17",
+            "hp": "0",
+            "mp": "72",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "66"
+        },
+        {
+            "name": "TwinSlash",
+            "description": "Inflicts physical Damage against one foe and wounds yourself",
+            "lvl": "8",
+            "hp": "80",
+            "mp": "0",
+            "atk": "80",
+            "def": "0",
+            "agl": "0",
+            "int": "0"
+        },
+        {
+            "name": "UltraDown",
+            "description": "Casts Sap,Slow,Surround on one foe",
+            "lvl": "21",
+            "hp": "0",
+            "mp": "110",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "150",
+            "combine": [
+                [
+                    "DeMagic",
+                    "Surge",
+                    "UltraDown"
+                ],
+                [
+                    "UltraDown",
+                    "Surround",
+                    "Defence",
+                    "SlowAll"
+                ]
+            ]
+        },
+        {
+            "name": "Upper",
+            "description": "Increases defence for one ally by 50%",
+            "lvl": "2",
+            "hp": "0",
+            "mp": "14",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "12",
+            "upgrade": [
+                "Upper",
+                "Increase"
+            ]
+        },
+        {
+            "name": "VacuSlash",
+            "description": "Normal attack based on Air resistance of the foe",
+            "lvl": "11",
+            "hp": "77",
+            "mp": "34",
+            "atk": "66",
+            "def": "0",
+            "agl": "0",
+            "int": "42",
+            "combine": [
+                [
+                    "VacuSlash",
+                    "ChargeUP",
+                    "WindBeast"
+                ],
+                [
+                    "GigaSlash",
+                    "FireSlash",
+                    "BoltSlash",
+                    "VacuSlash",
+                    "IceSlash"
+                ]
+            ]
+        },
+        {
+            "name": "Vacuum",
+            "description": "Air Damage to all foes,level based",
+            "lvl": "19",
+            "hp": "112",
+            "mp": "0",
+            "atk": "114",
+            "def": "0",
+            "agl": "132",
+            "int": "0",
+            "upgrade": [
+                "WindBeast",
+                "Vacuum"
+            ],
+            "combine": [
+                [
+                    "MultiCut",
+                    "ZombieCut",
+                    "Vacuum"
+                ]
+            ]
+        },
+        {
+            "name": "Vivify",
+            "description": "Restores life to one ally with half his Hp (50% chance of sucess)",
+            "lvl": "14",
+            "hp": "0",
+            "mp": "63",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "54",
+            "upgrade": [
+                "Vivify",
+                "Revive"
+            ]
+        },
+        {
+            "name": "WarCry",
+            "description": "Freezes all foes with a loud roar to stop their actions for 1 turn",
+            "lvl": "14",
+            "hp": "120",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "0",
+            "combine": [
+                [
+                    "LifeSong",
+                    "Revive",
+                    "WarCry"
+                ]
+            ]
+        },
+        {
+            "name": "Whistle",
+            "description": "Summons monsters inside the gates to fight you",
+            "lvl": "4",
+            "hp": "0",
+            "mp": "28",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "24"
+        },
+        {
+            "name": "WhiteAir",
+            "description": "160-180 Ice Damage to all foes",
+            "lvl": "30",
+            "hp": "210",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "0",
+            "upgrade": [
+                "FrigidAir",
+                "IceAir",
+                "IceStorm",
+                "WhiteAir"
+            ],
+            "combine": [
+                [
+                    "BigBang",
+                    "Explodet",
+                    "WhiteFire",
+                    "WhiteAir"
+                ]
+            ]
+        },
+        {
+            "name": "WhiteFire",
+            "description": "150-170 Fire Damage to all foes",
+            "lvl": "30",
+            "hp": "210",
+            "mp": "0",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "0",
+            "upgrade": [
+                "FireAir",
+                "BlazeAir",
+                "Scorching",
+                "WhiteFire"
+            ],
+            "combine": [
+                [
+                    "BigBang",
+                    "Explodet",
+                    "WhiteFire",
+                    "WhiteAir"
+                ]
+            ]
+        },
+        {
+            "name": "WindBeast",
+            "description": "Air Damage to one foe,level based",
+            "lvl": "13",
+            "hp": "74",
+            "mp": "0",
+            "atk": "60",
+            "def": "0",
+            "agl": "84",
+            "int": "0",
+            "upgrade": [
+                "WindBeast",
+                "Vacuum"
+            ]
+        },
+        {
+            "name": "YellHelp",
+            "description": "Calls randomly allies to help,level based Damage",
+            "lvl": "23",
+            "hp": "128",
+            "mp": "64",
+            "atk": "0",
+            "def": "0",
+            "agl": "82",
+            "int": "74",
+            "upgrade": [
+                "CallHelp",
+                "YelpHelp"
+            ]
+        },
+        {
+            "name": "Zap",
+            "description": "70-90 Lightning Damage to all foes",
+            "lvl": "15",
+            "hp": "0",
+            "mp": "54",
+            "atk": "0",
+            "def": "0",
+            "agl": "0",
+            "int": "72",
+            "upgrade": [
+                "Bolt",
+                "Zap",
+                "Thordain"
+            ]
+        },
+        {
+            "name": "ZombieCut",
+            "description": "50% more Damage against Zombies Normal against other foes",
+            "lvl": "12",
+            "hp": "64",
+            "mp": "0",
+            "atk": "58",
+            "def": "0",
+            "agl": "62",
+            "int": "48",
+            "combine": [
+                [
+                    "MultiCut",
+                    "ZombieCut",
+                    "Vacuum"
+                ]
+            ]
+        }
+    ]
+}
