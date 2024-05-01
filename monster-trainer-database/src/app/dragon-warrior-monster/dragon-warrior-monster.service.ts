@@ -5,7 +5,7 @@ import * as monsterList from '../../assets/database/dwm-monster-list.json';
   providedIn: 'root'
 })
 export class DragonWarriorMonsterService {
-  data = monsterList;
+  readonly data = monsterList;
 
   constructor() { }
 

@@ -1,4 +1,25 @@
 <p>dragon-warrior-monster works!</p>
 <li *ngFor="let monster of monsterList; let i = index">
-    {{monster.id}}, {{monster.name}}
+    <a class="button" routerLink="/dwm/id/{{monster.id}}">{{monster.id}}, {{monster.name}}</a>
+    <!-- {{left}}
+    "id": "{{i+1}}",
+    "name": "{{monster.name}}",
+    "family": "{{monster.family}}",
+    "maxLevel": "{{monster.maxLevel}}",
+    "xpGrowth": "{{monster.xpGrowth}}",
+    "sexChance": "{{monster.sexChance}}",
+    "isFlying": "{{monster.isFlying}}",
+    "isMetal": "{{monster.isMetal}}",
+    "hpGrowth": "{{monster.hpGrowth}}",
+    "mpGrowth": "{{monster.mpGrowth}}",
+    "atkGrowth": "{{monster.atkGrowth}}",
+    "defGrowth": "{{monster.defGrowth}}",
+    "agiGrowth": "{{monster.agiGrowth}}",
+    "intGrowth": "{{monster.intGrowth}}",
+    "skills": [
+    "{{monster.skills[0]}}",
+    "{{monster.skills[1]}}",
+    "{{monster.skills[2]}}"
+    ]
+    {{right}}, -->
 </li>

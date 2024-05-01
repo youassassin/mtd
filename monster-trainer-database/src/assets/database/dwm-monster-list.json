@@ -2,863 +2,4518 @@
     "dwmMonsterList": [
         {
             "id": "1",
-            "name": "DrakSlime"
+            "name": "DrakSlime",
+            "family": "0",
+            "maxLevel": "45",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "10",
+            "atkGrowth": "13",
+            "defGrowth": "08",
+            "agiGrowth": "20",
+            "intGrowth": "16",
+            "skills": [
+                "SuckAir",
+                "FireAir",
+                "BeDragon"
+            ]
         },
         {
             "id": "2",
-            "name": "SpotSlime"
+            "name": "SpotSlime",
+            "family": "0",
+            "maxLevel": "35",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "01",
+            "atkGrowth": "17",
+            "defGrowth": "04",
+            "agiGrowth": "17",
+            "intGrowth": "08",
+            "skills": [
+                "CallHelp",
+                "LushLicks",
+                "Imitate"
+            ]
         },
         {
             "id": "3",
-            "name": "WingSlime"
+            "name": "WingSlime",
+            "family": "0",
+            "maxLevel": "35",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "02",
+            "atkGrowth": "11",
+            "defGrowth": "11",
+            "agiGrowth": "24",
+            "intGrowth": "08",
+            "skills": [
+                "SquallHit",
+                "WindBeast",
+                "TailWind"
+            ]
         },
         {
             "id": "4",
-            "name": "TreeSlime"
+            "name": "TreeSlime",
+            "family": "0",
+            "maxLevel": "50",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "11",
+            "atkGrowth": "08",
+            "defGrowth": "14",
+            "agiGrowth": "17",
+            "intGrowth": "17",
+            "skills": [
+                "Sap",
+                "Paralyze",
+                "SleepAir"
+            ]
         },
         {
             "id": "5",
-            "name": "Snaily"
+            "name": "Snaily",
+            "family": "0",
+            "maxLevel": "30",
+            "xpGrowth": "08",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "10",
+            "atkGrowth": "17",
+            "defGrowth": "20",
+            "agiGrowth": "20",
+            "intGrowth": "08",
+            "skills": [
+                "IceBolt",
+                "NumbOff",
+                "CallHelp"
+            ]
         },
         {
             "id": "6",
-            "name": "SlimeNite"
+            "name": "SlimeNite",
+            "family": "0",
+            "maxLevel": "40",
+            "xpGrowth": "15",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "01",
+            "atkGrowth": "15",
+            "defGrowth": "14",
+            "agiGrowth": "20",
+            "intGrowth": "14",
+            "skills": [
+                "Upper",
+                "Heal",
+                "BeastCut"
+            ]
         },
         {
             "id": "7",
-            "name": "Babble"
+            "name": "Babble",
+            "family": "0",
+            "maxLevel": "45",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "07",
+            "atkGrowth": "17",
+            "defGrowth": "08",
+            "agiGrowth": "14",
+            "intGrowth": "13",
+            "skills": [
+                "Surround",
+                "PoisonHit",
+                "EerieLite"
+            ]
         },
         {
             "id": "8",
-            "name": "BoxSlime"
+            "name": "BoxSlime",
+            "family": "0",
+            "maxLevel": "50",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "10",
+            "atkGrowth": "14",
+            "defGrowth": "19",
+            "agiGrowth": "14",
+            "intGrowth": "13",
+            "skills": [
+                "Blaze",
+                "Upper",
+                "Ramming"
+            ]
         },
         {
             "id": "9",
-            "name": "Slime"
+            "name": "Slime",
+            "family": "0",
+            "maxLevel": "40",
+            "xpGrowth": "16",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "22",
+            "mpGrowth": "11",
+            "atkGrowth": "14",
+            "defGrowth": "17",
+            "agiGrowth": "11",
+            "intGrowth": "13",
+            "skills": [
+                "Firebal",
+                "MegaMagic",
+                "Radiant"
+            ]
         },
         {
             "id": "10",
-            "name": "Healer"
+            "name": "Healer",
+            "family": "0",
+            "maxLevel": "50",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "15",
+            "atkGrowth": "11",
+            "defGrowth": "11",
+            "agiGrowth": "20",
+            "intGrowth": "18",
+            "skills": [
+                "Upper",
+                "Heal",
+                "HealUs"
+            ]
         },
         {
             "id": "11",
-            "name": "FangSlime"
+            "name": "FangSlime",
+            "family": "0",
+            "maxLevel": "35",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "25",
+            "mpGrowth": "01",
+            "atkGrowth": "18",
+            "defGrowth": "13",
+            "agiGrowth": "20",
+            "intGrowth": "13",
+            "skills": [
+                "ChargeUP",
+                "CallHelp",
+                "WarCry"
+            ]
         },
         {
             "id": "12",
-            "name": "RockSlime"
+            "name": "RockSlime",
+            "family": "0",
+            "maxLevel": "50",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "10",
+            "atkGrowth": "14",
+            "defGrowth": "23",
+            "agiGrowth": "16",
+            "intGrowth": "14",
+            "skills": [
+                "HighJump",
+                "RockThrow",
+                "StrongD"
+            ]
         },
         {
             "id": "13",
-            "name": "SlimeBorg"
+            "name": "SlimeBorg",
+            "family": "0",
+            "maxLevel": "50",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "11",
+            "atkGrowth": "20",
+            "defGrowth": "15",
+            "agiGrowth": "14",
+            "intGrowth": "13",
+            "skills": [
+                "RainSlash",
+                "Lightning",
+                "BladeD"
+            ]
         },
         {
             "id": "14",
-            "name": "Slabbit"
+            "name": "Slabbit",
+            "family": "0",
+            "maxLevel": "35",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "07",
+            "atkGrowth": "14",
+            "defGrowth": "08",
+            "agiGrowth": "21",
+            "intGrowth": "15",
+            "skills": [
+                "SideStep",
+                "LegSweep",
+                "Whistle"
+            ]
         },
         {
             "id": "15",
-            "name": "SpotKing"
+            "name": "SpotKing",
+            "family": "0",
+            "maxLevel": "40",
+            "xpGrowth": "09",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "11",
+            "atkGrowth": "18",
+            "defGrowth": "11",
+            "agiGrowth": "20",
+            "intGrowth": "15",
+            "skills": [
+                "CleanCut",
+                "NapAttack",
+                "MouthShut"
+            ]
         },
         {
             "id": "16",
-            "name": "KingSlime"
+            "name": "KingSlime",
+            "family": "0",
+            "maxLevel": "40",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "14",
+            "atkGrowth": "15",
+            "defGrowth": "14",
+            "agiGrowth": "20",
+            "intGrowth": "15",
+            "skills": [
+                "Barrier",
+                "Heal",
+                "Vivify"
+            ]
         },
         {
             "id": "17",
-            "name": "Metaly"
+            "name": "Metaly",
+            "family": "0",
+            "maxLevel": "20",
+            "xpGrowth": "25",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "1",
+            "hpGrowth": "00",
+            "mpGrowth": "30",
+            "atkGrowth": "11",
+            "defGrowth": "30",
+            "agiGrowth": "31",
+            "intGrowth": "13",
+            "skills": [
+                "Blaze",
+                "Icebolt",
+                "Beat"
+            ]
         },
         {
             "id": "18",
-            "name": "Metabble"
+            "name": "Metabble",
+            "family": "0",
+            "maxLevel": "40",
+            "xpGrowth": "27",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "1",
+            "hpGrowth": "00",
+            "mpGrowth": "30",
+            "atkGrowth": "14",
+            "defGrowth": "31",
+            "agiGrowth": "31",
+            "intGrowth": "15",
+            "skills": [
+                "Firebal",
+                "Bang",
+                "Sacrifice"
+            ]
         },
         {
             "id": "19",
-            "name": "MetalKing"
+            "name": "MetalKing",
+            "family": "0",
+            "maxLevel": "60",
+            "xpGrowth": "29",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "1",
+            "hpGrowth": "00",
+            "mpGrowth": "31",
+            "atkGrowth": "15",
+            "defGrowth": "31",
+            "agiGrowth": "31",
+            "intGrowth": "18",
+            "skills": [
+                "Bolt",
+                "Ironize",
+                "Hellblast"
+            ]
         },
         {
             "id": "20",
-            "name": "GoldSlime"
+            "name": "GoldSlime",
+            "family": "0",
+            "maxLevel": "80",
+            "xpGrowth": "31",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "00",
+            "mpGrowth": "31",
+            "atkGrowth": "19",
+            "defGrowth": "31",
+            "agiGrowth": "31",
+            "intGrowth": "18",
+            "skills": [
+                "Chance",
+                "BigBang",
+                "Surge"
+            ]
         },
         {
             "id": "21",
-            "name": "DragonKid"
+            "name": "DragonKid",
+            "family": "1",
+            "maxLevel": "25",
+            "xpGrowth": "07",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "10",
+            "mpGrowth": "03",
+            "atkGrowth": "17",
+            "defGrowth": "02",
+            "agiGrowth": "05",
+            "intGrowth": "05",
+            "skills": [
+                "FireAir",
+                "SleepAir",
+                "Dodge"
+            ]
         },
         {
             "id": "22",
-            "name": "Tortragon"
+            "name": "Tortragon",
+            "family": "1",
+            "maxLevel": "35",
+            "xpGrowth": "17",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "11",
+            "atkGrowth": "18",
+            "defGrowth": "06",
+            "agiGrowth": "07",
+            "intGrowth": "13",
+            "skills": [
+                "MagicBack",
+                "Ironize",
+                "Lightning"
+            ]
         },
         {
             "id": "23",
-            "name": "Pteranod"
+            "name": "Pteranod",
+            "family": "1",
+            "maxLevel": "35",
+            "xpGrowth": "16",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "11",
+            "atkGrowth": "18",
+            "defGrowth": "02",
+            "agiGrowth": "20",
+            "intGrowth": "04",
+            "skills": [
+                "Firebal",
+                "WindBeast",
+                "TailWind"
+            ]
         },
         {
             "id": "24",
-            "name": "Gasgon"
+            "name": "Gasgon",
+            "family": "1",
+            "maxLevel": "50",
+            "xpGrowth": "18",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "15",
+            "atkGrowth": "13",
+            "defGrowth": "11",
+            "agiGrowth": "07",
+            "intGrowth": "18",
+            "skills": [
+                "Sacrifice",
+                "Farewell",
+                "Beserker"
+            ]
         },
         {
             "id": "25",
-            "name": "FairyDrak"
+            "name": "FairyDrak",
+            "family": "1",
+            "maxLevel": "30",
+            "xpGrowth": "15",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "09",
+            "mpGrowth": "13",
+            "atkGrowth": "17",
+            "defGrowth": "16",
+            "agiGrowth": "14",
+            "intGrowth": "04",
+            "skills": [
+                "Surround",
+                "SleepAir",
+                "LushLicks"
+            ]
         },
         {
             "id": "26",
-            "name": "LizardMan"
+            "name": "LizardMan",
+            "family": "1",
+            "maxLevel": "40",
+            "xpGrowth": "20",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "10",
+            "atkGrowth": "19",
+            "defGrowth": "13",
+            "agiGrowth": "05",
+            "intGrowth": "16",
+            "skills": [
+                "EvilSlash",
+                "BeastCut",
+                "GigaSlash"
+            ]
         },
         {
             "id": "27",
-            "name": "Poisongon"
+            "name": "Poisongon",
+            "family": "1",
+            "maxLevel": "45",
+            "xpGrowth": "19",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "16",
+            "atkGrowth": "15",
+            "defGrowth": "13",
+            "agiGrowth": "07",
+            "intGrowth": "01",
+            "skills": [
+                "PoisonHit",
+                "PoisonGas",
+                "LushLicks"
+            ]
         },
         {
             "id": "28",
-            "name": "Swordgon"
+            "name": "Swordgon",
+            "family": "1",
+            "maxLevel": "50",
+            "xpGrowth": "20",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "09",
+            "mpGrowth": "03",
+            "atkGrowth": "23",
+            "defGrowth": "06",
+            "agiGrowth": "01",
+            "intGrowth": "05",
+            "skills": [
+                "CleanCut",
+                "RainSlash",
+                "BladeD"
+            ]
         },
         {
             "id": "29",
-            "name": "Dragon"
+            "name": "Dragon",
+            "family": "1",
+            "maxLevel": "40",
+            "xpGrowth": "20",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "01",
+            "atkGrowth": "20",
+            "defGrowth": "16",
+            "agiGrowth": "07",
+            "intGrowth": "04",
+            "skills": [
+                "FireSlash",
+                "FireAir",
+                "SuckAll"
+            ]
         },
         {
             "id": "30",
-            "name": "MiniDrak"
+            "name": "Minidrak",
+            "family": "1",
+            "maxLevel": "35",
+            "xpGrowth": "16",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "08",
+            "atkGrowth": "17",
+            "defGrowth": "14",
+            "agiGrowth": "18",
+            "intGrowth": "10",
+            "skills": [
+                "Ramming",
+                "CallHelp",
+                "SandStorm"
+            ]
         },
         {
             "id": "31",
-            "name": "MadDragon"
+            "name": "MadDragon",
+            "family": "1",
+            "maxLevel": "35",
+            "xpGrowth": "19",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "19",
+            "mpGrowth": "00",
+            "atkGrowth": "21",
+            "defGrowth": "05",
+            "agiGrowth": "08",
+            "intGrowth": "00",
+            "skills": [
+                "Massacre",
+                "EvilSlash",
+                "LureDance"
+            ]
         },
         {
             "id": "32",
-            "name": "Rayburn"
+            "name": "Rayburn",
+            "family": "1",
+            "maxLevel": "35",
+            "xpGrowth": "17",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "02",
+            "atkGrowth": "17",
+            "defGrowth": "16",
+            "agiGrowth": "15",
+            "intGrowth": "05",
+            "skills": [
+                "VacuSlash",
+                "DevilCut",
+                "PoisonHit"
+            ]
         },
         {
             "id": "33",
-            "name": "Chamelgon"
+            "name": "Chamelgon",
+            "family": "1",
+            "maxLevel": "50",
+            "xpGrowth": "19",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "18",
+            "atkGrowth": "11",
+            "defGrowth": "06",
+            "agiGrowth": "08",
+            "intGrowth": "13",
+            "skills": [
+                "PanicAll",
+                "Paralyze",
+                "PalsyAir"
+            ]
         },
         {
             "id": "34",
-            "name": "LizardFly"
+            "name": "LizardFly",
+            "family": "1",
+            "maxLevel": "30",
+            "xpGrowth": "16",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "11",
+            "atkGrowth": "17",
+            "defGrowth": "17",
+            "agiGrowth": "13",
+            "intGrowth": "05",
+            "skills": [
+                "Firebal",
+                "WindBeast",
+                "FireAir"
+            ]
         },
         {
             "id": "35",
-            "name": "Andreal"
+            "name": "Andreal",
+            "family": "1",
+            "maxLevel": "50",
+            "xpGrowth": "22",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "15",
+            "atkGrowth": "19",
+            "defGrowth": "17",
+            "agiGrowth": "19",
+            "intGrowth": "12",
+            "skills": [
+                "Infernos",
+                "Surround",
+                "PoisonGas"
+            ]
         },
         {
             "id": "36",
-            "name": "KingCobra"
+            "name": "KingCobra",
+            "family": "1",
+            "maxLevel": "40",
+            "xpGrowth": "20",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "08",
+            "atkGrowth": "16",
+            "defGrowth": "13",
+            "agiGrowth": "19",
+            "intGrowth": "11",
+            "skills": [
+                "PoisonHit",
+                "Curse",
+                "K.O.Dance"
+            ]
         },
         {
             "id": "37",
-            "name": "Spikerous"
+            "name": "Spikerous",
+            "family": "1",
+            "maxLevel": "30",
+            "xpGrowth": "19",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "08",
+            "atkGrowth": "19",
+            "defGrowth": "24",
+            "agiGrowth": "01",
+            "intGrowth": "02",
+            "skills": [
+                "Beserker",
+                "Kamikaze",
+                "RockThrow"
+            ]
         },
         {
             "id": "38",
-            "name": "GreatDrak"
+            "name": "GreatDrak",
+            "family": "1",
+            "maxLevel": "60",
+            "xpGrowth": "23",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "05",
+            "atkGrowth": "23",
+            "defGrowth": "14",
+            "agiGrowth": "16",
+            "intGrowth": "11",
+            "skills": [
+                "IceSlash",
+                "FrigidAir",
+                "SuckAll"
+            ]
         },
         {
             "id": "39",
-            "name": "Crestpent"
+            "name": "Crestpent",
+            "family": "1",
+            "maxLevel": "35",
+            "xpGrowth": "18",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "04",
+            "atkGrowth": "15",
+            "defGrowth": "05",
+            "agiGrowth": "19",
+            "intGrowth": "08",
+            "skills": [
+                "StopSpell",
+                "PoisonHit",
+                "BeDragon"
+            ]
         },
         {
             "id": "40",
-            "name": "WingSnake"
+            "name": "WingSnake",
+            "family": "1",
+            "maxLevel": "45",
+            "xpGrowth": "20",
+            "sexChance": "1",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "08",
+            "atkGrowth": "20",
+            "defGrowth": "17",
+            "agiGrowth": "14",
+            "intGrowth": "11",
+            "skills": [
+                "HighJump",
+                "SquallHit",
+                "PoisonGas"
+            ]
         },
         {
             "id": "41",
-            "name": "Coatol"
+            "name": "Coatol",
+            "family": "1",
+            "maxLevel": "60",
+            "xpGrowth": "23",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "25",
+            "mpGrowth": "14",
+            "atkGrowth": "20",
+            "defGrowth": "22",
+            "agiGrowth": "18",
+            "intGrowth": "14",
+            "skills": [
+                "Bang",
+                "EvilSlash",
+                "BoltSlash"
+            ]
         },
         {
             "id": "42",
-            "name": "Orochi"
+            "name": "Orochi",
+            "family": "1",
+            "maxLevel": "60",
+            "xpGrowth": "22",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "13",
+            "atkGrowth": "24",
+            "defGrowth": "21",
+            "agiGrowth": "11",
+            "intGrowth": "08",
+            "skills": [
+                "FireSlash",
+                "BiAttack",
+                "FireAir"
+            ]
         },
         {
             "id": "43",
-            "name": "BattleRex"
+            "name": "BattleRex",
+            "family": "1",
+            "maxLevel": "60",
+            "xpGrowth": "22",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "23",
+            "mpGrowth": "16",
+            "atkGrowth": "26",
+            "defGrowth": "20",
+            "agiGrowth": "17",
+            "intGrowth": "16",
+            "skills": [
+                "EvilSlash",
+                "MetalCut",
+                "FireAir"
+            ]
         },
         {
             "id": "44",
-            "name": "SkyDragon"
+            "name": "SkyDragon",
+            "family": "1",
+            "maxLevel": "35",
+            "xpGrowth": "18",
+            "sexChance": "3",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "11",
+            "atkGrowth": "20",
+            "defGrowth": "14",
+            "agiGrowth": "18",
+            "intGrowth": "08",
+            "skills": [
+                "SuckAir",
+                "MultiCut",
+                "FireAir"
+            ]
         },
         {
             "id": "45",
-            "name": "Divinegon"
+            "name": "Divinegon",
+            "family": "1",
+            "maxLevel": "80",
+            "xpGrowth": "28",
+            "sexChance": "3",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "26",
+            "mpGrowth": "25",
+            "atkGrowth": "28",
+            "defGrowth": "24",
+            "agiGrowth": "20",
+            "intGrowth": "23",
+            "skills": [
+                "FrigidAir",
+                "BigBang",
+                "Meditate"
+            ]
         },
         {
             "id": "46",
-            "name": "Tonguella"
+            "name": "Tonguella",
+            "family": "2",
+            "maxLevel": "40",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "05",
+            "atkGrowth": "15",
+            "defGrowth": "12",
+            "agiGrowth": "11",
+            "intGrowth": "16",
+            "skills": [
+                "NapAttack",
+                "SleepAir",
+                "LushLicks"
+            ]
         },
         {
             "id": "47",
-            "name": "Almiraj"
+            "name": "Almiraj",
+            "family": "2",
+            "maxLevel": "45",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "05",
+            "atkGrowth": "14",
+            "defGrowth": "09",
+            "agiGrowth": "15",
+            "intGrowth": "04",
+            "skills": [
+                "Sleep",
+                "Beserker",
+                "ChargeUP"
+            ]
         },
         {
             "id": "48",
-            "name": "CatFly"
+            "name": "Catfly",
+            "family": "2",
+            "maxLevel": "35",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "10",
+            "atkGrowth": "13",
+            "defGrowth": "08",
+            "agiGrowth": "18",
+            "intGrowth": "14",
+            "skills": [
+                "StopSpell",
+                "Slow",
+                "OddDance"
+            ]
         },
         {
             "id": "49",
-            "name": "PillowRat"
+            "name": "PillowRat",
+            "family": "2",
+            "maxLevel": "50",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "17",
+            "atkGrowth": "08",
+            "defGrowth": "08",
+            "agiGrowth": "19",
+            "intGrowth": "13",
+            "skills": [
+                "Ramming",
+                "CallHelp",
+                "SideStep"
+            ]
         },
         {
             "id": "50",
-            "name": "Saccer"
+            "name": "Saccer",
+            "family": "2",
+            "maxLevel": "40",
+            "xpGrowth": "09",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "05",
+            "atkGrowth": "09",
+            "defGrowth": "17",
+            "agiGrowth": "00",
+            "intGrowth": "13",
+            "skills": [
+                "Upper",
+                "PsycheUp",
+                "PalsyAir"
+            ]
         },
         {
             "id": "51",
-            "name": "GulpBeast"
+            "name": "GulpBeast",
+            "family": "2",
+            "maxLevel": "45",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "01",
+            "atkGrowth": "26",
+            "defGrowth": "13",
+            "agiGrowth": "07",
+            "intGrowth": "01",
+            "skills": [
+                "Ramming",
+                "Massacre",
+                "WarCry"
+            ]
         },
         {
             "id": "52",
-            "name": "Skullroo"
+            "name": "Skullroo",
+            "family": "2",
+            "maxLevel": "45",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "10",
+            "atkGrowth": "11",
+            "defGrowth": "08",
+            "agiGrowth": "16",
+            "intGrowth": "02",
+            "skills": [
+                "ChargeUP",
+                "DrakSlash",
+                "PaniDance"
+            ]
         },
         {
             "id": "53",
-            "name": "WindBeast"
+            "name": "WindBeast",
+            "family": "2",
+            "maxLevel": "50",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "20",
+            "atkGrowth": "13",
+            "defGrowth": "15",
+            "agiGrowth": "15",
+            "intGrowth": "13",
+            "skills": [
+                "Infernos",
+                "IceBolt",
+                "VacuSlash"
+            ]
         },
         {
             "id": "54",
-            "name": "Anteater"
+            "name": "Anteater",
+            "family": "2",
+            "maxLevel": "40",
+            "xpGrowth": "08",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "07",
+            "atkGrowth": "17",
+            "defGrowth": "11",
+            "agiGrowth": "09",
+            "intGrowth": "11",
+            "skills": [
+                "MetalCut",
+                "SquallHit",
+                "LushLicks"
+            ]
         },
         {
             "id": "55",
-            "name": "SuperTen"
+            "name": "SuperTen",
+            "family": "2",
+            "maxLevel": "45",
+            "xpGrowth": "09",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "07",
+            "atkGrowth": "13",
+            "defGrowth": "12",
+            "agiGrowth": "11",
+            "intGrowth": "07",
+            "skills": [
+                "K.O.Dance",
+                "Imitate",
+                "Hustle"
+            ]
         },
         {
             "id": "56",
-            "name": "IronTurt"
+            "name": "IronTurt",
+            "family": "2",
+            "maxLevel": "45",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "05",
+            "atkGrowth": "17",
+            "defGrowth": "23",
+            "agiGrowth": "02",
+            "intGrowth": "11",
+            "skills": [
+                "MagicBack",
+                "Cover",
+                "StrongD"
+            ]
         },
         {
             "id": "57",
-            "name": "Mommonja"
+            "name": "Mommonja",
+            "family": "2",
+            "maxLevel": "35",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "11",
+            "atkGrowth": "16",
+            "defGrowth": "14",
+            "agiGrowth": "20",
+            "intGrowth": "08",
+            "skills": [
+                "IceBolt",
+                "LureDance",
+                "MouthShut"
+            ]
         },
         {
             "id": "58",
-            "name": "HammerMan"
+            "name": "HammerMan",
+            "family": "2",
+            "maxLevel": "50",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "19",
+            "atkGrowth": "17",
+            "defGrowth": "11",
+            "agiGrowth": "17",
+            "intGrowth": "10",
+            "skills": [
+                "Kamikaze",
+                "EvilSlash",
+                "ChargeUP"
+            ]
         },
         {
             "id": "59",
-            "name": "Grizzly"
+            "name": "Grizzly",
+            "family": "2",
+            "maxLevel": "40",
+            "xpGrowth": "14",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "00",
+            "atkGrowth": "27",
+            "defGrowth": "07",
+            "agiGrowth": "09",
+            "intGrowth": "01",
+            "skills": [
+                "TwinSlash",
+                "SquallHit",
+                "LegSweep"
+            ]
         },
         {
             "id": "60",
-            "name": "Yeti"
+            "name": "Yeti",
+            "family": "2",
+            "maxLevel": "40",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "11",
+            "atkGrowth": "15",
+            "defGrowth": "09",
+            "agiGrowth": "10",
+            "intGrowth": "08",
+            "skills": [
+                "IceBolt",
+                "IceSlash",
+                "WarCry"
+            ]
         },
         {
             "id": "61",
-            "name": "MadGopher"
+            "name": "MadGopher",
+            "family": "2",
+            "maxLevel": "50",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "13",
+            "atkGrowth": "17",
+            "defGrowth": "09",
+            "agiGrowth": "08",
+            "intGrowth": "11",
+            "skills": [
+                "ChargeUP",
+                "BirdBlow",
+                "ZombieCut"
+            ]
         },
         {
             "id": "62",
-            "name": "FairyRat"
+            "name": "FairyRat",
+            "family": "2",
+            "maxLevel": "45",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "05",
+            "atkGrowth": "13",
+            "defGrowth": "14",
+            "agiGrowth": "17",
+            "intGrowth": "07",
+            "skills": [
+                "Surround",
+                "Slow",
+                "Smashlime"
+            ]
         },
         {
             "id": "63",
-            "name": "Unicorn"
+            "name": "Unicorn",
+            "family": "2",
+            "maxLevel": "50",
+            "xpGrowth": "14",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "19",
+            "mpGrowth": "21",
+            "atkGrowth": "14",
+            "defGrowth": "13",
+            "agiGrowth": "12",
+            "intGrowth": "25",
+            "skills": [
+                "Heal",
+                "Vivify",
+                "Antidote"
+            ]
         },
         {
             "id": "64",
-            "name": "Goategon"
+            "name": "Goategon",
+            "family": "2",
+            "maxLevel": "40",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "19",
+            "mpGrowth": "09",
+            "atkGrowth": "17",
+            "defGrowth": "13",
+            "agiGrowth": "17",
+            "intGrowth": "03",
+            "skills": [
+                "Firebal",
+                "Slow",
+                "SleepAir"
+            ]
         },
         {
             "id": "65",
-            "name": "WildApe"
+            "name": "WildApe",
+            "family": "2",
+            "maxLevel": "35",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "01",
+            "atkGrowth": "20",
+            "defGrowth": "10",
+            "agiGrowth": "08",
+            "intGrowth": "04",
+            "skills": [
+                "TwinSlash",
+                "CallHelp",
+                "LegSweep"
+            ]
         },
         {
             "id": "66",
-            "name": "Trumpeter"
+            "name": "Trumpeter",
+            "family": "2",
+            "maxLevel": "50",
+            "xpGrowth": "14",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "08",
+            "atkGrowth": "21",
+            "defGrowth": "17",
+            "agiGrowth": "14",
+            "intGrowth": "13",
+            "skills": [
+                "Beserker",
+                "SandStorm",
+                "WarCry"
+            ]
         },
         {
             "id": "67",
-            "name": "KingLeo"
+            "name": "KingLeo",
+            "family": "2",
+            "maxLevel": "70",
+            "xpGrowth": "15",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "14",
+            "atkGrowth": "24",
+            "defGrowth": "23",
+            "agiGrowth": "17",
+            "intGrowth": "14",
+            "skills": [
+                "Firebal",
+                "BiAttack",
+                "FrigidAir"
+            ]
         },
         {
             "id": "68",
-            "name": "DarkHorn"
+            "name": "DarkHorn",
+            "family": "2",
+            "maxLevel": "50",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "04",
+            "atkGrowth": "19",
+            "defGrowth": "18",
+            "agiGrowth": "10",
+            "intGrowth": "12",
+            "skills": [
+                "Sleep",
+                "StopSpell",
+                "PsycheUp"
+            ]
         },
         {
             "id": "69",
-            "name": "MadCat"
+            "name": "MadCat",
+            "family": "2",
+            "maxLevel": "40",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "07",
+            "atkGrowth": "18",
+            "defGrowth": "14",
+            "agiGrowth": "17",
+            "intGrowth": "11",
+            "skills": [
+                "VacuSlash",
+                "SquallHit",
+                "LegSweep"
+            ]
         },
         {
             "id": "70",
-            "name": "BigEye"
+            "name": "BigEye",
+            "family": "2",
+            "maxLevel": "40",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "08",
+            "atkGrowth": "14",
+            "defGrowth": "11",
+            "agiGrowth": "07",
+            "intGrowth": "09",
+            "skills": [
+                "IceBolt",
+                "Heal",
+                "FrigidAir"
+            ]
         },
         {
             "id": "71",
-            "name": "Picky"
+            "name": "Picky",
+            "family": "3",
+            "maxLevel": "40",
+            "xpGrowth": "04",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "12",
+            "atkGrowth": "14",
+            "defGrowth": "08",
+            "agiGrowth": "18",
+            "intGrowth": "13",
+            "skills": [
+                "Surround",
+                "Sap",
+                "Sheldodge"
+            ]
         },
         {
             "id": "72",
-            "name": "Wyvern"
+            "name": "Wyvern",
+            "family": "3",
+            "maxLevel": "45",
+            "xpGrowth": "06",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "13",
+            "atkGrowth": "19",
+            "defGrowth": "11",
+            "agiGrowth": "16",
+            "intGrowth": "20",
+            "skills": [
+                "Sleep",
+                "Heal",
+                "FrigidAir"
+            ]
         },
         {
             "id": "73",
-            "name": "BullBird"
+            "name": "BullBird",
+            "family": "3",
+            "maxLevel": "35",
+            "xpGrowth": "05",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "08",
+            "atkGrowth": "17",
+            "defGrowth": "09",
+            "agiGrowth": "06",
+            "intGrowth": "04",
+            "skills": [
+                "Ramming",
+                "ChargeUP",
+                "Branching"
+            ]
         },
         {
             "id": "74",
-            "name": "Florajay"
+            "name": "FloraJay",
+            "family": "3",
+            "maxLevel": "50",
+            "xpGrowth": "05",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "06",
+            "mpGrowth": "18",
+            "atkGrowth": "12",
+            "defGrowth": "03",
+            "agiGrowth": "21",
+            "intGrowth": "19",
+            "skills": [
+                "Speed",
+                "BeastCut",
+                "LifeSong"
+            ]
         },
         {
             "id": "75",
-            "name": "DuckKite"
+            "name": "DuckKite",
+            "family": "3",
+            "maxLevel": "30",
+            "xpGrowth": "03",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "11",
+            "atkGrowth": "09",
+            "defGrowth": "12",
+            "agiGrowth": "18",
+            "intGrowth": "07",
+            "skills": [
+                "Sleep",
+                "PanicAll",
+                "Curse"
+            ]
         },
         {
             "id": "76",
-            "name": "MadPecker"
+            "name": "MadPecker",
+            "family": "3",
+            "maxLevel": "40",
+            "xpGrowth": "04",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "09",
+            "mpGrowth": "07",
+            "atkGrowth": "20",
+            "defGrowth": "14",
+            "agiGrowth": "23",
+            "intGrowth": "13",
+            "skills": [
+                "Infernos",
+                "Sap",
+                "VacuSlash"
+            ]
         },
         {
             "id": "77",
-            "name": "MadRaven"
+            "name": "MadRaven",
+            "family": "3",
+            "maxLevel": "45",
+            "xpGrowth": "05",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "06",
+            "mpGrowth": "14",
+            "atkGrowth": "17",
+            "defGrowth": "12",
+            "agiGrowth": "18",
+            "intGrowth": "05",
+            "skills": [
+                "HighJump",
+                "DrakSlash",
+                "TailWind"
+            ]
         },
         {
             "id": "78",
-            "name": "MistyWing"
+            "name": "MistyWing",
+            "family": "3",
+            "maxLevel": "50",
+            "xpGrowth": "05",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "17",
+            "atkGrowth": "08",
+            "defGrowth": "15",
+            "agiGrowth": "22",
+            "intGrowth": "13",
+            "skills": [
+                "Surround",
+                "Barrier",
+                "EerieLite"
+            ]
         },
         {
             "id": "79",
-            "name": "Dracky"
+            "name": "Dracky",
+            "family": "3",
+            "maxLevel": "40",
+            "xpGrowth": "02",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "04",
+            "atkGrowth": "08",
+            "defGrowth": "13",
+            "agiGrowth": "17",
+            "intGrowth": "11",
+            "skills": [
+                "Sleep",
+                "RobMagic",
+                "Antidote"
+            ]
         },
         {
             "id": "80",
-            "name": "BigRoost"
+            "name": "BigRoost",
+            "family": "3",
+            "maxLevel": "40",
+            "xpGrowth": "03",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "08",
+            "mpGrowth": "05",
+            "atkGrowth": "14",
+            "defGrowth": "12",
+            "agiGrowth": "17",
+            "intGrowth": "08",
+            "skills": [
+                "VacuSlash",
+                "SandStorm",
+                "Dodge"
+            ]
         },
         {
             "id": "81",
-            "name": "StubBird"
+            "name": "StubBird",
+            "family": "3",
+            "maxLevel": "40",
+            "xpGrowth": "06",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "12",
+            "atkGrowth": "20",
+            "defGrowth": "20",
+            "agiGrowth": "14",
+            "intGrowth": "11",
+            "skills": [
+                "TwinHits",
+                "RainSlash",
+                "Sheldodge"
+            ]
         },
         {
             "id": "82",
-            "name": "LandOwl"
+            "name": "LandOwl",
+            "family": "3",
+            "maxLevel": "35",
+            "xpGrowth": "07",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "10",
+            "atkGrowth": "21",
+            "defGrowth": "13",
+            "agiGrowth": "11",
+            "intGrowth": "18",
+            "skills": [
+                "Infernos",
+                "BoltSlash",
+                "SideStep"
+            ]
         },
         {
             "id": "83",
-            "name": "MadGoose"
+            "name": "MadGoose",
+            "family": "3",
+            "maxLevel": "30",
+            "xpGrowth": "05",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "06",
+            "atkGrowth": "17",
+            "defGrowth": "15",
+            "agiGrowth": "20",
+            "intGrowth": "08",
+            "skills": [
+                "PanicAll",
+                "OddDance",
+                "LureDance"
+            ]
         },
         {
             "id": "84",
-            "name": "MadCondor"
+            "name": "MadCondor",
+            "family": "3",
+            "maxLevel": "50",
+            "xpGrowth": "06",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "11",
+            "atkGrowth": "18",
+            "defGrowth": "12",
+            "agiGrowth": "17",
+            "intGrowth": "13",
+            "skills": [
+                "Firebal",
+                "HealUs",
+                "MultiCut"
+            ]
         },
         {
             "id": "85",
-            "name": "Blizzardy"
+            "name": "Blizzardy",
+            "family": "3",
+            "maxLevel": "50",
+            "xpGrowth": "07",
+            "sexChance": "3",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "07",
+            "atkGrowth": "11",
+            "defGrowth": "17",
+            "agiGrowth": "19",
+            "intGrowth": "11",
+            "skills": [
+                "Beat",
+                "IceSlash",
+                "FrigidAir"
+            ]
         },
         {
             "id": "86",
-            "name": "Phoenix"
+            "name": "Phoenix",
+            "family": "3",
+            "maxLevel": "50",
+            "xpGrowth": "07",
+            "sexChance": "1",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "13",
+            "atkGrowth": "19",
+            "defGrowth": "08",
+            "agiGrowth": "19",
+            "intGrowth": "12",
+            "skills": [
+                "SquallHit",
+                "FireAir",
+                "TailWind"
+            ]
         },
         {
             "id": "87",
-            "name": "ZapBird"
+            "name": "ZapBird",
+            "family": "3",
+            "maxLevel": "50",
+            "xpGrowth": "07",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "07",
+            "atkGrowth": "19",
+            "defGrowth": "17",
+            "agiGrowth": "22",
+            "intGrowth": "12",
+            "skills": [
+                "BoltSlash",
+                "Lightning",
+                "Hellblast"
+            ]
         },
         {
             "id": "88",
-            "name": "WhipBird"
+            "name": "WhipBird",
+            "family": "3",
+            "maxLevel": "60",
+            "xpGrowth": "15",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "27",
+            "mpGrowth": "19",
+            "atkGrowth": "12",
+            "defGrowth": "20",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "Ironize",
+                "ThickFog",
+                "TatsuCall"
+            ]
         },
         {
             "id": "89",
-            "name": "FunkyBird"
+            "name": "FunkyBird",
+            "family": "3",
+            "maxLevel": "50",
+            "xpGrowth": "05",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "20",
+            "atkGrowth": "08",
+            "defGrowth": "09",
+            "agiGrowth": "16",
+            "intGrowth": "20",
+            "skills": [
+                "PaniDance",
+                "Hustle",
+                "LifeDance"
+            ]
         },
         {
             "id": "90",
-            "name": "RainHawk"
+            "name": "RainHawk",
+            "family": "3",
+            "maxLevel": "70",
+            "xpGrowth": "24",
+            "sexChance": "1",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "25",
+            "mpGrowth": "27",
+            "atkGrowth": "15",
+            "defGrowth": "24",
+            "agiGrowth": "18",
+            "intGrowth": "24",
+            "skills": [
+                "MegaMagic",
+                "Surge",
+                "StrongD"
+            ]
         },
         {
             "id": "91",
-            "name": "MadPlant"
+            "name": "MadPlant",
+            "family": "4",
+            "maxLevel": "40",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "24",
+            "atkGrowth": "11",
+            "defGrowth": "13",
+            "agiGrowth": "06",
+            "intGrowth": "18",
+            "skills": [
+                "Sap",
+                "Slow",
+                "NumbOff"
+            ]
         },
         {
             "id": "92",
-            "name": "FireWeed"
+            "name": "FireWeed",
+            "family": "4",
+            "maxLevel": "45",
+            "xpGrowth": "15",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "26",
+            "atkGrowth": "10",
+            "defGrowth": "12",
+            "agiGrowth": "05",
+            "intGrowth": "17",
+            "skills": [
+                "Blaze",
+                "DeChaos",
+                "PalsyAir"
+            ]
         },
         {
             "id": "93",
-            "name": "FloraMan"
+            "name": "FloraMan",
+            "family": "4",
+            "maxLevel": "35",
+            "xpGrowth": "07",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "20",
+            "atkGrowth": "06",
+            "defGrowth": "09",
+            "agiGrowth": "02",
+            "intGrowth": "19",
+            "skills": [
+                "Firebal",
+                "Antidote",
+                "CurseOff"
+            ]
         },
         {
             "id": "94",
-            "name": "WingTree"
+            "name": "WingTree",
+            "family": "4",
+            "maxLevel": "35",
+            "xpGrowth": "07",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "20",
+            "atkGrowth": "06",
+            "defGrowth": "11",
+            "agiGrowth": "14",
+            "intGrowth": "07",
+            "skills": [
+                "Farewell",
+                "StepGuard",
+                "ZombieCut"
+            ]
         },
         {
             "id": "95",
-            "name": "CactiBall"
+            "name": "CactiBall",
+            "family": "4",
+            "maxLevel": "30",
+            "xpGrowth": "06",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "18",
+            "atkGrowth": "12",
+            "defGrowth": "15",
+            "agiGrowth": "09",
+            "intGrowth": "05",
+            "skills": [
+                "HighJump",
+                "Paralyze",
+                "OddDance"
+            ]
         },
         {
             "id": "96",
-            "name": "Gulpple"
+            "name": "Gulpple",
+            "family": "4",
+            "maxLevel": "40",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "17",
+            "atkGrowth": "09",
+            "defGrowth": "06",
+            "agiGrowth": "02",
+            "intGrowth": "14",
+            "skills": [
+                "Infernos",
+                "Sleep",
+                "NapAttack"
+            ]
         },
         {
             "id": "97",
-            "name": "Toadstool"
+            "name": "Toadstool",
+            "family": "4",
+            "maxLevel": "45",
+            "xpGrowth": "09",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "18",
+            "atkGrowth": "08",
+            "defGrowth": "09",
+            "agiGrowth": "13",
+            "intGrowth": "13",
+            "skills": [
+                "NapAttack",
+                "SleepAir",
+                "MouthShut"
+            ]
         },
         {
             "id": "98",
-            "name": "AmberWeed"
+            "name": "AmberWeed",
+            "family": "4",
+            "maxLevel": "50",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "24",
+            "atkGrowth": "08",
+            "defGrowth": "17",
+            "agiGrowth": "12",
+            "intGrowth": "10",
+            "skills": [
+                "Barrier",
+                "TwinHits",
+                "MagicWall"
+            ]
         },
         {
             "id": "99",
-            "name": "Stubsuck"
+            "name": "Stubsuck",
+            "family": "4",
+            "maxLevel": "40",
+            "xpGrowth": "08",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "11",
+            "atkGrowth": "04",
+            "defGrowth": "02",
+            "agiGrowth": "09",
+            "intGrowth": "14",
+            "skills": [
+                "Sleep",
+                "StepGuard",
+                "ZombieCut"
+            ]
         },
         {
             "id": "100",
-            "name": "Oniono"
+            "name": "Oniono",
+            "family": "4",
+            "maxLevel": "35",
+            "xpGrowth": "09",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "20",
+            "atkGrowth": "14",
+            "defGrowth": "11",
+            "agiGrowth": "03",
+            "intGrowth": "16",
+            "skills": [
+                "RobMagic",
+                "ChargeUP",
+                "SleepAir"
+            ]
         },
         {
             "id": "101",
-            "name": "DanceVegi"
+            "name": "DanceVegi",
+            "family": "4",
+            "maxLevel": "50",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "21",
+            "atkGrowth": "07",
+            "defGrowth": "06",
+            "agiGrowth": "20",
+            "intGrowth": "11",
+            "skills": [
+                "K.O.Dance",
+                "Sidestep",
+                "LureDance"
+            ]
         },
         {
             "id": "102",
-            "name": "TreeBoy"
+            "name": "TreeBoy",
+            "family": "4",
+            "maxLevel": "40",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "18",
+            "atkGrowth": "08",
+            "defGrowth": "03",
+            "agiGrowth": "12",
+            "intGrowth": "15",
+            "skills": [
+                "IceBolt",
+                "Heal",
+                "CurseOff"
+            ]
         },
         {
             "id": "103",
-            "name": "FaceTree"
+            "name": "FaceTree",
+            "family": "4",
+            "maxLevel": "45",
+            "xpGrowth": "09",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "20",
+            "atkGrowth": "11",
+            "defGrowth": "08",
+            "agiGrowth": "10",
+            "intGrowth": "17",
+            "skills": [
+                "StopSpell",
+                "Curse",
+                "OddDance"
+            ]
         },
         {
             "id": "104",
-            "name": "HerbMan"
+            "name": "HerbMan",
+            "family": "4",
+            "maxLevel": "40",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "19",
+            "mpGrowth": "17",
+            "atkGrowth": "07",
+            "defGrowth": "10",
+            "agiGrowth": "15",
+            "intGrowth": "23",
+            "skills": [
+                "Focus",
+                "Curse",
+                "DanceShut"
+            ]
         },
         {
             "id": "105",
-            "name": "BeanMan"
+            "name": "BeanMan",
+            "family": "4",
+            "maxLevel": "35",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "15",
+            "atkGrowth": "12",
+            "defGrowth": "14",
+            "agiGrowth": "15",
+            "intGrowth": "09",
+            "skills": [
+                "RobMagic",
+                "TwinHits",
+                "MapMagic"
+            ]
         },
         {
             "id": "106",
-            "name": "EvilSeed"
+            "name": "EvilSeed",
+            "family": "4",
+            "maxLevel": "30",
+            "xpGrowth": "06",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "08",
+            "mpGrowth": "11",
+            "atkGrowth": "08",
+            "defGrowth": "05",
+            "agiGrowth": "01",
+            "intGrowth": "03",
+            "skills": [
+                "CleanCut",
+                "Paralyze",
+                "Radiant"
+            ]
         },
         {
             "id": "107",
-            "name": "ManEater"
+            "name": "ManEater",
+            "family": "4",
+            "maxLevel": "50",
+            "xpGrowth": "09",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "12",
+            "atkGrowth": "19",
+            "defGrowth": "07",
+            "agiGrowth": "10",
+            "intGrowth": "06",
+            "skills": [
+                "DrakSlash",
+                "PsycheUp",
+                "SleepAir"
+            ]
         },
         {
             "id": "108",
-            "name": "Snapper"
+            "name": "Snapper",
+            "family": "4",
+            "maxLevel": "60",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "14",
+            "atkGrowth": "20",
+            "defGrowth": "13",
+            "agiGrowth": "10",
+            "intGrowth": "16",
+            "skills": [
+                "StopSpell",
+                "CallHelp",
+                "RainSlash"
+            ]
         },
         {
             "id": "109",
-            "name": "Rosevine"
+            "name": "Rosevine",
+            "family": "4",
+            "maxLevel": "80",
+            "xpGrowth": "24",
+            "sexChance": "3",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "30",
+            "atkGrowth": "23",
+            "defGrowth": "21",
+            "agiGrowth": "18",
+            "intGrowth": "18",
+            "skills": [
+                "BiAttack",
+                "UltraDown",
+                "BladeD"
+            ]
         },
         {
             "id": "110",
-            "name": "Watabou"
+            "name": "Watabou",
+            "family": "4",
+            "maxLevel": "80",
+            "xpGrowth": "00",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "10",
+            "mpGrowth": "27",
+            "atkGrowth": "11",
+            "defGrowth": "14",
+            "agiGrowth": "24",
+            "intGrowth": "30",
+            "skills": [
+                "Chance",
+                "Whistle",
+                "Imitate"
+            ]
         },
         {
             "id": "111",
-            "name": "GiantSlug"
+            "name": "GiantSlug",
+            "family": "5",
+            "maxLevel": "35",
+            "xpGrowth": "02",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "08",
+            "atkGrowth": "14",
+            "defGrowth": "09",
+            "agiGrowth": "11",
+            "intGrowth": "07",
+            "skills": [
+                "LushLicks",
+                "Whistle",
+                "Dodge"
+            ]
         },
         {
             "id": "112",
-            "name": "Catapila"
+            "name": "Catapila",
+            "family": "5",
+            "maxLevel": "40",
+            "xpGrowth": "04",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "05",
+            "atkGrowth": "11",
+            "defGrowth": "14",
+            "agiGrowth": "11",
+            "intGrowth": "09",
+            "skills": [
+                "Upper",
+                "PoisonGas",
+                "ThickFog"
+            ]
         },
         {
             "id": "113",
-            "name": "Gophecada"
+            "name": "Gophecada",
+            "family": "5",
+            "maxLevel": "30",
+            "xpGrowth": "01",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "06",
+            "mpGrowth": "11",
+            "atkGrowth": "14",
+            "defGrowth": "18",
+            "agiGrowth": "08",
+            "intGrowth": "07",
+            "skills": [
+                "Beat",
+                "MagicBack",
+                "CallHelp"
+            ]
         },
         {
             "id": "114",
-            "name": "Butterfly"
+            "name": "Butterfly",
+            "family": "5",
+            "maxLevel": "30",
+            "xpGrowth": "00",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "02",
+            "atkGrowth": "13",
+            "defGrowth": "07",
+            "agiGrowth": "12",
+            "intGrowth": "08",
+            "skills": [
+                "Surround",
+                "CallHelp",
+                "Curse"
+            ]
         },
         {
             "id": "115",
-            "name": "WeedBug"
+            "name": "WeedBug",
+            "family": "5",
+            "maxLevel": "45",
+            "xpGrowth": "04",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "13",
+            "atkGrowth": "10",
+            "defGrowth": "12",
+            "agiGrowth": "05",
+            "intGrowth": "19",
+            "skills": [
+                "RobMagic",
+                "Barrier",
+                "MagicWall"
+            ]
         },
         {
             "id": "116",
-            "name": "GiantWorm"
+            "name": "GiantWorm",
+            "family": "5",
+            "maxLevel": "35",
+            "xpGrowth": "06",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "08",
+            "atkGrowth": "16",
+            "defGrowth": "08",
+            "agiGrowth": "13",
+            "intGrowth": "14",
+            "skills": [
+                "StepGuard",
+                "BeastCut",
+                "OddDance"
+            ]
         },
         {
             "id": "117",
-            "name": "Lipsy"
+            "name": "Lipsy",
+            "family": "5",
+            "maxLevel": "40",
+            "xpGrowth": "04",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "08",
+            "atkGrowth": "09",
+            "defGrowth": "09",
+            "agiGrowth": "04",
+            "intGrowth": "01",
+            "skills": [
+                "NapAttack",
+                "Ahhh",
+                "LushLicks"
+            ]
         },
         {
             "id": "118",
-            "name": "StagBug"
+            "name": "StagBug",
+            "family": "5",
+            "maxLevel": "45",
+            "xpGrowth": "03",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "07",
+            "atkGrowth": "16",
+            "defGrowth": "20",
+            "agiGrowth": "09",
+            "intGrowth": "07",
+            "skills": [
+                "Sleep",
+                "FireAir",
+                "LegSweep"
+            ]
         },
         {
             "id": "119",
-            "name": "ArmyAnt"
+            "name": "ArmyAnt",
+            "family": "5",
+            "maxLevel": "35",
+            "xpGrowth": "02",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "08",
+            "mpGrowth": "04",
+            "atkGrowth": "11",
+            "defGrowth": "17",
+            "agiGrowth": "13",
+            "intGrowth": "01",
+            "skills": [
+                "Kamikaze",
+                "CallHelp",
+                "NapAttack"
+            ]
         },
         {
             "id": "120",
-            "name": "GoHopper"
+            "name": "GoHopper",
+            "family": "5",
+            "maxLevel": "35",
+            "xpGrowth": "00",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "04",
+            "atkGrowth": "08",
+            "defGrowth": "14",
+            "agiGrowth": "14",
+            "intGrowth": "04",
+            "skills": [
+                "RobMagic",
+                "ChargeUP",
+                "CallHelp"
+            ]
         },
         {
             "id": "121",
-            "name": "TailEater"
+            "name": "TailEater",
+            "family": "5",
+            "maxLevel": "45",
+            "xpGrowth": "05",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "10",
+            "atkGrowth": "16",
+            "defGrowth": "11",
+            "agiGrowth": "14",
+            "intGrowth": "05",
+            "skills": [
+                "IceSlash",
+                "PoisonGas",
+                "Radiant"
+            ]
         },
         {
             "id": "122",
-            "name": "ArmorPede"
+            "name": "ArmorPede",
+            "family": "5",
+            "maxLevel": "30",
+            "xpGrowth": "06",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "10",
+            "atkGrowth": "17",
+            "defGrowth": "20",
+            "agiGrowth": "11",
+            "intGrowth": "02",
+            "skills": [
+                "Upper",
+                "TwinHits",
+                "TwinSlash"
+            ]
         },
         {
             "id": "123",
-            "name": "Eyeder"
+            "name": "Eyeder",
+            "family": "5",
+            "maxLevel": "45",
+            "xpGrowth": "04",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "09",
+            "mpGrowth": "11",
+            "atkGrowth": "06",
+            "defGrowth": "03",
+            "agiGrowth": "10",
+            "intGrowth": "09",
+            "skills": [
+                "Firebal",
+                "Heal",
+                "MapMagic"
+            ]
         },
         {
             "id": "124",
-            "name": "GiantMoth"
+            "name": "GiantMoth",
+            "family": "5",
+            "maxLevel": "30",
+            "xpGrowth": "02",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "09",
+            "atkGrowth": "16",
+            "defGrowth": "12",
+            "agiGrowth": "20",
+            "intGrowth": "12",
+            "skills": [
+                "WindBeast",
+                "Paralyze",
+                "Radiant"
+            ]
         },
         {
             "id": "125",
-            "name": "Droll"
+            "name": "Droll",
+            "family": "5",
+            "maxLevel": "40",
+            "xpGrowth": "05",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "10",
+            "atkGrowth": "15",
+            "defGrowth": "16",
+            "agiGrowth": "07",
+            "intGrowth": "14",
+            "skills": [
+                "Slow",
+                "StepGuard",
+                "Branching"
+            ]
         },
         {
             "id": "126",
-            "name": "ArmyCrab"
+            "name": "ArmyCrab",
+            "family": "5",
+            "maxLevel": "40",
+            "xpGrowth": "06",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "08",
+            "atkGrowth": "14",
+            "defGrowth": "19",
+            "agiGrowth": "05",
+            "intGrowth": "01",
+            "skills": [
+                "Upper",
+                "MetalCut",
+                "CallHelp"
+            ]
         },
         {
             "id": "127",
-            "name": "MadHornet"
+            "name": "MadHornet",
+            "family": "5",
+            "maxLevel": "40",
+            "xpGrowth": "07",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "05",
+            "atkGrowth": "19",
+            "defGrowth": "13",
+            "agiGrowth": "20",
+            "intGrowth": "04",
+            "skills": [
+                "PoisonHit",
+                "Paralyze",
+                "TailWind"
+            ]
         },
         {
             "id": "128",
-            "name": "HornBeet"
+            "name": "HornBeet",
+            "family": "5",
+            "maxLevel": "50",
+            "xpGrowth": "07",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "19",
+            "atkGrowth": "23",
+            "defGrowth": "20",
+            "agiGrowth": "12",
+            "intGrowth": "14",
+            "skills": [
+                "BoltSlash",
+                "DevilCut",
+                "RockThrow"
+            ]
         },
         {
             "id": "129",
-            "name": "Armorpion"
+            "name": "Armorpion",
+            "family": "5",
+            "maxLevel": "60",
+            "xpGrowth": "24",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "22",
+            "mpGrowth": "20",
+            "atkGrowth": "24",
+            "defGrowth": "23",
+            "agiGrowth": "15",
+            "intGrowth": "18",
+            "skills": [
+                "EvilSlash",
+                "ZombieCut",
+                "RainSlash"
+            ]
         },
         {
             "id": "130",
-            "name": "Digster"
+            "name": "Digster",
+            "family": "5",
+            "maxLevel": "50",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "10",
+            "atkGrowth": "19",
+            "defGrowth": "26",
+            "agiGrowth": "01",
+            "intGrowth": "15",
+            "skills": [
+                "Farewell",
+                "StrongD",
+                "SuckAll"
+            ]
         },
         {
             "id": "131",
-            "name": "Pixy"
+            "name": "Pixy",
+            "family": "6",
+            "maxLevel": "40",
+            "xpGrowth": "19",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "07",
+            "atkGrowth": "15",
+            "defGrowth": "08",
+            "agiGrowth": "15",
+            "intGrowth": "04",
+            "skills": [
+                "Speed",
+                "TwinHits",
+                "Antidote"
+            ]
         },
         {
             "id": "132",
-            "name": "ArcDemon"
+            "name": "ArcDemon",
+            "family": "6",
+            "maxLevel": "45",
+            "xpGrowth": "20",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "13",
+            "atkGrowth": "17",
+            "defGrowth": "12",
+            "agiGrowth": "07",
+            "intGrowth": "21",
+            "skills": [
+                "Bang",
+                "BoltSlash",
+                "BirdBlow"
+            ]
         },
         {
             "id": "133",
-            "name": "AgDevil"
+            "name": "AgDevil",
+            "family": "6",
+            "maxLevel": "35",
+            "xpGrowth": "16",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "11",
+            "atkGrowth": "18",
+            "defGrowth": "12",
+            "agiGrowth": "16",
+            "intGrowth": "19",
+            "skills": [
+                "Firebal",
+                "Sacrifice",
+                "SleepAir"
+            ]
         },
         {
             "id": "134",
-            "name": "Demonite"
+            "name": "Demonite",
+            "family": "6",
+            "maxLevel": "25",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "01",
+            "atkGrowth": "05",
+            "defGrowth": "04",
+            "agiGrowth": "09",
+            "intGrowth": "20",
+            "skills": [
+                "Blaze",
+                "FireSlash",
+                "FrigidAir"
+            ]
         },
         {
             "id": "135",
-            "name": "DarkEye"
+            "name": "DarkEye",
+            "family": "6",
+            "maxLevel": "50",
+            "xpGrowth": "18",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "18",
+            "atkGrowth": "10",
+            "defGrowth": "16",
+            "agiGrowth": "09",
+            "intGrowth": "12",
+            "skills": [
+                "MetalCut",
+                "PalsyAir",
+                "Radiant"
+            ]
         },
         {
             "id": "136",
-            "name": "EyeBall"
+            "name": "EyeBall",
+            "family": "6",
+            "maxLevel": "35",
+            "xpGrowth": "16",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "17",
+            "atkGrowth": "14",
+            "defGrowth": "14",
+            "agiGrowth": "13",
+            "intGrowth": "08",
+            "skills": [
+                "MagicBack",
+                "Ironize",
+                "WarCry"
+            ]
         },
         {
             "id": "137",
-            "name": "SkulRider"
+            "name": "SkulRider",
+            "family": "6",
+            "maxLevel": "45",
+            "xpGrowth": "18",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "11",
+            "atkGrowth": "17",
+            "defGrowth": "13",
+            "agiGrowth": "15",
+            "intGrowth": "12",
+            "skills": [
+                "FireSlash",
+                "RainSlash",
+                "LegSweep"
+            ]
         },
         {
             "id": "138",
-            "name": "EvilBeast"
+            "name": "EvilBeast",
+            "family": "6",
+            "maxLevel": "50",
+            "xpGrowth": "20",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "10",
+            "atkGrowth": "20",
+            "defGrowth": "22",
+            "agiGrowth": "04",
+            "intGrowth": "12",
+            "skills": [
+                "Firebal",
+                "Ironize",
+                "FrigidAir"
+            ]
         },
         {
             "id": "139",
-            "name": "1EyeClown"
+            "name": "1EyeClown",
+            "family": "6",
+            "maxLevel": "25",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "10",
+            "mpGrowth": "01",
+            "atkGrowth": "05",
+            "defGrowth": "09",
+            "agiGrowth": "09",
+            "intGrowth": "17",
+            "skills": [
+                "Blaze",
+                "Firebal",
+                "IceBolt"
+            ]
         },
         {
             "id": "140",
-            "name": "Gremlin"
+            "name": "Gremlin",
+            "family": "6",
+            "maxLevel": "25",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "07",
+            "atkGrowth": "08",
+            "defGrowth": "04",
+            "agiGrowth": "02",
+            "intGrowth": "18",
+            "skills": [
+                "Firebal",
+                "StopSpell",
+                "Heal"
+            ]
         },
         {
             "id": "141",
-            "name": "MedusaEye"
+            "name": "MedusaEye",
+            "family": "6",
+            "maxLevel": "35",
+            "xpGrowth": "19",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "13",
+            "atkGrowth": "14",
+            "defGrowth": "15",
+            "agiGrowth": "08",
+            "intGrowth": "11",
+            "skills": [
+                "Surround",
+                "Sap",
+                "Branching"
+            ]
         },
         {
             "id": "142",
-            "name": "Lionex"
+            "name": "Lionex",
+            "family": "6",
+            "maxLevel": "45",
+            "xpGrowth": "21",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "11",
+            "atkGrowth": "14",
+            "defGrowth": "15",
+            "agiGrowth": "12",
+            "intGrowth": "19",
+            "skills": [
+                "Infernos",
+                "HealUs",
+                "VacuSlash"
+            ]
         },
         {
             "id": "143",
-            "name": "GoatHorn"
+            "name": "GoatHorn",
+            "family": "6",
+            "maxLevel": "35",
+            "xpGrowth": "22",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "11",
+            "atkGrowth": "17",
+            "defGrowth": "13",
+            "agiGrowth": "11",
+            "intGrowth": "20",
+            "skills": [
+                "Bang",
+                "Infernos",
+                "IceBolt"
+            ]
         },
         {
             "id": "144",
-            "name": "Orc"
+            "name": "Orc",
+            "family": "6",
+            "maxLevel": "50",
+            "xpGrowth": "17",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "19",
+            "mpGrowth": "07",
+            "atkGrowth": "19",
+            "defGrowth": "13",
+            "agiGrowth": "13",
+            "intGrowth": "18",
+            "skills": [
+                "Sap",
+                "Vivify",
+                "BirdBlow"
+            ]
         },
         {
             "id": "145",
-            "name": "Ogre"
+            "name": "Ogre",
+            "family": "6",
+            "maxLevel": "35",
+            "xpGrowth": "19",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "08",
+            "atkGrowth": "20",
+            "defGrowth": "12",
+            "agiGrowth": "10",
+            "intGrowth": "12",
+            "skills": [
+                "Massacre",
+                "MetalCut",
+                "RainSlash"
+            ]
         },
         {
             "id": "146",
-            "name": "GateGuard"
+            "name": "GateGuard",
+            "family": "6",
+            "maxLevel": "50",
+            "xpGrowth": "23",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "12",
+            "atkGrowth": "18",
+            "defGrowth": "14",
+            "agiGrowth": "10",
+            "intGrowth": "14",
+            "skills": [
+                "Blaze",
+                "CleanCut",
+                "ThickFog"
+            ]
         },
         {
             "id": "147",
-            "name": "ChopClown"
+            "name": "ChopClown",
+            "family": "6",
+            "maxLevel": "50",
+            "xpGrowth": "22",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "12",
+            "atkGrowth": "20",
+            "defGrowth": "11",
+            "agiGrowth": "20",
+            "intGrowth": "15",
+            "skills": [
+                "TwinHits",
+                "VacuSlash",
+                "SquallHit"
+            ]
         },
         {
             "id": "148",
-            "name": "Grendal"
+            "name": "Grendal",
+            "family": "6",
+            "maxLevel": "60",
+            "xpGrowth": "20",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "23",
+            "mpGrowth": "01",
+            "atkGrowth": "18",
+            "defGrowth": "24",
+            "agiGrowth": "12",
+            "intGrowth": "12",
+            "skills": [
+                "FireSlash",
+                "DrakSlash",
+                "Cover"
+            ]
         },
         {
             "id": "149",
-            "name": "Akubar"
+            "name": "Akubar",
+            "family": "6",
+            "maxLevel": "80",
+            "xpGrowth": "30",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "30",
+            "atkGrowth": "23",
+            "defGrowth": "21",
+            "agiGrowth": "18",
+            "intGrowth": "21",
+            "skills": [
+                "Bang",
+                "Focus",
+                "FrigidAir"
+            ]
         },
         {
             "id": "150",
-            "name": "MadKnight"
+            "name": "MadKnight",
+            "family": "6",
+            "maxLevel": "50",
+            "xpGrowth": "23",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "09",
+            "atkGrowth": "18",
+            "defGrowth": "20",
+            "agiGrowth": "10",
+            "intGrowth": "12",
+            "skills": [
+                "Massacre",
+                "BeastCut",
+                "GigaSlash"
+            ]
         },
         {
             "id": "151",
-            "name": "Gigantes"
+            "name": "Gigantes",
+            "family": "6",
+            "maxLevel": "35",
+            "xpGrowth": "22",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "27",
+            "mpGrowth": "00",
+            "atkGrowth": "27",
+            "defGrowth": "07",
+            "agiGrowth": "00",
+            "intGrowth": "00",
+            "skills": [
+                "EvilSlash",
+                "ChargeUP",
+                "ZombieCut"
+            ]
         },
         {
             "id": "152",
-            "name": "Centasaur"
+            "name": "Centasaur",
+            "family": "6",
+            "maxLevel": "45",
+            "xpGrowth": "23",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "01",
+            "atkGrowth": "24",
+            "defGrowth": "21",
+            "agiGrowth": "18",
+            "intGrowth": "19",
+            "skills": [
+                "StopSpell",
+                "FireSlash",
+                "RainSlash"
+            ]
         },
         {
             "id": "153",
-            "name": "EvilArmor"
+            "name": "EvilArmor",
+            "family": "6",
+            "maxLevel": "30",
+            "xpGrowth": "22",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "01",
+            "atkGrowth": "17",
+            "defGrowth": "29",
+            "agiGrowth": "05",
+            "intGrowth": "13",
+            "skills": [
+                "FireSlash",
+                "BoltSlash",
+                "DrakSlash"
+            ]
         },
         {
             "id": "154",
-            "name": "Jamirus"
+            "name": "Jamirus",
+            "family": "6",
+            "maxLevel": "60",
+            "xpGrowth": "21",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "09",
+            "atkGrowth": "21",
+            "defGrowth": "24",
+            "agiGrowth": "23",
+            "intGrowth": "18",
+            "skills": [
+                "Blaze",
+                "BiAttack",
+                "TailWind"
+            ]
         },
         {
             "id": "155",
-            "name": "Durran"
+            "name": "Durran",
+            "family": "6",
+            "maxLevel": "70",
+            "xpGrowth": "28",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "25",
+            "mpGrowth": "24",
+            "atkGrowth": "23",
+            "defGrowth": "15",
+            "agiGrowth": "17",
+            "intGrowth": "20",
+            "skills": [
+                "DrakSlash",
+                "BirdBlow",
+                "WindBeast"
+            ]
         },
         {
             "id": "156",
-            "name": "Spooky"
+            "name": "Spooky",
+            "family": "7",
+            "maxLevel": "40",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "12",
+            "atkGrowth": "13",
+            "defGrowth": "08",
+            "agiGrowth": "18",
+            "intGrowth": "15",
+            "skills": [
+                "Radiant",
+                "LushLicks",
+                "MouthShut"
+            ]
         },
         {
             "id": "157",
-            "name": "Skullgon"
+            "name": "Skullgon",
+            "family": "7",
+            "maxLevel": "45",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "06",
+            "mpGrowth": "01",
+            "atkGrowth": "23",
+            "defGrowth": "15",
+            "agiGrowth": "04",
+            "intGrowth": "06",
+            "skills": [
+                "TwinSlash",
+                "IceSlash",
+                "FrigidAir"
+            ]
         },
         {
             "id": "158",
-            "name": "PutrePup"
+            "name": "Putrepup",
+            "family": "7",
+            "maxLevel": "35",
+            "xpGrowth": "06",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "13",
+            "atkGrowth": "17",
+            "defGrowth": "08",
+            "agiGrowth": "11",
+            "intGrowth": "04",
+            "skills": [
+                "Sap",
+                "Slow",
+                "MagicBack"
+            ]
         },
         {
             "id": "159",
-            "name": "RotRaven"
+            "name": "RotRaven",
+            "family": "7",
+            "maxLevel": "35",
+            "xpGrowth": "05",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "08",
+            "atkGrowth": "12",
+            "defGrowth": "11",
+            "agiGrowth": "18",
+            "intGrowth": "09",
+            "skills": [
+                "Kamikaze",
+                "BoltSlash",
+                "Lightning"
+            ]
         },
         {
             "id": "160",
-            "name": "Mummy"
+            "name": "Mummy",
+            "family": "7",
+            "maxLevel": "50",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "17",
+            "atkGrowth": "12",
+            "defGrowth": "09",
+            "agiGrowth": "04",
+            "intGrowth": "08",
+            "skills": [
+                "EvilSlash",
+                "CallHelp",
+                "Paralyze"
+            ]
         },
         {
             "id": "161",
-            "name": "DarkCrab"
+            "name": "DarkCrab",
+            "family": "7",
+            "maxLevel": "30",
+            "xpGrowth": "08",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "08",
+            "atkGrowth": "15",
+            "defGrowth": "20",
+            "agiGrowth": "01",
+            "intGrowth": "11",
+            "skills": [
+                "MagicWall",
+                "Ironize",
+                "StepGuard"
+            ]
         },
         {
             "id": "162",
-            "name": "DeadNite"
+            "name": "DeadNite",
+            "family": "7",
+            "maxLevel": "45",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "07",
+            "atkGrowth": "19",
+            "defGrowth": "09",
+            "agiGrowth": "12",
+            "intGrowth": "08",
+            "skills": [
+                "Heal",
+                "DeChaos",
+                "CurseOff"
+            ]
         },
         {
             "id": "163",
-            "name": "Shadow"
+            "name": "Shadow",
+            "family": "7",
+            "maxLevel": "50",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "09",
+            "mpGrowth": "06",
+            "atkGrowth": "06",
+            "defGrowth": "20",
+            "agiGrowth": "08",
+            "intGrowth": "12",
+            "skills": [
+                "FrigidAir",
+                "K.O.Dance",
+                "ThickFog"
+            ]
         },
         {
             "id": "164",
-            "name": "Hork"
+            "name": "Hork",
+            "family": "7",
+            "maxLevel": "40",
+            "xpGrowth": "08",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "13",
+            "atkGrowth": "16",
+            "defGrowth": "08",
+            "agiGrowth": "11",
+            "intGrowth": "10",
+            "skills": [
+                "PoisonGas",
+                "EerieLite",
+                "LushLicks"
+            ]
         },
         {
             "id": "165",
-            "name": "Mudron"
+            "name": "Mudron",
+            "family": "7",
+            "maxLevel": "30",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "06",
+            "mpGrowth": "10",
+            "atkGrowth": "11",
+            "defGrowth": "17",
+            "agiGrowth": "07",
+            "intGrowth": "14",
+            "skills": [
+                "Beat",
+                "Heal",
+                "Vivify"
+            ]
         },
         {
             "id": "166",
-            "name": "NiteWhip"
+            "name": "NiteWhip",
+            "family": "7",
+            "maxLevel": "35",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "04",
+            "atkGrowth": "10",
+            "defGrowth": "03",
+            "agiGrowth": "15",
+            "intGrowth": "09",
+            "skills": [
+                "WindBeast",
+                "Lightning",
+                "FireAir"
+            ]
         },
         {
             "id": "167",
-            "name": "MadSpirit"
+            "name": "MadSpirit",
+            "family": "7",
+            "maxLevel": "50",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "12",
+            "atkGrowth": "15",
+            "defGrowth": "12",
+            "agiGrowth": "16",
+            "intGrowth": "10",
+            "skills": [
+                "SleepAir",
+                "Radiant",
+                "ThickFog"
+            ]
         },
         {
             "id": "168",
-            "name": "WindMerge"
+            "name": "WindMerge",
+            "family": "7",
+            "maxLevel": "35",
+            "xpGrowth": "09",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "19",
+            "atkGrowth": "19",
+            "defGrowth": "12",
+            "agiGrowth": "13",
+            "intGrowth": "06",
+            "skills": [
+                "Infernos",
+                "Barrier",
+                "CurseOff"
+            ]
         },
         {
             "id": "169",
-            "name": "Reaper"
+            "name": "Reaper",
+            "family": "7",
+            "maxLevel": "50",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "19",
+            "mpGrowth": "03",
+            "atkGrowth": "21",
+            "defGrowth": "17",
+            "agiGrowth": "19",
+            "intGrowth": "06",
+            "skills": [
+                "DevilCut",
+                "Curse",
+                "EerieLite"
+            ]
         },
         {
             "id": "170",
-            "name": "DeadNoble"
+            "name": "DeadNoble",
+            "family": "7",
+            "maxLevel": "50",
+            "xpGrowth": "16",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "02",
+            "atkGrowth": "26",
+            "defGrowth": "19",
+            "agiGrowth": "15",
+            "intGrowth": "13",
+            "skills": [
+                "Beat",
+                "HealUs",
+                "TatsuCall"
+            ]
         },
         {
             "id": "171",
-            "name": "WhiteKing"
+            "name": "WhiteKing",
+            "family": "7",
+            "maxLevel": "70",
+            "xpGrowth": "25",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "24",
+            "atkGrowth": "14",
+            "defGrowth": "20",
+            "agiGrowth": "15",
+            "intGrowth": "27",
+            "skills": [
+                "Infernos",
+                "Bolt",
+                "Chance"
+            ]
         },
         {
             "id": "172",
-            "name": "BoneSlave"
+            "name": "BoneSlave",
+            "family": "7",
+            "maxLevel": "40",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "13",
+            "atkGrowth": "17",
+            "defGrowth": "12",
+            "agiGrowth": "07",
+            "intGrowth": "01",
+            "skills": [
+                "Bang",
+                "BoltSlash",
+                "BirdBlow"
+            ]
         },
         {
             "id": "173",
-            "name": "Skeletor"
+            "name": "Skeletor",
+            "family": "7",
+            "maxLevel": "60",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "11",
+            "atkGrowth": "18",
+            "defGrowth": "12",
+            "agiGrowth": "16",
+            "intGrowth": "19",
+            "skills": [
+                "Sap",
+                "BirdBlow",
+                "BiAttack"
+            ]
         },
         {
             "id": "174",
-            "name": "Servant"
+            "name": "Servant",
+            "family": "7",
+            "maxLevel": "80",
+            "xpGrowth": "20",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "23",
+            "mpGrowth": "21",
+            "atkGrowth": "25",
+            "defGrowth": "18",
+            "agiGrowth": "15",
+            "intGrowth": "20",
+            "skills": [
+                "Blaze",
+                "IceBolt",
+                "Focus"
+            ]
         },
         {
             "id": "175",
-            "name": "CopyCat"
+            "name": "Copycat",
+            "family": "7",
+            "maxLevel": "40",
+            "xpGrowth": "01",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "11",
+            "mpGrowth": "20",
+            "atkGrowth": "01",
+            "defGrowth": "02",
+            "agiGrowth": "21",
+            "intGrowth": "05",
+            "skills": [
+                "Transform",
+                "OddDance",
+                "Imitate"
+            ]
         },
         {
             "id": "176",
-            "name": "JewelBag"
+            "name": "JewelBag",
+            "family": "8",
+            "maxLevel": "40",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "11",
+            "atkGrowth": "09",
+            "defGrowth": "18",
+            "agiGrowth": "17",
+            "intGrowth": "15",
+            "skills": [
+                "Firebal",
+                "StopSpell",
+                "PanicAll"
+            ]
         },
         {
             "id": "177",
-            "name": "EvilWand"
+            "name": "EvilWand",
+            "family": "8",
+            "maxLevel": "50",
+            "xpGrowth": "14",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "15",
+            "atkGrowth": "17",
+            "defGrowth": "12",
+            "agiGrowth": "09",
+            "intGrowth": "13",
+            "skills": [
+                "DeChaos",
+                "MapMagic",
+                "FrigidAir"
+            ]
         },
         {
             "id": "178",
-            "name": "MadCandle"
+            "name": "MadCandle",
+            "family": "8",
+            "maxLevel": "35",
+            "xpGrowth": "10",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "10",
+            "atkGrowth": "14",
+            "defGrowth": "06",
+            "agiGrowth": "17",
+            "intGrowth": "12",
+            "skills": [
+                "Blaze",
+                "PsycheUp",
+                "Whistle"
+            ]
         },
         {
             "id": "179",
-            "name": "CoilBird"
+            "name": "CoilBird",
+            "family": "8",
+            "maxLevel": "35",
+            "xpGrowth": "08",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "13",
+            "atkGrowth": "05",
+            "defGrowth": "14",
+            "agiGrowth": "14",
+            "intGrowth": "07",
+            "skills": [
+                "NumbOff",
+                "DeChaos",
+                "SuckAll"
+            ]
         },
         {
             "id": "180",
-            "name": "Facer"
+            "name": "Facer",
+            "family": "8",
+            "maxLevel": "50",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "08",
+            "mpGrowth": "23",
+            "atkGrowth": "11",
+            "defGrowth": "12",
+            "agiGrowth": "03",
+            "intGrowth": "19",
+            "skills": [
+                "Infernos",
+                "Sacrifice",
+                "LifeSong"
+            ]
         },
         {
             "id": "181",
-            "name": "SpikyBoy"
+            "name": "SpikyBoy",
+            "family": "8",
+            "maxLevel": "30",
+            "xpGrowth": "08",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "09",
+            "mpGrowth": "13",
+            "atkGrowth": "14",
+            "defGrowth": "17",
+            "agiGrowth": "07",
+            "intGrowth": "11",
+            "skills": [
+                "Sacrifice",
+                "HighJump",
+                "Smashlime"
+            ]
         },
         {
             "id": "182",
-            "name": "MadMirror"
+            "name": "MadMirror",
+            "family": "8",
+            "maxLevel": "45",
+            "xpGrowth": "14",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "11",
+            "atkGrowth": "08",
+            "defGrowth": "06",
+            "agiGrowth": "11",
+            "intGrowth": "19",
+            "skills": [
+                "MagicBack",
+                "Transform",
+                "MapMagic"
+            ]
         },
         {
             "id": "183",
-            "name": "RogueNite"
+            "name": "RogueNite",
+            "family": "8",
+            "maxLevel": "45",
+            "xpGrowth": "12",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "04",
+            "atkGrowth": "20",
+            "defGrowth": "21",
+            "agiGrowth": "10",
+            "intGrowth": "13",
+            "skills": [
+                "Heal",
+                "EvilSlash",
+                "MetalCut"
+            ]
         },
         {
             "id": "184",
-            "name": "Goopi"
+            "name": "Goopi",
+            "family": "8",
+            "maxLevel": "40",
+            "xpGrowth": "08",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "08",
+            "mpGrowth": "13",
+            "atkGrowth": "11",
+            "defGrowth": "14",
+            "agiGrowth": "07",
+            "intGrowth": "04",
+            "skills": [
+                "CallHelp",
+                "LegSweep",
+                "Dodge"
+            ]
         },
         {
             "id": "185",
-            "name": "Voodoll"
+            "name": "Voodoll",
+            "family": "8",
+            "maxLevel": "35",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "14",
+            "mpGrowth": "17",
+            "atkGrowth": "12",
+            "defGrowth": "12",
+            "agiGrowth": "08",
+            "intGrowth": "14",
+            "skills": [
+                "Surround",
+                "PanicAll",
+                "Sap"
+            ]
         },
         {
             "id": "186",
-            "name": "MetalDrak"
+            "name": "MetalDrak",
+            "family": "8",
+            "maxLevel": "45",
+            "xpGrowth": "15",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "13",
+            "atkGrowth": "20",
+            "defGrowth": "23",
+            "agiGrowth": "09",
+            "intGrowth": "10",
+            "skills": [
+                "Massacre",
+                "RockThrow",
+                "SandStorm"
+            ]
         },
         {
             "id": "187",
-            "name": "Balzak"
+            "name": "Balzak",
+            "family": "8",
+            "maxLevel": "35",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "11",
+            "atkGrowth": "23",
+            "defGrowth": "21",
+            "agiGrowth": "18",
+            "intGrowth": "19",
+            "skills": [
+                "Bang",
+                "Bolt",
+                "MultiCut"
+            ]
         },
         {
             "id": "188",
-            "name": "SabreMan"
+            "name": "SabreMan",
+            "family": "8",
+            "maxLevel": "30",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "08",
+            "mpGrowth": "03",
+            "atkGrowth": "09",
+            "defGrowth": "11",
+            "agiGrowth": "12",
+            "intGrowth": "06",
+            "skills": [
+                "RobMagic",
+                "DevilCut",
+                "Paralyze"
+            ]
         },
         {
             "id": "189",
-            "name": "CurseLamp"
+            "name": "CurseLamp",
+            "family": "8",
+            "maxLevel": "50",
+            "xpGrowth": "09",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "18",
+            "atkGrowth": "09",
+            "defGrowth": "19",
+            "agiGrowth": "13",
+            "intGrowth": "15",
+            "skills": [
+                "Upper",
+                "Speed",
+                "TwinHits"
+            ]
         },
         {
             "id": "190",
-            "name": "Roboster"
+            "name": "Roboster",
+            "family": "8",
+            "maxLevel": "40",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "05",
+            "atkGrowth": "21",
+            "defGrowth": "22",
+            "agiGrowth": "24",
+            "intGrowth": "17",
+            "skills": [
+                "BiAttack",
+                "SquallHit",
+                "RainSlash"
+            ]
         },
         {
             "id": "191",
-            "name": "EvilPot"
+            "name": "EvilPot",
+            "family": "8",
+            "maxLevel": "40",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "19",
+            "atkGrowth": "15",
+            "defGrowth": "18",
+            "agiGrowth": "09",
+            "intGrowth": "19",
+            "skills": [
+                "Beat",
+                "Sleep",
+                "Massacre"
+            ]
         },
         {
             "id": "192",
-            "name": "Gismo"
+            "name": "Gismo",
+            "family": "8",
+            "maxLevel": "40",
+            "xpGrowth": "09",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "13",
+            "mpGrowth": "15",
+            "atkGrowth": "11",
+            "defGrowth": "14",
+            "agiGrowth": "20",
+            "intGrowth": "18",
+            "skills": [
+                "SuckAir",
+                "FireAir",
+                "FrigidAir"
+            ]
         },
         {
             "id": "193",
-            "name": "LavaMan"
+            "name": "LavaMan",
+            "family": "8",
+            "maxLevel": "40",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "18",
+            "mpGrowth": "12",
+            "atkGrowth": "17",
+            "defGrowth": "24",
+            "agiGrowth": "04",
+            "intGrowth": "07",
+            "skills": [
+                "Blaze",
+                "FireAir",
+                "Cover"
+            ]
         },
         {
             "id": "194",
-            "name": "IceMan"
+            "name": "IceMan",
+            "family": "8",
+            "maxLevel": "40",
+            "xpGrowth": "13",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "16",
+            "mpGrowth": "06",
+            "atkGrowth": "18",
+            "defGrowth": "24",
+            "agiGrowth": "04",
+            "intGrowth": "07",
+            "skills": [
+                "IceBolt",
+                "FrigidAir",
+                "StrongD"
+            ]
         },
         {
             "id": "195",
-            "name": "Mimic"
+            "name": "Mimic",
+            "family": "8",
+            "maxLevel": "40",
+            "xpGrowth": "11",
+            "sexChance": "2",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "25",
+            "mpGrowth": "10",
+            "atkGrowth": "20",
+            "defGrowth": "12",
+            "agiGrowth": "01",
+            "intGrowth": "20",
+            "skills": [
+                "Blaze",
+                "Beat",
+                "StepGuard"
+            ]
         },
         {
             "id": "196",
-            "name": "MudDoll"
+            "name": "MudDoll",
+            "family": "8",
+            "maxLevel": "40",
+            "xpGrowth": "08",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "12",
+            "mpGrowth": "03",
+            "atkGrowth": "13",
+            "defGrowth": "14",
+            "agiGrowth": "01",
+            "intGrowth": "15",
+            "skills": [
+                "OddDance",
+                "SideStep",
+                "Hustle"
+            ]
         },
         {
             "id": "197",
-            "name": "Golem"
+            "name": "Golem",
+            "family": "8",
+            "maxLevel": "40",
+            "xpGrowth": "18",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "17",
+            "mpGrowth": "04",
+            "atkGrowth": "12",
+            "defGrowth": "21",
+            "agiGrowth": "04",
+            "intGrowth": "06",
+            "skills": [
+                "ChargeUP",
+                "PsycheUp",
+                "StrongD"
+            ]
         },
         {
             "id": "198",
-            "name": "StoneMan"
+            "name": "StoneMan",
+            "family": "8",
+            "maxLevel": "50",
+            "xpGrowth": "15",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "10",
+            "atkGrowth": "23",
+            "defGrowth": "24",
+            "agiGrowth": "01",
+            "intGrowth": "14",
+            "skills": [
+                "Cover",
+                "SuckAll",
+                "Meditate"
+            ]
         },
         {
             "id": "199",
-            "name": "BombCrag"
+            "name": "BombCrag",
+            "family": "8",
+            "maxLevel": "50",
+            "xpGrowth": "14",
+            "sexChance": "2",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "15",
+            "mpGrowth": "11",
+            "atkGrowth": "17",
+            "defGrowth": "20",
+            "agiGrowth": "00",
+            "intGrowth": "13",
+            "skills": [
+                "Sacrifice",
+                "Farewell",
+                "Meditate"
+            ]
         },
         {
             "id": "200",
-            "name": "GoldGolem"
+            "name": "GoldGolem",
+            "family": "8",
+            "maxLevel": "80",
+            "xpGrowth": "18",
+            "sexChance": "1",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "21",
+            "atkGrowth": "24",
+            "defGrowth": "27",
+            "agiGrowth": "17",
+            "intGrowth": "23",
+            "skills": [
+                "BigBang",
+                "Surge",
+                "TatsuCall"
+            ]
         },
         {
             "id": "201",
-            "name": "DracoLord"
+            "name": "DracoLord",
+            "family": "9",
+            "maxLevel": "50",
+            "xpGrowth": "24",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "30",
+            "atkGrowth": "21",
+            "defGrowth": "20",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "Firebal",
+                "Meditate",
+                "BeDragon"
+            ]
         },
         {
             "id": "202",
-            "name": "DracoLord"
+            "name": "DracoLord",
+            "family": "9",
+            "maxLevel": "80",
+            "xpGrowth": "25",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "30",
+            "atkGrowth": "24",
+            "defGrowth": "21",
+            "agiGrowth": "23",
+            "intGrowth": "21",
+            "skills": [
+                "Massacre",
+                "FireAir",
+                "Surge"
+            ]
         },
         {
             "id": "203",
-            "name": "Hargon"
+            "name": "Hargon",
+            "family": "9",
+            "maxLevel": "70",
+            "xpGrowth": "24",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "19",
+            "mpGrowth": "30",
+            "atkGrowth": "20",
+            "defGrowth": "21",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "Firebal",
+                "Bang",
+                "TatsuCall"
+            ]
         },
         {
             "id": "204",
-            "name": "Sidoh"
+            "name": "Sidoh",
+            "family": "9",
+            "maxLevel": "80",
+            "xpGrowth": "25",
+            "sexChance": "0",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "30",
+            "atkGrowth": "24",
+            "defGrowth": "21",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "FireAir",
+                "FrigidAir",
+                "Hellblast"
+            ]
         },
         {
             "id": "205",
-            "name": "Baramos"
+            "name": "Baramos",
+            "family": "9",
+            "maxLevel": "70",
+            "xpGrowth": "24",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "20",
+            "mpGrowth": "30",
+            "atkGrowth": "20",
+            "defGrowth": "20",
+            "agiGrowth": "22",
+            "intGrowth": "21",
+            "skills": [
+                "Bang",
+                "RockThrow",
+                "Hellblast"
+            ]
         },
         {
             "id": "206",
-            "name": "Zoma"
+            "name": "Zoma",
+            "family": "9",
+            "maxLevel": "80",
+            "xpGrowth": "25",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "30",
+            "atkGrowth": "26",
+            "defGrowth": "21",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "FrigidAir",
+                "BigBang",
+                "DeMagic"
+            ]
         },
         {
             "id": "207",
-            "name": "Pizzaro"
+            "name": "Pizzaro",
+            "family": "9",
+            "maxLevel": "70",
+            "xpGrowth": "24",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "30",
+            "atkGrowth": "26",
+            "defGrowth": "21",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "BiAttack",
+                "FireAir",
+                "Hellblast"
+            ]
         },
         {
             "id": "208",
-            "name": "Esterk"
+            "name": "Esterk",
+            "family": "9",
+            "maxLevel": "80",
+            "xpGrowth": "31",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "29",
+            "mpGrowth": "30",
+            "atkGrowth": "26",
+            "defGrowth": "24",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "RainSlash",
+                "DeMagic",
+                "GigaSlash"
+            ]
         },
         {
             "id": "209",
-            "name": "Mirudraas"
+            "name": "Mirudraas",
+            "family": "9",
+            "maxLevel": "70",
+            "xpGrowth": "30",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "30",
+            "atkGrowth": "26",
+            "defGrowth": "21",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "Blaze",
+                "Bang",
+                "Bolt"
+            ]
         },
         {
             "id": "210",
-            "name": "Mirudraas"
+            "name": "Mirudraas",
+            "family": "9",
+            "maxLevel": "80",
+            "xpGrowth": "31",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "29",
+            "mpGrowth": "30",
+            "atkGrowth": "26",
+            "defGrowth": "21",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "SuckAir",
+                "FireAir",
+                "DeMagic"
+            ]
         },
         {
             "id": "211",
-            "name": "Mudou"
+            "name": "Mudou",
+            "family": "9",
+            "maxLevel": "70",
+            "xpGrowth": "28",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "30",
+            "atkGrowth": "26",
+            "defGrowth": "24",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "FireAir",
+                "FrigidAir",
+                "PoisonGas"
+            ]
         },
         {
             "id": "212",
-            "name": "DeathMore"
+            "name": "DeathMore",
+            "family": "9",
+            "maxLevel": "60",
+            "xpGrowth": "27",
+            "sexChance": "0",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "21",
+            "mpGrowth": "30",
+            "atkGrowth": "26",
+            "defGrowth": "21",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "Hellblast",
+                "BigBang",
+                "TatsuCall"
+            ]
         },
         {
             "id": "213",
-            "name": "DeathMore"
+            "name": "DeathMore",
+            "family": "9",
+            "maxLevel": "70",
+            "xpGrowth": "29",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "24",
+            "mpGrowth": "30",
+            "atkGrowth": "26",
+            "defGrowth": "21",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "Ramming",
+                "FireAir",
+                "UltraDown"
+            ]
         },
         {
             "id": "214",
-            "name": "DeathMore"
+            "name": "DeathMore",
+            "family": "9",
+            "maxLevel": "80",
+            "xpGrowth": "31",
+            "sexChance": "0",
+            "isFlying": "1",
+            "isMetal": "0",
+            "hpGrowth": "29",
+            "mpGrowth": "30",
+            "atkGrowth": "30",
+            "defGrowth": "24",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "Focus",
+                "BigBang",
+                "DeMagic"
+            ]
         },
         {
             "id": "215",
-            "name": "Darkdrium"
+            "name": "DarkDrium",
+            "family": "9",
+            "maxLevel": "80",
+            "xpGrowth": "30",
+            "sexChance": "0",
+            "isFlying": "0",
+            "isMetal": "0",
+            "hpGrowth": "31",
+            "mpGrowth": "30",
+            "atkGrowth": "31",
+            "defGrowth": "24",
+            "agiGrowth": "23",
+            "intGrowth": "23",
+            "skills": [
+                "Bolt",
+                "FireAir",
+                "FrigidAir"
+            ]
         }
     ]
 }
