@@ -1,0 +1,864 @@
+{
+    "dwmMonsterList": [
+        {
+            "id": "1",
+            "name": "DrakSlime"
+        },
+        {
+            "id": "2",
+            "name": "SpotSlime"
+        },
+        {
+            "id": "3",
+            "name": "WingSlime"
+        },
+        {
+            "id": "4",
+            "name": "TreeSlime"
+        },
+        {
+            "id": "5",
+            "name": "Snaily"
+        },
+        {
+            "id": "6",
+            "name": "SlimeNite"
+        },
+        {
+            "id": "7",
+            "name": "Babble"
+        },
+        {
+            "id": "8",
+            "name": "BoxSlime"
+        },
+        {
+            "id": "9",
+            "name": "Slime"
+        },
+        {
+            "id": "10",
+            "name": "Healer"
+        },
+        {
+            "id": "11",
+            "name": "FangSlime"
+        },
+        {
+            "id": "12",
+            "name": "RockSlime"
+        },
+        {
+            "id": "13",
+            "name": "SlimeBorg"
+        },
+        {
+            "id": "14",
+            "name": "Slabbit"
+        },
+        {
+            "id": "15",
+            "name": "SpotKing"
+        },
+        {
+            "id": "16",
+            "name": "KingSlime"
+        },
+        {
+            "id": "17",
+            "name": "Metaly"
+        },
+        {
+            "id": "18",
+            "name": "Metabble"
+        },
+        {
+            "id": "19",
+            "name": "MetalKing"
+        },
+        {
+            "id": "20",
+            "name": "GoldSlime"
+        },
+        {
+            "id": "21",
+            "name": "DragonKid"
+        },
+        {
+            "id": "22",
+            "name": "Tortragon"
+        },
+        {
+            "id": "23",
+            "name": "Pteranod"
+        },
+        {
+            "id": "24",
+            "name": "Gasgon"
+        },
+        {
+            "id": "25",
+            "name": "FairyDrak"
+        },
+        {
+            "id": "26",
+            "name": "LizardMan"
+        },
+        {
+            "id": "27",
+            "name": "Poisongon"
+        },
+        {
+            "id": "28",
+            "name": "Swordgon"
+        },
+        {
+            "id": "29",
+            "name": "Dragon"
+        },
+        {
+            "id": "30",
+            "name": "MiniDrak"
+        },
+        {
+            "id": "31",
+            "name": "MadDragon"
+        },
+        {
+            "id": "32",
+            "name": "Rayburn"
+        },
+        {
+            "id": "33",
+            "name": "Chamelgon"
+        },
+        {
+            "id": "34",
+            "name": "LizardFly"
+        },
+        {
+            "id": "35",
+            "name": "Andreal"
+        },
+        {
+            "id": "36",
+            "name": "KingCobra"
+        },
+        {
+            "id": "37",
+            "name": "Spikerous"
+        },
+        {
+            "id": "38",
+            "name": "GreatDrak"
+        },
+        {
+            "id": "39",
+            "name": "Crestpent"
+        },
+        {
+            "id": "40",
+            "name": "WingSnake"
+        },
+        {
+            "id": "41",
+            "name": "Coatol"
+        },
+        {
+            "id": "42",
+            "name": "Orochi"
+        },
+        {
+            "id": "43",
+            "name": "BattleRex"
+        },
+        {
+            "id": "44",
+            "name": "SkyDragon"
+        },
+        {
+            "id": "45",
+            "name": "Divinegon"
+        },
+        {
+            "id": "46",
+            "name": "Tonguella"
+        },
+        {
+            "id": "47",
+            "name": "Almiraj"
+        },
+        {
+            "id": "48",
+            "name": "CatFly"
+        },
+        {
+            "id": "49",
+            "name": "PillowRat"
+        },
+        {
+            "id": "50",
+            "name": "Saccer"
+        },
+        {
+            "id": "51",
+            "name": "GulpBeast"
+        },
+        {
+            "id": "52",
+            "name": "Skullroo"
+        },
+        {
+            "id": "53",
+            "name": "WindBeast"
+        },
+        {
+            "id": "54",
+            "name": "Anteater"
+        },
+        {
+            "id": "55",
+            "name": "SuperTen"
+        },
+        {
+            "id": "56",
+            "name": "IronTurt"
+        },
+        {
+            "id": "57",
+            "name": "Mommonja"
+        },
+        {
+            "id": "58",
+            "name": "HammerMan"
+        },
+        {
+            "id": "59",
+            "name": "Grizzly"
+        },
+        {
+            "id": "60",
+            "name": "Yeti"
+        },
+        {
+            "id": "61",
+            "name": "MadGopher"
+        },
+        {
+            "id": "62",
+            "name": "FairyRat"
+        },
+        {
+            "id": "63",
+            "name": "Unicorn"
+        },
+        {
+            "id": "64",
+            "name": "Goategon"
+        },
+        {
+            "id": "65",
+            "name": "WildApe"
+        },
+        {
+            "id": "66",
+            "name": "Trumpeter"
+        },
+        {
+            "id": "67",
+            "name": "KingLeo"
+        },
+        {
+            "id": "68",
+            "name": "DarkHorn"
+        },
+        {
+            "id": "69",
+            "name": "MadCat"
+        },
+        {
+            "id": "70",
+            "name": "BigEye"
+        },
+        {
+            "id": "71",
+            "name": "Picky"
+        },
+        {
+            "id": "72",
+            "name": "Wyvern"
+        },
+        {
+            "id": "73",
+            "name": "BullBird"
+        },
+        {
+            "id": "74",
+            "name": "Florajay"
+        },
+        {
+            "id": "75",
+            "name": "DuckKite"
+        },
+        {
+            "id": "76",
+            "name": "MadPecker"
+        },
+        {
+            "id": "77",
+            "name": "MadRaven"
+        },
+        {
+            "id": "78",
+            "name": "MistyWing"
+        },
+        {
+            "id": "79",
+            "name": "Dracky"
+        },
+        {
+            "id": "80",
+            "name": "BigRoost"
+        },
+        {
+            "id": "81",
+            "name": "StubBird"
+        },
+        {
+            "id": "82",
+            "name": "LandOwl"
+        },
+        {
+            "id": "83",
+            "name": "MadGoose"
+        },
+        {
+            "id": "84",
+            "name": "MadCondor"
+        },
+        {
+            "id": "85",
+            "name": "Blizzardy"
+        },
+        {
+            "id": "86",
+            "name": "Phoenix"
+        },
+        {
+            "id": "87",
+            "name": "ZapBird"
+        },
+        {
+            "id": "88",
+            "name": "WhipBird"
+        },
+        {
+            "id": "89",
+            "name": "FunkyBird"
+        },
+        {
+            "id": "90",
+            "name": "RainHawk"
+        },
+        {
+            "id": "91",
+            "name": "MadPlant"
+        },
+        {
+            "id": "92",
+            "name": "FireWeed"
+        },
+        {
+            "id": "93",
+            "name": "FloraMan"
+        },
+        {
+            "id": "94",
+            "name": "WingTree"
+        },
+        {
+            "id": "95",
+            "name": "CactiBall"
+        },
+        {
+            "id": "96",
+            "name": "Gulpple"
+        },
+        {
+            "id": "97",
+            "name": "Toadstool"
+        },
+        {
+            "id": "98",
+            "name": "AmberWeed"
+        },
+        {
+            "id": "99",
+            "name": "Stubsuck"
+        },
+        {
+            "id": "100",
+            "name": "Oniono"
+        },
+        {
+            "id": "101",
+            "name": "DanceVegi"
+        },
+        {
+            "id": "102",
+            "name": "TreeBoy"
+        },
+        {
+            "id": "103",
+            "name": "FaceTree"
+        },
+        {
+            "id": "104",
+            "name": "HerbMan"
+        },
+        {
+            "id": "105",
+            "name": "BeanMan"
+        },
+        {
+            "id": "106",
+            "name": "EvilSeed"
+        },
+        {
+            "id": "107",
+            "name": "ManEater"
+        },
+        {
+            "id": "108",
+            "name": "Snapper"
+        },
+        {
+            "id": "109",
+            "name": "Rosevine"
+        },
+        {
+            "id": "110",
+            "name": "Watabou"
+        },
+        {
+            "id": "111",
+            "name": "GiantSlug"
+        },
+        {
+            "id": "112",
+            "name": "Catapila"
+        },
+        {
+            "id": "113",
+            "name": "Gophecada"
+        },
+        {
+            "id": "114",
+            "name": "Butterfly"
+        },
+        {
+            "id": "115",
+            "name": "WeedBug"
+        },
+        {
+            "id": "116",
+            "name": "GiantWorm"
+        },
+        {
+            "id": "117",
+            "name": "Lipsy"
+        },
+        {
+            "id": "118",
+            "name": "StagBug"
+        },
+        {
+            "id": "119",
+            "name": "ArmyAnt"
+        },
+        {
+            "id": "120",
+            "name": "GoHopper"
+        },
+        {
+            "id": "121",
+            "name": "TailEater"
+        },
+        {
+            "id": "122",
+            "name": "ArmorPede"
+        },
+        {
+            "id": "123",
+            "name": "Eyeder"
+        },
+        {
+            "id": "124",
+            "name": "GiantMoth"
+        },
+        {
+            "id": "125",
+            "name": "Droll"
+        },
+        {
+            "id": "126",
+            "name": "ArmyCrab"
+        },
+        {
+            "id": "127",
+            "name": "MadHornet"
+        },
+        {
+            "id": "128",
+            "name": "HornBeet"
+        },
+        {
+            "id": "129",
+            "name": "Armorpion"
+        },
+        {
+            "id": "130",
+            "name": "Digster"
+        },
+        {
+            "id": "131",
+            "name": "Pixy"
+        },
+        {
+            "id": "132",
+            "name": "ArcDemon"
+        },
+        {
+            "id": "133",
+            "name": "AgDevil"
+        },
+        {
+            "id": "134",
+            "name": "Demonite"
+        },
+        {
+            "id": "135",
+            "name": "DarkEye"
+        },
+        {
+            "id": "136",
+            "name": "EyeBall"
+        },
+        {
+            "id": "137",
+            "name": "SkulRider"
+        },
+        {
+            "id": "138",
+            "name": "EvilBeast"
+        },
+        {
+            "id": "139",
+            "name": "1EyeClown"
+        },
+        {
+            "id": "140",
+            "name": "Gremlin"
+        },
+        {
+            "id": "141",
+            "name": "MedusaEye"
+        },
+        {
+            "id": "142",
+            "name": "Lionex"
+        },
+        {
+            "id": "143",
+            "name": "GoatHorn"
+        },
+        {
+            "id": "144",
+            "name": "Orc"
+        },
+        {
+            "id": "145",
+            "name": "Ogre"
+        },
+        {
+            "id": "146",
+            "name": "GateGuard"
+        },
+        {
+            "id": "147",
+            "name": "ChopClown"
+        },
+        {
+            "id": "148",
+            "name": "Grendal"
+        },
+        {
+            "id": "149",
+            "name": "Akubar"
+        },
+        {
+            "id": "150",
+            "name": "MadKnight"
+        },
+        {
+            "id": "151",
+            "name": "Gigantes"
+        },
+        {
+            "id": "152",
+            "name": "Centasaur"
+        },
+        {
+            "id": "153",
+            "name": "EvilArmor"
+        },
+        {
+            "id": "154",
+            "name": "Jamirus"
+        },
+        {
+            "id": "155",
+            "name": "Durran"
+        },
+        {
+            "id": "156",
+            "name": "Spooky"
+        },
+        {
+            "id": "157",
+            "name": "Skullgon"
+        },
+        {
+            "id": "158",
+            "name": "PutrePup"
+        },
+        {
+            "id": "159",
+            "name": "RotRaven"
+        },
+        {
+            "id": "160",
+            "name": "Mummy"
+        },
+        {
+            "id": "161",
+            "name": "DarkCrab"
+        },
+        {
+            "id": "162",
+            "name": "DeadNite"
+        },
+        {
+            "id": "163",
+            "name": "Shadow"
+        },
+        {
+            "id": "164",
+            "name": "Hork"
+        },
+        {
+            "id": "165",
+            "name": "Mudron"
+        },
+        {
+            "id": "166",
+            "name": "NiteWhip"
+        },
+        {
+            "id": "167",
+            "name": "MadSpirit"
+        },
+        {
+            "id": "168",
+            "name": "WindMerge"
+        },
+        {
+            "id": "169",
+            "name": "Reaper"
+        },
+        {
+            "id": "170",
+            "name": "DeadNoble"
+        },
+        {
+            "id": "171",
+            "name": "WhiteKing"
+        },
+        {
+            "id": "172",
+            "name": "BoneSlave"
+        },
+        {
+            "id": "173",
+            "name": "Skeletor"
+        },
+        {
+            "id": "174",
+            "name": "Servant"
+        },
+        {
+            "id": "175",
+            "name": "CopyCat"
+        },
+        {
+            "id": "176",
+            "name": "JewelBag"
+        },
+        {
+            "id": "177",
+            "name": "EvilWand"
+        },
+        {
+            "id": "178",
+            "name": "MadCandle"
+        },
+        {
+            "id": "179",
+            "name": "CoilBird"
+        },
+        {
+            "id": "180",
+            "name": "Facer"
+        },
+        {
+            "id": "181",
+            "name": "SpikyBoy"
+        },
+        {
+            "id": "182",
+            "name": "MadMirror"
+        },
+        {
+            "id": "183",
+            "name": "RogueNite"
+        },
+        {
+            "id": "184",
+            "name": "Goopi"
+        },
+        {
+            "id": "185",
+            "name": "Voodoll"
+        },
+        {
+            "id": "186",
+            "name": "MetalDrak"
+        },
+        {
+            "id": "187",
+            "name": "Balzak"
+        },
+        {
+            "id": "188",
+            "name": "SabreMan"
+        },
+        {
+            "id": "189",
+            "name": "CurseLamp"
+        },
+        {
+            "id": "190",
+            "name": "Roboster"
+        },
+        {
+            "id": "191",
+            "name": "EvilPot"
+        },
+        {
+            "id": "192",
+            "name": "Gismo"
+        },
+        {
+            "id": "193",
+            "name": "LavaMan"
+        },
+        {
+            "id": "194",
+            "name": "IceMan"
+        },
+        {
+            "id": "195",
+            "name": "Mimic"
+        },
+        {
+            "id": "196",
+            "name": "MudDoll"
+        },
+        {
+            "id": "197",
+            "name": "Golem"
+        },
+        {
+            "id": "198",
+            "name": "StoneMan"
+        },
+        {
+            "id": "199",
+            "name": "BombCrag"
+        },
+        {
+            "id": "200",
+            "name": "GoldGolem"
+        },
+        {
+            "id": "201",
+            "name": "DracoLord"
+        },
+        {
+            "id": "202",
+            "name": "DracoLord"
+        },
+        {
+            "id": "203",
+            "name": "Hargon"
+        },
+        {
+            "id": "204",
+            "name": "Sidoh"
+        },
+        {
+            "id": "205",
+            "name": "Baramos"
+        },
+        {
+            "id": "206",
+            "name": "Zoma"
+        },
+        {
+            "id": "207",
+            "name": "Pizzaro"
+        },
+        {
+            "id": "208",
+            "name": "Esterk"
+        },
+        {
+            "id": "209",
+            "name": "Mirudraas"
+        },
+        {
+            "id": "210",
+            "name": "Mirudraas"
+        },
+        {
+            "id": "211",
+            "name": "Mudou"
+        },
+        {
+            "id": "212",
+            "name": "DeathMore"
+        },
+        {
+            "id": "213",
+            "name": "DeathMore"
+        },
+        {
+            "id": "214",
+            "name": "DeathMore"
+        },
+        {
+            "id": "215",
+            "name": "Darkdrium"
+        }
+    ]
+}

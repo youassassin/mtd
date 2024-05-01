@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { DragonWarriorMonsterService } from './dragon-warrior-monster.service';
 
 @Component({
   selector: 'app-dragon-warrior-monster',
@@ -7,9 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DragonWarriorMonsterComponent implements OnInit {
 
-  constructor() { }
+  left = '{';
+  right = '}';
+  monsterList: { id: string; name: string; }[] | undefined;
+  constructor(private dwmService: DragonWarriorMonsterService) { }
 
   ngOnInit(): void {
+    this.monsterList = this.dwmService.getMonsterList();
   }
 
 }
