@@ -6,13 +6,17 @@ import { DragonWarriorMonsterComponent } from './dragon-warrior-monster/dragon-w
 import { RoutingModule } from './routing.module';
 import { DwmMonsterComponent } from './dragon-warrior-monster/dwm-monster/dwm-monster.component';
 import { DwmSkillComponent } from './dragon-warrior-monster/dwm-skill/dwm-skill.component';
+import { UpgradeableComponent } from './dragon-warrior-monster/dwm-skill/upgradeable/upgradeable.component';
+import { RequirementsComponent } from './dragon-warrior-monster/dwm-skill/requirements/requirements.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     DragonWarriorMonsterComponent,
     DwmMonsterComponent,
-    DwmSkillComponent
+    DwmSkillComponent,
+    UpgradeableComponent,
+    RequirementsComponent
   ],
   imports: [
     BrowserModule,

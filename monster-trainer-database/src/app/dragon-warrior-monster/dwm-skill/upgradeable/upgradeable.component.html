@@ -1,0 +1,6 @@
+<div *ngIf="upgrades" class="heading">
+    <h2>Upgradeable Skill:&nbsp;</h2>
+    <h2 *ngIf="upgrades[0]"><a class="button" routerLink="/dwm/skill/{{upgrades[0]}}">{{upgrades[0]}}</a></h2>
+    <h2 *ngFor="let upgrade of upgrades | slice:1;">&nbsp;> <a class="button"
+            routerLink="/dwm/skill/{{upgrade}}">{{upgrade}}</a></h2>
+</div>

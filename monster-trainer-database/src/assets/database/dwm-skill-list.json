@@ -9,7 +9,10 @@
             "atk": "60",
             "def": "0",
             "agl": "60",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "Lipsy"
+            ]
         },
         {
             "name": "Antidote",
@@ -29,6 +32,12 @@
                     "DeChaos",
                     "CurseOff"
                 ]
+            ],
+            "monsters": [
+                "Unicorn",
+                "Dracky",
+                "FloraMan",
+                "Pixy"
             ]
         },
         {
@@ -45,6 +54,18 @@
                 "Bang",
                 "Boom",
                 "Explodet"
+            ],
+            "monsters": [
+                "Metabble",
+                "Coatol",
+                "ArcDemon",
+                "GoatHorn",
+                "Akubar",
+                "BoneSlave",
+                "Balzak",
+                "Hargon",
+                "Baramos",
+                "Mirudraas1"
             ]
         },
         {
@@ -56,7 +77,14 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "70"
+            "int": "70",
+            "monsters": [
+                "KingSlime",
+                "MistyWing",
+                "AmberWeed",
+                "WeedBug",
+                "WindMerge"
+            ]
         },
         {
             "name": "BazooCall",
@@ -84,7 +112,14 @@
             "atk": "68",
             "def": "0",
             "agl": "72",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "SlimeNite",
+                "LizardMan",
+                "FloraJay",
+                "GiantWorm",
+                "MadKnight"
+            ]
         },
         {
             "name": "Beat",
@@ -99,6 +134,15 @@
             "upgrade": [
                 "Beat",
                 "Defeat"
+            ],
+            "monsters": [
+                "Metaly",
+                "Blizzardy",
+                "Gophecada",
+                "Mudron",
+                "DeadNoble",
+                "EvilPot",
+                "Mimic"
             ]
         },
         {
@@ -110,7 +154,12 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "160"
+            "int": "160",
+            "monsters": [
+                "DrakSlime",
+                "Crestpent",
+                "DracoLord1"
+            ]
         },
         {
             "name": "Beserker",
@@ -121,7 +170,13 @@
             "atk": "84",
             "def": "84",
             "agl": "0",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "Gasgon",
+                "Spikerous",
+                "Almiraj",
+                "Trumpeter"
+            ]
         },
         {
             "name": "BiAttack",
@@ -143,6 +198,15 @@
                     "BiAttack",
                     "SquallHit"
                 ]
+            ],
+            "monsters": [
+                "Orochi",
+                "KingLeo",
+                "Rosevine",
+                "Jamirus",
+                "Skeletor",
+                "Roboster",
+                "Pizzaro"
             ]
         },
         {
@@ -162,6 +226,14 @@
                     "WhiteFire",
                     "WhiteAir"
                 ]
+            ],
+            "monsters": [
+                "GoldSlime",
+                "Divinegon",
+                "GoldGolem",
+                "Zoma",
+                "DeathMore1",
+                "DeathMore3"
             ]
         },
         {
@@ -188,7 +260,15 @@
             "atk": "68",
             "def": "0",
             "agl": "72",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "MadGopher",
+                "ArcDemon",
+                "Orc",
+                "Durran",
+                "BoneSlave",
+                "Skeletor"
+            ]
         },
         {
             "name": "BladeD",
@@ -199,7 +279,12 @@
             "atk": "84",
             "def": "84",
             "agl": "84",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "SlimeBorg",
+                "Swordgon",
+                "Rosevine"
+            ]
         },
         {
             "name": "Blaze",
@@ -215,6 +300,20 @@
                 "Blaze",
                 "Blazemore",
                 "Blazemost"
+            ],
+            "monsters": [
+                "BoxSlime",
+                "Metaly",
+                "FireWeed",
+                "Demonite",
+                "1EyeClown",
+                "GateGuard",
+                "Jamirus",
+                "Servant",
+                "MadCandle",
+                "LavaMan",
+                "Mimic",
+                "Mirudraas1"
             ]
         },
         {
@@ -323,6 +422,13 @@
                 "Bolt",
                 "Zap",
                 "Thordain"
+            ],
+            "monsters": [
+                "MetalKing",
+                "WhiteKing",
+                "Balzak",
+                "Mirudraas1",
+                "DarkDrium"
             ]
         },
         {
@@ -348,6 +454,16 @@
                     "VacuSlash",
                     "IceSlash"
                 ]
+            ],
+            "monsters": [
+                "Coatol",
+                "LandOwl",
+                "ZapBird",
+                "HornBeet",
+                "ArcDemon",
+                "EvilArmor",
+                "RotRaven",
+                "BoneSlave"
             ]
         },
         {
@@ -386,7 +502,12 @@
             "atk": "68",
             "def": "0",
             "agl": "72",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "BullBird",
+                "Droll",
+                "MedusaEye"
+            ]
         },
         {
             "name": "CallHelp",
@@ -401,6 +522,22 @@
             "upgrade": [
                 "CallHelp",
                 "YelpHelp"
+            ],
+            "monsters": [
+                "SpotSlime",
+                "Snaily",
+                "FangSlime",
+                "Minidrak",
+                "PillowRat",
+                "WildApe",
+                "Snapper",
+                "Gophecada",
+                "Butterfly",
+                "ArmyAnt",
+                "GoHopper",
+                "ArmyCrab",
+                "Mummy",
+                "Goopi"
             ]
         },
         {
@@ -412,7 +549,12 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "236"
+            "int": "236",
+            "monsters": [
+                "GoldSlime",
+                "Watabou",
+                "WhiteKing"
+            ]
         },
         {
             "name": "ChargeUP",
@@ -456,6 +598,18 @@
                     "ChargeUP",
                     "WindBeast"
                 ]
+            ],
+            "monsters": [
+                "FangSlime",
+                "Almiraj",
+                "Skullroo",
+                "HammerMan",
+                "MadGopher",
+                "BullBird",
+                "Oniono",
+                "GoHopper",
+                "Gigantes",
+                "Golem"
             ]
         },
         {
@@ -467,7 +621,13 @@
             "atk": "68",
             "def": "0",
             "agl": "72",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "SpotKing",
+                "Swordgon",
+                "EvilSeed",
+                "GateGuard"
+            ]
         },
         {
             "name": "Cover",
@@ -482,6 +642,12 @@
             "upgrade": [
                 "Cover",
                 "Guardian"
+            ],
+            "monsters": [
+                "IronTurt",
+                "Grendal",
+                "LavaMan",
+                "StoneMan"
             ]
         },
         {
@@ -500,6 +666,14 @@
                     "Curse",
                     "Radiant"
                 ]
+            ],
+            "monsters": [
+                "KingCobra",
+                "DuckKite",
+                "FaceTree",
+                "HerbMan",
+                "Butterfly",
+                "Reaper"
             ]
         },
         {
@@ -520,6 +694,12 @@
                     "DeChaos",
                     "CurseOff"
                 ]
+            ],
+            "monsters": [
+                "FloraMan",
+                "TreeBoy",
+                "DeadNite",
+                "WindMerge"
             ]
         },
         {
@@ -531,7 +711,10 @@
             "atk": "0",
             "def": "0",
             "agl": "120",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "HerbMan"
+            ]
         },
         {
             "name": "DeChaos",
@@ -551,6 +734,12 @@
                     "DeChaos",
                     "CurseOff"
                 ]
+            ],
+            "monsters": [
+                "FireWeed",
+                "DeadNite",
+                "EvilWand",
+                "CoilBird"
             ]
         },
         {
@@ -607,6 +796,12 @@
                     "Surge",
                     "UltraDown"
                 ]
+            ],
+            "monsters": [
+                "Zoma",
+                "Esterk",
+                "Mirudraas2",
+                "DeathMore3"
             ]
         },
         {
@@ -618,7 +813,13 @@
             "atk": "58",
             "def": "0",
             "agl": "62",
-            "int": "48"
+            "int": "48",
+            "monsters": [
+                "Rayburn",
+                "HornBeet",
+                "Reaper",
+                "SabreMan"
+            ]
         },
         {
             "name": "DiagoCall",
@@ -646,7 +847,13 @@
             "atk": "108",
             "def": "108",
             "agl": "108",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "DragonKid",
+                "BigRoost",
+                "GiantSlug",
+                "Goopi"
+            ]
         },
         {
             "name": "DrakSlash",
@@ -657,7 +864,15 @@
             "atk": "72",
             "def": "0",
             "agl": "62",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "Skullroo",
+                "MadRaven",
+                "ManEater",
+                "Grendal",
+                "EvilArmor",
+                "Durran"
+            ]
         },
         {
             "name": "EerieLite",
@@ -675,6 +890,12 @@
                     "Curse",
                     "Radiant"
                 ]
+            ],
+            "monsters": [
+                "Babble",
+                "MistyWing",
+                "Hork",
+                "Reaper"
             ]
         },
         {
@@ -686,7 +907,18 @@
             "atk": "90",
             "def": "0",
             "agl": "0",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "LizardMan",
+                "MadDragon",
+                "Coatol",
+                "BattleRex",
+                "HammerMan",
+                "Armorpion",
+                "Gigantes",
+                "Mummy",
+                "RogueNite"
+            ]
         },
         {
             "name": "Explodet",
@@ -736,6 +968,12 @@
                     "Sacrifice",
                     "Revive"
                 ]
+            ],
+            "monsters": [
+                "Gasgon",
+                "WingTree",
+                "Digster",
+                "BombCrag"
             ]
         },
         {
@@ -753,6 +991,27 @@
                 "BlazeAir",
                 "Scorching",
                 "WhiteFire"
+            ],
+            "monsters": [
+                "DrakSlime",
+                "DragonKid",
+                "Dragon",
+                "LizardFly",
+                "Orochi",
+                "BattleRex",
+                "SkyDragon",
+                "Phoenix",
+                "StagBug",
+                "NiteWhip",
+                "Gismo",
+                "LavaMan",
+                "DracoLord2",
+                "Sidoh",
+                "Pizzaro",
+                "Mirudraas2",
+                "Mudou",
+                "DeathMore2",
+                "DarkDrium"
             ]
         },
         {
@@ -769,6 +1028,24 @@
                 "Firebal",
                 "Firebane",
                 "Firebolt"
+            ],
+            "monsters": [
+                "Slime",
+                "Metabble",
+                "Pteranod",
+                "LizardFly",
+                "Goategon",
+                "KingLeo",
+                "MadCondor",
+                "FloraMan",
+                "Eyeder",
+                "AgDevil",
+                "EvilBeast",
+                "1EyeClown",
+                "Gremlin",
+                "JewelBag",
+                "DracoLord1",
+                "Hargon"
             ]
         },
         {
@@ -836,6 +1113,15 @@
                     "VacuSlash",
                     "IceSlash"
                 ]
+            ],
+            "monsters": [
+                "Dragon",
+                "Orochi",
+                "Demonite",
+                "SkulRider",
+                "Grendal",
+                "Centasaur",
+                "EvilArmor"
             ]
         },
         {
@@ -860,6 +1146,12 @@
                     "Transform",
                     "Focus"
                 ]
+            ],
+            "monsters": [
+                "HerbMan",
+                "Akubar",
+                "Servant",
+                "DeathMore3"
             ]
         },
         {
@@ -877,6 +1169,26 @@
                 "IceAir",
                 "IceStorm",
                 "WhiteAir"
+            ],
+            "monsters": [
+                "GreatDrak",
+                "Divinegon",
+                "KingLeo",
+                "BigEye",
+                "Wyvern",
+                "Blizzardy",
+                "Demonite",
+                "EvilBeast",
+                "Akubar",
+                "Skullgon",
+                "Shadow",
+                "EvilWand",
+                "Gismo",
+                "IceMan",
+                "Sidoh",
+                "Zoma",
+                "Mudou",
+                "DarkDrium"
             ]
         },
         {
@@ -897,6 +1209,11 @@
                     "VacuSlash",
                     "IceSlash"
                 ]
+            ],
+            "monsters": [
+                "LizardMan",
+                "MadKnight",
+                "Esterk"
             ]
         },
         {
@@ -935,6 +1252,20 @@
                 "Heal",
                 "HealMore",
                 "HealAll"
+            ],
+            "monsters": [
+                "SlimeNite",
+                "Healer",
+                "KingSlime",
+                "Unicorn",
+                "BigEye",
+                "Wyvern",
+                "TreeBoy",
+                "Eyeder",
+                "Gremlin",
+                "DeadNite",
+                "Mudron",
+                "RogueNite"
             ]
         },
         {
@@ -989,6 +1320,12 @@
             "upgrade": [
                 "HealUs",
                 "HealUsAll"
+            ],
+            "monsters": [
+                "Healer",
+                "MadCondor",
+                "Lionex",
+                "DeadNoble"
             ]
         },
         {
@@ -1022,6 +1359,14 @@
                     "Thordain",
                     "Lightning"
                 ]
+            ],
+            "monsters": [
+                "MetalKing",
+                "ZapBird",
+                "Sidoh",
+                "Baramos",
+                "Pizzaro",
+                "DeathMore1"
             ]
         },
         {
@@ -1033,7 +1378,14 @@
             "atk": "120",
             "def": "0",
             "agl": "120",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "RockSlime",
+                "WingSnake",
+                "MadRaven",
+                "CactiBall",
+                "SpikyBoy"
+            ]
         },
         {
             "name": "Hustle",
@@ -1056,6 +1408,11 @@
                     "Hustle",
                     "Sacrifice"
                 ]
+            ],
+            "monsters": [
+                "SuperTen",
+                "FunkyBird",
+                "MudDoll"
             ]
         },
         {
@@ -1089,6 +1446,19 @@
                 "IceBolt",
                 "SnowStorm",
                 "Blizzard"
+            ],
+            "monsters": [
+                "Snaily",
+                "Metaly",
+                "WindBeast",
+                "Mommonja",
+                "Yeti",
+                "BigEye",
+                "TreeBoy",
+                "1EyeClown",
+                "GoatHorn",
+                "Servant",
+                "IceMan"
             ]
         },
         {
@@ -1114,6 +1484,13 @@
                     "VacuSlash",
                     "IceSlash"
                 ]
+            ],
+            "monsters": [
+                "GreatDrak",
+                "Yeti",
+                "Blizzardy",
+                "TailEater",
+                "Skullgon"
             ]
         },
         {
@@ -1149,6 +1526,12 @@
                     "Transform",
                     "Focus"
                 ]
+            ],
+            "monsters": [
+                "SpotSlime",
+                "SuperTen",
+                "Watabou",
+                "Copycat"
             ]
         },
         {
@@ -1222,6 +1605,18 @@
                     "Firebolt",
                     "Infermost"
                 ]
+            ],
+            "monsters": [
+                "Andreal",
+                "WindBeast",
+                "MadPecker",
+                "LandOwl",
+                "Gulpple",
+                "Lionex",
+                "GoatHorn",
+                "WindMerge",
+                "WhiteKing",
+                "Facer"
             ]
         },
         {
@@ -1233,7 +1628,15 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "58"
+            "int": "58",
+            "monsters": [
+                "MetalKing",
+                "Tortragon",
+                "WhipBird",
+                "EyeBall",
+                "EvilBeast",
+                "DarkCrab"
+            ]
         },
         {
             "name": "K.O.Dance",
@@ -1244,7 +1647,13 @@
             "atk": "0",
             "def": "0",
             "agl": "120",
-            "int": "120"
+            "int": "120",
+            "monsters": [
+                "KingCobra",
+                "SuperTen",
+                "DanceVegi",
+                "Shadow"
+            ]
         },
         {
             "name": "Kamikaze",
@@ -1262,6 +1671,12 @@
                     "ChargeUP",
                     "Ramming"
                 ]
+            ],
+            "monsters": [
+                "Spikerous",
+                "HammerMan",
+                "ArmyAnt",
+                "RotRaven"
             ]
         },
         {
@@ -1277,6 +1692,15 @@
             "upgrade": [
                 "LegSweep",
                 "BigTrip"
+            ],
+            "monsters": [
+                "Slabbit",
+                "Grizzly",
+                "WildApe",
+                "MadCat",
+                "StagBug",
+                "SkulRider",
+                "Goopi"
             ]
         },
         {
@@ -1295,6 +1719,9 @@
                     "Hustle",
                     "Sacrifice"
                 ]
+            ],
+            "monsters": [
+                "FunkyBird"
             ]
         },
         {
@@ -1313,6 +1740,10 @@
                     "Revive",
                     "WarCry"
                 ]
+            ],
+            "monsters": [
+                "FloraJay",
+                "Facer"
             ]
         },
         {
@@ -1336,6 +1767,13 @@
                     "Thordain",
                     "Lightning"
                 ]
+            ],
+            "monsters": [
+                "SlimeBorg",
+                "Tortragon",
+                "ZapBird",
+                "RotRaven",
+                "NiteWhip"
             ]
         },
         {
@@ -1347,7 +1785,13 @@
             "atk": "0",
             "def": "0",
             "agl": "98",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "MadDragon",
+                "Mommonja",
+                "MadGoose",
+                "DanceVegi"
+            ]
         },
         {
             "name": "LushLicks",
@@ -1362,6 +1806,17 @@
             "upgrade": [
                 "LushLicks",
                 "SickLick"
+            ],
+            "monsters": [
+                "SpotSlime",
+                "FairyDrak",
+                "Poisongon",
+                "Tonguella",
+                "Anteater",
+                "GiantSlug",
+                "Lipsy",
+                "Spooky",
+                "Hork"
             ]
         },
         {
@@ -1373,7 +1828,15 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "62"
+            "int": "62",
+            "monsters": [
+                "Tortragon",
+                "IronTurt",
+                "Gophecada",
+                "EyeBall",
+                "Putrepup",
+                "MadMirror"
+            ]
         },
         {
             "name": "MagicWall",
@@ -1384,7 +1847,12 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "74"
+            "int": "74",
+            "monsters": [
+                "AmberWeed",
+                "WeedBug",
+                "DarkCrab"
+            ]
         },
         {
             "name": "MapMagic",
@@ -1395,7 +1863,13 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "34"
+            "int": "34",
+            "monsters": [
+                "BeanMan",
+                "Eyeder",
+                "EvilWand",
+                "MadMirror"
+            ]
         },
         {
             "name": "Massacre",
@@ -1406,7 +1880,16 @@
             "atk": "72",
             "def": "0",
             "agl": "72",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "MadDragon",
+                "GulpBeast",
+                "Ogre",
+                "MadKnight",
+                "MetalDrak",
+                "EvilPot",
+                "DracoLord2"
+            ]
         },
         {
             "name": "Meditate",
@@ -1430,6 +1913,12 @@
                     "Guardian",
                     "StrongD"
                 ]
+            ],
+            "monsters": [
+                "Divinegon",
+                "StoneMan",
+                "BombCrag",
+                "DracoLord1"
             ]
         },
         {
@@ -1451,6 +1940,10 @@
                     "Firebolt",
                     "Infermost"
                 ]
+            ],
+            "monsters": [
+                "Slime",
+                "RainHawk"
             ]
         },
         {
@@ -1462,7 +1955,15 @@
             "atk": "72",
             "def": "0",
             "agl": "62",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "BattleRex",
+                "Anteater",
+                "ArmyCrab",
+                "DarkEye",
+                "Ogre",
+                "RogueNite"
+            ]
         },
         {
             "name": "MouthShut",
@@ -1473,7 +1974,13 @@
             "atk": "100",
             "def": "0",
             "agl": "140",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "SpotKing",
+                "Mommonja",
+                "Toadstool",
+                "Spooky"
+            ]
         },
         {
             "name": "MultiCut",
@@ -1491,6 +1998,11 @@
                     "ZombieCut",
                     "Vacuum"
                 ]
+            ],
+            "monsters": [
+                "SkyDragon",
+                "MadCondor",
+                "Balzak"
             ]
         },
         {
@@ -1509,6 +2021,14 @@
                     "PosionHit",
                     "NapAttack"
                 ]
+            ],
+            "monsters": [
+                "SpotKing",
+                "Tonguella",
+                "Gulpple",
+                "Toadstool",
+                "Lipsy",
+                "ArmyAnt"
             ]
         },
         {
@@ -1529,6 +2049,11 @@
                     "DeChaos",
                     "CurseOff"
                 ]
+            ],
+            "monsters": [
+                "Snaily",
+                "MadPlant",
+                "CoilBird"
             ]
         },
         {
@@ -1540,7 +2065,16 @@
             "atk": "0",
             "def": "0",
             "agl": "63",
-            "int": "49"
+            "int": "49",
+            "monsters": [
+                "Catfly",
+                "MadGoose",
+                "CactiBall",
+                "FaceTree",
+                "GiantWorm",
+                "Copycat",
+                "MudDoll"
+            ]
         },
         {
             "name": "PalsyAir",
@@ -1558,6 +2092,12 @@
                     "SleepAir",
                     "PosionAir"
                 ]
+            ],
+            "monsters": [
+                "Chamelgon",
+                "Saccer",
+                "FireWeed",
+                "DarkEye"
             ]
         },
         {
@@ -1569,7 +2109,14 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "49"
+            "int": "49",
+            "monsters": [
+                "Chamelgon",
+                "DuckKite",
+                "MadGoose",
+                "JewelBag",
+                "Voodoll"
+            ]
         },
         {
             "name": "PaniDance",
@@ -1580,7 +2127,11 @@
             "atk": "0",
             "def": "0",
             "agl": "78",
-            "int": "78"
+            "int": "78",
+            "monsters": [
+                "Skullroo",
+                "FunkyBird"
+            ]
         },
         {
             "name": "Paralyze",
@@ -1598,6 +2149,16 @@
                     "PosionHit",
                     "NapAttack"
                 ]
+            ],
+            "monsters": [
+                "TreeSlime",
+                "Chamelgon",
+                "CactiBall",
+                "EvilSeed",
+                "GiantMoth",
+                "MadHornet",
+                "Mummy",
+                "SabreMan"
             ]
         },
         {
@@ -1635,6 +2196,15 @@
             "upgrade": [
                 "PosionGas",
                 "PosionAir"
+            ],
+            "monsters": [
+                "Poisongon",
+                "Andreal",
+                "WingSnake",
+                "Catapila",
+                "TailEater",
+                "Hork",
+                "Mudou"
             ]
         },
         {
@@ -1653,6 +2223,14 @@
                     "PosionHit",
                     "NapAttack"
                 ]
+            ],
+            "monsters": [
+                "Babble",
+                "Poisongon",
+                "Rayburn",
+                "KingCobra",
+                "Crestpent",
+                "MadHornet"
             ]
         },
         {
@@ -1664,7 +2242,14 @@
             "atk": "82",
             "def": "68",
             "agl": "0",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "Saccer",
+                "DarkHorn",
+                "ManEater",
+                "MadCandle",
+                "Golem"
+            ]
         },
         {
             "name": "QuadHits",
@@ -1697,6 +2282,15 @@
                     "Curse",
                     "Radiant"
                 ]
+            ],
+            "monsters": [
+                "Slime",
+                "EvilSeed",
+                "TailEater",
+                "GiantMoth",
+                "DarkEye",
+                "Spooky",
+                "MadSpirit"
             ]
         },
         {
@@ -1715,6 +2309,18 @@
                     "BiAttack",
                     "SquallHit"
                 ]
+            ],
+            "monsters": [
+                "SlimeBorg",
+                "Swordgon",
+                "StubBird",
+                "Snapper",
+                "Armorpion",
+                "SkulRider",
+                "Ogre",
+                "Centasaur",
+                "Roboster",
+                "Esterk"
             ]
         },
         {
@@ -1733,6 +2339,14 @@
                     "ChargeUP",
                     "Ramming"
                 ]
+            ],
+            "monsters": [
+                "BoxSlime",
+                "Minidrak",
+                "PillowRat",
+                "GulpBeast",
+                "BullBird",
+                "DeathMore2"
             ]
         },
         {
@@ -1775,6 +2389,14 @@
             "upgrade": [
                 "RobMagic",
                 "TakeMagic"
+            ],
+            "monsters": [
+                "Dracky",
+                "Oniono",
+                "BeanMan",
+                "WeedBug",
+                "GoHopper",
+                "SabreMan"
             ]
         },
         {
@@ -1786,7 +2408,14 @@
             "atk": "102",
             "def": "0",
             "agl": "0",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "RockSlime",
+                "Spikerous",
+                "HornBeet",
+                "MetalDrak",
+                "Baramos"
+            ]
         },
         {
             "name": "Sacrifice",
@@ -1809,6 +2438,14 @@
                     "Hustle",
                     "Sacrifice"
                 ]
+            ],
+            "monsters": [
+                "Metabble",
+                "Gasgon",
+                "AgDevil",
+                "Facer",
+                "SpikyBoy",
+                "BombCrag"
             ]
         },
         {
@@ -1837,7 +2474,13 @@
             "atk": "0",
             "def": "0",
             "agl": "70",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "Minidrak",
+                "Trumpeter",
+                "BigRoost",
+                "MetalDrak"
+            ]
         },
         {
             "name": "Sap",
@@ -1852,6 +2495,17 @@
             "upgrade": [
                 "Sap",
                 "Defence"
+            ],
+            "monsters": [
+                "TreeSlime",
+                "Picky",
+                "MadPecker",
+                "MadPlant",
+                "MedusaEye",
+                "Orc",
+                "Putrepup",
+                "Skeletor",
+                "Voodoll"
             ]
         },
         {
@@ -1880,7 +2534,11 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "20"
+            "int": "20",
+            "monsters": [
+                "Picky",
+                "StubBird"
+            ]
         },
         {
             "name": "SickLick",
@@ -1913,6 +2571,13 @@
                     "HealAll",
                     "SideStep"
                 ]
+            ],
+            "monsters": [
+                "Slabbit",
+                "PillowRat",
+                "LandOwl",
+                "DanceVegi",
+                "MudDoll"
             ]
         },
         {
@@ -1928,6 +2593,17 @@
             "upgrade": [
                 "Sleep",
                 "SleepAll"
+            ],
+            "monsters": [
+                "Almiraj",
+                "DarkHorn",
+                "Wyvern",
+                "DuckKite",
+                "Dracky",
+                "Gulpple",
+                "Stubsuck",
+                "StagBug",
+                "EvilPot"
             ]
         },
         {
@@ -1946,6 +2622,18 @@
                     "SleepAir",
                     "PosionAir"
                 ]
+            ],
+            "monsters": [
+                "TreeSlime",
+                "DragonKid",
+                "FairyDrak",
+                "Tonguella",
+                "Goategon",
+                "Toadstool",
+                "Oniono",
+                "ManEater",
+                "AgDevil",
+                "MadSpirit"
             ]
         },
         {
@@ -1976,6 +2664,14 @@
             "upgrade": [
                 "Slow",
                 "SlowAll"
+            ],
+            "monsters": [
+                "Catfly",
+                "FairyRat",
+                "Goategon",
+                "MadPlant",
+                "Droll",
+                "Putrepup"
             ]
         },
         {
@@ -2010,7 +2706,11 @@
             "atk": "68",
             "def": "0",
             "agl": "72",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "FairyRat",
+                "SpikyBoy"
+            ]
         },
         {
             "name": "SnowStorm",
@@ -2048,6 +2748,11 @@
             "upgrade": [
                 "Speed",
                 "SpeedUp"
+            ],
+            "monsters": [
+                "FloraJay",
+                "Pixy",
+                "CurseLamp"
             ]
         },
         {
@@ -2081,6 +2786,16 @@
                     "BiAttack",
                     "SquallHit"
                 ]
+            ],
+            "monsters": [
+                "WingSlime",
+                "WingSnake",
+                "Anteater",
+                "Grizzly",
+                "MadCat",
+                "Phoenix",
+                "ChopClown",
+                "Roboster"
             ]
         },
         {
@@ -2092,7 +2807,15 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "34"
+            "int": "34",
+            "monsters": [
+                "WingTree",
+                "Stubsuck",
+                "GiantWorm",
+                "Droll",
+                "DarkCrab",
+                "Mimic"
+            ]
         },
         {
             "name": "StopSpell",
@@ -2103,7 +2826,17 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "38"
+            "int": "38",
+            "monsters": [
+                "Crestpent",
+                "Catfly",
+                "DarkHorn",
+                "FaceTree",
+                "Snapper",
+                "Gremlin",
+                "Centasaur",
+                "JewelBag"
+            ]
         },
         {
             "name": "StormWind",
@@ -2136,6 +2869,14 @@
                     "Guardian",
                     "StrongD"
                 ]
+            ],
+            "monsters": [
+                "RockSlime",
+                "IronTurt",
+                "RainHawk",
+                "Digster",
+                "IceMan",
+                "Golem"
             ]
         },
         {
@@ -2155,6 +2896,12 @@
                     "SuckAir",
                     "Meditate"
                 ]
+            ],
+            "monsters": [
+                "DrakSlime",
+                "SkyDragon",
+                "Gismo",
+                "Mirudraas2"
             ]
         },
         {
@@ -2166,7 +2913,14 @@
             "atk": "0",
             "def": "78",
             "agl": "0",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "Dragon",
+                "GreatDrak",
+                "Digster",
+                "CoilBird",
+                "StoneMan"
+            ]
         },
         {
             "name": "Surge",
@@ -2191,6 +2945,12 @@
                     "DeChaos",
                     "CurseOff"
                 ]
+            ],
+            "monsters": [
+                "GoldSlime",
+                "RainHawk",
+                "GoldGolem",
+                "DracoLord2"
             ]
         },
         {
@@ -2210,6 +2970,17 @@
                     "Defence",
                     "SlowAll"
                 ]
+            ],
+            "monsters": [
+                "Babble",
+                "FairyDrak",
+                "Andreal",
+                "FairyRat",
+                "Picky",
+                "MistyWing",
+                "Butterfly",
+                "MedusaEye",
+                "Voodoll"
             ]
         },
         {
@@ -2225,6 +2996,14 @@
             "upgrade": [
                 "TailWind",
                 "StormWind"
+            ],
+            "monsters": [
+                "WingSlime",
+                "Pteranod",
+                "MadRaven",
+                "Phoenix",
+                "MadHornet",
+                "Jamirus"
             ]
         },
         {
@@ -2257,6 +3036,13 @@
                 "DiagoCall",
                 "SamsiCall",
                 "BazooCall"
+            ],
+            "monsters": [
+                "WhipBird",
+                "DeadNoble",
+                "GoldGolem",
+                "Hargon",
+                "DeathMore1"
             ]
         },
         {
@@ -2268,7 +3054,14 @@
             "atk": "60",
             "def": "0",
             "agl": "0",
-            "int": "160"
+            "int": "160",
+            "monsters": [
+                "WhipBird",
+                "Catapila",
+                "GateGuard",
+                "Shadow",
+                "MadSpirit"
+            ]
         },
         {
             "name": "Thordain",
@@ -2309,6 +3102,10 @@
                     "Transform",
                     "Focus"
                 ]
+            ],
+            "monsters": [
+                "Copycat",
+                "MadMirror"
             ]
         },
         {
@@ -2320,7 +3117,16 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "66"
+            "int": "66",
+            "monsters": [
+                "StubBird",
+                "AmberWeed",
+                "BeanMan",
+                "ArmorPede",
+                "Pixy",
+                "ChopClown",
+                "CurseLamp"
+            ]
         },
         {
             "name": "TwinSlash",
@@ -2331,7 +3137,13 @@
             "atk": "80",
             "def": "0",
             "agl": "0",
-            "int": "0"
+            "int": "0",
+            "monsters": [
+                "Grizzly",
+                "WildApe",
+                "ArmorPede",
+                "Skullgon"
+            ]
         },
         {
             "name": "UltraDown",
@@ -2355,6 +3167,10 @@
                     "Defence",
                     "SlowAll"
                 ]
+            ],
+            "monsters": [
+                "Rosevine",
+                "DeathMore2"
             ]
         },
         {
@@ -2370,6 +3186,16 @@
             "upgrade": [
                 "Upper",
                 "Increase"
+            ],
+            "monsters": [
+                "SlimeNite",
+                "BoxSlime",
+                "Healer",
+                "Saccer",
+                "Catapila",
+                "ArmorPede",
+                "ArmyCrab",
+                "CurseLamp"
             ]
         },
         {
@@ -2395,6 +3221,15 @@
                     "VacuSlash",
                     "IceSlash"
                 ]
+            ],
+            "monsters": [
+                "Rayburn",
+                "WindBeast",
+                "MadCat",
+                "MadPecker",
+                "BigRoost",
+                "Lionex",
+                "ChopClown"
             ]
         },
         {
@@ -2432,6 +3267,12 @@
             "upgrade": [
                 "Vivify",
                 "Revive"
+            ],
+            "monsters": [
+                "KingSlime",
+                "Unicorn",
+                "Orc",
+                "Mudron"
             ]
         },
         {
@@ -2450,6 +3291,13 @@
                     "Revive",
                     "WarCry"
                 ]
+            ],
+            "monsters": [
+                "FangSlime",
+                "GulpBeast",
+                "Yeti",
+                "Trumpeter",
+                "EyeBall"
             ]
         },
         {
@@ -2461,7 +3309,13 @@
             "atk": "0",
             "def": "0",
             "agl": "0",
-            "int": "24"
+            "int": "24",
+            "monsters": [
+                "Slabbit",
+                "Watabou",
+                "GiantSlug",
+                "MadCandle"
+            ]
         },
         {
             "name": "WhiteAir",
@@ -2526,6 +3380,14 @@
             "upgrade": [
                 "WindBeast",
                 "Vacuum"
+            ],
+            "monsters": [
+                "WingSlime",
+                "Pteranod",
+                "LizardFly",
+                "GiantMoth",
+                "Durran",
+                "NiteWhip"
             ]
         },
         {
@@ -2575,6 +3437,13 @@
                     "ZombieCut",
                     "Vacuum"
                 ]
+            ],
+            "monsters": [
+                "MadGopher",
+                "WingTree",
+                "Stubsuck",
+                "Armorpion",
+                "Gigantes"
             ]
         }
     ]

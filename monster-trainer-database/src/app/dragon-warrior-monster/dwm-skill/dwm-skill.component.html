@@ -2,6 +2,22 @@
 {{skill.name}}
 {{skillStringified}}
 <h1>{{skill.name}}</h1>
+<upgradeable [upgrades]="skill.upgrade"></upgradeable>
+<p>Description: {{skill.description}}</p>
+<p *ngIf="isUpgrade">These monsters learn the base skill: {{skill.upgrade![0]}}</p>
 <li class="column" *ngFor="let monster of monstersWithSkill; let i = index">
     <a class="button" routerLink="/dwm/id/{{monster.id}}">{{monster.name}}</a>
 </li>
+<!-- <li class="column" *ngFor="let s of skillListStringifiedcopy; let i = index">
+    {{s}},
+</li> -->
+<!-- <li class="column" *ngFor="let s of skillList; let i = index">
+    {{l}}"name":
+    "{{s.name}}","description":
+    "{{s.description}}","lvl":
+    "{{s.lvl}}","hp":"{{s.hp}}","mp":"{{s.mp}}","atk":
+    "{{s.atk}}","def":"{{s.def}}","agl":"{{s.agl}}","int":
+    "{{s.int}}","combine":[<div *ngFor="let z of s.combine;let j = index">[<div *ngFor="let d of z;let j = index">
+            "{{d}}",
+        </div>]</div>]{{r}},
+</li> -->

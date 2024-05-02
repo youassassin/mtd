@@ -10,6 +10,7 @@ export class Skill {
     int: string;
     upgrade?: string[];
     combine?: string[][];
+    monsters?: string[];
 
     constructor() {
         this.name = "";
@@ -21,7 +22,5 @@ export class Skill {
         this.def = "";
         this.agl = "";
         this.int = "";
-        this.upgrade = [];
-        this.combine = [[]];
     }
 }
