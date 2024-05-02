@@ -1,0 +1,5055 @@
+{
+    "dwmBreedingList": [
+        {
+            "id": "1",
+            "name": "DrakSlime",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                }
+            ],
+            "children": [
+                "SlimeBorg",
+                "Goategon",
+                "Phoenix",
+                "Voodoll",
+                "Gismo"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "SpotSlime",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "WingSlime",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                }
+            ],
+            "children": [
+                "Rayburn"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "TreeSlime",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "[PLANT]"
+                    ]
+                }
+            ],
+            "children": [
+                "SuperTen"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Snaily",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "[BUG]"
+                    ]
+                }
+            ],
+            "children": [
+                "Voodoll",
+                "EvilPot"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "SlimeNight",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "7",
+            "name": "Babble",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "[UNDEAD]",
+                        "GiantMoth",
+                        "Poisongon"
+                    ]
+                }
+            ],
+            "children": [
+                "KingCobra"
+            ]
+        },
+        {
+            "id": "8",
+            "name": "BoxSlime",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "[MATERIAL]"
+                    ]
+                }
+            ],
+            "children": [
+                "Mudron",
+                "Mimic"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Slime",
+            "parents": [
+                {
+                    "pedigree": [
+                        ""
+                    ],
+                    "parent": [
+                        ""
+                    ]
+                }
+            ],
+            "children": [
+                "KingSlime"
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Healer",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "CopyCat",
+                        "FunkyBird",
+                        "MadPlant",
+                        "PillowRat"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "11",
+            "name": "FangSlime",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "Almiraj",
+                        "DarkHorn",
+                        "GulpBeast",
+                        "KingLeo",
+                        "MadCat",
+                        "Trumpeter"
+                    ]
+                }
+            ],
+            "children": [
+                "SuperTen",
+                "Unicorn",
+                "Mudron"
+            ]
+        },
+        {
+            "id": "12",
+            "name": "RockSlime",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "BombCrag",
+                        "DeadNite",
+                        "Digster",
+                        "Golem",
+                        "StoneMan"
+                    ]
+                }
+            ],
+            "children": [
+                "SlimeBorg",
+                "StubBird",
+                "WhipBird",
+                "EvilSeed",
+                "BoneSlave",
+                "Voodoll"
+            ]
+        },
+        {
+            "id": "13",
+            "name": "SlimeBorg",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "Roboster"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "DrakSlime",
+                        "Metabble",
+                        "RockSlime",
+                        "SlimeNite"
+                    ],
+                    "parent": [
+                        "BattleRex",
+                        "GreatDrak",
+                        "SkyDragon",
+                        "Spikerous",
+                        "Swordgon"
+                    ]
+                }
+            ],
+            "children": [
+                "WhipBird",
+                "GateGuard",
+                "BoneSlave",
+                "MetalDrak",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "14",
+            "name": "Slabbit",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "Skullroo"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "15",
+            "name": "SpotKing",
+            "parents": [
+                {
+                    "pedigree": [
+                        "SpotSlime"
+                    ],
+                    "parent": [
+                        "SpotSlime (+4)"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "KingSlime",
+                        "MetalKing"
+                    ],
+                    "parent": [
+                        "BattleRex",
+                        "Centasaur",
+                        "Divinegon",
+                        "Gigantes",
+                        "GreatDrak",
+                        "KingLeo",
+                        "MadCondor",
+                        "Unicorn",
+                        "WhipBird",
+                        "WhiteKing",
+                        "ZapBird"
+                    ]
+                }
+            ],
+            "children": [
+                "KingSlime",
+                "MetalKing",
+                "GoldSlime",
+                "GreatDrak",
+                "ArcDemon",
+                "WhiteKing"
+            ]
+        },
+        {
+            "id": "16",
+            "name": "KingSlime",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Slime"
+                    ],
+                    "parent": [
+                        "Slime (+4)"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "[???]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "SpotKing"
+                    ],
+                    "parent": [
+                        "BattleRex",
+                        "Centasaur",
+                        "DeadNoble",
+                        "Divinegon",
+                        "Gigantes",
+                        "GreatDrak",
+                        "KingLeo",
+                        "MadCondor",
+                        "Unicorn",
+                        "WhipBird",
+                        "WhiteKing",
+                        "ZapBird"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing",
+                "MetalKing",
+                "GoldSlime",
+                "GreatDrak",
+                "ArcDemon",
+                "WhiteKing",
+                "MetalDrak"
+            ]
+        },
+        {
+            "id": "17",
+            "name": "Metaly",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[SLIME]"
+                    ],
+                    "parent": [
+                        "MetalDrak"
+                    ]
+                }
+            ],
+            "children": [
+                "Metabble",
+                "Blizzardy"
+            ]
+        },
+        {
+            "id": "18",
+            "name": "Metabble",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Metaly"
+                    ],
+                    "parent": [
+                        "Metaly"
+                    ]
+                }
+            ],
+            "children": [
+                "SlimeBorg",
+                "MetalKing",
+                "Blizzardy"
+            ]
+        },
+        {
+            "id": "19",
+            "name": "MetalKing",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Metabble"
+                    ],
+                    "parent": [
+                        "Metabble"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "KingSlime",
+                        "SpotKing"
+                    ],
+                    "parent": [
+                        "MetalDrak"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing",
+                "GoldSlime",
+                "GreatDrak",
+                "ArcDemon",
+                "WhiteKing",
+                "Hargon"
+            ]
+        },
+        {
+            "id": "20",
+            "name": "GoldSlime",
+            "parents": [
+                {
+                    "pedigree": [
+                        "MetalKing"
+                    ],
+                    "parent": [
+                        "MetalKing"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "KingSlime",
+                        "MetalKing",
+                        "SpotKing"
+                    ],
+                    "parent": [
+                        "GoldGolem"
+                    ]
+                }
+            ],
+            "children": [
+                "Mirudraas1"
+            ]
+        },
+        {
+            "id": "21",
+            "name": "DragonKid",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "Dragon",
+                "GreatDrak"
+            ]
+        },
+        {
+            "id": "22",
+            "name": "Tortragon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "IronTurt"
+            ]
+        },
+        {
+            "id": "23",
+            "name": "Pteranod",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                }
+            ],
+            "children": [
+                "Coatol",
+                "Yeti"
+            ]
+        },
+        {
+            "id": "24",
+            "name": "Gasgon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "[PLANT]"
+                    ]
+                }
+            ],
+            "children": [
+                "MadDragon",
+                "Andreal",
+                "Coatol",
+                "Yeti"
+            ]
+        },
+        {
+            "id": "25",
+            "name": "FairyDrak",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "[BUG]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "26",
+            "name": "LizardMan",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                }
+            ],
+            "children": [
+                "Rayburn",
+                "Coatol",
+                "Goategon",
+                "Lionex"
+            ]
+        },
+        {
+            "id": "27",
+            "name": "Poisongon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": [
+                "Babble"
+            ]
+        },
+        {
+            "id": "28",
+            "name": "Swordgon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "[MATERIAL]"
+                    ]
+                }
+            ],
+            "children": [
+                "SlimeBorg",
+                "Yeti",
+                "GateGuard",
+                "Skullgon"
+            ]
+        },
+        {
+            "id": "29",
+            "name": "Dragon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "DragonKid"
+                    ],
+                    "parent": [
+                        "DragonKid"
+                    ]
+                }
+            ],
+            "children": [
+                "GreatDrak",
+                "MadCat"
+            ]
+        },
+        {
+            "id": "30",
+            "name": "MiniDrak",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "Picky"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "31",
+            "name": "MadDragon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "GulpBeast"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Gasgon"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "Andreal",
+                "SuperTen",
+                "Yeti",
+                "Grendal"
+            ]
+        },
+        {
+            "id": "32",
+            "name": "Rayburn",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "MadCondor"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "LizardMan"
+                    ],
+                    "parent": [
+                        "FaceTree",
+                        "GateGuard",
+                        "Gigantes",
+                        "GoatHorn",
+                        "Lionex",
+                        "MadCat",
+                        "Trumpeter",
+                        "WingSlime"
+                    ]
+                }
+            ],
+            "children": [
+                "WhipBird",
+                "Skullgon"
+            ]
+        },
+        {
+            "id": "33",
+            "name": "Chamelgon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "Voodoll"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "34",
+            "name": "LizardFly",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "GoHopper"
+                    ]
+                }
+            ],
+            "children": [
+                "FairyRat"
+            ]
+        },
+        {
+            "id": "35",
+            "name": "Andreal",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "Gulpple"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "BattleRex",
+                        "Gasgon",
+                        "MadDragon",
+                        "SkyDragon"
+                    ],
+                    "parent": [
+                        "ArcDemon",
+                        "Akubar",
+                        "DeadNoble",
+                        "FunkyBird",
+                        "GoatHorn",
+                        "Goatgon",
+                        "Golem",
+                        "Lionex",
+                        "MadCondor",
+                        "Ogre",
+                        "Trumpeter",
+                        "WhipBird"
+                    ]
+                }
+            ],
+            "children": [
+                "Orochi",
+                "ArcDemon",
+                "Skullgon",
+                "WhiteKing",
+                "MetalDrak",
+                "DracoLord1"
+            ]
+        },
+        {
+            "id": "36",
+            "name": "KingCobra",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "Babble"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "37",
+            "name": "Spikerous",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "ArmyCrab",
+                        "Digster"
+                    ]
+                }
+            ],
+            "children": [
+                "SlimeBorg",
+                "MetalDrak",
+                "Mirudraas2"
+            ]
+        },
+        {
+            "id": "38",
+            "name": "GreatDrak",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Dragon"
+                    ],
+                    "parent": [
+                        "Dragon"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "DragonKid"
+                    ],
+                    "parent": [
+                        "DragonKid (+4)"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "BattleRex",
+                        "Centasaur",
+                        "Gigantes",
+                        "KingSlime",
+                        "MetalKing",
+                        "SpotKing",
+                        "Unicorn",
+                        "WhipBird",
+                        "ZapBird"
+                    ]
+                }
+            ],
+            "children": [
+                "SlimeBorg",
+                "SpotKing",
+                "KingSlime",
+                "Orochi",
+                "Skullgon",
+                "WhiteKing",
+                "MetalDrak",
+                "Roboster",
+                "DracoLord1"
+            ]
+        },
+        {
+            "id": "39",
+            "name": "Crestpent",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "BigRoost"
+                    ]
+                }
+            ],
+            "children": [
+                "WingSnake"
+            ]
+        },
+        {
+            "id": "40",
+            "name": "WingSnake",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Crestpent"
+                    ],
+                    "parent": [
+                        "Crestpent"
+                    ]
+                }
+            ],
+            "children": [
+                "Coatol"
+            ]
+        },
+        {
+            "id": "41",
+            "name": "Coatol",
+            "parents": [
+                {
+                    "pedigree": [
+                        "WingSnake"
+                    ],
+                    "parent": [
+                        "WingSnake"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "BattleRex",
+                        "Gasgon",
+                        "LizardMan",
+                        "Pteranod",
+                        "SkyDragon"
+                    ],
+                    "parent": [
+                        "Copycat",
+                        "DarkHorn",
+                        "MadKnight",
+                        "StoneMan"
+                    ]
+                }
+            ],
+            "children": [
+                "GateGuard"
+            ]
+        },
+        {
+            "id": "42",
+            "name": "Orochi",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "[???]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Andreal",
+                        "GreatDrak"
+                    ],
+                    "parent": [
+                        "MedusaEye"
+                    ]
+                }
+            ],
+            "children": [
+                "Divinegon",
+                "ArcDemon",
+                "Skullgon",
+                "LavaMan",
+                "Baramos"
+            ]
+        },
+        {
+            "id": "43",
+            "name": "BattleRex",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "EvilArmor",
+                        "KingLeo",
+                        "Lionex",
+                        "MadKnight",
+                        "Ogre"
+                    ]
+                }
+            ],
+            "children": [
+                "SlimeBorg",
+                "SpotKing",
+                "KingSlime",
+                "Andreal",
+                "GreatDrak",
+                "Coatol",
+                "Yeti",
+                "Skullgon"
+            ]
+        },
+        {
+            "id": "44",
+            "name": "SkyDragon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "Phoenix"
+                    ]
+                }
+            ],
+            "children": [
+                "SlimeBorg",
+                "Andreal",
+                "Coatol",
+                "Divinegon",
+                "Yeti"
+            ]
+        },
+        {
+            "id": "45",
+            "name": "Divinegon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "SkyDragon"
+                    ],
+                    "parent": [
+                        "Orochi"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing",
+                "KingSlime",
+                "Skullgon",
+                "DracoLord2",
+                "Pizzaro"
+            ]
+        },
+        {
+            "id": "46",
+            "name": "Tonguella",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "GulpBeast",
+                "SuperTen",
+                "Unicorn",
+                "Trumpeter",
+                "Mudron"
+            ]
+        },
+        {
+            "id": "47",
+            "name": "Almiraj",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                }
+            ],
+            "children": [
+                "FangSlime",
+                "WildApe"
+            ]
+        },
+        {
+            "id": "48",
+            "name": "Catfly",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                }
+            ],
+            "children": [
+                "WindBeast"
+            ]
+        },
+        {
+            "id": "49",
+            "name": "PillowRat",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "[PLANT]"
+                    ]
+                }
+            ],
+            "children": [
+                "Healer",
+                "BeanMan"
+            ]
+        },
+        {
+            "id": "50",
+            "name": "Saccer",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "[BUG]"
+                    ]
+                }
+            ],
+            "children": [
+                "Anteater"
+            ]
+        },
+        {
+            "id": "51",
+            "name": "GulpBeast",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Grizzly"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "BigEye",
+                        "Grizzly",
+                        "Trumpeter",
+                        "Yeti"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "IronTurt",
+                        "Goatgon",
+                        "Grizzly",
+                        "Unicorn",
+                        "WildApe",
+                        "Yeti"
+                    ],
+                    "parent": [
+                        "Golem",
+                        "IceMan",
+                        "LavaMan",
+                        "MetalDrak",
+                        "Roboster",
+                        "StoneMan"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Grizzly",
+                        "Tonguella",
+                        "Trumpeter",
+                        "Unicorn",
+                        "WildApe",
+                        "Yeti"
+                    ],
+                    "parent": [
+                        "DeadNoble",
+                        "Digster",
+                        "Skeletor",
+                        "Skullgon",
+                        "WhiteKing"
+                    ]
+                }
+            ],
+            "children": [
+                "FangSlime",
+                "MadDragon",
+                "SuperTen",
+                "Unicorn",
+                "Trumpeter",
+                "KingLeo",
+                "Phoenix",
+                "Ogre",
+                "Skeletor",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "52",
+            "name": "SkullRoo",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": [
+                "Slabbit"
+            ]
+        },
+        {
+            "id": "53",
+            "name": "WindBeast",
+            "parents": [
+                {
+                    "pedigree": [
+                        "CatFly"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "[MATERIAL]"
+                    ]
+                }
+            ],
+            "children": [
+                "WindMerge"
+            ]
+        },
+        {
+            "id": "54",
+            "name": "Anteater",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Saccer"
+                    ],
+                    "parent": [
+                        "[Dragon]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "55",
+            "name": "SuperTen",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "Mudron"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "GulpBeast",
+                        "Tonguella"
+                    ],
+                    "parent": [
+                        "CopyCat",
+                        "Demonite",
+                        "FaceTree",
+                        "FangSlime",
+                        "FunkyBird",
+                        "Gremlin",
+                        "JewelBag",
+                        "Lipsy",
+                        "MadDragon",
+                        "MadPlant",
+                        "Mimic",
+                        "TreeSlime"
+                    ]
+                }
+            ],
+            "children": [
+                "Trumpeter",
+                "KingLeo",
+                "Blizzardy"
+            ]
+        },
+        {
+            "id": "56",
+            "name": "IronTurt",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "Tortragon"
+                    ]
+                }
+            ],
+            "children": [
+                "GulpBeast",
+                "Yeti",
+                "Phoenix",
+                "ArmorPede"
+            ]
+        },
+        {
+            "id": "57",
+            "name": "Mommonja",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "DuckKite"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "58",
+            "name": "HammerMan",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "Stubsuck"
+                    ]
+                }
+            ],
+            "children": [
+                "Ogre"
+            ]
+        },
+        {
+            "id": "59",
+            "name": "Grizzly",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "[DEVIL]",
+                        "Golem",
+                        "IceMan",
+                        "LavaMan",
+                        "MetalDrak",
+                        "Roboster",
+                        "StoneMan"
+                    ]
+                }
+            ],
+            "children": [
+                "GulpBeast",
+                "Unicorn",
+                "Trumpeter",
+                "Phoenix",
+                "Skeletor",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "60",
+            "name": "Yeti",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "Orc"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Goatgon",
+                        "IronTurt",
+                        "MadCat",
+                        "WildApe"
+                    ],
+                    "parent": [
+                        "BattleRex",
+                        "Gasgon",
+                        "MadDragon",
+                        "Pteranod",
+                        "SkyDragon",
+                        "Swordgon"
+                    ]
+                }
+            ],
+            "children": [
+                "GulpBeast",
+                "Unicorn",
+                "Trumpeter",
+                "Blizzardy",
+                "Mudron"
+            ]
+        },
+        {
+            "id": "61",
+            "name": "MadGopher",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "SabreMan"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "62",
+            "name": "FairyRat",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "Lizardfly"
+                    ]
+                }
+            ],
+            "children": [
+                "MadHornet"
+            ]
+        },
+        {
+            "id": "63",
+            "name": "Unicorn",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "FangSlime"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Goatgon",
+                        "Grizzly",
+                        "GulpBeast",
+                        "Tonguella",
+                        "Trumpeter",
+                        "WildApe",
+                        "Yeti"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing",
+                "KingSlime",
+                "GreatDrak",
+                "GulpBeast",
+                "KingLeo",
+                "Ogre",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "64",
+            "name": "Goategon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "DrakSlime",
+                        "LizardMan"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "65",
+            "name": "WildApe",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Almiraj"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "MadPecker"
+                    ]
+                }
+            ],
+            "children": [
+                "GulpBeast",
+                "Yeti",
+                "Unicorn",
+                "Trumpeter"
+            ]
+        },
+        {
+            "id": "66",
+            "name": "Trumpeter",
+            "parents": [
+                {
+                    "pedigree": [
+                        "WildApe"
+                    ],
+                    "parent": [
+                        "WildApe"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "SuperTen"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Grizzly",
+                        "GulpBeast",
+                        "Tonguella",
+                        "Yeti"
+                    ],
+                    "parent": [
+                        "LandOwl",
+                        "MadCondor",
+                        "WhipBird",
+                        "ZapBird"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "GulpBeast"
+                    ],
+                    "parent": [
+                        "Balzak",
+                        "Golem",
+                        "IceMan",
+                        "LavaMan",
+                        "MetalDrak",
+                        "Roboster",
+                        "StoneMan"
+                    ]
+                }
+            ],
+            "children": [
+                "FangSlime",
+                "Rayburn",
+                "Andreal",
+                "GulpBeast",
+                "Unicorn",
+                "KingLeo",
+                "ArcDemon",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "67",
+            "name": "KingLeo",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Roboster"
+                    ],
+                    "parent": [
+                        "DarkHorn",
+                        "MadCat",
+                        "Trumpeter",
+                        "GulpBeast",
+                        "SuperTen",
+                        "Unicorn"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Trumpeter"
+                    ],
+                    "parent": [
+                        "Balzak",
+                        "GoldGolem",
+                        "MetalDrak",
+                        "Trumpeter"
+                    ]
+                }
+            ],
+            "children": [
+                "FangSlime",
+                "SpotKing",
+                "KingSlime",
+                "BattleRex",
+                "ArcDemon",
+                "WhiteKing",
+                "Roboster",
+                "LavaMan",
+                "IceMan",
+                "Esterk"
+            ]
+        },
+        {
+            "id": "68",
+            "name": "DarkHorn",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "[???]"
+                    ]
+                }
+            ],
+            "children": [
+                "FangSlime",
+                "Coatol",
+                "KingLeo",
+                "GoatHorn",
+                "Mudou"
+            ]
+        },
+        {
+            "id": "69",
+            "name": "MadCat",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "Dragon"
+                    ]
+                }
+            ],
+            "children": [
+                "FangSlime",
+                "Rayburn",
+                "Yeti",
+                "KingLeo",
+                "Skeletor"
+            ]
+        },
+        {
+            "id": "70",
+            "name": "BigEye",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BEAST]"
+                    ],
+                    "parent": [
+                        "EyeBall"
+                    ]
+                }
+            ],
+            "children": [
+                "GulpBeast",
+                "EvilSeed",
+                "Gigantes"
+            ]
+        },
+        {
+            "id": "71",
+            "name": "Picky",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "MiniDrak",
+                "Dracky"
+            ]
+        },
+        {
+            "id": "72",
+            "name": "Wyvern",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                }
+            ],
+            "children": [
+                "MadGoose",
+                "Gismo"
+            ]
+        },
+        {
+            "id": "73",
+            "name": "BullBird",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "LandOwl"
+            ]
+        },
+        {
+            "id": "74",
+            "name": "FloraJay",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "[PLANT]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "75",
+            "name": "DuckKite",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "[BUG]"
+                    ]
+                }
+            ],
+            "children": [
+                "Mommonja",
+                "EvilSeed"
+            ]
+        },
+        {
+            "id": "76",
+            "name": "MadPecker",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                }
+            ],
+            "children": [
+                "WildApe"
+            ]
+        },
+        {
+            "id": "77",
+            "name": "MadRaven",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": [
+                "Skeletor"
+            ]
+        },
+        {
+            "id": "78",
+            "name": "MistyWing",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "[MATERIAL]"
+                    ]
+                }
+            ],
+            "children": [
+                "GateGuard",
+                "NiteWhip",
+                "Gismo"
+            ]
+        },
+        {
+            "id": "79",
+            "name": "Dracky",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Picky"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "80",
+            "name": "BigRoost",
+            "parents": [
+                {
+                    "pedigree": [
+                        ""
+                    ],
+                    "parent": [
+                        ""
+                    ]
+                }
+            ],
+            "children": [
+                "Crestpent"
+            ]
+        },
+        {
+            "id": "81",
+            "name": "StubBird",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "RockSlime"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "82",
+            "name": "LandOwl",
+            "parents": [
+                {
+                    "pedigree": [
+                        "BullBird"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "Trumpeter",
+                "MadGoose",
+                "MadCondor",
+                "WhipBird",
+                "MadHornet",
+                "BoneSlave",
+                "SabreMan"
+            ]
+        },
+        {
+            "id": "83",
+            "name": "MadGoose",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "Droll"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "LandOwl",
+                        "MadCondor",
+                        "Phoenix",
+                        "Wyvern"
+                    ],
+                    "parent": [
+                        "[DRAGON",
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": [
+                "WhipBird",
+                "BoneSlave",
+                "SabreMan"
+            ]
+        },
+        {
+            "id": "84",
+            "name": "MadCondor",
+            "parents": [
+                {
+                    "pedigree": [
+                        "LandOwl"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "CoilBird"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing",
+                "KingSlime",
+                "Rayburn",
+                "Andreal",
+                "Trumpeter",
+                "MadGoose",
+                "ZapBird",
+                "WhipBird",
+                "GateGuard",
+                "Skeletor"
+            ]
+        },
+        {
+            "id": "85",
+            "name": "Blizzardy",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "DeadNoble",
+                        "Goatgon",
+                        "IceMan",
+                        "Metabble",
+                        "Metaly",
+                        "Servant",
+                        "Skeletor",
+                        "Skullgon",
+                        "SuperTen",
+                        "Trumpter",
+                        "WhiteKing",
+                        "Yeti"
+                    ]
+                }
+            ],
+            "children": [
+                "WhipBird",
+                "RainHawk",
+                "WhiteKing"
+            ]
+        },
+        {
+            "id": "86",
+            "name": "Phoenix",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "ArcDemon",
+                        "Copycat",
+                        "DrakSlime",
+                        "Gizmo",
+                        "Grizzly",
+                        "GulpBeast",
+                        "IronTurt",
+                        "LavaMan"
+                    ]
+                }
+            ],
+            "children": [
+                "SkyDragon",
+                "MadGoose",
+                "ZapBird",
+                "RainHawk",
+                "SabreMan",
+                "Gismo"
+            ]
+        },
+        {
+            "id": "87",
+            "name": "ZapBird",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "[???]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "MadCondor",
+                        "Phoenix",
+                        "WhipBird"
+                    ],
+                    "parent": [
+                        "Gismo"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing",
+                "KingSlime",
+                "GreatDrak",
+                "Trumpeter",
+                "WhipBird",
+                "ArcDemon",
+                "WhiteKing",
+                "LavaMan"
+            ]
+        },
+        {
+            "id": "88",
+            "name": "WhipBird",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "Rayburn"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Blizzardy",
+                        "LandOwl",
+                        "MadCondor",
+                        "MadGoose",
+                        "ZapBird"
+                    ],
+                    "parent": [
+                        "Digster",
+                        "Golem",
+                        "MetalDrak",
+                        "RockSlime",
+                        "StoneMan",
+                        "SlimeBorg"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing",
+                "KingSlime",
+                "Andreal",
+                "GreatDrak",
+                "Trumpeter",
+                "ZapBird",
+                "ArcDemon",
+                "WhiteKing"
+            ]
+        },
+        {
+            "id": "89",
+            "name": "FunkyBird",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BIRD]"
+                    ],
+                    "parent": [
+                        "DanceVegi"
+                    ]
+                }
+            ],
+            "children": [
+                "Healer",
+                "Andreal",
+                "SuperTen",
+                "HerbMan",
+                "Mudron",
+                "SabreMan"
+            ]
+        },
+        {
+            "id": "90",
+            "name": "RainHawk",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Blizzardy"
+                    ],
+                    "parent": [
+                        "Phoenix"
+                    ]
+                }
+            ],
+            "children": [
+                "Jamirus"
+            ]
+        },
+        {
+            "id": "91",
+            "name": "MadPlant",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "Healer",
+                "SuperTen",
+                "DanceVegi",
+                "Mudron"
+            ]
+        },
+        {
+            "id": "92",
+            "name": "FireWeed",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                }
+            ],
+            "children": [
+                "Gismo"
+            ]
+        },
+        {
+            "id": "93",
+            "name": "FloraMan",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "TailEater",
+                "BoneSlave"
+            ]
+        },
+        {
+            "id": "94",
+            "name": "WingTree",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                }
+            ],
+            "children": [
+                "CurseLamp"
+            ]
+        },
+        {
+            "id": "95",
+            "name": "CactiBall",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "[BUG]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "96",
+            "name": "Gulpple",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                }
+            ],
+            "children": [
+                "Andreal"
+            ]
+        },
+        {
+            "id": "97",
+            "name": "Toadstool",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "98",
+            "name": "AmberWeed",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "[MATERIAL]"
+                    ]
+                }
+            ],
+            "children": [
+                "Eyeder"
+            ]
+        },
+        {
+            "id": "99",
+            "name": "Stubsuck",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "HammerMan"
+            ]
+        },
+        {
+            "id": "100",
+            "name": "Oniono",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "Gophecada"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "101",
+            "name": "DanceVegi",
+            "parents": [
+                {
+                    "pedigree": [
+                        "MadPlant"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "Facer"
+                    ]
+                }
+            ],
+            "children": [
+                "FunkyBird",
+                "HerbMan",
+                "Mudron"
+            ]
+        },
+        {
+            "id": "102",
+            "name": "TreeBoy",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "Pixy"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "103",
+            "name": "FaceTree",
+            "parents": [
+                {
+                    "pedigree": [
+                        "HerbMan"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "NiteWhip"
+                    ]
+                }
+            ],
+            "children": [
+                "Rayburn",
+                "SuperTen"
+            ]
+        },
+        {
+            "id": "104",
+            "name": "HerbMan",
+            "parents": [
+                {
+                    "pedigree": [
+                        "DanceVegi"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "FunkyBird"
+                    ]
+                }
+            ],
+            "children": [
+                "FaceTree"
+            ]
+        },
+        {
+            "id": "105",
+            "name": "BeanMan",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "PillowRat"
+                    ]
+                }
+            ],
+            "children": [
+                "Orc"
+            ]
+        },
+        {
+            "id": "106",
+            "name": "EvilSeed",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "BigEye",
+                        "Butterfly",
+                        "DarkEye",
+                        "DuckKite",
+                        "EyeBall",
+                        "Eyeder",
+                        "MadMirror",
+                        "RockSlime"
+                    ]
+                }
+            ],
+            "children": [
+                "ManEater",
+                "Gismo"
+            ]
+        },
+        {
+            "id": "107",
+            "name": "ManEater",
+            "parents": [
+                {
+                    "pedigree": [
+                        "EvilSeed"
+                    ],
+                    "parent": [
+                        "EvilSeed"
+                    ]
+                }
+            ],
+            "children": [
+                "Snapper"
+            ]
+        },
+        {
+            "id": "108",
+            "name": "Snapper",
+            "parents": [
+                {
+                    "pedigree": [
+                        "ManEater"
+                    ],
+                    "parent": [
+                        "ManEater"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "109",
+            "name": "Rosevine",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[PLANT]"
+                    ],
+                    "parent": [
+                        "[???]"
+                    ]
+                }
+            ],
+            "children": [
+                "GateGuard",
+                "Sidoh"
+            ]
+        },
+        {
+            "id": "110",
+            "name": "Watabou",
+            "parents": [
+                {
+                    "pedigree": [
+                        "--"
+                    ],
+                    "parent": [
+                        "--"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "111",
+            "name": "GiantSlug",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "ArmyAnt",
+                "Mudron"
+            ]
+        },
+        {
+            "id": "112",
+            "name": "Catapila",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "113",
+            "name": "Gophecada",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "Oniono"
+            ]
+        },
+        {
+            "id": "114",
+            "name": "Butterfly",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                }
+            ],
+            "children": [
+                "EvilSeed",
+                "GiantMoth",
+                "Droll"
+            ]
+        },
+        {
+            "id": "115",
+            "name": "WeedBug",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "[PLANT]"
+                    ]
+                }
+            ],
+            "children": [
+                "TailEater",
+                "Reaper"
+            ]
+        },
+        {
+            "id": "116",
+            "name": "GiantWorm",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                }
+            ],
+            "children": [
+                "ArmorPede",
+                "SabreMan"
+            ]
+        },
+        {
+            "id": "117",
+            "name": "Lipsy",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": [
+                "SuperTen",
+                "Droll",
+                "Mudron",
+                "Voodoll"
+            ]
+        },
+        {
+            "id": "118",
+            "name": "StagBug",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "[MATERIAL]"
+                    ]
+                }
+            ],
+            "children": [
+                "HornBeet"
+            ]
+        },
+        {
+            "id": "119",
+            "name": "ArmyAnt",
+            "parents": [
+                {
+                    "pedigree": [
+                        "GiantSlug"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "120",
+            "name": "GoHopper",
+            "parents": [
+                {
+                    "pedigree": [
+                        "--"
+                    ],
+                    "parent": [
+                        "--"
+                    ]
+                }
+            ],
+            "children": [
+                "LizardFly"
+            ]
+        },
+        {
+            "id": "121",
+            "name": "TailEater",
+            "parents": [
+                {
+                    "pedigree": [
+                        "WeedBug"
+                    ],
+                    "parent": [
+                        "[PLANT]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "FloraMan"
+                    ]
+                }
+            ],
+            "children": [
+                "Droll"
+            ]
+        },
+        {
+            "id": "122",
+            "name": "ArmorPede",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "IronTurt"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Droll"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "GiantWorm"
+                    ],
+                    "parent": [
+                        "[MATERIAL]"
+                    ]
+                }
+            ],
+            "children": [
+                "HornBeet",
+                "EvilArmor"
+            ]
+        },
+        {
+            "id": "123",
+            "name": "Eyeder",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "AmberWeed"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Catapilla"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "EvilSeed",
+                "Droll"
+            ]
+        },
+        {
+            "id": "124",
+            "name": "GiantMoth",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Butterfly"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Catapilla"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "Babble",
+                "GateGuard"
+            ]
+        },
+        {
+            "id": "125",
+            "name": "Droll",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Lipsy"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "Spooky"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Butterfly",
+                        "Eyeder",
+                        "TailEater"
+                    ],
+                    "parent": [
+                        "Butterfly",
+                        "Eyeder",
+                        "TailEater"
+                    ]
+                }
+            ],
+            "children": [
+                "MadGoose",
+                "ArmorPede",
+                "MadHornet",
+                "Mudron"
+            ]
+        },
+        {
+            "id": "126",
+            "name": "ArmyCrab",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "DarkCrab"
+                    ]
+                }
+            ],
+            "children": [
+                "Spikerous"
+            ]
+        },
+        {
+            "id": "127",
+            "name": "MadHornet",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "FairyRat"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Droll",
+                        "LandOwl"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "128",
+            "name": "HornBeet",
+            "parents": [
+                {
+                    "pedigree": [
+                        "ArmorPede"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "StagBug"
+                    ],
+                    "parent": [
+                        "StagBug"
+                    ]
+                }
+            ],
+            "children": [
+                "Armorpion",
+                "BoneSlave",
+                "StoneMan"
+            ]
+        },
+        {
+            "id": "129",
+            "name": "Armorpion",
+            "parents": [
+                {
+                    "pedigree": [
+                        "HornBeet"
+                    ],
+                    "parent": [
+                        "HornBeet"
+                    ]
+                }
+            ],
+            "children": [
+                "DeathMore2"
+            ]
+        },
+        {
+            "id": "130",
+            "name": "Digster",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[BUG]"
+                    ],
+                    "parent": [
+                        "[???]"
+                    ]
+                }
+            ],
+            "children": [
+                "RockSlime",
+                "Spikerous",
+                "GulpBeast",
+                "WhipBird",
+                "Ogre",
+                "MetalDrak",
+                "StoneMan"
+            ]
+        },
+        {
+            "id": "131",
+            "name": "Pixy",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "TreeBoy",
+                "1EyeClown"
+            ]
+        },
+        {
+            "id": "132",
+            "name": "ArcDemon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "[???]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "GateGuard"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Ogre"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "AgDevil",
+                        "Gigantes",
+                        "Grendal"
+                    ],
+                    "parent": [
+                        "Andreal",
+                        "KingLeo",
+                        "KingSlime",
+                        "MetalDrak",
+                        "MetalKing",
+                        "Orochi",
+                        "SpotKing",
+                        "StoneMan",
+                        "Trumpeter",
+                        "WhipBird",
+                        "ZapBird"
+                    ]
+                }
+            ],
+            "children": [
+                "Andreal",
+                "Phoenix",
+                "Lionex",
+                "GoatHorn",
+                "Akubar",
+                "Centasaur",
+                "EvilArmor",
+                "DeadNoble",
+                "LavaMan"
+            ]
+        },
+        {
+            "id": "133",
+            "name": "AgDevil",
+            "parents": [
+                {
+                    "pedigree": [
+                        "EvilBeast",
+                        "Gremlin",
+                        "MedusaEye",
+                        "SkulRider"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                }
+            ],
+            "children": [
+                "ArcDemon",
+                "Ogre",
+                "GateGuard"
+            ]
+        },
+        {
+            "id": "134",
+            "name": "Demonite",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                }
+            ],
+            "children": [
+                "SuperTen",
+                "1EyeClown",
+                "GateGuard"
+            ]
+        },
+        {
+            "id": "135",
+            "name": "DarkEye",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "[PLANT]"
+                    ]
+                }
+            ],
+            "children": [
+                "EvilSeed",
+                "MedusaEye"
+            ]
+        },
+        {
+            "id": "136",
+            "name": "EyeBall",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "[BUG]"
+                    ]
+                }
+            ],
+            "children": [
+                "BigEye",
+                "EvilSeed",
+                "1EyeClown"
+            ]
+        },
+        {
+            "id": "137",
+            "name": "SkulRider",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": [
+                "AgDevil",
+                "Grendal",
+                "Gigantes"
+            ]
+        },
+        {
+            "id": "138",
+            "name": "EvilBeast",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "[MATERIAL]"
+                    ]
+                }
+            ],
+            "children": [
+                "AgDevil",
+                "Grendal",
+                "Gigantes",
+                "Skeletor"
+            ]
+        },
+        {
+            "id": "139",
+            "name": "1EyeClown",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Demonite",
+                        "EyeBall",
+                        "Pixy"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "MedusaEye",
+                "ChopClown"
+            ]
+        },
+        {
+            "id": "140",
+            "name": "Gremlin",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "SuperTen",
+                "AgDevil",
+                "MedusaEye",
+                "Grendal",
+                "BoneSlave"
+            ]
+        },
+        {
+            "id": "141",
+            "name": "MedusaEye",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "1EyeClown",
+                        "DarkEye",
+                        "Gremlin"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": [
+                "Orochi",
+                "AgDevil",
+                "Grendal",
+                "Gigantes"
+            ]
+        },
+        {
+            "id": "142",
+            "name": "Lionex",
+            "parents": [
+                {
+                    "pedigree": [
+                        "ArcDemon"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "LizardMan"
+                    ]
+                }
+            ],
+            "children": [
+                "Rayburn",
+                "Andreal",
+                "BattleRex",
+                "DeadNoble"
+            ]
+        },
+        {
+            "id": "143",
+            "name": "GoatHorn",
+            "parents": [
+                {
+                    "pedigree": [
+                        "ArcDemon"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "DarkHorn"
+                    ]
+                }
+            ],
+            "children": [
+                "Rayburn",
+                "Andreal"
+            ]
+        },
+        {
+            "id": "144",
+            "name": "Orc",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "BeanMan"
+                    ]
+                }
+            ],
+            "children": [
+                "Yeti"
+            ]
+        },
+        {
+            "id": "145",
+            "name": "Ogre",
+            "parents": [
+                {
+                    "pedigree": [
+                        "GateGuard"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "AgDevil",
+                        "Gigantes",
+                        "Grendal"
+                    ],
+                    "parent": [
+                        "Digster",
+                        "GulpBeast",
+                        "Roboster",
+                        "Unicorn"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "HammerMan"
+                    ]
+                }
+            ],
+            "children": [
+                "Andreal",
+                "BattleRex",
+                "ArcDemon",
+                "GateGuard",
+                "Centasaur",
+                "EvilArmor",
+                "Skeletor",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "146",
+            "name": "GateGuard",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Ogre"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Demonite"
+                    ],
+                    "parent": [
+                        "Demonite"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "AgDevil",
+                        "Gigantes",
+                        "Grendal"
+                    ],
+                    "parent": [
+                        "Coatol",
+                        "DeadNoble",
+                        "GiantMoth",
+                        "MadCondor",
+                        "MistyWing",
+                        "Rosevine",
+                        "Skullgon",
+                        "SlimeBorg",
+                        "Swordgon",
+                        "WhiteKing"
+                    ]
+                }
+            ],
+            "children": [
+                "Rayburn",
+                "ArcDemon",
+                "Ogre",
+                "Akubar",
+                "Centasaur",
+                "EvilArmor",
+                "DeadNoble"
+            ]
+        },
+        {
+            "id": "147",
+            "name": "ChopClown",
+            "parents": [
+                {
+                    "pedigree": [
+                        "1EyeClown"
+                    ],
+                    "parent": [
+                        "1EyeClown"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "148",
+            "name": "Grendal",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "MadDragon"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "EvilBeast",
+                        "Gremlin",
+                        "MedusaEye",
+                        "SkulRider"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "ArcDemon",
+                "Ogre",
+                "GateGuard",
+                "Akubar",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "149",
+            "name": "Akubar",
+            "parents": [
+                {
+                    "pedigree": [
+                        "ArcDemon"
+                    ],
+                    "parent": [
+                        "GateGuard"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Grendal"
+                    ],
+                    "parent": [
+                        "Grendal"
+                    ]
+                }
+            ],
+            "children": [
+                "Andreal",
+                "Jamirus"
+            ]
+        },
+        {
+            "id": "150",
+            "name": "MadKnight",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "RogueNite"
+                    ]
+                }
+            ],
+            "children": [
+                "Coatol",
+                "BattleRex"
+            ]
+        },
+        {
+            "id": "151",
+            "name": "Gigantes",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "BigEye"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "EvilBeast",
+                        "MedusaEye",
+                        "SkulRider"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing",
+                "KingSlime",
+                "Rayburn",
+                "GreatDrak",
+                "ArcDemon",
+                "Ogre",
+                "GateGuard"
+            ]
+        },
+        {
+            "id": "152",
+            "name": "Centasaur",
+            "parents": [
+                {
+                    "pedigree": [
+                        "ArcDemon"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "GateGuard",
+                        "Ogre"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing",
+                "KingSlime",
+                "GreatDrak",
+                "Durran",
+                "LavaMan"
+            ]
+        },
+        {
+            "id": "153",
+            "name": "EvilArmor",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[DEVIL]"
+                    ],
+                    "parent": [
+                        "Armorpede"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "ArcDemon",
+                        "GateGuard",
+                        "Ogre"
+                    ],
+                    "parent": [
+                        "[MATERIAL]"
+                    ]
+                }
+            ],
+            "children": [
+                "BattleRex",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "154",
+            "name": "Jamirus",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Akubar"
+                    ],
+                    "parent": [
+                        "RainHawk"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "RainHawk"
+                    ],
+                    "parent": [
+                        "Akubar"
+                    ]
+                }
+            ],
+            "children": [
+                "Sidoh"
+            ]
+        },
+        {
+            "id": "155",
+            "name": "Durran",
+            "parents": [
+                {
+                    "pedigree": [
+                        "GoldGolem"
+                    ],
+                    "parent": [
+                        "Centasaur"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Centasaur"
+                    ],
+                    "parent": [
+                        "GoldGolem"
+                    ]
+                }
+            ],
+            "children": [
+                "Pizzaro"
+            ]
+        },
+        {
+            "id": "156",
+            "name": "Spooky",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "Droll",
+                "Hork",
+                "Reaper"
+            ]
+        },
+        {
+            "id": "157",
+            "name": "Skullgon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "BoneSlave",
+                        "DeadNoble",
+                        "Skeletor",
+                        "Skullgon",
+                        "WhiteKing"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[DRAGON]"
+                    ],
+                    "parent": [
+                        "DeadNoble",
+                        "Servant",
+                        "Skullgon",
+                        "WhiteKing"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "Andreal",
+                        "BattleRex",
+                        "Divinegon",
+                        "GreatDrak",
+                        "Orochi",
+                        "Rayburn",
+                        "Swordgon"
+                    ]
+                }
+            ],
+            "children": [
+                "GulpBeast",
+                "Blizzardy",
+                "GateGuard",
+                "Skullgon",
+                "MadSpirit",
+                "DeadNoble",
+                "WhiteKing",
+                "MetalDrak",
+                "IceMan"
+            ]
+        },
+        {
+            "id": "158",
+            "name": "Putrepup",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "159",
+            "name": "RotRaven",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                }
+            ],
+            "children": [
+                "WindMerge"
+            ]
+        },
+        {
+            "id": "160",
+            "name": "Mummy",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "[PLANT]"
+                    ]
+                }
+            ],
+            "children": [
+                "BoneSlave",
+                "Skeletor",
+                "StoneMan"
+            ]
+        },
+        {
+            "id": "161",
+            "name": "DarkCrab",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "[BUG]"
+                    ]
+                }
+            ],
+            "children": [
+                "ArmyCrab",
+                "NiteWhip"
+            ]
+        },
+        {
+            "id": "162",
+            "name": "DeadNite",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                }
+            ],
+            "children": [
+                "RockSlime",
+                "MadSpirit",
+                "DeadNoble",
+                "BoneSlave",
+                "Skeletor",
+                "StoneMan"
+            ]
+        },
+        {
+            "id": "163",
+            "name": "Shadow",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "[MATERIAL]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "164",
+            "name": "Hork",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Spooky"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "Reaper",
+                "BoneSlave",
+                "Skeletor",
+                "StoneMan"
+            ]
+        },
+        {
+            "id": "165",
+            "name": "Mudron",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "BoxSlime",
+                        "DanceVegi",
+                        "Droll",
+                        "FangSlime",
+                        "FunkyBird",
+                        "GiantSlug",
+                        "Lipsy",
+                        "MadPlant",
+                        "Tonguella",
+                        "Yeti"
+                    ]
+                }
+            ],
+            "children": [
+                "SuperTen",
+                "MadSpirit",
+                "DeadNoble",
+                "Skeletor",
+                "StoneMan"
+            ]
+        },
+        {
+            "id": "166",
+            "name": "NiteWhip",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "MistyWing"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "DarkCrab",
+                        "MadSpirit"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                }
+            ],
+            "children": [
+                "FaceTree"
+            ]
+        },
+        {
+            "id": "167",
+            "name": "MadSpirit",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "BoneSlave",
+                        "DeadNite",
+                        "DeadNoble",
+                        "Mudron",
+                        "Skeletor",
+                        "Skullgon"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                }
+            ],
+            "children": [
+                "NiteWhip",
+                "DeadNoble",
+                "Skeletor"
+            ]
+        },
+        {
+            "id": "168",
+            "name": "WindMerge",
+            "parents": [
+                {
+                    "pedigree": [
+                        "RotRaven"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "WindBeast"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "169",
+            "name": "Reaper",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "WeedBug"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Hork",
+                        "Spooky"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "170",
+            "name": "DeadNoble",
+            "parents": [
+                {
+                    "pedigree": [
+                        "DeadNite"
+                    ],
+                    "parent": [
+                        "DeadNite"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "BoneSlave",
+                        "DeadNite",
+                        "Mudron",
+                        "Skeletor",
+                        "Skullgon"
+                    ],
+                    "parent": [
+                        "Copycat"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "BoneSlave",
+                        "MadSpirit",
+                        "Mudron",
+                        "Skeletor"
+                    ],
+                    "parent": [
+                        "ArcDemon",
+                        "GateGuard",
+                        "Lionex",
+                        "MetalDrak",
+                        "Roboster"
+                    ]
+                }
+            ],
+            "children": [
+                "KingSlime",
+                "Andreal",
+                "GulpBeast",
+                "Blizzardy",
+                "GateGuard",
+                "Skullgon",
+                "MadSpirit",
+                "WhiteKing",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "171",
+            "name": "WhiteKing",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[ZOMBIE]"
+                    ],
+                    "parent": [
+                        "[???]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "BoneSlave",
+                        "DeadNoble",
+                        "Skeletor",
+                        "Skullgon"
+                    ],
+                    "parent": [
+                        "Andreal",
+                        "Blizzardy",
+                        "GoldGolem",
+                        "GreatDrak",
+                        "KingLeo",
+                        "KingSlime",
+                        "MetalKing",
+                        "SpotKing",
+                        "WhipBird",
+                        "ZapBird"
+                    ]
+                }
+            ],
+            "children": [
+                "SpotKing",
+                "KingSlime",
+                "GulpBeast",
+                "Blizzardy",
+                "GateGuard",
+                "Skullgon",
+                "Servant",
+                "IceMan",
+                "Hargon"
+            ]
+        },
+        {
+            "id": "172",
+            "name": "BoneSlave",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Hork"
+                    ],
+                    "parent": [
+                        "Hork"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "DeadNite",
+                        "Hork",
+                        "Mummy"
+                    ],
+                    "parent": [
+                        "FloraMan",
+                        "Gremlin",
+                        "HornBeet",
+                        "LandOwl",
+                        "MadGoose",
+                        "RockSlime",
+                        "SlimeBorg"
+                    ]
+                }
+            ],
+            "children": [
+                "Skullgon",
+                "MadSpirit",
+                "DeadNoble",
+                "WhiteKing",
+                "Skeletor"
+            ]
+        },
+        {
+            "id": "173",
+            "name": "Skeletor",
+            "parents": [
+                {
+                    "pedigree": [
+                        "MadSpirit"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "BoneSlave"
+                    ],
+                    "parent": [
+                        "BoneSlave"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "DeadNite",
+                        "Hork",
+                        "Mudron",
+                        "Mummy"
+                    ],
+                    "parent": [
+                        "EvilBeast",
+                        "Golem",
+                        "Grizzly",
+                        "GulpBeast",
+                        "MadCat",
+                        "MadCondor",
+                        "MadRaven",
+                        "Ogre",
+                        "StoneMan"
+                    ]
+                }
+            ],
+            "children": [
+                "GulpBeast",
+                "Blizzardy",
+                "Skullgon",
+                "MadSpirit",
+                "DeadNoble",
+                "WhiteKing",
+                "Servant",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "174",
+            "name": "Servant",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Skeletor"
+                    ],
+                    "parent": [
+                        "Skeletor"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "WhiteKing"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                }
+            ],
+            "children": [
+                "Blizzardy",
+                "Skullgon",
+                "DracoLord1"
+            ]
+        },
+        {
+            "id": "175",
+            "name": "Copycat",
+            "parents": [
+                {
+                    "pedigree": [
+                        "--"
+                    ],
+                    "parent": [
+                        "--"
+                    ]
+                }
+            ],
+            "children": [
+                "Healer",
+                "Coatol",
+                "SuperTen",
+                "Phoenix",
+                "DeadNoble"
+            ]
+        },
+        {
+            "id": "176",
+            "name": "JewelBag",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "SuperTen",
+                "Goopi"
+            ]
+        },
+        {
+            "id": "177",
+            "name": "EvilWand",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                }
+            ],
+            "children": [
+                "SabreMan"
+            ]
+        },
+        {
+            "id": "178",
+            "name": "MadCandle",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "[BEAST]"
+                    ]
+                }
+            ],
+            "children": [
+                "Gismo"
+            ]
+        },
+        {
+            "id": "179",
+            "name": "CoilBird",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                }
+            ],
+            "children": [
+                "MadCondor"
+            ]
+        },
+        {
+            "id": "180",
+            "name": "Facer",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIA]"
+                    ],
+                    "parent": [
+                        "[PLANT]"
+                    ]
+                }
+            ],
+            "children": [
+                "DanceVegi"
+            ]
+        },
+        {
+            "id": "181",
+            "name": "SpikyBoy",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "[BUG]"
+                    ]
+                }
+            ],
+            "children": [
+                "BombCrag"
+            ]
+        },
+        {
+            "id": "182",
+            "name": "MadMirror",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                }
+            ],
+            "children": [
+                "EvilSeed",
+                "Gismo"
+            ]
+        },
+        {
+            "id": "183",
+            "name": "RogueNite",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": [
+                "MadKnight"
+            ]
+        },
+        {
+            "id": "184",
+            "name": "Goopi",
+            "parents": [
+                {
+                    "pedigree": [
+                        "JewelBag"
+                    ],
+                    "parent": [
+                        "[SLIME]"
+                    ]
+                }
+            ],
+            "children": [
+                "Gismo",
+                "MudDoll"
+            ]
+        },
+        {
+            "id": "185",
+            "name": "Voodoll",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "Lipsy"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Golem",
+                        "StoneMan"
+                    ],
+                    "parent": [
+                        "DrakSlime",
+                        "RockSlime",
+                        "SlimeNite",
+                        "Snaily"
+                    ]
+                }
+            ],
+            "children": [
+                "Chamelgon",
+                "SabreMan"
+            ]
+        },
+        {
+            "id": "186",
+            "name": "MetalDrak",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "Andreal"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "MetalDrak",
+                        "Roboster"
+                    ],
+                    "parent": [
+                        "[DRAGON]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Andreal",
+                        "GreatDrak",
+                        "Spikerous"
+                    ],
+                    "parent": [
+                        "Digster",
+                        "Golem",
+                        "KingSlime",
+                        "Roboster",
+                        "Skullgon",
+                        "SlimeBorg",
+                        "StoneMan"
+                    ]
+                }
+            ],
+            "children": [
+                "Metaly",
+                "MetalKing",
+                "GulpBeast",
+                "Grizzly",
+                "Trumpeter",
+                "KingLeo",
+                "WhipBird",
+                "ArcDemon",
+                "DeadNoble",
+                "MetalDrak",
+                "LavaMan",
+                "IceMan"
+            ]
+        },
+        {
+            "id": "187",
+            "name": "Balzak",
+            "parents": [
+                {
+                    "pedigree": [
+                        "IceMan",
+                        "LavaMan"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "[???]"
+                    ]
+                }
+            ],
+            "children": [
+                "Trumpeter",
+                "KingLeo"
+            ]
+        },
+        {
+            "id": "188",
+            "name": "SabreMan",
+            "parents": [
+                {
+                    "pedigree": [
+                        "EvilWand",
+                        "Golem",
+                        "StoneMan",
+                        "Voodoll"
+                    ],
+                    "parent": [
+                        "FunkyBird",
+                        "LandOwl",
+                        "MadGoose",
+                        "Phoenix"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "GiantWorm"
+                    ]
+                }
+            ],
+            "children": [
+                "MadGopher",
+                "Roboster"
+            ]
+        },
+        {
+            "id": "189",
+            "name": "CurseLamp",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "WingTree"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Roboster"
+                    ],
+                    "parent": [
+                        "[BIRD]"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "190",
+            "name": "Roboster",
+            "parents": [
+                {
+                    "pedigree": [
+                        "SabreMan"
+                    ],
+                    "parent": [
+                        "DeadNoble",
+                        "EvilArmor",
+                        "GreatDrak",
+                        "Grendal",
+                        "Ogre",
+                        "Skeletor",
+                        "SlimeBorg",
+                        "Unicorn"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "Grizzly",
+                        "GulpBeast",
+                        "KingLeo",
+                        "SkullRider",
+                        "Trumpeter"
+                    ]
+                }
+            ],
+            "children": [
+                "SlimeBorg",
+                "GulpBeast",
+                "Grizzly",
+                "Trumpeter",
+                "KingLeo",
+                "Ogre",
+                "DeadNoble",
+                "MetalDrak",
+                "CurseLamp",
+                "IceMan",
+                "Mimic",
+                "BombCrag"
+            ]
+        },
+        {
+            "id": "191",
+            "name": "EvilPot",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Gismo"
+                    ],
+                    "parent": [
+                        "[DEVIL]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "Snaily"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "192",
+            "name": "Gismo",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Goopi",
+                        "MadCandle",
+                        "MadMirror"
+                    ],
+                    "parent": [
+                        "DrakSlime",
+                        "EvilSeed",
+                        "FireWeed",
+                        "MistyWing",
+                        "Phoenix",
+                        "Wyvern"
+                    ]
+                }
+            ],
+            "children": [
+                "ZapBird",
+                "EvilPot"
+            ]
+        },
+        {
+            "id": "193",
+            "name": "LavaMan",
+            "parents": [
+                {
+                    "pedigree": [
+                        "MetalDrak"
+                    ],
+                    "parent": [
+                        "ArcDemon",
+                        "Centasaur",
+                        "KingLeo",
+                        "Orochi",
+                        "ZapBird"
+                    ]
+                }
+            ],
+            "children": [
+                "GulpBeast",
+                "Grizzly",
+                "Trumpeter",
+                "Phoenix",
+                "Balzak",
+                "GoldGolem"
+            ]
+        },
+        {
+            "id": "194",
+            "name": "IceMan",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Roboster"
+                    ],
+                    "parent": [
+                        "KingLeo"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "MetalDrak"
+                    ],
+                    "parent": [
+                        "Skullgon",
+                        "WhiteKing"
+                    ]
+                }
+            ],
+            "children": [
+                "GulpBeast",
+                "Grizzly",
+                "Trumpeter",
+                "Blizzardy",
+                "Balzak",
+                "GoldGolem"
+            ]
+        },
+        {
+            "id": "195",
+            "name": "Mimic",
+            "parents": [
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "BoxSlime"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Roboster"
+                    ],
+                    "parent": [
+                        "[ZOMBIE]"
+                    ]
+                }
+            ],
+            "children": [
+                "SuperTen"
+            ]
+        },
+        {
+            "id": "196",
+            "name": "MudDoll",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Goopi"
+                    ],
+                    "parent": [
+                        "Goopi"
+                    ]
+                }
+            ],
+            "children": [
+                "Golem"
+            ]
+        },
+        {
+            "id": "197",
+            "name": "Golem",
+            "parents": [
+                {
+                    "pedigree": [
+                        "MudDoll"
+                    ],
+                    "parent": [
+                        "MudDoll"
+                    ]
+                }
+            ],
+            "children": [
+                "RockSlime",
+                "Andreal",
+                "GulpBeast",
+                "Grizzly",
+                "Trumpeter",
+                "WhipBird",
+                "Skeletor",
+                "Voodoll",
+                "MetalDrak",
+                "SabreMan",
+                "StoneMan"
+            ]
+        },
+        {
+            "id": "198",
+            "name": "StoneMan",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Golem",
+                        "DeadNite",
+                        "Hork",
+                        "Mudron",
+                        "Mummy"
+                    ],
+                    "parent": [
+                        "Golem"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "[MATERIAL]"
+                    ],
+                    "parent": [
+                        "Digster",
+                        "HornBeet"
+                    ]
+                }
+            ],
+            "children": [
+                "RockSlime",
+                "Coatol",
+                "GulpBeast",
+                "Grizzly",
+                "Trumpeter",
+                "WhipBird",
+                "ArcDemon",
+                "Skeletor",
+                "Voodoll",
+                "MetalDrak",
+                "SabreMan"
+            ]
+        },
+        {
+            "id": "199",
+            "name": "BombCrag",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Roboster"
+                    ],
+                    "parent": [
+                        "[BUG]"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "SpikyBoy"
+                    ],
+                    "parent": [
+                        "SpikyBoy"
+                    ]
+                }
+            ],
+            "children": [
+                "RockSlime"
+            ]
+        },
+        {
+            "id": "200",
+            "name": "GoldGolem",
+            "parents": [
+                {
+                    "pedigree": [
+                        "IceMan"
+                    ],
+                    "parent": [
+                        "LavaMan"
+                    ]
+                }
+            ],
+            "children": [
+                "GoldSlime",
+                "KingLeo",
+                "Durran",
+                "WhiteKing"
+            ]
+        },
+        {
+            "id": "201",
+            "name": "DracoLord1",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Servant"
+                    ],
+                    "parent": [
+                        "Andreal",
+                        "GreatDrak"
+                    ]
+                }
+            ],
+            "children": [
+                "Zoma"
+            ]
+        },
+        {
+            "id": "202",
+            "name": "DracoLord2",
+            "parents": [
+                {
+                    "pedigree": [
+                        "DracoLord"
+                    ],
+                    "parent": [
+                        "Divinegon"
+                    ]
+                }
+            ],
+            "children": [
+                "Zoma"
+            ]
+        },
+        {
+            "id": "203",
+            "name": "Hargon",
+            "parents": [
+                {
+                    "pedigree": [
+                        "WhiteKing"
+                    ],
+                    "parent": [
+                        "MetalKing"
+                    ]
+                }
+            ],
+            "children": [
+                "Baramos"
+            ]
+        },
+        {
+            "id": "204",
+            "name": "Sidoh",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Jamirus"
+                    ],
+                    "parent": [
+                        "Rosevine"
+                    ]
+                }
+            ],
+            "children": [
+                "Zoma"
+            ]
+        },
+        {
+            "id": "205",
+            "name": "Baramos",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Hargon"
+                    ],
+                    "parent": [
+                        "Orochi"
+                    ]
+                }
+            ],
+            "children": [
+                "Mudou"
+            ]
+        },
+        {
+            "id": "206",
+            "name": "Zoma",
+            "parents": [
+                {
+                    "pedigree": [
+                        "DracoLord1",
+                        "DracoLord2"
+                    ],
+                    "parent": [
+                        "Sidoh"
+                    ]
+                }
+            ],
+            "children": [
+                "DeathMore1"
+            ]
+        },
+        {
+            "id": "207",
+            "name": "Pizzaro",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Durran"
+                    ],
+                    "parent": [
+                        "Divinegon"
+                    ]
+                }
+            ],
+            "children": [
+                "Esterk"
+            ]
+        },
+        {
+            "id": "208",
+            "name": "Esterk",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Pizzaro"
+                    ],
+                    "parent": [
+                        "KingLeo"
+                    ]
+                }
+            ],
+            "children": [
+                "Mirudraas1"
+            ]
+        },
+        {
+            "id": "209",
+            "name": "Mirudraas1",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Esterk"
+                    ],
+                    "parent": [
+                        "GoldSlime"
+                    ]
+                }
+            ],
+            "children": [
+                "DeathMore1"
+            ]
+        },
+        {
+            "id": "210",
+            "name": "Mirudraas2",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Mirudaas"
+                    ],
+                    "parent": [
+                        "Spikerous"
+                    ]
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": "211",
+            "name": "Mudou",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Baramos"
+                    ],
+                    "parent": [
+                        "DarkHorn"
+                    ]
+                }
+            ],
+            "children": [
+                "DeathMore3"
+            ]
+        },
+        {
+            "id": "212",
+            "name": "DeathMore1",
+            "parents": [
+                {
+                    "pedigree": [
+                        "Zoma"
+                    ],
+                    "parent": [
+                        "Mirudraas1",
+                        "Mirudrass2"
+                    ]
+                },
+                {
+                    "pedigree": [
+                        "Mirudraas1",
+                        "Mirudrass2"
+                    ],
+                    "parent": [
+                        "Zoma"
+                    ]
+                }
+            ],
+            "children": [
+                "DeathMore2"
+            ]
+        },
+        {
+            "id": "213",
+            "name": "DeathMore2",
+            "parents": [
+                {
+                    "pedigree": [
+                        "DeathMore1"
+                    ],
+                    "parent": [
+                        "Armorpion"
+                    ]
+                }
+            ],
+            "children": [
+                "DeathMore3"
+            ]
+        },
+        {
+            "id": "214",
+            "name": "DeathMore3",
+            "parents": [
+                {
+                    "pedigree": [
+                        "DeathMore2"
+                    ],
+                    "parent": [
+                        "Mudou"
+                    ]
+                }
+            ],
+            "children": [
+                "DarkDrium"
+            ]
+        },
+        {
+            "id": "215",
+            "name": "DarkDrium",
+            "parents": [
+                {
+                    "pedigree": [
+                        "DeathMore3"
+                    ],
+                    "parent": [
+                        "Watbou"
+                    ]
+                }
+            ],
+            "children": []
+        }
+    ]
+}

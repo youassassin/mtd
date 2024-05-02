@@ -1,0 +1,1499 @@
+{
+    "dwmBreedingList": [
+        {
+            "name": "DrakSlime",
+            "pedigree": "[SLIME]",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "SpotSlime",
+            "pedigree": "[SLIME]",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "WingSlime",
+            "pedigree": "[SLIME]",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "TreeSlime",
+            "pedigree": "[SLIME]",
+            "parent": "[PLANT]"
+        },
+        {
+            "name": "Snaily",
+            "pedigree": "[SLIME]",
+            "parent": "[BUG]"
+        },
+        {
+            "name": "SlimeNight",
+            "pedigree": "[SLIME]",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "Babble",
+            "pedigree": "[SLIME]",
+            "parent": "[UNDEAD] GiantMoth Poisongon"
+        },
+        {
+            "name": "BoxSlime",
+            "pedigree": "[SLIME]",
+            "parent": "[MATERIAL]"
+        },
+        {
+            "name": "Slime",
+            "pedigree": "",
+            "parent": ""
+        },
+        {
+            "name": "Healer",
+            "pedigree": "[SLIME]",
+            "parent": "CopyCat FunkyBird MadPlant PillowRat"
+        },
+        {
+            "name": "FangSlime",
+            "pedigree": "[SLIME]",
+            "parent": "Almiraj DarkHorn GulpBeast KingLeo MadCat Trumpeter"
+        },
+        {
+            "name": "RockSlime",
+            "pedigree": "[SLIME]",
+            "parent": "BombCrag DeadNite Digster Golem StoneMan"
+        },
+        {
+            "name": "SlimeBorg",
+            "pedigree": "[SLIME]",
+            "parent": "Roboster"
+        },
+        {
+            "name": "SlimeBorg",
+            "pedigree": "DrakSlime Metabble RockSlime SlimeNite",
+            "parent": "BattleRex GreatDrak SkyDragon Spikerous Swordgon"
+        },
+        {
+            "name": "Slabbit",
+            "pedigree": "[SLIME]",
+            "parent": "Skullroo"
+        },
+        {
+            "name": "SpotKing",
+            "pedigree": "SpotSlime",
+            "parent": "SpotSlime (+4)"
+        },
+        {
+            "name": "SpotKing",
+            "pedigree": "KingSlime MetalKing",
+            "parent": "BattleRex Centasaur Divinegon Gigantes GreatDrak KingLeo MadCondor Unicorn WhipBird WhiteKing ZapBird"
+        },
+        {
+            "name": "KingSlime",
+            "pedigree": "Slime",
+            "parent": "Slime (+4)"
+        },
+        {
+            "name": "KingSlime",
+            "pedigree": "[SLIME]",
+            "parent": "[???]"
+        },
+        {
+            "name": "KingSlime",
+            "pedigree": "SpotKing",
+            "parent": "BattleRex Centasaur DeadNoble Divinegon Gigantes GreatDrak KingLeo MadCondor Unicorn WhipBird WhiteKing ZapBird"
+        },
+        {
+            "name": "Metaly",
+            "pedigree": "[SLIME]",
+            "parent": "MetalDrak"
+        },
+        {
+            "name": "Metabble",
+            "pedigree": "Metaly",
+            "parent": "Metaly"
+        },
+        {
+            "name": "MetalKing",
+            "pedigree": "Metabble",
+            "parent": "Metabble"
+        },
+        {
+            "name": "MetalKing",
+            "pedigree": "KingSlime SpotKing",
+            "parent": "MetalDrak"
+        },
+        {
+            "name": "GoldSlime",
+            "pedigree": "MetalKing",
+            "parent": "MetalKing"
+        },
+        {
+            "name": "GoldSlime",
+            "pedigree": "KingSlime MetalKing SpotKing",
+            "parent": "GoldGolem"
+        },
+        {
+            "name": "DragonKid",
+            "pedigree": "[DRAGON]",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "Tortragon",
+            "pedigree": "[DRAGON]",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "Pteranod",
+            "pedigree": "[DRAGON]",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "Gasgon",
+            "pedigree": "[DRAGON]",
+            "parent": "[PLANT]"
+        },
+        {
+            "name": "FairyDrak",
+            "pedigree": "[DRAGON]",
+            "parent": "[BUG]"
+        },
+        {
+            "name": "LizardMan",
+            "pedigree": "[DRAGON]",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "Poisongon",
+            "pedigree": "[DRAGON]",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "Swordgon",
+            "pedigree": "[DRAGON]",
+            "parent": "[MATERIAL]"
+        },
+        {
+            "name": "Dragon",
+            "pedigree": "DragonKid",
+            "parent": "DragonKid"
+        },
+        {
+            "name": "MiniDrak",
+            "pedigree": "[DRAGON]",
+            "parent": "Picky"
+        },
+        {
+            "name": "MadDragon",
+            "pedigree": "[DRAGON]",
+            "parent": "GulpBeast"
+        },
+        {
+            "name": "MadDragon",
+            "pedigree": "Gasgon",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "Rayburn",
+            "pedigree": "[DRAGON]",
+            "parent": "MadCondor"
+        },
+        {
+            "name": "Rayburn",
+            "pedigree": "LizardMan",
+            "parent": "FaceTree GateGuard Gigantes GoatHorn Lionex MadCat Trumpeter WingSlime"
+        },
+        {
+            "name": "Chamelgon",
+            "pedigree": "[DRAGON]",
+            "parent": "Voodoll"
+        },
+        {
+            "name": "LizardFly",
+            "pedigree": "[DRAGON]",
+            "parent": "GoHopper"
+        },
+        {
+            "name": "Andreal",
+            "pedigree": "[DRAGON]",
+            "parent": "Gulpple"
+        },
+        {
+            "name": "Andreal",
+            "pedigree": "BattleRex Gasgon MadDragon SkyDragon",
+            "parent": "ArcDemon Akubar DeadNoble FunkyBird GoatHorn Goatgon Golem Lionex MadCondor Ogre Trumpeter WhipBird"
+        },
+        {
+            "name": "KingCobra",
+            "pedigree": "[DRAGON]",
+            "parent": "Babble"
+        },
+        {
+            "name": "Spikerous",
+            "pedigree": "[DRAGON]",
+            "parent": "ArmyCrab Digster"
+        },
+        {
+            "name": "GreatDrak",
+            "pedigree": "Dragon",
+            "parent": "Dragon"
+        },
+        {
+            "name": "GreatDrak",
+            "pedigree": "DragonKid",
+            "parent": "DragonKid (+4)"
+        },
+        {
+            "name": "GreatDrak",
+            "pedigree": "[DRAGON]",
+            "parent": "BattleRex Centasaur Gigantes KingSlime MetalKing SpotKing Unicorn WhipBird ZapBird"
+        },
+        {
+            "name": "Crestpent",
+            "pedigree": "[DRAGON]",
+            "parent": "BigRoost"
+        },
+        {
+            "name": "WingSnake",
+            "pedigree": "Crestpent",
+            "parent": "Crestpent"
+        },
+        {
+            "name": "Coatol",
+            "pedigree": "WingSnake",
+            "parent": "WingSnake"
+        },
+        {
+            "name": "Coatol",
+            "pedigree": "BattleRex Gasgon LizardMan Pteranod SkyDragon",
+            "parent": "Copycat DarkHorn MadKnight StoneMan"
+        },
+        {
+            "name": "Orochi",
+            "pedigree": "[DRAGON]",
+            "parent": "[???]"
+        },
+        {
+            "name": "Orochi",
+            "pedigree": "Andreal GreatDrak",
+            "parent": "MedusaEye"
+        },
+        {
+            "name": "BattleRex",
+            "pedigree": "[DRAGON]",
+            "parent": "EvilArmor KingLeo Lionex MadKnight Ogre"
+        },
+        {
+            "name": "SkyDragon",
+            "pedigree": "[DRAGON]",
+            "parent": "Phoenix"
+        },
+        {
+            "name": "Divinegon",
+            "pedigree": "SkyDragon",
+            "parent": "Orochi"
+        },
+        {
+            "name": "Tonguella",
+            "pedigree": "[BEAST]",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "Almiraj",
+            "pedigree": "[BEAST]",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "Catfly",
+            "pedigree": "[BEAST]",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "PillowRat",
+            "pedigree": "[BEAST]",
+            "parent": "[PLANT]"
+        },
+        {
+            "name": "Saccer",
+            "pedigree": "[BEAST]",
+            "parent": "[BUG]"
+        },
+        {
+            "name": "GulpBeast",
+            "pedigree": "Grizzly",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "GulpBeast",
+            "pedigree": "BigEye Grizzly Trumpeter Yeti",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "GulpBeast",
+            "pedigree": "IronTurt Goatgon Grizzly Unicorn WildApe Yeti",
+            "parent": "Golem IceMan LavaMan MetalDrak Roboster StoneMan"
+        },
+        {
+            "name": "GulpBeast",
+            "pedigree": "Grizzly Tonguella Trumpeter Unicorn WildApe Yeti",
+            "parent": "DeadNoble Digster Skeletor Skullgon WhiteKing"
+        },
+        {
+            "name": "SkullRoo",
+            "pedigree": "[BEAST]",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "WindBeast",
+            "pedigree": "CatFly",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "WindBeast",
+            "pedigree": "[BEAST]",
+            "parent": "[MATERIAL]"
+        },
+        {
+            "name": "Anteater",
+            "pedigree": "Saccer",
+            "parent": "[Dragon]"
+        },
+        {
+            "name": "SuperTen",
+            "pedigree": "[BEAST]",
+            "parent": "Mudron"
+        },
+        {
+            "name": "SuperTen",
+            "pedigree": "GulpBeast Tonguella",
+            "parent": "CopyCat Demonite FaceTree FangSlime FunkyBird Gremlin JewelBag Lipsy MadDragon MadPlant Mimic TreeSlime"
+        },
+        {
+            "name": "IronTurt",
+            "pedigree": "[BEAST]",
+            "parent": "Tortragon"
+        },
+        {
+            "name": "Mommonja",
+            "pedigree": "[BEAST]",
+            "parent": "DuckKite"
+        },
+        {
+            "name": "HammerMan",
+            "pedigree": "[BEAST]",
+            "parent": "Stubsuck"
+        },
+        {
+            "name": "Grizzly",
+            "pedigree": "[BEAST]",
+            "parent": "[DEVIL] Golem IceMan LavaMan MetalDrak Roboster StoneMan"
+        },
+        {
+            "name": "Yeti",
+            "pedigree": "[BEAST]",
+            "parent": "Orc"
+        },
+        {
+            "name": "Yeti",
+            "pedigree": "Goatgon IronTurt MadCat WildApe",
+            "parent": "BattleRex Gasgon MadDragon Pteranod SkyDragon Swordgon"
+        },
+        {
+            "name": "MadGopher",
+            "pedigree": "[BEAST]",
+            "parent": "SabreMan"
+        },
+        {
+            "name": "FairyRat",
+            "pedigree": "[BEAST]",
+            "parent": "Lizardfly"
+        },
+        {
+            "name": "Unicorn",
+            "pedigree": "[BEAST]",
+            "parent": "FangSlime"
+        },
+        {
+            "name": "Unicorn",
+            "pedigree": "Goatgon Grizzly GulpBeast Tonguella Trumpeter WildApe Yeti",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "Goategon",
+            "pedigree": "[BEAST]",
+            "parent": "DrakSlime LizardMan"
+        },
+        {
+            "name": "WildApe",
+            "pedigree": "Almiraj",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "WildApe",
+            "pedigree": "[BEAST]",
+            "parent": "MadPecker"
+        },
+        {
+            "name": "Trumpeter",
+            "pedigree": "WildApe",
+            "parent": "WildApe"
+        },
+        {
+            "name": "Trumpeter",
+            "pedigree": "SuperTen",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "Trumpeter",
+            "pedigree": "Grizzly GulpBeast Tonguella Yeti",
+            "parent": "LandOwl MadCondor WhipBird ZapBird"
+        },
+        {
+            "name": "Trumpeter",
+            "pedigree": "GulpBeast",
+            "parent": "Balzak Golem IceMan LavaMan MetalDrak Roboster StoneMan"
+        },
+        {
+            "name": "KingLeo",
+            "pedigree": "Roboster",
+            "parent": "DarkHorn MadCat Trumpeter GulpBeast SuperTen Unicorn"
+        },
+        {
+            "name": "KingLeo",
+            "pedigree": "Trumpeter",
+            "parent": "Balzak GoldGolem MetalDrak Trumpeter"
+        },
+        {
+            "name": "DarkHorn",
+            "pedigree": "[BEAST]",
+            "parent": "[???]"
+        },
+        {
+            "name": "MadCat",
+            "pedigree": "[BEAST]",
+            "parent": "Dragon"
+        },
+        {
+            "name": "BigEye",
+            "pedigree": "[BEAST]",
+            "parent": "EyeBall"
+        },
+        {
+            "name": "Picky",
+            "pedigree": "[BIRD]",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "Wyvern",
+            "pedigree": "[BIRD]",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "BullBird",
+            "pedigree": "[BIRD]",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "FloraJay",
+            "pedigree": "[BIRD]",
+            "parent": "[PLANT]"
+        },
+        {
+            "name": "DuckKite",
+            "pedigree": "[BIRD]",
+            "parent": "[BUG]"
+        },
+        {
+            "name": "MadPecker",
+            "pedigree": "[BIRD]",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "MadRaven",
+            "pedigree": "[BIRD]",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "MistyWing",
+            "pedigree": "[BIRD]",
+            "parent": "[MATERIAL]"
+        },
+        {
+            "name": "Dracky",
+            "pedigree": "Picky",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "BigRoost",
+            "pedigree": "",
+            "parent": ""
+        },
+        {
+            "name": "StubBird",
+            "pedigree": "[BIRD]",
+            "parent": "RockSlime"
+        },
+        {
+            "name": "LandOwl",
+            "pedigree": "BullBird",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "MadGoose",
+            "pedigree": "[BIRD]",
+            "parent": "Droll"
+        },
+        {
+            "name": "MadGoose",
+            "pedigree": "LandOwl MadCondor Phoenix Wyvern",
+            "parent": "[DRAGON [ZOMBIE]"
+        },
+        {
+            "name": "MadCondor",
+            "pedigree": "LandOwl",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "MadCondor",
+            "pedigree": "[BIRD]",
+            "parent": "CoilBird"
+        },
+        {
+            "name": "Blizzardy",
+            "pedigree": "[BIRD]",
+            "parent": "DeadNoble Goatgon IceMan Metabble Metaly Servant Skeletor Skullgon SuperTen Trumpter WhiteKing Yeti"
+        },
+        {
+            "name": "Phoenix",
+            "pedigree": "[BIRD]",
+            "parent": "ArcDemon Copycat DrakSlime Gizmo Grizzly GulpBeast IronTurt LavaMan"
+        },
+        {
+            "name": "ZapBird",
+            "pedigree": "[BIRD]",
+            "parent": "[???]"
+        },
+        {
+            "name": "ZapBird",
+            "pedigree": "MadCondor Phoenix WhipBird",
+            "parent": "Gismo"
+        },
+        {
+            "name": "WhipBird",
+            "pedigree": "[BIRD]",
+            "parent": "Rayburn"
+        },
+        {
+            "name": "WhipBird",
+            "pedigree": "Blizzardy LandOwl MadCondor MadGoose ZapBird",
+            "parent": "Digster Golem MetalDrak RockSlime StoneMan SlimeBorg"
+        },
+        {
+            "name": "FunkyBird",
+            "pedigree": "[BIRD]",
+            "parent": "DanceVegi"
+        },
+        {
+            "name": "RainHawk",
+            "pedigree": "Blizzardy",
+            "parent": "Phoenix"
+        },
+        {
+            "name": "MadPlant",
+            "pedigree": "[PLANT]",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "FireWeed",
+            "pedigree": "[PLANT]",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "FloraMan",
+            "pedigree": "[PLANT]",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "WingTree",
+            "pedigree": "[PLANT]",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "CactiBall",
+            "pedigree": "[PLANT]",
+            "parent": "[BUG]"
+        },
+        {
+            "name": "Gulpple",
+            "pedigree": "[PLANT]",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "Toadstool",
+            "pedigree": "[PLANT]",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "AmberWeed",
+            "pedigree": "[PLANT]",
+            "parent": "[MATERIAL]"
+        },
+        {
+            "name": "Stubsuck",
+            "pedigree": "[PLANT]",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "Oniono",
+            "pedigree": "[PLANT]",
+            "parent": "Gophecada"
+        },
+        {
+            "name": "DanceVegi",
+            "pedigree": "MadPlant",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "DanceVegi",
+            "pedigree": "[PLANT]",
+            "parent": "Facer"
+        },
+        {
+            "name": "TreeBoy",
+            "pedigree": "[PLANT]",
+            "parent": "Pixy"
+        },
+        {
+            "name": "FaceTree",
+            "pedigree": "HerbMan",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "FaceTree",
+            "pedigree": "[PLANT]",
+            "parent": "NiteWhip"
+        },
+        {
+            "name": "HerbMan",
+            "pedigree": "DanceVegi",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "HerbMan",
+            "pedigree": "[PLANT]",
+            "parent": "FunkyBird"
+        },
+        {
+            "name": "BeanMan",
+            "pedigree": "[PLANT]",
+            "parent": "PillowRat"
+        },
+        {
+            "name": "EvilSeed",
+            "pedigree": "[PLANT]",
+            "parent": "BigEye Butterfly DarkEye DuckKite EyeBall Eyeder MadMirror RockSlime"
+        },
+        {
+            "name": "ManEater",
+            "pedigree": "EvilSeed",
+            "parent": "EvilSeed"
+        },
+        {
+            "name": "Snapper",
+            "pedigree": "ManEater",
+            "parent": "ManEater"
+        },
+        {
+            "name": "Rosevine",
+            "pedigree": "[PLANT]",
+            "parent": "[???]"
+        },
+        {
+            "name": "Watabou",
+            "pedigree": "--",
+            "parent": "--"
+        },
+        {
+            "name": "GiantSlug",
+            "pedigree": "[BUG]",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "Catapila",
+            "pedigree": "[BUG]",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "Gophecada",
+            "pedigree": "[BUG]",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "Butterfly",
+            "pedigree": "[BUG]",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "WeedBug",
+            "pedigree": "[BUG]",
+            "parent": "[PLANT]"
+        },
+        {
+            "name": "GiantWorm",
+            "pedigree": "[BUG]",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "Lipsy",
+            "pedigree": "[BUG]",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "StagBug",
+            "pedigree": "[BUG]",
+            "parent": "[MATERIAL]"
+        },
+        {
+            "name": "ArmyAnt",
+            "pedigree": "GiantSlug",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "GoHopper",
+            "pedigree": "--",
+            "parent": "--"
+        },
+        {
+            "name": "TailEater",
+            "pedigree": "WeedBug",
+            "parent": "[PLANT]"
+        },
+        {
+            "name": "TailEater",
+            "pedigree": "[BUG]",
+            "parent": "FloraMan"
+        },
+        {
+            "name": "ArmorPede",
+            "pedigree": "[BUG]",
+            "parent": "IronTurt"
+        },
+        {
+            "name": "ArmorPede",
+            "pedigree": "Droll",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "ArmorPede",
+            "pedigree": "GiantWorm",
+            "parent": "[MATERIAL]"
+        },
+        {
+            "name": "Eyeder",
+            "pedigree": "[BUG]",
+            "parent": "AmberWeed"
+        },
+        {
+            "name": "Eyeder",
+            "pedigree": "Catapilla",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "GiantMoth",
+            "pedigree": "Butterfly",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "GiantMoth",
+            "pedigree": "Catapilla",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "Droll",
+            "pedigree": "Lipsy",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "Droll",
+            "pedigree": "[BUG]",
+            "parent": "Spooky"
+        },
+        {
+            "name": "Droll",
+            "pedigree": "Butterfly Eyeder TailEater",
+            "parent": "Butterfly Eyeder TailEater"
+        },
+        {
+            "name": "ArmyCrab",
+            "pedigree": "[BUG]",
+            "parent": "DarkCrab"
+        },
+        {
+            "name": "MadHornet",
+            "pedigree": "[BUG]",
+            "parent": "FairyRat"
+        },
+        {
+            "name": "MadHornet",
+            "pedigree": "Droll LandOwl",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "HornBeet",
+            "pedigree": "ArmorPede",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "HornBeet",
+            "pedigree": "StagBug",
+            "parent": "StagBug"
+        },
+        {
+            "name": "Armorpion",
+            "pedigree": "HornBeet",
+            "parent": "HornBeet"
+        },
+        {
+            "name": "Digster",
+            "pedigree": "[BUG]",
+            "parent": "[???]"
+        },
+        {
+            "name": "Pixy",
+            "pedigree": "[DEVIL]",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "ArcDemon",
+            "pedigree": "[DEVIL]",
+            "parent": "[???]"
+        },
+        {
+            "name": "ArcDemon",
+            "pedigree": "GateGuard",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "ArcDemon",
+            "pedigree": "Ogre",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "ArcDemon",
+            "pedigree": "AgDevil Gigantes Grendal",
+            "parent": "Andreal KingLeo KingSlime MetalDrak MetalKing Orochi SpotKing StoneMan Trumpeter WhipBird ZapBird"
+        },
+        {
+            "name": "AgDevil",
+            "pedigree": "EvilBeast Gremlin MedusaEye SkulRider",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "Demonite",
+            "pedigree": "[DEVIL]",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "DarkEye",
+            "pedigree": "[DEVIL]",
+            "parent": "[PLANT]"
+        },
+        {
+            "name": "EyeBall",
+            "pedigree": "[DEVIL]",
+            "parent": "[BUG]"
+        },
+        {
+            "name": "SkulRider",
+            "pedigree": "[DEVIL]",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "EvilBeast",
+            "pedigree": "[DEVIL]",
+            "parent": "[MATERIAL]"
+        },
+        {
+            "name": "1EyeClown",
+            "pedigree": "Demonite EyeBall Pixy",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "Gremlin",
+            "pedigree": "[DEVIL]",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "MedusaEye",
+            "pedigree": "[DEVIL]",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "MedusaEye",
+            "pedigree": "1EyeClown DarkEye Gremlin",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "Lionex",
+            "pedigree": "ArcDemon",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "Lionex",
+            "pedigree": "[DEVIL]",
+            "parent": "LizardMan"
+        },
+        {
+            "name": "GoatHorn",
+            "pedigree": "ArcDemon",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "GoatHorn",
+            "pedigree": "[DEVIL]",
+            "parent": "DarkHorn"
+        },
+        {
+            "name": "Orc",
+            "pedigree": "[DEVIL]",
+            "parent": "BeanMan"
+        },
+        {
+            "name": "Ogre",
+            "pedigree": "GateGuard",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "Ogre",
+            "pedigree": "AgDevil Gigantes Grendal",
+            "parent": "Digster GulpBeast Roboster Unicorn"
+        },
+        {
+            "name": "Ogre",
+            "pedigree": "[DEVIL]",
+            "parent": "HammerMan"
+        },
+        {
+            "name": "GateGuard",
+            "pedigree": "Ogre",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "GateGuard",
+            "pedigree": "Demonite",
+            "parent": "Demonite"
+        },
+        {
+            "name": "GateGuard",
+            "pedigree": "AgDevil Gigantes Grendal",
+            "parent": "Coatol DeadNoble GiantMoth MadCondor MistyWing Rosevine Skullgon SlimeBorg Swordgon WhiteKing"
+        },
+        {
+            "name": "ChopClown",
+            "pedigree": "1EyeClown",
+            "parent": "1EyeClown"
+        },
+        {
+            "name": "Grendal",
+            "pedigree": "[DEVIL]",
+            "parent": "MadDragon"
+        },
+        {
+            "name": "Grendal",
+            "pedigree": "EvilBeast Gremlin MedusaEye SkulRider",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "Akubar",
+            "pedigree": "ArcDemon",
+            "parent": "GateGuard"
+        },
+        {
+            "name": "Akubar",
+            "pedigree": "Grendal",
+            "parent": "Grendal"
+        },
+        {
+            "name": "MadKnight",
+            "pedigree": "[DEVIL]",
+            "parent": "RogueNite"
+        },
+        {
+            "name": "Gigantes",
+            "pedigree": "[DEVIL]",
+            "parent": "BigEye"
+        },
+        {
+            "name": "Gigantes",
+            "pedigree": "EvilBeast MedusaEye SkulRider",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "Centasaur",
+            "pedigree": "ArcDemon",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "Centasaur",
+            "pedigree": "GateGuard Ogre",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "EvilArmor",
+            "pedigree": "[DEVIL]",
+            "parent": "Armorpede"
+        },
+        {
+            "name": "EvilArmor",
+            "pedigree": "ArcDemon GateGuard Ogre",
+            "parent": "[MATERIAL]"
+        },
+        {
+            "name": "Jamirus",
+            "pedigree": "Akubar",
+            "parent": "RainHawk"
+        },
+        {
+            "name": "Jamirus",
+            "pedigree": "RainHawk",
+            "parent": "Akubar"
+        },
+        {
+            "name": "Durran",
+            "pedigree": "GoldGolem",
+            "parent": "Centasaur"
+        },
+        {
+            "name": "Durran",
+            "pedigree": "Centasaur",
+            "parent": "GoldGolem"
+        },
+        {
+            "name": "Spooky",
+            "pedigree": "[ZOMBIE]",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "Skullgon",
+            "pedigree": "BoneSlave DeadNoble Skeletor Skullgon WhiteKing",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "Skullgon",
+            "pedigree": "[DRAGON]",
+            "parent": "DeadNoble Servant Skullgon WhiteKing"
+        },
+        {
+            "name": "Skullgon",
+            "pedigree": "[ZOMBIE]",
+            "parent": "Andreal BattleRex Divinegon GreatDrak Orochi Rayburn Swordgon"
+        },
+        {
+            "name": "Putrepup",
+            "pedigree": "[ZOMBIE]",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "RotRaven",
+            "pedigree": "[ZOMBIE]",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "Mummy",
+            "pedigree": "[ZOMBIE]",
+            "parent": "[PLANT]"
+        },
+        {
+            "name": "DarkCrab",
+            "pedigree": "[ZOMBIE]",
+            "parent": "[BUG]"
+        },
+        {
+            "name": "DeadNite",
+            "pedigree": "[ZOMBIE]",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "Shadow",
+            "pedigree": "[ZOMBIE]",
+            "parent": "[MATERIAL]"
+        },
+        {
+            "name": "Hork",
+            "pedigree": "Spooky",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "Mudron",
+            "pedigree": "[ZOMBIE]",
+            "parent": "BoxSlime DanceVegi Droll FangSlime FunkyBird GiantSlug Lipsy MadPlant Tonguella Yeti"
+        },
+        {
+            "name": "NiteWhip",
+            "pedigree": "[ZOMBIE]",
+            "parent": "MistyWing"
+        },
+        {
+            "name": "NiteWhip",
+            "pedigree": "DarkCrab MadSpirit",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "MadSpirit",
+            "pedigree": "[ZOMBIE]",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "MadSpirit",
+            "pedigree": "BoneSlave DeadNite DeadNoble Mudron Skeletor Skullgon",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "WindMerge",
+            "pedigree": "RotRaven",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "WindMerge",
+            "pedigree": "[ZOMBIE]",
+            "parent": "WindBeast"
+        },
+        {
+            "name": "Reaper",
+            "pedigree": "[ZOMBIE]",
+            "parent": "WeedBug"
+        },
+        {
+            "name": "Reaper",
+            "pedigree": "Hork Spooky",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "DeadNoble",
+            "pedigree": "DeadNite",
+            "parent": "DeadNite"
+        },
+        {
+            "name": "DeadNoble",
+            "pedigree": "BoneSlave DeadNite Mudron Skeletor Skullgon",
+            "parent": "Copycat"
+        },
+        {
+            "name": "DeadNoble",
+            "pedigree": "BoneSlave MadSpirit Mudron Skeletor",
+            "parent": "ArcDemon GateGuard Lionex MetalDrak Roboster"
+        },
+        {
+            "name": "WhiteKing",
+            "pedigree": "[ZOMBIE]",
+            "parent": "[???]"
+        },
+        {
+            "name": "WhiteKing",
+            "pedigree": "BoneSlave DeadNoble Skeletor Skullgon",
+            "parent": "Andreal Blizzardy GoldGolem GreatDrak KingLeo KingSlime MetalKing SpotKing WhipBird ZapBird"
+        },
+        {
+            "name": "BoneSlave",
+            "pedigree": "Hork",
+            "parent": "Hork"
+        },
+        {
+            "name": "BoneSlave",
+            "pedigree": "DeadNite Hork Mummy",
+            "parent": "FloraMan Gremlin HornBeet LandOwl MadGoose RockSlime SlimeBorg"
+        },
+        {
+            "name": "Skeletor",
+            "pedigree": "MadSpirit",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "Skeletor",
+            "pedigree": "BoneSlave",
+            "parent": "BoneSlave"
+        },
+        {
+            "name": "Skeletor",
+            "pedigree": "DeadNite Hork Mudron Mummy",
+            "parent": "EvilBeast Golem Grizzly GulpBeast MadCat MadCondor MadRaven Ogre StoneMan"
+        },
+        {
+            "name": "Servant",
+            "pedigree": "Skeletor",
+            "parent": "Skeletor"
+        },
+        {
+            "name": "Servant",
+            "pedigree": "WhiteKing",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "Copycat",
+            "pedigree": "--",
+            "parent": "--"
+        },
+        {
+            "name": "JewelBag",
+            "pedigree": "[MATERIAL]",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "EvilWand",
+            "pedigree": "[MATERIAL]",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "MadCandle",
+            "pedigree": "[MATERIAL]",
+            "parent": "[BEAST]"
+        },
+        {
+            "name": "CoilBird",
+            "pedigree": "[MATERIAL]",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "Facer",
+            "pedigree": "[MATERIA]",
+            "parent": "[PLANT]"
+        },
+        {
+            "name": "SpikyBoy",
+            "pedigree": "[MATERIAL]",
+            "parent": "[BUG]"
+        },
+        {
+            "name": "MadMirror",
+            "pedigree": "[MATERIAL]",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "RogueNite",
+            "pedigree": "[MATERIAL]",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "Goopi",
+            "pedigree": "JewelBag",
+            "parent": "[SLIME]"
+        },
+        {
+            "name": "Voodoll",
+            "pedigree": "[MATERIAL]",
+            "parent": "Lipsy"
+        },
+        {
+            "name": "Voodoll",
+            "pedigree": "Golem StoneMan",
+            "parent": "DrakSlime RockSlime SlimeNite Snaily"
+        },
+        {
+            "name": "MetalDrak",
+            "pedigree": "[MATERIAL]",
+            "parent": "Andreal"
+        },
+        {
+            "name": "MetalDrak",
+            "pedigree": "MetalDrak Roboster",
+            "parent": "[DRAGON]"
+        },
+        {
+            "name": "MetalDrak",
+            "pedigree": "Andreal GreatDrak Spikerous",
+            "parent": "Digster Golem KingSlime Roboster Skullgon SlimeBorg StoneMan"
+        },
+        {
+            "name": "Balzak",
+            "pedigree": "IceMan LavaMan",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "Balzak",
+            "pedigree": "[MATERIAL]",
+            "parent": "[???]"
+        },
+        {
+            "name": "SabreMan",
+            "pedigree": "EvilWand Golem StoneMan Voodoll",
+            "parent": "FunkyBird LandOwl MadGoose Phoenix"
+        },
+        {
+            "name": "SabreMan",
+            "pedigree": "[MATERIAL]",
+            "parent": "GiantWorm"
+        },
+        {
+            "name": "CurseLamp",
+            "pedigree": "[MATERIAL]",
+            "parent": "WingTree"
+        },
+        {
+            "name": "CurseLamp",
+            "pedigree": "Roboster",
+            "parent": "[BIRD]"
+        },
+        {
+            "name": "Roboster",
+            "pedigree": "SabreMan",
+            "parent": "DeadNoble EvilArmor GreatDrak Grendal Ogre Skeletor SlimeBorg Unicorn"
+        },
+        {
+            "name": "Roboster",
+            "pedigree": "[MATERIAL]",
+            "parent": "Grizzly GulpBeast KingLeo SkullRider Trumpeter"
+        },
+        {
+            "name": "EvilPot",
+            "pedigree": "Gismo",
+            "parent": "[DEVIL]"
+        },
+        {
+            "name": "EvilPot",
+            "pedigree": "[MATERIAL]",
+            "parent": "Snaily"
+        },
+        {
+            "name": "Gismo",
+            "pedigree": "Goopi MadCandle MadMirror",
+            "parent": "DrakSlime EvilSeed FireWeed MistyWing Phoenix Wyvern"
+        },
+        {
+            "name": "LavaMan",
+            "pedigree": "MetalDrak",
+            "parent": "ArcDemon Centasaur KingLeo Orochi ZapBird"
+        },
+        {
+            "name": "IceMan",
+            "pedigree": "Roboster",
+            "parent": "KingLeo"
+        },
+        {
+            "name": "IceMan",
+            "pedigree": "MetalDrak",
+            "parent": "Skullgon WhiteKing"
+        },
+        {
+            "name": "Mimic",
+            "pedigree": "[MATERIAL]",
+            "parent": "BoxSlime"
+        },
+        {
+            "name": "Mimic",
+            "pedigree": "Roboster",
+            "parent": "[ZOMBIE]"
+        },
+        {
+            "name": "MudDoll",
+            "pedigree": "Goopi",
+            "parent": "Goopi"
+        },
+        {
+            "name": "Golem",
+            "pedigree": "MudDoll",
+            "parent": "MudDoll"
+        },
+        {
+            "name": "StoneMan",
+            "pedigree": "Golem DeadNite Hork Mudron Mummy",
+            "parent": "Golem"
+        },
+        {
+            "name": "StoneMan",
+            "pedigree": "[MATERIAL]",
+            "parent": "Digster HornBeet"
+        },
+        {
+            "name": "BombCrag",
+            "pedigree": "Roboster",
+            "parent": "[BUG]"
+        },
+        {
+            "name": "BombCrag",
+            "pedigree": "SpikyBoy",
+            "parent": "SpikyBoy"
+        },
+        {
+            "name": "GoldGolem",
+            "pedigree": "IceMan",
+            "parent": "LavaMan"
+        },
+        {
+            "name": "DracoLord1",
+            "pedigree": "Servant",
+            "parent": "Andreal GreatDrak"
+        },
+        {
+            "name": "DracoLord2",
+            "pedigree": "DracoLord",
+            "parent": "Divinegon"
+        },
+        {
+            "name": "Hargon",
+            "pedigree": "WhiteKing",
+            "parent": "MetalKing"
+        },
+        {
+            "name": "Sidoh",
+            "pedigree": "Jamirus",
+            "parent": "Rosevine"
+        },
+        {
+            "name": "Baramos",
+            "pedigree": "Hargon",
+            "parent": "Orochi"
+        },
+        {
+            "name": "Zoma",
+            "pedigree": "DracoLord1 DracoLord2",
+            "parent": "Sidoh"
+        },
+        {
+            "name": "Pizzaro",
+            "pedigree": "Durran",
+            "parent": "Divinegon"
+        },
+        {
+            "name": "Esterk",
+            "pedigree": "Pizzaro",
+            "parent": "KingLeo"
+        },
+        {
+            "name": "Mirudraas1",
+            "pedigree": "Esterk",
+            "parent": "GoldSlime"
+        },
+        {
+            "name": "Mirudraas2",
+            "pedigree": "Mirudaas",
+            "parent": "Spikerous"
+        },
+        {
+            "name": "Mudou",
+            "pedigree": "Baramos",
+            "parent": "DarkHorn"
+        },
+        {
+            "name": "DeathMore1",
+            "pedigree": "Zoma",
+            "parent": "Mirudraas1 Mirudrass2"
+        },
+        {
+            "name": "DeathMore1",
+            "pedigree": "Mirudraas1 Mirudrass2",
+            "parent": "Zoma"
+        },
+        {
+            "name": "DeathMore2",
+            "pedigree": "DeathMore1",
+            "parent": "Armorpion"
+        },
+        {
+            "name": "DeathMore3",
+            "pedigree": "DeathMore2",
+            "parent": "Mudou"
+        },
+        {
+            "name": "DarkDrium",
+            "pedigree": "DeathMore3",
+            "parent": "Watbou"
+        }
+    ]
+}

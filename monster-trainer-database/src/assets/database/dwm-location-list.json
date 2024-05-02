@@ -1,0 +1,2386 @@
+{
+    "dwmLocationList": [
+        {
+            "name": "DrakSlime",
+            "locations": [
+                {
+                    "gate": "Stable",
+                    "level": "6-11"
+                },
+                {
+                    "gate": "Strength & Mastermind",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Anger",
+                    "level": "9-10"
+                }
+            ]
+        },
+        {
+            "name": "SpotSlime",
+            "locations": [
+                {
+                    "gate": "Bazaar & Peace",
+                    "level": "1-3"
+                },
+                {
+                    "gate": "Bewilder & Mastermind",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Memories",
+                    "level": "3-4"
+                }
+            ]
+        },
+        {
+            "name": "WingSlime",
+            "locations": [
+                {
+                    "gate": "Arena Left",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Mastermind",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "TreeSlime",
+            "locations": [
+                {
+                    "gate": "Well",
+                    "level": "4-5"
+                },
+                {
+                    "gate": "Mastermind",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Strength",
+                    "level": "1-3, 6-10"
+                }
+            ]
+        },
+        {
+            "name": "Snaily",
+            "locations": [
+                {
+                    "gate": "Joy",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Mastermind",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "SlimeNite",
+            "locations": [
+                {
+                    "gate": "Mastermind",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Temptation",
+                    "level": "1-19"
+                }
+            ]
+        },
+        {
+            "name": "Babble",
+            "locations": [
+                {
+                    "gate": "Joy",
+                    "level": "9-13"
+                },
+                {
+                    "gate": "Mastermind",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "BoxSlime",
+            "locations": [
+                {
+                    "gate": "Medal",
+                    "level": "1-18"
+                },
+                {
+                    "gate": "Mastermind",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "Slime",
+            "locations": [
+                {
+                    "gate": "Beginning",
+                    "level": "1-4"
+                },
+                {
+                    "gate": "Mastermind",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "Healer",
+            "locations": [
+                {
+                    "gate": "Beginning",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "FangSlime",
+            "locations": [
+                {
+                    "gate": "Peace",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "RockSlime",
+            "locations": [
+                {
+                    "gate": "Mastermind",
+                    "level": "11-29"
+                },
+                {
+                    "gate": "Labyrinth",
+                    "level": "1-22"
+                }
+            ]
+        },
+        {
+            "name": "SlimeBorg",
+            "locations": [
+                {
+                    "gate": "Reflection",
+                    "level": "1-15"
+                },
+                {
+                    "gate": "Mastermind",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Slabbit",
+            "locations": [
+                {
+                    "gate": "Arena Left",
+                    "level": "6-15"
+                },
+                {
+                    "gate": "Mastermind",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "SpotKing",
+            "locations": [
+                {
+                    "gate": "Judgement",
+                    "level": "1-24"
+                },
+                {
+                    "gate": "Mastermind",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "KingSlime",
+            "locations": [
+                {
+                    "gate": "Medal",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "Metaly",
+            "locations": [
+                {
+                    "gate": "Well",
+                    "level": "9-11"
+                },
+                {
+                    "gate": "Mastermind",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "Metabble",
+            "locations": [
+                {
+                    "gate": "Mastermind",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "MetalKing",
+            "locations": []
+        },
+        {
+            "name": "GoldSlime",
+            "locations": []
+        },
+        {
+            "name": "DragonKid",
+            "locations": [
+                {
+                    "gate": "Bazaar & Peace",
+                    "level": "4-5"
+                },
+                {
+                    "gate": "Old Man",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Memories & Bewilder",
+                    "level": "1-2"
+                }
+            ]
+        },
+        {
+            "name": "Tortragon",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Library",
+                    "level": "11-24"
+                }
+            ]
+        },
+        {
+            "name": "Pteranod",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Wisdom",
+                    "level": "1-14"
+                }
+            ]
+        },
+        {
+            "name": "Gasgon",
+            "locations": [
+                {
+                    "gate": "Arena Left",
+                    "level": "13-15"
+                },
+                {
+                    "gate": "Old Man",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Happiness",
+                    "level": "1-4"
+                }
+            ]
+        },
+        {
+            "name": "FairyDrak",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Stable",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Strength",
+                    "level": "1-5, 9-10"
+                }
+            ]
+        },
+        {
+            "name": "LizardMan",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Reflection",
+                    "level": "1-20"
+                }
+            ]
+        },
+        {
+            "name": "Poisongon",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Anger",
+                    "level": "1-8"
+                }
+            ]
+        },
+        {
+            "name": "Swordgon",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "Dragon",
+            "locations": [
+                {
+                    "gate": "Villager",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "MiniDrak",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Bewilder",
+                    "level": "1-2"
+                },
+                {
+                    "gate": "Talisman",
+                    "level": "1-2"
+                }
+            ]
+        },
+        {
+            "name": "MadDragon",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Rayburn",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Chamelgon",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Labyrinth",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "LizardFly",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Judgement",
+                    "level": "11-24"
+                }
+            ]
+        },
+        {
+            "name": "Andreal",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "KingCobra",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Temptation",
+                    "level": "1-16"
+                }
+            ]
+        },
+        {
+            "name": "Spikerous",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "GreatDrak",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Crestpent",
+            "locations": [
+                {
+                    "gate": "Bazaar",
+                    "level": "1-3"
+                },
+                {
+                    "gate": "Old Man",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Peace",
+                    "level": "1-7"
+                }
+            ]
+        },
+        {
+            "name": "WingSnake",
+            "locations": [
+                {
+                    "gate": "Old Man",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "Coatol",
+            "locations": []
+        },
+        {
+            "name": "Orochi",
+            "locations": []
+        },
+        {
+            "name": "BattleRex",
+            "locations": [
+                {
+                    "gate": "Anger",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "SkyDragon",
+            "locations": []
+        },
+        {
+            "name": "Divinegon",
+            "locations": []
+        },
+        {
+            "name": "Tonguella",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Wisdom",
+                    "level": "1-14"
+                }
+            ]
+        },
+        {
+            "name": "Almiraj",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Well",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Peace",
+                    "level": "4-7"
+                }
+            ]
+        },
+        {
+            "name": "Catfly",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Anger",
+                    "level": "1-10"
+                }
+            ]
+        },
+        {
+            "name": "PillowRat",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Memories",
+                    "level": "1-2"
+                },
+                {
+                    "gate": "Villager",
+                    "level": "3-4"
+                }
+            ]
+        },
+        {
+            "name": "Saccer",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Joy",
+                    "level": "1-12"
+                }
+            ]
+        },
+        {
+            "name": "GulpBeast",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "21-26"
+                }
+            ]
+        },
+        {
+            "name": "SkullRoo",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Stable",
+                    "level": "1-11"
+                }
+            ]
+        },
+        {
+            "name": "WindBeast",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Arena Left",
+                    "level": "9-15"
+                }
+            ]
+        },
+        {
+            "name": "Anteater",
+            "locations": [
+                {
+                    "gate": "Beginning",
+                    "level": "1-4"
+                },
+                {
+                    "gate": "Villager",
+                    "level": "1-2"
+                },
+                {
+                    "gate": "Talisman",
+                    "level": "1-2"
+                }
+            ]
+        },
+        {
+            "name": "SuperTen",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "IronTurt",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "21-26"
+                }
+            ]
+        },
+        {
+            "name": "Mommonja",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Temptation",
+                    "level": "1-12"
+                }
+            ]
+        },
+        {
+            "name": "HammerMan",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Judgment",
+                    "level": "1-24"
+                }
+            ]
+        },
+        {
+            "name": "Grizzly",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Reflection",
+                    "level": "6-28"
+                }
+            ]
+        },
+        {
+            "name": "Yeti",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "21-26"
+                }
+            ]
+        },
+        {
+            "name": "MadGopher",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Arena Left",
+                    "level": "1-15"
+                }
+            ]
+        },
+        {
+            "name": "FairyRat",
+            "locations": [
+                {
+                    "gate": "Bazaar",
+                    "level": "1-3"
+                },
+                {
+                    "gate": "Arena Right",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Memories",
+                    "level": "3-4"
+                }
+            ]
+        },
+        {
+            "name": "Unicorn",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "21-26"
+                }
+            ]
+        },
+        {
+            "name": "Goategon",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "WildApe",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Library",
+                    "level": "6-24"
+                }
+            ]
+        },
+        {
+            "name": "Trumpeter",
+            "locations": [
+                {
+                    "gate": "Arena Right",
+                    "level": "21-26"
+                }
+            ]
+        },
+        {
+            "name": "KingLeo",
+            "locations": []
+        },
+        {
+            "name": "DarkHorn",
+            "locations": [
+                {
+                    "gate": "Labyrinth",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "MadCat",
+            "locations": [
+                {
+                    "gate": "Memories",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "BigEye",
+            "locations": [
+                {
+                    "gate": "Bravery",
+                    "level": "Boss NR"
+                }
+            ]
+        },
+        {
+            "name": "Picky",
+            "locations": [
+                {
+                    "gate": "Memories",
+                    "level": "3-4"
+                },
+                {
+                    "gate": "Talisman",
+                    "level": "3-5"
+                },
+                {
+                    "gate": "Control",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Vilager",
+                    "level": "1-2"
+                }
+            ]
+        },
+        {
+            "name": "Wyvern",
+            "locations": [
+                {
+                    "gate": "Reflection",
+                    "level": "11-25"
+                },
+                {
+                    "gate": "Control",
+                    "level": "21-26"
+                }
+            ]
+        },
+        {
+            "name": "BullBird",
+            "locations": [
+                {
+                    "gate": "Well",
+                    "level": "6-11"
+                },
+                {
+                    "gate": "Peace",
+                    "level": "6-7"
+                },
+                {
+                    "gate": "Control",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Bravery",
+                    "level": "6-8"
+                }
+            ]
+        },
+        {
+            "name": "FloraJay",
+            "locations": [
+                {
+                    "gate": "Control",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Wisdom",
+                    "level": "1-14"
+                }
+            ]
+        },
+        {
+            "name": "DuckKite",
+            "locations": [
+                {
+                    "gate": "Control",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Labyrinth",
+                    "level": "6-22"
+                }
+            ]
+        },
+        {
+            "name": "MadPecker",
+            "locations": [
+                {
+                    "gate": "Joy",
+                    "level": "1-8, 13"
+                },
+                {
+                    "gate": "Control",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "MadRaven",
+            "locations": [
+                {
+                    "gate": "Stable",
+                    "level": "1-8"
+                },
+                {
+                    "gate": "Control",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "MistyWing",
+            "locations": [
+                {
+                    "gate": "Control",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Temptation",
+                    "level": "13-19"
+                }
+            ]
+        },
+        {
+            "name": "Dracky",
+            "locations": [
+                {
+                    "gate": "Control",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Beginning",
+                    "level": "1-4"
+                }
+            ]
+        },
+        {
+            "name": "BigRoost",
+            "locations": [
+                {
+                    "gate": "Bazaar",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Peace",
+                    "level": "1-3"
+                },
+                {
+                    "gate": "Bewilder",
+                    "level": "1-2"
+                },
+                {
+                    "gate": "Control",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "StubBird",
+            "locations": [
+                {
+                    "gate": "Happiness",
+                    "level": "13-17"
+                },
+                {
+                    "gate": "Control",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "LandOwl",
+            "locations": [
+                {
+                    "gate": "Library",
+                    "level": "21-24"
+                },
+                {
+                    "gate": "Control",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "MadGoose",
+            "locations": [
+                {
+                    "gate": "Judgement",
+                    "level": "1-10, 21-24"
+                },
+                {
+                    "gate": "Control",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "MadCondor",
+            "locations": [
+                {
+                    "gate": "Control",
+                    "level": "21-26"
+                }
+            ]
+        },
+        {
+            "name": "Blizzardy",
+            "locations": []
+        },
+        {
+            "name": "Phoenix",
+            "locations": []
+        },
+        {
+            "name": "ZapBird",
+            "locations": [
+                {
+                    "gate": "Control",
+                    "level": "21-26"
+                }
+            ]
+        },
+        {
+            "name": "WhipBird",
+            "locations": [
+                {
+                    "gate": "Control",
+                    "level": "21-26"
+                }
+            ]
+        },
+        {
+            "name": "FunkyBird",
+            "locations": [
+                {
+                    "gate": "Joy",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "RainHawk",
+            "locations": []
+        },
+        {
+            "name": "MadPlant",
+            "locations": [
+                {
+                    "gate": "Demoliton",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "FireWeed",
+            "locations": [
+                {
+                    "gate": "Reflection",
+                    "level": "11-15"
+                },
+                {
+                    "gate": "Demoliton",
+                    "level": "11-28"
+                }
+            ]
+        },
+        {
+            "name": "FloraMan",
+            "locations": [
+                {
+                    "gate": "Well",
+                    "level": "1-11"
+                },
+                {
+                    "gate": "Demolition",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Bravery",
+                    "level": "1-8"
+                }
+            ]
+        },
+        {
+            "name": "WingTree",
+            "locations": [
+                {
+                    "gate": "Demoliton",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Strength",
+                    "level": "4-10"
+                }
+            ]
+        },
+        {
+            "name": "CactiBall",
+            "locations": [
+                {
+                    "gate": "Demolition",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Labyrinth",
+                    "level": "1-15"
+                }
+            ]
+        },
+        {
+            "name": "Gulpple",
+            "locations": [
+                {
+                    "gate": "Joy",
+                    "level": "1-8"
+                },
+                {
+                    "gate": "Demoliton",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "Toadstool",
+            "locations": [
+                {
+                    "gate": "Medal",
+                    "level": "Boss NR"
+                }
+            ]
+        },
+        {
+            "name": "AmberWeed",
+            "locations": [
+                {
+                    "gate": "Library",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Demolition",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "Stubsuck",
+            "locations": [
+                {
+                    "gate": "Villager",
+                    "level": "1-4"
+                },
+                {
+                    "gate": "Demoliton",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Bewilder",
+                    "level": "SubBoss"
+                }
+            ]
+        },
+        {
+            "name": "Oniono",
+            "locations": [
+                {
+                    "gate": "Happiness",
+                    "level": "1-12"
+                },
+                {
+                    "gate": "Demoliton",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "DanceVegi",
+            "locations": [
+                {
+                    "gate": "Demolition",
+                    "level": "21-28"
+                }
+            ]
+        },
+        {
+            "name": "TreeBoy",
+            "locations": [
+                {
+                    "gate": "Judgement",
+                    "level": "1-20"
+                },
+                {
+                    "gate": "Demoliton",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "FaceTree",
+            "locations": [
+                {
+                    "gate": "Bewilder",
+                    "level": "Boss"
+                },
+                {
+                    "gate": "Arena Right",
+                    "level": "21-26"
+                }
+            ]
+        },
+        {
+            "name": "HerbMan",
+            "locations": []
+        },
+        {
+            "name": "BeanMan",
+            "locations": [
+                {
+                    "gate": "Bazaar",
+                    "level": "4-5"
+                },
+                {
+                    "gate": "Demolition",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Bravery",
+                    "level": "1-8"
+                }
+            ]
+        },
+        {
+            "name": "EvilSeed",
+            "locations": [
+                {
+                    "gate": "Bewilder",
+                    "level": "3-5"
+                },
+                {
+                    "gate": "Demolition",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "ManEater",
+            "locations": [
+                {
+                    "gate": "Demolition",
+                    "level": "21-28"
+                }
+            ]
+        },
+        {
+            "name": "Snapper",
+            "locations": [
+                {
+                    "gate": "Demolition",
+                    "level": "21-28"
+                }
+            ]
+        },
+        {
+            "name": "Rosevine",
+            "locations": []
+        },
+        {
+            "name": "Watabou",
+            "locations": [
+                {
+                    "gate": "Reward",
+                    "level": "World Map",
+                    "note": "Must clear all family gates"
+                }
+            ]
+        },
+        {
+            "name": "GiantSlug",
+            "locations": [
+                {
+                    "gate": "Well",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Anger",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "Catapila",
+            "locations": [
+                {
+                    "gate": "Bazaar",
+                    "level": "4-8"
+                },
+                {
+                    "gate": "Memories",
+                    "level": "1-4"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "Gophecada",
+            "locations": [
+                {
+                    "gate": "Happiness",
+                    "level": "1-17"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "Butterfly",
+            "locations": [
+                {
+                    "gate": "Stable",
+                    "level": "1-3"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "WeedBug",
+            "locations": [
+                {
+                    "gate": "Judgement",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "GiantWorm",
+            "locations": [
+                {
+                    "gate": "Well",
+                    "level": "6-8"
+                },
+                {
+                    "gate": "Anger",
+                    "level": "1-3"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Bravery",
+                    "level": "4-8"
+                }
+            ]
+        },
+        {
+            "name": "Lipsy",
+            "locations": [
+                {
+                    "gate": "Medal",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "StagBug",
+            "locations": [
+                {
+                    "gate": "Ambition",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Temptation",
+                    "level": "9-19"
+                }
+            ]
+        },
+        {
+            "name": "ArmyAnt",
+            "locations": [
+                {
+                    "gate": "Talisman",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "GoHopper",
+            "locations": [
+                {
+                    "gate": "Villager",
+                    "level": "1-4"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "TailEater",
+            "locations": [
+                {
+                    "gate": "Labyrinth",
+                    "level": "1-10, 16-20"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "ArmorPede",
+            "locations": [
+                {
+                    "gate": "Wisdom",
+                    "level": "6-14"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "Eyeder",
+            "locations": [
+                {
+                    "gate": "Anger",
+                    "level": "4-10"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "GiantMoth",
+            "locations": [
+                {
+                    "gate": "Judgement",
+                    "level": "16-24"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Droll",
+            "locations": [
+                {
+                    "gate": "Judgement",
+                    "level": "6-15"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "ArmyCrab",
+            "locations": [
+                {
+                    "gate": "Library",
+                    "level": "1-20"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "MadHornet",
+            "locations": [
+                {
+                    "gate": "Reflection",
+                    "level": "16-28"
+                },
+                {
+                    "gate": "Ambition",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "HornBeet",
+            "locations": []
+        },
+        {
+            "name": "Armorpion",
+            "locations": []
+        },
+        {
+            "name": "Digster",
+            "locations": [
+                {
+                    "gate": "Arena Left",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "Pixy",
+            "locations": [
+                {
+                    "gate": "Happiness",
+                    "level": "1-16"
+                },
+                {
+                    "gate": "Extinction",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "ArcDemon",
+            "locations": [
+                {
+                    "gate": "Library",
+                    "level": "1-24"
+                },
+                {
+                    "gate": "Extinction",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "AgDevil",
+            "locations": [
+                {
+                    "gate": "Extinction",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Labyrinth",
+                    "level": "11-22"
+                }
+            ]
+        },
+        {
+            "name": "Demonite",
+            "locations": [
+                {
+                    "gate": "Bazaar",
+                    "level": "6-8"
+                },
+                {
+                    "gate": "Bewilder",
+                    "level": "3-5"
+                },
+                {
+                    "gate": "Extinction",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Bravery",
+                    "level": "1-3"
+                }
+            ]
+        },
+        {
+            "name": "DarkEye",
+            "locations": [
+                {
+                    "gate": "Extinction",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Temptation",
+                    "level": "17-19"
+                }
+            ]
+        },
+        {
+            "name": "EyeBall",
+            "locations": [
+                {
+                    "gate": "Joy",
+                    "level": "6-13"
+                },
+                {
+                    "gate": "Extinction",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "SkulRider",
+            "locations": [
+                {
+                    "gate": "Extinction",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Strength",
+                    "level": "1-8"
+                }
+            ]
+        },
+        {
+            "name": "EvilBeast",
+            "locations": [
+                {
+                    "gate": "Reflection",
+                    "level": "1-10"
+                },
+                {
+                    "gate": "Extinction",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "1EyeClown",
+            "locations": [
+                {
+                    "gate": "Bazaar",
+                    "level": "6-8"
+                },
+                {
+                    "gate": "Extinction",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Bravery",
+                    "level": "1-3"
+                }
+            ]
+        },
+        {
+            "name": "Gremlin",
+            "locations": [
+                {
+                    "gate": "Extinction",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Villager",
+                    "level": "3-4"
+                }
+            ]
+        },
+        {
+            "name": "MedusaEye",
+            "locations": [
+                {
+                    "gate": "Arena Left",
+                    "level": "1-8"
+                },
+                {
+                    "gate": "Extinction",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "Lionex",
+            "locations": [
+                {
+                    "gate": "Reflection",
+                    "level": "16-28"
+                },
+                {
+                    "gate": "Extinction",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "GoatHorn",
+            "locations": [
+                {
+                    "gate": "Extinction",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Orc",
+            "locations": [
+                {
+                    "gate": "Extinction",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Ogre",
+            "locations": [
+                {
+                    "gate": "Extinction",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "GateGuard",
+            "locations": []
+        },
+        {
+            "name": "ChopClown",
+            "locations": []
+        },
+        {
+            "name": "Grendal",
+            "locations": [
+                {
+                    "gate": "Extinction",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Akubar",
+            "locations": [
+                {
+                    "gate": "Judgement",
+                    "level": "Boss NR"
+                }
+            ]
+        },
+        {
+            "name": "MadKnight",
+            "locations": [
+                {
+                    "gate": "Bazaar",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "Gigantes",
+            "locations": [
+                {
+                    "gate": "Well",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "Centasaur",
+            "locations": [
+                {
+                    "gate": "Temptation",
+                    "level": "Boss NR"
+                }
+            ]
+        },
+        {
+            "name": "EvilArmor",
+            "locations": [
+                {
+                    "gate": "Temptaion",
+                    "level": "Boss NR"
+                }
+            ]
+        },
+        {
+            "name": "Jamirus",
+            "locations": [
+                {
+                    "gate": "Happiness",
+                    "level": "Boss NR"
+                }
+            ]
+        },
+        {
+            "name": "Durran",
+            "locations": [
+                {
+                    "gate": "Reflection",
+                    "level": "Boss NR"
+                }
+            ]
+        },
+        {
+            "name": "Spooky",
+            "locations": [
+                {
+                    "gate": "Talisman",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "Skullgon",
+            "locations": [
+                {
+                    "gate": "Sleep",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Putrepup",
+            "locations": [
+                {
+                    "gate": "Anger",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "RotRaven",
+            "locations": [
+                {
+                    "gate": "Reflection",
+                    "level": "21-28"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Mummy",
+            "locations": [
+                {
+                    "gate": "Joy",
+                    "level": "9-13"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "DarkCrab",
+            "locations": [
+                {
+                    "gate": "Sleep",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "DeadNite",
+            "locations": [
+                {
+                    "gate": "Happiness",
+                    "level": "5-17"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "Shadow",
+            "locations": [
+                {
+                    "gate": "Reflection",
+                    "level": "1-10"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "Hork",
+            "locations": [
+                {
+                    "gate": "Bazaar",
+                    "level": "6-8"
+                },
+                {
+                    "gate": "Peace",
+                    "level": "6-7"
+                },
+                {
+                    "gate": "Bewilder",
+                    "level": "3-5"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "Mudron",
+            "locations": [
+                {
+                    "gate": "Stable",
+                    "level": "4-5, 9-11"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "NiteWhip",
+            "locations": [
+                {
+                    "gate": "Medal",
+                    "level": "1-8"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "6-10"
+                }
+            ]
+        },
+        {
+            "name": "MadSpirit",
+            "locations": [
+                {
+                    "gate": "Library",
+                    "level": "1-10, 16-24"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "WindMerge",
+            "locations": [
+                {
+                    "gate": "Sleep",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Labyrinth",
+                    "level": "21-22"
+                }
+            ]
+        },
+        {
+            "name": "Reaper",
+            "locations": [
+                {
+                    "gate": "Medal",
+                    "level": "9-18"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "DeadNoble",
+            "locations": [
+                {
+                    "gate": "Sleep",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "WhiteKing",
+            "locations": []
+        },
+        {
+            "name": "BoneSlave",
+            "locations": [
+                {
+                    "gate": "Well",
+                    "level": "1-3"
+                },
+                {
+                    "gate": "Peace",
+                    "level": "4-5"
+                },
+                {
+                    "gate": "Sleep",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "Skeletor",
+            "locations": [
+                {
+                    "gate": "Sleep",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Servant",
+            "locations": [
+                {
+                    "gate": "Temptation",
+                    "level": "Boss NR"
+                },
+                {
+                    "gate": "Reflection",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "Copycat",
+            "locations": [
+                {
+                    "gate": "Stable",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "JewelBag",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Reflection",
+                    "level": "26-28"
+                }
+            ]
+        },
+        {
+            "name": "EvilWand",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Reflection",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "MadCandle",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Arena Left",
+                    "level": "1-12"
+                }
+            ]
+        },
+        {
+            "name": "CoilBird",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Peace",
+                    "level": "1-3"
+                }
+            ]
+        },
+        {
+            "name": "Facer",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Stable",
+                    "level": "6-11"
+                },
+                {
+                    "gate": "Wisdom",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "SpikyBoy",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Happiness",
+                    "level": "17"
+                },
+                {
+                    "gate": "Temptation",
+                    "level": "1-8"
+                }
+            ]
+        },
+        {
+            "name": "MadMirror",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "11-20"
+                }
+            ]
+        },
+        {
+            "name": "RogueNite",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Medal",
+                    "level": "6-18"
+                }
+            ]
+        },
+        {
+            "name": "Goopi",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Memories",
+                    "level": "1-2"
+                },
+                {
+                    "gate": "Talisman",
+                    "level": "3-5"
+                }
+            ]
+        },
+        {
+            "name": "Voodoll",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "MetalDrak",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "Balzak",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "SabreMan",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Well",
+                    "level": "9-11"
+                },
+                {
+                    "gate": "Bravery",
+                    "level": "4-5"
+                }
+            ]
+        },
+        {
+            "name": "CurseLamp",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Library",
+                    "level": "1-15"
+                }
+            ]
+        },
+        {
+            "name": "Roboster",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "EvilPot",
+            "locations": []
+        },
+        {
+            "name": "Gismo",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "11-20"
+                },
+                {
+                    "gate": "Medal",
+                    "level": "1-8"
+                },
+                {
+                    "gate": "Labyrinth",
+                    "level": "1-22"
+                }
+            ]
+        },
+        {
+            "name": "LavaMan",
+            "locations": []
+        },
+        {
+            "name": "IceMan",
+            "locations": []
+        },
+        {
+            "name": "Mimic",
+            "locations": [
+                {
+                    "gate": "any",
+                    "level": "any",
+                    "note": "Treasure Chests"
+                }
+            ]
+        },
+        {
+            "name": "MudDoll",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Well",
+                    "level": "6-11"
+                },
+                {
+                    "gate": "Strength",
+                    "level": "1-5"
+                }
+            ]
+        },
+        {
+            "name": "Golem",
+            "locations": [
+                {
+                    "gate": "Talisman",
+                    "level": "Boss"
+                }
+            ]
+        },
+        {
+            "name": "StoneMan",
+            "locations": [
+                {
+                    "gate": "Strength",
+                    "level": "Boss NR",
+                    "note": "Gift from May"
+                }
+            ]
+        },
+        {
+            "name": "BombCrag",
+            "locations": [
+                {
+                    "gate": "Bazaar Edge",
+                    "level": "21-29"
+                }
+            ]
+        },
+        {
+            "name": "GoldGolem",
+            "locations": []
+        },
+        {
+            "name": "DracoLord1",
+            "locations": []
+        },
+        {
+            "name": "DracoLord2",
+            "locations": []
+        },
+        {
+            "name": "Hargon",
+            "locations": []
+        },
+        {
+            "name": "Sidoh",
+            "locations": []
+        },
+        {
+            "name": "Baramos",
+            "locations": []
+        },
+        {
+            "name": "Zoma",
+            "locations": []
+        },
+        {
+            "name": "Pizzaro",
+            "locations": []
+        },
+        {
+            "name": "Esterk",
+            "locations": []
+        },
+        {
+            "name": "Mirudraas1",
+            "locations": []
+        },
+        {
+            "name": "Mirudraas2",
+            "locations": []
+        },
+        {
+            "name": "Mudou",
+            "locations": []
+        },
+        {
+            "name": "DeathMore1",
+            "locations": []
+        },
+        {
+            "name": "DeathMore2",
+            "locations": []
+        },
+        {
+            "name": "DeathMore3",
+            "locations": []
+        },
+        {
+            "name": "DarkDrium",
+            "locations": []
+        }
+    ]
+}

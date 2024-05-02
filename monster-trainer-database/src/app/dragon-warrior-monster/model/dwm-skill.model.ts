@@ -13,14 +13,14 @@ export class Skill {
     monsters?: string[];
 
     constructor() {
-        this.name = "";
-        this.description = "";
-        this.lvl = "";
-        this.hp = "";
-        this.mp = "";
-        this.atk = "";
-        this.def = "";
-        this.agi = "";
-        this.int = "";
+        this.name = '';
+        this.description = '';
+        this.lvl = '';
+        this.hp = '';
+        this.mp = '';
+        this.atk = '';
+        this.def = '';
+        this.agi = '';
+        this.int = '';
     }
 }

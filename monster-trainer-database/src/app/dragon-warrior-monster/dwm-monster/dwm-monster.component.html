@@ -1,8 +1,7 @@
 <p>dwm-monster works!</p>
-{{monster.name}}
 {{monsterStringified}}
 <h1>{{monster.name}}</h1>
-<img src="{{monster.image}}">
+<div class="container"><img src="{{monster.image}}"></div>
 <li class="column" *ngFor="let skill of monster.skills; let i = index">
     <a class="button" routerLink="/dwm/skill/{{skill}}">{{skill}}</a>
 </li>

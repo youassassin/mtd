@@ -1,0 +1,11 @@
+//mvp
+add how to breed to monster list
+clean up home page monster list
+donation
+ui rehaul
+
+//maybe mvp
+figure out a way to reverse breed (reverse synthesis dqm dark prince)
+
+//hopefuls
+future caching for cataloug (gotta catch them all) and breeding trees

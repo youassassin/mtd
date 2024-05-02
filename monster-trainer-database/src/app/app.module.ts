@@ -9,6 +9,7 @@ import { DwmSkillComponent } from './dragon-warrior-monster/dwm-skill/dwm-skill.
 import { UpgradeableComponent } from './dragon-warrior-monster/dwm-skill/upgradeable/upgradeable.component';
 import { RequirementsComponent } from './dragon-warrior-monster/dwm-skill/requirements/requirements.component';
 import { CombinableComponent } from './dragon-warrior-monster/dwm-skill/combinable/combinable.component';
+import { DwmBreederComponent } from './dragon-warrior-monster/dwm-breeder/dwm-breeder.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { CombinableComponent } from './dragon-warrior-monster/dwm-skill/combinab
     DwmSkillComponent,
     UpgradeableComponent,
     RequirementsComponent,
-    CombinableComponent
+    CombinableComponent,
+    DwmBreederComponent
   ],
   imports: [
     BrowserModule,

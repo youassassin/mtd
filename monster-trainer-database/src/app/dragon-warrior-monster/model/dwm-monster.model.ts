@@ -1,3 +1,5 @@
+import { DWMLocation } from "./dwm-location.model";
+
 export class Monster {
     id: string;
     image: string;
@@ -15,22 +17,28 @@ export class Monster {
     agiGrowth: string;
     intGrowth: string;
     skills: string[];
+    resistances: string[];
+    note: string;
+    location?: DWMLocation[];
     constructor() {
-        this.id = "";
-        this.image = "";
-        this.name = "";
-        this.family = "";
-        this.maxLevel = "";
-        this.xpGrowth = "";
-        this.sexChance = "";
-        this.isFlying = "";
-        this.isMetal = "";
-        this.hpGrowth = "";
-        this.mpGrowth = "";
-        this.atkGrowth = "";
-        this.defGrowth = "";
-        this.agiGrowth = "";
-        this.intGrowth = "";
+        this.id = '';
+        this.image = '';
+        this.name = '';
+        this.family = '';
+        this.maxLevel = '';
+        this.xpGrowth = '';
+        this.sexChance = '';
+        this.isFlying = '';
+        this.isMetal = '';
+        this.hpGrowth = '';
+        this.mpGrowth = '';
+        this.atkGrowth = '';
+        this.defGrowth = '';
+        this.agiGrowth = '';
+        this.intGrowth = '';
         this.skills = [];
+        this.resistances = [];
+        this.note = '';
+        this.location = [];
     }
 }

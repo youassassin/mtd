@@ -12,11 +12,12 @@ export class DragonWarriorMonsterComponent implements OnInit {
   left = '{';
   right = '}';
   monsterList: Monster[] = [];
+  stringify: string[] = [];
   constructor(private dwmService: DragonWarriorMonsterService) { }
 
   ngOnInit(): void {
     this.monsterList = this.dwmService.getMonsterList();
-    console.log('hi')
+    this.monsterList.forEach(m => this.stringify.push(JSON.stringify(m) + ","));
   }
 
   toLower(str: string) {
