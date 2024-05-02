@@ -6,7 +6,7 @@ export class Skill {
     mp: string;
     atk: string;
     def: string;
-    agl: string;
+    agi: string;
     int: string;
     upgrade?: string[];
     combine?: string[][];
@@ -20,7 +20,7 @@ export class Skill {
         this.mp = "";
         this.atk = "";
         this.def = "";
-        this.agl = "";
+        this.agi = "";
         this.int = "";
     }
 }
