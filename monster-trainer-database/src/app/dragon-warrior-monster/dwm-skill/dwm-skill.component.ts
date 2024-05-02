@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { DragonWarriorMonsterService } from '../dragon-warrior-monster.service';
 import { ActivatedRoute, Router } from '@angular/router';
+import { Skill } from '../model/dwm-skill.model';
+import { Monster } from '../model/dwm-monster.model';
 
 @Component({
   selector: 'app-dwm-skill',
@@ -10,8 +12,9 @@ import { ActivatedRoute, Router } from '@angular/router';
 export class DwmSkillComponent implements OnInit {
 
 
-  skill: any;
-  skillStringified: string | undefined;
+  skill = new Skill;
+  skillStringified = "";
+  monstersWithSkill: Monster[] = [];
   constructor(private dwmService: DragonWarriorMonsterService,
     private route: ActivatedRoute,
     private router: Router) { }
@@ -23,10 +26,14 @@ export class DwmSkillComponent implements OnInit {
       if (found) {
         this.skill = found;
         this.skillStringified = JSON.stringify(this.skill);
+        this.getMonsterWithSkill(this.skill.name);
       } else {
         this.redirectInvalid();
       }
     });
+  }
+  getMonsterWithSkill(skillName: string) {
+    this.monstersWithSkill = this.dwmService.getMonsterList().filter(monster => monster.skills.find(name => name.toLowerCase() === skillName.toLowerCase()));
   }
 
   redirectInvalid() {

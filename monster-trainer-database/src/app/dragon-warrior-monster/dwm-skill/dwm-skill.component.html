@@ -2,3 +2,6 @@
 {{skill.name}}
 {{skillStringified}}
 <h1>{{skill.name}}</h1>
+<li class="column" *ngFor="let monster of monstersWithSkill; let i = index">
+    <a class="button" routerLink="/dwm/id/{{monster.id}}">{{monster.name}}</a>
+</li>
