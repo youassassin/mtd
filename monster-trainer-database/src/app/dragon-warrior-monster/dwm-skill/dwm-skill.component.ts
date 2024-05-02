@@ -15,11 +15,6 @@ export class DwmSkillComponent implements OnInit {
   l = "{";
   r = "}";
   skill = new Skill;
-  skillList: Skill[] = [];
-  up?: string[] = [];
-  skillStringified = "";
-  skillListStringified: string[] = [];
-  skillListStringifiedcopy: string[] = [];
   monstersWithSkill: Monster[] = [];
   isUpgrade = false;
   constructor(private dwmService: DragonWarriorMonsterService,
@@ -28,30 +23,17 @@ export class DwmSkillComponent implements OnInit {
 
   ngOnInit(): void {
     this.route.params.subscribe(param => {
-      console.log(param['name'])
-      this.skillList = this.dwmService.getSkillList();
-      this.skillList.forEach(skill => this.skillListStringified.push(JSON.stringify(skill)));
-      let c = 0;
-      for (let s of this.skillList) {
-        let ms = this.getMonsterWithSkill(s.name);
-        let x = '[';
-        this.monstersWithSkill.forEach(e => {
-          x += "\"" + e.name + "\","
-        });
-        x = x.substring(0, x.length - 1) + ']';
-        this.skillListStringifiedcopy.push(this.skillListStringified[c++].replace('}', `,"monsters": ${x}}`));
-      }
+      this.reset();
       const found = this.dwmService.getSkillList().find(skill => skill.name.toLowerCase() === (param['name'].toLowerCase()));
       if (found) {
         this.skill = found;
-        this.up = this.skill.upgrade;
-        this.skillStringified = JSON.stringify(this.skill);
         this.getMonsterWithSkill(this.skill.name);
       } else {
         this.redirectInvalid();
       }
     });
   }
+
   getMonsterWithSkill(skillName: string) {
     if (this.skill.upgrade) {
       this.isUpgrade = this.skill.upgrade[0].toLowerCase() !== skillName.toLowerCase();
@@ -59,7 +41,11 @@ export class DwmSkillComponent implements OnInit {
     }
     this.monstersWithSkill = this.dwmService.getMonsterList().filter(monster => monster.skills.find(name => name.toLowerCase() === skillName.toLowerCase()));
   }
-
+  reset() {
+    this.skill = new Skill;
+    this.isUpgrade = false;
+    this.monstersWithSkill = [];
+  }
   redirectInvalid() {
     this.router.navigate(['/dwm'], { queryParams: { invalid: true } });
   }
