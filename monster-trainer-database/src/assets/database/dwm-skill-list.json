@@ -1583,6 +1583,16 @@
                 "Infernos",
                 "Infermore",
                 "Infermost"
+            ],
+            "combine": [
+                [
+                    "MegaMagic",
+                    "Blazemost",
+                    "Blizzard",
+                    "Explodet",
+                    "Firebolt",
+                    "Infermost"
+                ]
             ]
         },
         {
@@ -1599,16 +1609,6 @@
                 "Infernos",
                 "Infermore",
                 "Infermost"
-            ],
-            "combine": [
-                [
-                    "MegaMagic",
-                    "Blazemost",
-                    "Blizzard",
-                    "Explodet",
-                    "Firebolt",
-                    "Infermost"
-                ]
             ],
             "monsters": [
                 "Andreal",

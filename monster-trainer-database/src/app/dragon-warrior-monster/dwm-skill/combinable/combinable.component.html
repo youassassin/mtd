@@ -1,0 +1,10 @@
+<div *ngIf="combos">
+    <h2>Combinable Skill:</h2>
+    <div class="heading" *ngFor="let combo of combos">
+        <a class="button" routerLink="/dwm/skill/{{combo[0]}}">{{combo[0]}}</a>&nbsp;=
+        <div *ngFor="let c of combo | slice:1:combo.length-1;">&nbsp;<a class="button"
+                routerLink="/dwm/skill/{{c}}">{{c}}</a> +</div>
+        <div>&nbsp;<a class="button" routerLink="/dwm/skill/{{combo[combo.length-1]}}">{{combo[combo.length-1]}}</a>
+        </div>
+    </div>
+</div>
