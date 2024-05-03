@@ -2,13 +2,13 @@
 {{monsterStringified}}
 {{breedStringified}} -->
 <h1>{{monster.name}}</h1>
-<div *ngIf="isLibrary" class="container">
+<div class="container">
+    <div class="image-wrapper">
+        <img src="{{monster.image}}">
+    </div>
     <div class="info">
         <div class="row">
             <div id="dwm-img" class="column">
-                <div class="image-wrapper">
-                    <img src="{{monster.image}}">
-                </div>
             </div>
             <div class="column">
                 <div class="row">
@@ -55,11 +55,5 @@
             <div id="monster-description">{{monster.note}}</div>
         </div>
 
-    </div>
-</div>
-
-<div *ngIf="!isLibrary" class="container">
-    <div class="image-wrapper">
-        <img src="{{monster.image}}">
     </div>
 </div>

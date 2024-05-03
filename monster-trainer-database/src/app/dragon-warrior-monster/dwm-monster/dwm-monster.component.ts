@@ -15,7 +15,6 @@ export class DwmMonsterComponent implements OnInit {
   breed: Breedable = new Breedable;
   monsterStringified: string = '';
   breedStringified: string = '';
-  isLibrary = false;
   constructor(private dwmService: DragonWarriorMonsterService,
     private route: ActivatedRoute,
     private router: Router) { }
