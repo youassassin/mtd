@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { DragonWarriorMonsterService } from '../dragon-warrior-monster.service';
 import { ActivatedRoute, Router } from '@angular/router';
+import { Monster } from '../model/dwm-monster.model';
+import { Breedable } from '../model/dwm-breedable.model';
 
 @Component({
   selector: 'app-dwm-monster',
@@ -9,8 +11,11 @@ import { ActivatedRoute, Router } from '@angular/router';
 })
 export class DwmMonsterComponent implements OnInit {
 
-  monster: any;
-  monsterStringified: string | undefined;
+  monster: Monster = new Monster;
+  breed: Breedable = new Breedable;
+  monsterStringified: string = '';
+  breedStringified: string = '';
+  isLibrary = false;
   constructor(private dwmService: DragonWarriorMonsterService,
     private route: ActivatedRoute,
     private router: Router) { }
@@ -21,7 +26,9 @@ export class DwmMonsterComponent implements OnInit {
         this.redirectInvalidId()
       } else {
         this.monster = this.dwmService.getMonsterList()[param['id'] - 1];
+        this.breed = this.dwmService.getBreedingList().find(m => m.id === param['id']);
         this.monsterStringified = JSON.stringify(this.monster);
+        this.breedStringified = JSON.stringify(this.breed);
       }
     })
   }

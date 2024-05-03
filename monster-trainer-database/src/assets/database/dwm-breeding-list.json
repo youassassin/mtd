@@ -6,10 +6,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 }
             ],
@@ -27,10 +27,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -44,10 +44,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 }
             ],
@@ -61,10 +61,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
-                        "[PLANT]"
+                        "PLANT"
                     ]
                 }
             ],
@@ -78,10 +78,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
-                        "[BUG]"
+                        "BUG"
                     ]
                 }
             ],
@@ -96,10 +96,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 }
             ],
@@ -111,7 +111,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
                         "[UNDEAD]",
@@ -130,10 +130,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ]
                 }
             ],
@@ -165,7 +165,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
                         "CopyCat",
@@ -183,7 +183,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
                         "Almiraj",
@@ -207,7 +207,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
                         "BombCrag",
@@ -233,7 +233,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
                         "Roboster"
@@ -269,7 +269,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
                         "Skullroo"
@@ -325,18 +325,18 @@
             "parents": [
                 {
                     "pedigree": [
-                        "Slime"
+                        "SLIME"
                     ],
                     "parent": [
-                        "Slime (+4)"
+                        "BOSS"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "Slime"
                     ],
                     "parent": [
-                        "[???]"
+                        "Slime (+4)"
                     ]
                 },
                 {
@@ -375,7 +375,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[SLIME]"
+                        "SLIME"
                     ],
                     "parent": [
                         "MetalDrak"
@@ -470,10 +470,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -488,10 +488,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -505,10 +505,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 }
             ],
@@ -523,10 +523,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
-                        "[PLANT]"
+                        "PLANT"
                     ]
                 }
             ],
@@ -543,10 +543,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
-                        "[BUG]"
+                        "BUG"
                     ]
                 }
             ],
@@ -558,10 +558,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 }
             ],
@@ -578,10 +578,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -595,10 +595,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ]
                 }
             ],
@@ -633,7 +633,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "Picky"
@@ -648,7 +648,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "GulpBeast"
@@ -659,7 +659,7 @@
                         "Gasgon"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -676,7 +676,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "MadCondor"
@@ -709,7 +709,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "Voodoll"
@@ -724,7 +724,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "GoHopper"
@@ -741,7 +741,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "Gulpple"
@@ -785,7 +785,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "Babble"
@@ -800,7 +800,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "ArmyCrab",
@@ -836,7 +836,7 @@
                 },
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "BattleRex",
@@ -869,7 +869,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "BigRoost"
@@ -935,10 +935,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
-                        "[???]"
+                        "BOSS"
                     ]
                 },
                 {
@@ -965,7 +965,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "EvilArmor",
@@ -993,7 +993,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "Phoenix"
@@ -1035,10 +1035,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -1056,10 +1056,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 }
             ],
@@ -1074,10 +1074,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 }
             ],
@@ -1091,10 +1091,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
-                        "[PLANT]"
+                        "PLANT"
                     ]
                 }
             ],
@@ -1109,10 +1109,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
-                        "[BUG]"
+                        "BUG"
                     ]
                 }
             ],
@@ -1129,7 +1129,7 @@
                         "Grizzly"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 },
                 {
@@ -1140,7 +1140,7 @@
                         "Yeti"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
@@ -1198,10 +1198,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -1218,15 +1218,15 @@
                         "CatFly"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ]
                 }
             ],
@@ -1255,7 +1255,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "Mudron"
@@ -1294,7 +1294,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "Tortragon"
@@ -1314,7 +1314,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "DuckKite"
@@ -1329,7 +1329,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "Stubsuck"
@@ -1346,10 +1346,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
-                        "[DEVIL]",
+                        "DEVIL",
                         "Golem",
                         "IceMan",
                         "LavaMan",
@@ -1374,7 +1374,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "Orc"
@@ -1411,7 +1411,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "SabreMan"
@@ -1426,7 +1426,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "Lizardfly"
@@ -1443,7 +1443,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "FangSlime"
@@ -1460,7 +1460,7 @@
                         "Yeti"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -1480,7 +1480,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "DrakSlime",
@@ -1499,12 +1499,12 @@
                         "Almiraj"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "MadPecker"
@@ -1535,7 +1535,7 @@
                         "SuperTen"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
@@ -1626,10 +1626,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
-                        "[???]"
+                        "BOSS"
                     ]
                 }
             ],
@@ -1647,7 +1647,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "Dragon"
@@ -1668,7 +1668,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BEAST]"
+                        "BEAST"
                     ],
                     "parent": [
                         "EyeBall"
@@ -1687,10 +1687,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -1705,10 +1705,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 }
             ],
@@ -1723,10 +1723,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -1740,10 +1740,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
-                        "[PLANT]"
+                        "PLANT"
                     ]
                 }
             ],
@@ -1755,10 +1755,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
-                        "[BUG]"
+                        "BUG"
                     ]
                 }
             ],
@@ -1773,10 +1773,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 }
             ],
@@ -1790,10 +1790,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -1807,10 +1807,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ]
                 }
             ],
@@ -1829,7 +1829,7 @@
                         "Picky"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -1858,7 +1858,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
                         "RockSlime"
@@ -1876,7 +1876,7 @@
                         "BullBird"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -1896,7 +1896,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
                         "Droll"
@@ -1911,7 +1911,7 @@
                     ],
                     "parent": [
                         "[DRAGON",
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -1930,12 +1930,12 @@
                         "LandOwl"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
                         "CoilBird"
@@ -1961,7 +1961,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
                         "DeadNoble",
@@ -1991,7 +1991,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
                         "ArcDemon",
@@ -2020,10 +2020,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
-                        "[???]"
+                        "BOSS"
                     ]
                 },
                 {
@@ -2054,7 +2054,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
                         "Rayburn"
@@ -2095,7 +2095,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BIRD]"
+                        "BIRD"
                     ],
                     "parent": [
                         "DanceVegi"
@@ -2134,10 +2134,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -2154,10 +2154,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 }
             ],
@@ -2171,10 +2171,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -2189,10 +2189,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 }
             ],
@@ -2206,10 +2206,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
-                        "[BUG]"
+                        "BUG"
                     ]
                 }
             ],
@@ -2221,10 +2221,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 }
             ],
@@ -2238,10 +2238,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -2253,10 +2253,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ]
                 }
             ],
@@ -2270,10 +2270,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -2287,7 +2287,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
                         "Gophecada"
@@ -2305,12 +2305,12 @@
                         "MadPlant"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
                         "Facer"
@@ -2329,7 +2329,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
                         "Pixy"
@@ -2347,12 +2347,12 @@
                         "HerbMan"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
                         "NiteWhip"
@@ -2373,12 +2373,12 @@
                         "DanceVegi"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
                         "FunkyBird"
@@ -2395,7 +2395,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
                         "PillowRat"
@@ -2412,7 +2412,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
                         "BigEye",
@@ -2469,10 +2469,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[PLANT]"
+                        "PLANT"
                     ],
                     "parent": [
-                        "[???]"
+                        "BOSS"
                     ]
                 }
             ],
@@ -2502,10 +2502,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -2520,10 +2520,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 }
             ],
@@ -2535,10 +2535,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -2552,10 +2552,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 }
             ],
@@ -2571,10 +2571,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
-                        "[PLANT]"
+                        "PLANT"
                     ]
                 }
             ],
@@ -2589,10 +2589,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 }
             ],
@@ -2607,10 +2607,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -2627,10 +2627,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ]
                 }
             ],
@@ -2647,7 +2647,7 @@
                         "GiantSlug"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -2679,12 +2679,12 @@
                         "WeedBug"
                     ],
                     "parent": [
-                        "[PLANT]"
+                        "PLANT"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
                         "FloraMan"
@@ -2701,7 +2701,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
                         "IronTurt"
@@ -2712,7 +2712,7 @@
                         "Droll"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
@@ -2720,7 +2720,7 @@
                         "GiantWorm"
                     ],
                     "parent": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ]
                 }
             ],
@@ -2735,7 +2735,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
                         "AmberWeed"
@@ -2746,7 +2746,7 @@
                         "Catapilla"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -2764,7 +2764,7 @@
                         "Butterfly"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 },
                 {
@@ -2772,7 +2772,7 @@
                         "Catapilla"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -2790,12 +2790,12 @@
                         "Lipsy"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
                         "Spooky"
@@ -2827,7 +2827,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
                         "DarkCrab"
@@ -2844,7 +2844,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
                         "FairyRat"
@@ -2856,7 +2856,7 @@
                         "LandOwl"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -2871,7 +2871,7 @@
                         "ArmorPede"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 },
                 {
@@ -2912,10 +2912,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[BUG]"
+                        "BUG"
                     ],
                     "parent": [
-                        "[???]"
+                        "BOSS"
                     ]
                 }
             ],
@@ -2935,10 +2935,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -2953,10 +2953,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
-                        "[???]"
+                        "BOSS"
                     ]
                 },
                 {
@@ -2964,7 +2964,7 @@
                         "GateGuard"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 },
                 {
@@ -2972,7 +2972,7 @@
                         "Ogre"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
@@ -3020,7 +3020,7 @@
                         "SkulRider"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 }
             ],
@@ -3036,10 +3036,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 }
             ],
@@ -3055,10 +3055,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
-                        "[PLANT]"
+                        "PLANT"
                     ]
                 }
             ],
@@ -3073,10 +3073,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
-                        "[BUG]"
+                        "BUG"
                     ]
                 }
             ],
@@ -3092,10 +3092,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -3111,10 +3111,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ]
                 }
             ],
@@ -3136,7 +3136,7 @@
                         "Pixy"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -3151,10 +3151,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -3172,10 +3172,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
@@ -3185,7 +3185,7 @@
                         "Gremlin"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -3205,12 +3205,12 @@
                         "ArcDemon"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
                         "LizardMan"
@@ -3233,12 +3233,12 @@
                         "ArcDemon"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
                         "DarkHorn"
@@ -3256,7 +3256,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
                         "BeanMan"
@@ -3276,7 +3276,7 @@
                         "GateGuard"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
@@ -3294,7 +3294,7 @@
                 },
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
                         "HammerMan"
@@ -3321,7 +3321,7 @@
                         "Ogre"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 },
                 {
@@ -3383,7 +3383,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
                         "MadDragon"
@@ -3397,7 +3397,7 @@
                         "SkulRider"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -3441,7 +3441,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
                         "RogueNite"
@@ -3459,7 +3459,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
                         "BigEye"
@@ -3472,7 +3472,7 @@
                         "SkulRider"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -3495,7 +3495,7 @@
                         "ArcDemon"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
@@ -3504,7 +3504,7 @@
                         "Ogre"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -3522,7 +3522,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ],
                     "parent": [
                         "Armorpede"
@@ -3535,7 +3535,7 @@
                         "Ogre"
                     ],
                     "parent": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ]
                 }
             ],
@@ -3600,10 +3600,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -3626,12 +3626,12 @@
                         "WhiteKing"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ],
                     "parent": [
                         "DeadNoble",
@@ -3642,7 +3642,7 @@
                 },
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
                         "Andreal",
@@ -3673,10 +3673,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -3688,10 +3688,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 }
             ],
@@ -3705,10 +3705,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
-                        "[PLANT]"
+                        "PLANT"
                     ]
                 }
             ],
@@ -3724,10 +3724,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
-                        "[BUG]"
+                        "BUG"
                     ]
                 }
             ],
@@ -3742,10 +3742,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 }
             ],
@@ -3764,10 +3764,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ]
                 }
             ],
@@ -3782,7 +3782,7 @@
                         "Spooky"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -3799,7 +3799,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
                         "BoxSlime",
@@ -3829,7 +3829,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
                         "MistyWing"
@@ -3841,7 +3841,7 @@
                         "MadSpirit"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 }
             ],
@@ -3855,10 +3855,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
@@ -3871,7 +3871,7 @@
                         "Skullgon"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 }
             ],
@@ -3890,12 +3890,12 @@
                         "RotRaven"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
                         "WindBeast"
@@ -3910,7 +3910,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
                         "WeedBug"
@@ -3922,7 +3922,7 @@
                         "Spooky"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 }
             ],
@@ -3986,10 +3986,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ],
                     "parent": [
-                        "[???]"
+                        "BOSS"
                     ]
                 },
                 {
@@ -4071,7 +4071,7 @@
                         "MadSpirit"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
@@ -4130,7 +4130,7 @@
                         "WhiteKing"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 }
             ],
@@ -4167,10 +4167,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -4185,10 +4185,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 }
             ],
@@ -4202,10 +4202,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
-                        "[BEAST]"
+                        "BEAST"
                     ]
                 }
             ],
@@ -4219,10 +4219,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 }
             ],
@@ -4239,7 +4239,7 @@
                         "[MATERIA]"
                     ],
                     "parent": [
-                        "[PLANT]"
+                        "PLANT"
                     ]
                 }
             ],
@@ -4253,10 +4253,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
-                        "[BUG]"
+                        "BUG"
                     ]
                 }
             ],
@@ -4270,10 +4270,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 }
             ],
@@ -4288,10 +4288,10 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -4308,7 +4308,7 @@
                         "JewelBag"
                     ],
                     "parent": [
-                        "[SLIME]"
+                        "SLIME"
                     ]
                 }
             ],
@@ -4323,7 +4323,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
                         "Lipsy"
@@ -4353,7 +4353,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
                         "Andreal"
@@ -4365,7 +4365,7 @@
                         "Roboster"
                     ],
                     "parent": [
-                        "[DRAGON]"
+                        "DRAGON"
                     ]
                 },
                 {
@@ -4410,15 +4410,15 @@
                         "LavaMan"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
-                        "[???]"
+                        "BOSS"
                     ]
                 }
             ],
@@ -4447,7 +4447,7 @@
                 },
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
                         "GiantWorm"
@@ -4465,7 +4465,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
                         "WingTree"
@@ -4476,7 +4476,7 @@
                         "Roboster"
                     ],
                     "parent": [
-                        "[BIRD]"
+                        "BIRD"
                     ]
                 }
             ],
@@ -4503,7 +4503,7 @@
                 },
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
                         "Grizzly",
@@ -4538,12 +4538,12 @@
                         "Gismo"
                     ],
                     "parent": [
-                        "[DEVIL]"
+                        "DEVIL"
                     ]
                 },
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
                         "Snaily"
@@ -4640,7 +4640,7 @@
             "parents": [
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
                         "BoxSlime"
@@ -4651,7 +4651,7 @@
                         "Roboster"
                     ],
                     "parent": [
-                        "[ZOMBIE]"
+                        "ZOMBIE"
                     ]
                 }
             ],
@@ -4721,7 +4721,7 @@
                 },
                 {
                     "pedigree": [
-                        "[MATERIAL]"
+                        "MATERIAL"
                     ],
                     "parent": [
                         "Digster",
@@ -4752,7 +4752,7 @@
                         "Roboster"
                     ],
                     "parent": [
-                        "[BUG]"
+                        "BUG"
                     ]
                 },
                 {

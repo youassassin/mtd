@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { DragonWarriorMonsterService } from '../dragon-warrior-monster.service';
 import { Monster } from '../model/dwm-monster.model';
+import { Breedable } from '../model/dwm-breedable.model';
 
 @Component({
   selector: 'app-dwm-breeder',
@@ -23,10 +24,15 @@ export class DwmBreederComponent implements OnInit {
   }
 
 }
-
-class Breedable {
-  id: string = '';
-  name: string = '';
-  parents: { pedigree: string[], parent: string[] }[] = []
-  children: string[] = []
+export enum Family {
+  SLIME,
+  DRAGON,
+  BEAST,
+  BIRD,
+  PLANT,
+  BUG,
+  DEVIL,
+  ZOMBIE,
+  MATERIAL,
+  BOSS
 }
