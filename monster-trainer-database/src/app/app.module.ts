@@ -10,6 +10,8 @@ import { UpgradeableComponent } from './dragon-warrior-monster/dwm-skill/upgrade
 import { RequirementsComponent } from './dragon-warrior-monster/dwm-skill/requirements/requirements.component';
 import { CombinableComponent } from './dragon-warrior-monster/dwm-skill/combinable/combinable.component';
 import { DwmBreederComponent } from './dragon-warrior-monster/dwm-breeder/dwm-breeder.component';
+import { DwmLibraryMonsterComponent } from './dragon-warrior-monster/dwm-library-view/dwm-library-monster/dwm-library-monster.component';
+import { DwmLibraryComponent } from './dragon-warrior-monster/dwm-library-view/dwm-library.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { DwmBreederComponent } from './dragon-warrior-monster/dwm-breeder/dwm-br
     UpgradeableComponent,
     RequirementsComponent,
     CombinableComponent,
-    DwmBreederComponent
+    DwmBreederComponent,
+    DwmLibraryMonsterComponent,
+    DwmLibraryComponent
   ],
   imports: [
     BrowserModule,

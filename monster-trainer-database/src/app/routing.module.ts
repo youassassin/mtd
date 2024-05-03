@@ -4,12 +4,14 @@ import { DragonWarriorMonsterComponent } from './dragon-warrior-monster/dragon-w
 import { DwmMonsterComponent } from './dragon-warrior-monster/dwm-monster/dwm-monster.component';
 import { DwmSkillComponent } from './dragon-warrior-monster/dwm-skill/dwm-skill.component';
 import { DwmBreederComponent } from './dragon-warrior-monster/dwm-breeder/dwm-breeder.component';
+import { DwmLibraryComponent } from './dragon-warrior-monster/dwm-library-view/dwm-library.component';
 
 const routes: Routes = [
   { path: 'dwm', component: DragonWarriorMonsterComponent },
   { path: 'dwm/id/:id', component: DwmMonsterComponent },
   { path: 'dwm/skill/:name', component: DwmSkillComponent },
-  { path: 'dwm/breeding', component: DwmBreederComponent }
+  { path: 'dwm/breeding', component: DwmBreederComponent },
+  { path: 'dwm/library', component: DwmLibraryComponent }
 ];
 
 @NgModule({
