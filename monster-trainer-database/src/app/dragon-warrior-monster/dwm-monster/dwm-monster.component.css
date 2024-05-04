@@ -1,5 +1,11 @@
 .container {
     display: flex;
+    flex-direction: column;
+}
+
+.family-container {
+    display: flex;
+    flex-direction: row;
 }
 
 .container .info {
@@ -37,6 +43,11 @@
 .image-wrapper {
     width: 80px;
     height: 80px;
+}
+
+.icon-wrapper {
+    width: 16px;
+    height: 16px;
 }
 
 #dwm-img {

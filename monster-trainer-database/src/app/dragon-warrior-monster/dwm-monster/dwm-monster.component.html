@@ -6,6 +6,19 @@
     <div class="image-wrapper">
         <img src="{{monster.image}}">
     </div>
+    <h3>Family</h3>
+    <div class="family-container">
+        <div class="icon-wrapper">
+            <img src="{{familyIconPath}}">
+        </div>
+        &nbsp;- {{family}}
+    </div>
+    <h3>Gender Probability</h3>
+    {{genderChance}}
+    <h3>Experience Growth Rate</h3>
+    <xp-growth></xp-growth>
+    <div *ngIf="!isXpDetail"></div>
+    <div *ngIf="isXpDetail"></div>
     <div class="info">
         <div class="row">
             <div id="dwm-img" class="column">

@@ -3,6 +3,8 @@ import { DragonWarriorMonsterService } from '../dragon-warrior-monster.service';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Monster } from '../model/dwm-monster.model';
 import { Breedable } from '../model/dwm-breedable.model';
+import { Family, convertEnumToImagePath } from '../enum/dwm-family.enum';
+import { convertEnumPercentage } from '../enum/dwm-sex-chance.enum';
 
 @Component({
   selector: 'app-dwm-monster',
@@ -15,6 +17,10 @@ export class DwmMonsterComponent implements OnInit {
   breed: Breedable = new Breedable;
   monsterStringified: string = '';
   breedStringified: string = '';
+  familyIconPath: string = '';
+  family: string = '';
+  genderChance: string = '';
+  isXpDetail: boolean = false;
   constructor(private dwmService: DragonWarriorMonsterService,
     private route: ActivatedRoute,
     private router: Router) { }
@@ -28,8 +34,16 @@ export class DwmMonsterComponent implements OnInit {
         this.breed = this.dwmService.getBreedingList().find(m => m.id === param['id']);
         this.monsterStringified = JSON.stringify(this.monster);
         this.breedStringified = JSON.stringify(this.breed);
+        this.init();
       }
     })
+  }
+
+  init(): void {
+    this.familyIconPath = convertEnumToImagePath(+this.monster.family)
+    this.family = Family[+this.monster.family];
+    let gender = convertEnumPercentage(+this.monster.sexChance);
+    this.genderChance = `Boy: ${gender.boy}, Girl $ ${gender.girl}`;
   }
 
   isInvalidId(id: any) {
