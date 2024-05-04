@@ -24,15 +24,3 @@ export class DwmBreederComponent implements OnInit {
   }
 
 }
-export enum Family {
-  SLIME,
-  DRAGON,
-  BEAST,
-  BIRD,
-  PLANT,
-  BUG,
-  DEVIL,
-  ZOMBIE,
-  MATERIAL,
-  BOSS
-}

@@ -14,7 +14,7 @@ import { convertEnumPercentage } from '../enum/dwm-sex-chance.enum';
 export class DwmMonsterComponent implements OnInit {
 
   monster: Monster = new Monster;
-  breed: Breedable = new Breedable;
+  breed: Breedable | undefined = new Breedable;
   monsterStringified: string = '';
   breedStringified: string = '';
   familyIconPath: string = '';

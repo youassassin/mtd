@@ -22,9 +22,9 @@
                             <line x1="10" y1="18" x2="20" y2="18" stroke="black" />
                         </svg>
                     </div>
-                    <div class="column">
-                        <div id="pedigree">{{breed.parents[0].pedigree[0]}}</div>
-                        <div id="parent">{{breed.parents[0].parent[0]}}</div>
+                    <div class="column"><!-- TODO fix possible undefined -->
+                        <div id="pedigree">{{breed!.parents[0].pedigree[0]}}</div>
+                        <div id="parent">{{breed!.parents[0].parent[0]}}</div>
                     </div>
                 </div>
             </div>

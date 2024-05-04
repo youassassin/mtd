@@ -12,7 +12,7 @@ export class DwmLibraryMonsterComponent implements OnInit {
 
   @Input() id = '';
   monster: Monster = new Monster;
-  breed: Breedable = new Breedable;
+  breed: Breedable | undefined = new Breedable;
   monsterStringified: string = '';
   breedStringified: string = '';
   constructor(private dwmService: DragonWarriorMonsterService) { }

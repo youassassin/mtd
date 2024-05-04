@@ -16,7 +16,7 @@
     <h3>Gender Probability</h3>
     {{genderChance}}
     <h3>Experience Growth Rate</h3>
-    <xp-growth></xp-growth>
+    <xp-growth [rate]="monster.xpGrowth"></xp-growth>
     <div *ngIf="!isXpDetail"></div>
     <div *ngIf="isXpDetail"></div>
     <div class="info">
@@ -40,8 +40,8 @@
                         </svg>
                     </div>
                     <div class="column">
-                        <div id="pedigree">{{breed.parents[0].pedigree[0]}}</div>
-                        <div id="parent">{{breed.parents[0].parent[0]}}</div>
+                        <div id="pedigree">{{breed!.parents[0].pedigree[0]}}</div>
+                        <div id="parent">{{breed!.parents[0].parent[0]}}</div>
                     </div>
                 </div>
             </div>

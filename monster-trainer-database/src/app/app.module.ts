@@ -12,6 +12,8 @@ import { CombinableComponent } from './dragon-warrior-monster/dwm-skill/combinab
 import { DwmBreederComponent } from './dragon-warrior-monster/dwm-breeder/dwm-breeder.component';
 import { DwmLibraryMonsterComponent } from './dragon-warrior-monster/dwm-library-view/dwm-library-monster/dwm-library-monster.component';
 import { DwmLibraryComponent } from './dragon-warrior-monster/dwm-library-view/dwm-library.component';
+import { DwmXpGrowthComponent } from './dragon-warrior-monster/dwm-growth/dwm-xp-growth/dwm-xp-growth.component';
+import { DwmGrowthComponent } from './dragon-warrior-monster/dwm-growth/dwm-growth.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { DwmLibraryComponent } from './dragon-warrior-monster/dwm-library-view/d
     CombinableComponent,
     DwmBreederComponent,
     DwmLibraryMonsterComponent,
-    DwmLibraryComponent
+    DwmLibraryComponent,
+    DwmXpGrowthComponent,
+    DwmGrowthComponent
   ],
   imports: [
     BrowserModule,

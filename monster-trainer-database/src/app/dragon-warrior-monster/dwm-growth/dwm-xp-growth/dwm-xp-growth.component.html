@@ -1,0 +1,16 @@
+<table>
+    <thead>
+        <tr>
+            <th>lvl</th>
+            <th>Growth</th>
+            <th>Total XP</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let l of levels; let i=index">
+            <td>lvl {{l}}:</td>
+            <td>{{stringRate[i]}}</td>
+            <td>{{xpAmount[i]| number}}xp</td>
+        </tr>
+    </tbody>
+</table>
