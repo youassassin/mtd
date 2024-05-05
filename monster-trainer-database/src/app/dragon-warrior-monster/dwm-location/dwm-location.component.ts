@@ -16,6 +16,7 @@ export class DwmLocationComponent implements OnInit {
   gateStringified: string = '';
   floors: string[] = [];
   monsters: string[][] = [];
+  monsterSet: string[] = [];
   constructor(private dwmService: DragonWarriorMonsterService,
     private route: ActivatedRoute,
     private router: Router) { }
@@ -35,6 +36,9 @@ export class DwmLocationComponent implements OnInit {
         })
         this.floors = Object.keys(this.gate.list);
         this.monsters = Object.values(this.gate.list);
+        let mset = new Set<string>();
+        this.monsters.forEach(m => m.forEach(n => mset.add(n.toLowerCase())));
+        this.monsterSet = Array.from(mset);
       }
     })
   }
