@@ -14,6 +14,8 @@ import { DwmLibraryMonsterComponent } from './dragon-warrior-monster/dwm-library
 import { DwmLibraryComponent } from './dragon-warrior-monster/dwm-library-view/dwm-library.component';
 import { DwmXpGrowthComponent } from './dragon-warrior-monster/dwm-growth/dwm-xp-growth/dwm-xp-growth.component';
 import { DwmGrowthComponent } from './dragon-warrior-monster/dwm-growth/dwm-growth.component';
+import { PageNotFoundComponent } from './dragon-warrior-monster/page-not-found/page-not-found.component';
+import { DwmLocationComponent } from './dragon-warrior-monster/dwm-location/dwm-location.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +30,9 @@ import { DwmGrowthComponent } from './dragon-warrior-monster/dwm-growth/dwm-grow
     DwmLibraryMonsterComponent,
     DwmLibraryComponent,
     DwmXpGrowthComponent,
-    DwmGrowthComponent
+    DwmGrowthComponent,
+    PageNotFoundComponent,
+    DwmLocationComponent
   ],
   imports: [
     BrowserModule,

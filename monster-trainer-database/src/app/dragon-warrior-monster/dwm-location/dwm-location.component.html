@@ -1,0 +1,28 @@
+<h1>{{gate.gate}}</h1>
+<h3>Number of floors: {{gate.depth}}</h3>
+<h3>Maximum floor size: {{gate.size}}x{{gate.size}}</h3>
+<h3>Boss: <a class="button" routerLink="/dwm/monster/{{gate.boss}}">{{gate.boss}}</a></h3>
+<h3>Monsters:</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Floors</th>
+            <th>Monsters Found</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let f of floors; let i=index">
+            <td>{{f}}</td>
+            <td style="display:flex">
+                <div *ngFor="let m of monsters[i]|slice:0:monsters[i].length-1">
+                    <a class="button" routerLink="/dwm/monster/{{m}}">{{m}}</a>,&nbsp;
+                </div>
+                <a class="button"
+                    routerLink="/dwm/monster/{{monsters[i][monsters[i].length-1]}}">{{monsters[i][monsters[i].length-1]}}</a>
+            </td>
+        </tr>
+        <tr *ngIf="gate.note">
+            <td colspan="2">{{gate.note}}</td>
+        </tr>
+    </tbody>
+</table>

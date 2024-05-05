@@ -13,8 +13,31 @@
         </div>
         &nbsp;- {{family}}
     </div>
+    <h3>Description</h3>
+    {{monster.note}}
+    <h3>Skills</h3>
+    <div>
+        <table>
+            <tbody>
+                <tr>
+                    <td *ngFor="let s of monster.skills" style="padding: 2px;">
+                        <a class="button" routerLink="/dwm/skill/{{s}}">{{s}}</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
     <h3>Gender Probability</h3>
     {{genderChance}}
+    <div *ngIf="monster.location">
+        <h3 *ngIf="monster.location.length === 1; else locations">Location</h3>
+        <ng-template #locations>
+            <h3>Locations</h3>
+        </ng-template>
+        <div *ngFor="let l of monster.location" style="padding: 2px;">
+            <a class="button" routerLink="/dwm/location/{{l.gate}}">{{l.gate}}</a> - {{l.level}}
+        </div>
+    </div>
     <h3>Experience Growth Rate</h3>
     <xp-growth [rate]="monster.xpGrowth"></xp-growth>
     <div *ngIf="!isXpDetail"></div>

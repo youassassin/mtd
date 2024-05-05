@@ -1,5 +1,8 @@
 export class DWMLocation {
     gate!: string;
-    level!: string;
+    depth!: string;
+    size!: string;
+    boss!: string;
+    list!: {}; //{...topLevel: string[]}
     note?: string;
 }

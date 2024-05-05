@@ -1,0 +1,998 @@
+{
+    "dwmGateList": [
+        {
+            "gate": "Beginner",
+            "depth": "5",
+            "size": "3",
+            "boss": "Healer",
+            "list": {
+                "1-4": [
+                    "Dracky",
+                    "Slime",
+                    "Anteater"
+                ]
+            },
+            "note": "All monsters will only appear alone"
+        },
+        {
+            "gate": "Villager",
+            "depth": "5",
+            "size": "3",
+            "boss": "Dragon",
+            "list": {
+                "1-2": [
+                    "StubSuck",
+                    "GoHopper",
+                    "Anteater",
+                    "Picky"
+                ],
+                "3-4": [
+                    "StubSuck",
+                    "GoHopper",
+                    "Gremlin",
+                    "PillowRat"
+                ]
+            },
+            "note": "Picky will only appear alone"
+        },
+        {
+            "gate": "Talisman",
+            "depth": "6",
+            "size": "3",
+            "boss": "Golem",
+            "list": {
+                "1-2": [
+                    "Spooky",
+                    "ArmyAnt",
+                    "AntEater",
+                    "MiniDrak"
+                ],
+                "3-5": [
+                    "Spooky",
+                    "Goopi",
+                    "ArmyAnt",
+                    "Picky"
+                ]
+            },
+            "note": "MiniDrak will only appear alone"
+        },
+        {
+            "gate": "Memories",
+            "depth": "5",
+            "size": "3",
+            "boss": "MadCat",
+            "list": {
+                "1-2": [
+                    "Goopi",
+                    "PillowRat",
+                    "DragonKid",
+                    "Catapila"
+                ],
+                "3-4": [
+                    "Picky",
+                    "FairyRat",
+                    "Catapila",
+                    "SpotSlime"
+                ]
+            }
+        },
+        {
+            "gate": "Bewilder",
+            "depth": "6",
+            "size": "3",
+            "boss": "FaceTree",
+            "list": {
+                "1-2": [
+                    "MiniDrak",
+                    "BigRoost",
+                    "DragonKid",
+                    "SpotSlime"
+                ],
+                "3-5": [
+                    "EvilSeed",
+                    "Demonite",
+                    "SpotSlime",
+                    "Crestpent"
+                ]
+            }
+        },
+        {
+            "gate": "Bazaar",
+            "depth": "9",
+            "size": "2",
+            "boss": "MadKnight",
+            "list": {
+                "1-2": [
+                    "FairyRat",
+                    "BigRoost",
+                    "SpotSlime",
+                    "Crestpent"
+                ],
+                "3-5": [
+                    "BigRoost",
+                    "DragonKid",
+                    "Catapila",
+                    "BeanMan"
+                ],
+                "6-8": [
+                    "Demonite",
+                    "Catapila",
+                    "Hork",
+                    "1EyeClown"
+                ]
+            }
+        },
+        {
+            "gate": "Peace",
+            "depth": "8",
+            "size": "4",
+            "boss": "FangSlime",
+            "list": {
+                "1-3": [
+                    "BigRoost",
+                    "SpotSlime",
+                    "CoilBird",
+                    "Crestpent"
+                ],
+                "4-5": [
+                    "DragonKid",
+                    "Crestpent",
+                    "BoneSlave",
+                    "Almiraj"
+                ],
+                "6-7": [
+                    "Hork",
+                    "Crestpent",
+                    "Almiraj",
+                    "BullBird"
+                ]
+            }
+        },
+        {
+            "gate": "Bravery",
+            "depth": "9",
+            "size": "4",
+            "boss": "BigEye",
+            "list": {
+                "1-3": [
+                    "Demonite",
+                    "BeanMan",
+                    "1EyeClown",
+                    "FloraMan"
+                ],
+                "4-5": [
+                    "BeanMan",
+                    "FloraMan",
+                    "SaberMan",
+                    "GiantWorm"
+                ],
+                "6-8": [
+                    "BeanMan",
+                    "FloraMan",
+                    "GiantWorm",
+                    "BullBird"
+                ]
+            }
+        },
+        {
+            "gate": "Well",
+            "depth": "12",
+            "size": "2",
+            "boss": "Gigantes",
+            "list": {
+                "1-3": [
+                    "BoneSlave",
+                    "Almiraj",
+                    "FloraMan",
+                    "GiantSlug"
+                ],
+                "4-5": [
+                    "Almiraj",
+                    "TreeSlime",
+                    "FloraMan",
+                    "GiantSlug"
+                ],
+                "6-8": [
+                    "GiantWorm",
+                    "BullBird",
+                    "FloraMan",
+                    "MudDoll"
+                ],
+                "9-11": [
+                    "BullBird",
+                    "SaberMan",
+                    "FloraMan",
+                    "MudDoll",
+                    "Metaly"
+                ]
+            }
+        },
+        {
+            "gate": "Strength",
+            "depth": "11",
+            "size": "4",
+            "boss": "StoneMan",
+            "list": {
+                "1-3": [
+                    "MudDoll",
+                    "TreeSlime",
+                    "SkulRider",
+                    "FairyDrak"
+                ],
+                "4-5": [
+                    "MudDoll",
+                    "SkulRider",
+                    "FairyDrak",
+                    "WingTree"
+                ],
+                "6-8": [
+                    "TreeSlime",
+                    "SkulRider",
+                    "WingTree",
+                    "DrakSlime"
+                ],
+                "9-10": [
+                    "TreeSlime",
+                    "WingTree",
+                    "FairyDrak",
+                    "DrakSlime"
+                ]
+            }
+        },
+        {
+            "gate": "Anger",
+            "depth": "11",
+            "size": "4",
+            "boss": "BattleRex",
+            "list": {
+                "1-3": [
+                    "GiantWorm",
+                    "GiantSlug",
+                    "Poisongon",
+                    "Catfly"
+                ],
+                "4-5": [
+                    "GiantSlug",
+                    "Poisongon",
+                    "Catfly",
+                    "Eyeder"
+                ],
+                "6-8": [
+                    "Catfly",
+                    "Poisongon",
+                    "Eyeder",
+                    "Putrepup"
+                ],
+                "9-10": [
+                    "Catfly",
+                    "Eyeder",
+                    "Putrepup",
+                    "DrakSlime"
+                ]
+            }
+        },
+        {
+            "gate": "Monster Farm",
+            "depth": "12",
+            "size": "2",
+            "boss": "Copycat",
+            "list": {
+                "1-3": [
+                    "FairyDrak",
+                    "Butterfly",
+                    "MadRaven",
+                    "Skullroo"
+                ],
+                "4-5": [
+                    "FairyDrak",
+                    "MadRaven",
+                    "Skullroo",
+                    "Mudron"
+                ],
+                "6-8": [
+                    "DrakSlime",
+                    "MadRaven",
+                    "Skullroo",
+                    "Facer"
+                ],
+                "9-11": [
+                    "DrakSlime",
+                    "Skullroo",
+                    "Mudron",
+                    "Facer"
+                ]
+            }
+        },
+        {
+            "gate": "Joy",
+            "depth": "14",
+            "size": "4",
+            "boss": "FunkyBird",
+            "list": {
+                "1-3": [
+                    "Snaily",
+                    "Saccer",
+                    "Gulpple",
+                    "MadPecker"
+                ],
+                "4-5": [
+                    "Snaily",
+                    "Saccer",
+                    "Gulpple",
+                    "MadPecker"
+                ],
+                "6-8": [
+                    "Saccer",
+                    "Gulpple",
+                    "EyeBall",
+                    "MadPecker"
+                ],
+                "9-12": [
+                    "Saccer",
+                    "EyeBall",
+                    "Babble",
+                    "Mummy"
+                ],
+                "13": [
+                    "Babble",
+                    "EyeBall",
+                    "MadPecker",
+                    "Mummy"
+                ]
+            },
+            "note": "MadPecker will only appear alone in the first 3 levels"
+        },
+        {
+            "gate": "Wisdom",
+            "depth": "15",
+            "size": "4",
+            "boss": "SkyDragon",
+            "list": {
+                "1-2": [
+                    "Facer",
+                    "Tonguella",
+                    "FloraJay",
+                    "Pteranod"
+                ],
+                "3-5": [
+                    "Facer",
+                    "Tonguella",
+                    "FloraJay",
+                    "Pteranod"
+                ],
+                "6-14": [
+                    "Tonguella",
+                    "FloraJay",
+                    "Pteranod",
+                    "Armorpede"
+                ]
+            },
+            "note": "Pteranod will only appear alone in the first 2 levels"
+        },
+        {
+            "gate": "Arena Left",
+            "depth": "16",
+            "size": "2",
+            "boss": "Digster",
+            "list": {
+                "1-3": [
+                    "WingSlime",
+                    "MadCandle",
+                    "MedusaEye",
+                    "MadGopher"
+                ],
+                "4-5": [
+                    "WingSlime",
+                    "MadCandle",
+                    "MedusaEye",
+                    "MadGopher"
+                ],
+                "6-8": [
+                    "MadCandle",
+                    "MedusaEye",
+                    "MadGopher",
+                    "Slabbit"
+                ],
+                "9-12": [
+                    "MadCandle",
+                    "MadGopher",
+                    "WindBeast",
+                    "Slabbit"
+                ],
+                "13-15": [
+                    "MadGopher",
+                    "WindBeast",
+                    "Slabbit",
+                    "Gasgon"
+                ]
+            },
+            "note": "MadGopher will only appear alone in the first 3 levels"
+        },
+        {
+            "gate": "Happiness",
+            "depth": "18",
+            "size": "4",
+            "boss": "Jamirus",
+            "list": {
+                "1-4": [
+                    "Oniono",
+                    "Gophecada",
+                    "Pixy",
+                    "Gasgon"
+                ],
+                "5-8": [
+                    "Oniono",
+                    "Gophecada",
+                    "Pixy",
+                    "DeadNite"
+                ],
+                "9-12": [
+                    "Oniono",
+                    "Gophecada",
+                    "Pixy",
+                    "DeadNite"
+                ],
+                "13-16": [
+                    "Gophecada",
+                    "Pixy",
+                    "DeadNite",
+                    "StubBird"
+                ],
+                "17-17": [
+                    "Gophecada",
+                    "DeadNite",
+                    "SpikyBoy",
+                    "StubBird"
+                ]
+            }
+        },
+        {
+            "gate": "Temptation",
+            "depth": "20",
+            "size": "4",
+            "boss": "Servant",
+            "list": {
+                "1-4": [
+                    "SpikyBoy",
+                    "KingCobra",
+                    "Mommonja",
+                    "SlimeNite"
+                ],
+                "5-8": [
+                    "SpikyBoy",
+                    "KingCobra",
+                    "Mommonja",
+                    "SlimeNite"
+                ],
+                "9-12": [
+                    "KingCobra",
+                    "Mommonja",
+                    "SlimeNite",
+                    "StagBug"
+                ],
+                "13-16": [
+                    "KingCobra",
+                    "SlimeNite",
+                    "MistyWing",
+                    "StagBug"
+                ],
+                "17-19": [
+                    "SlimeNite",
+                    "MistyWing",
+                    "DarkEye",
+                    "StagBug"
+                ]
+            }
+        },
+        {
+            "gate": "Medal Man",
+            "depth": "19",
+            "size": "2",
+            "boss": "KingSlime",
+            "list": {
+                "1-3": [
+                    "NiteWhip",
+                    "BoxSlime",
+                    "Gismo",
+                    "Orc"
+                ],
+                "4-5": [
+                    "NiteWhip",
+                    "BoxSlime",
+                    "Gismo",
+                    "Orc"
+                ],
+                "6-8": [
+                    "BoxSlime",
+                    "Gismo",
+                    "Orc",
+                    "RogueNite"
+                ],
+                "9-18": [
+                    "BoxSlime",
+                    "Orc",
+                    "Reaper",
+                    "RogueNite"
+                ]
+            },
+            "note": "Orc will only appear alone in the first 3 levels"
+        },
+        {
+            "gate": "Labyrinth",
+            "depth": "23",
+            "size": "4",
+            "boss": "DarkHorn",
+            "list": {
+                "1-5": [
+                    "RockSlime",
+                    "Chamelgon",
+                    "Cactiball",
+                    "TailEater",
+                    "Gismo"
+                ],
+                "6-10": [
+                    "RockSlime",
+                    "DuckKite",
+                    "Cactiball",
+                    "TailEater",
+                    "Gismo"
+                ],
+                "11-15": [
+                    "RockSlime",
+                    "DuckKite",
+                    "Cactiball",
+                    "Gismo",
+                    "AgDevil"
+                ],
+                "16-20": [
+                    "RockSlime",
+                    "DuckKite",
+                    "TailEater",
+                    "Gismo",
+                    "AgDevil"
+                ],
+                "21-22": [
+                    "RockSlime",
+                    "DuckKite",
+                    "Gismo",
+                    "AgDevil",
+                    "WindMerge"
+                ]
+            }
+        },
+        {
+            "gate": "Judgement",
+            "depth": "25",
+            "size": "4",
+            "boss": "Akubar",
+            "list": {
+                "1-5": [
+                    "WeedBug",
+                    "HammerMan",
+                    "MadGoose",
+                    "TreeBoy",
+                    "SpotKing"
+                ],
+                "6-10": [
+                    "HammerMan",
+                    "MadGoose",
+                    "TreeBoy",
+                    "Droll",
+                    "SpotKing"
+                ],
+                "11-15": [
+                    "HammerMan",
+                    "TreeBoy",
+                    "Droll",
+                    "SpotKing",
+                    "LizardFly"
+                ],
+                "16-20": [
+                    "HammerMan",
+                    "TreeBoy",
+                    "GiantMoth",
+                    "SpotKing",
+                    "LizardFly"
+                ],
+                "21-24": [
+                    "HammerMan",
+                    "MadGoose",
+                    "GiantMoth",
+                    "SpotKing",
+                    "LizardFly"
+                ]
+            }
+        },
+        {
+            "gate": "Library",
+            "depth": "25",
+            "size": "2",
+            "boss": "Orochi",
+            "list": {
+                "1-5": [
+                    "ArcDemon",
+                    "CurseLamp",
+                    "AmberWeed",
+                    "ArmyCrab",
+                    "MadSpirit"
+                ],
+                "6-10": [
+                    "ArcDemon",
+                    "CurseLamp",
+                    "WildApe",
+                    "ArmyCrab",
+                    "MadSpirit"
+                ],
+                "11-15": [
+                    "ArcDemon",
+                    "CurseLamp",
+                    "WildApe",
+                    "ArmyCrab",
+                    "Tortragon"
+                ],
+                "16-20": [
+                    "ArcDemon",
+                    "MadSpirit",
+                    "WildApe",
+                    "ArmyCrab",
+                    "Tortragon"
+                ],
+                "21-24": [
+                    "ArcDemon",
+                    "MadSpirit",
+                    "Tortragon",
+                    "WildApe",
+                    "LandOwl"
+                ]
+            }
+        },
+        {
+            "gate": "Reflection",
+            "depth": "29",
+            "size": "4",
+            "boss": "Durran",
+            "list": {
+                "1-5": [
+                    "EvilBeast",
+                    "Shadow",
+                    "EvilWand",
+                    "Slimeborg",
+                    "LizardMan"
+                ],
+                "6-10": [
+                    "EvilBeast",
+                    "Shadow",
+                    "Slimeborg",
+                    "LizardMan",
+                    "Grizzly"
+                ],
+                "11-15": [
+                    "LizardMan",
+                    "Slimeborg",
+                    "Wyvern",
+                    "FireWeed",
+                    "Grizzly"
+                ],
+                "16-20": [
+                    "LizardMan",
+                    "Wyvern",
+                    "MadHornet",
+                    "Lionex",
+                    "Grizzly"
+                ],
+                "21-25": [
+                    "Wyvern",
+                    "MadHornet",
+                    "Lionex",
+                    "RotRaven",
+                    "Grizzly"
+                ],
+                "26-28": [
+                    "Grizzly",
+                    "MadHornet",
+                    "Lionex",
+                    "RotRaven",
+                    "JewelBag"
+                ]
+            }
+        },
+        {
+            "gate": "Ambition",
+            "depth": "30",
+            "size": "4",
+            "boss": "DracoLord",
+            "list": {
+                "1-5": [
+                    "GoHopper",
+                    "ArmyAnt",
+                    "Catapila",
+                    "GiantWorm"
+                ],
+                "6-10": [
+                    "GiantSlug",
+                    "Eyeder",
+                    "Butterfly",
+                    "Armorpede"
+                ],
+                "11-20": [
+                    "Gophecada",
+                    "StagBug",
+                    "TailEater",
+                    "WeedBug"
+                ],
+                "21-29": [
+                    "Droll",
+                    "GiantMoth",
+                    "ArmyCrab",
+                    "MadHornet"
+                ]
+            }
+        },
+        {
+            "gate": "Demolition",
+            "depth": "29",
+            "size": "4",
+            "boss": "Hargon/Sidoh",
+            "list": {
+                "1-5": [
+                    "StubSuck",
+                    "EvilSeed",
+                    "BeanMan",
+                    "FloraMan"
+                ],
+                "6-10": [
+                    "WingTree",
+                    "Gulpple",
+                    "MadPlant",
+                    "Oniono"
+                ],
+                "11-20": [
+                    "Cactiball",
+                    "TreeBoy",
+                    "AmberWeed",
+                    "FireWeed"
+                ],
+                "21-28": [
+                    "FireWeed",
+                    "ManEater",
+                    "DanceVegi",
+                    "Snapper"
+                ]
+            }
+        },
+        {
+            "gate": "Mastermind",
+            "depth": "27",
+            "size": "4",
+            "boss": "Baramos",
+            "list": {
+                "1-5": [
+                    "Dracky",
+                    "Picky",
+                    "BigRoost",
+                    "BullBird"
+                ],
+                "6-10": [
+                    "MadRaven",
+                    "MadPecker",
+                    "FloraJay",
+                    "StubBird"
+                ],
+                "11-20": [
+                    "MistyWing",
+                    "DuckKite",
+                    "MadGoose",
+                    "LandOwl"
+                ],
+                "21-26": [
+                    "Wyvern",
+                    "MadCondor",
+                    "ZapBird",
+                    "WhipBird"
+                ]
+            }
+        },
+        {
+            "gate": "Control",
+            "depth": "30",
+            "size": "4",
+            "boss": "Zoma",
+            "list": {
+                "1-5": [
+                    "Slime",
+                    "SpotSlime",
+                    "Metaly",
+                    "TreeSlime"
+                ],
+                "6-10": [
+                    "DrakSlime",
+                    "Snaily",
+                    "Babble",
+                    "WingSlime"
+                ],
+                "11-20": [
+                    "Slabbit",
+                    "SlimeNite",
+                    "BoxSlime",
+                    "RockSlime"
+                ],
+                "21-29": [
+                    "RockSlime",
+                    "SpotKing",
+                    "Slimeborg",
+                    "Metabble"
+                ]
+            }
+        },
+        {
+            "gate": "Extinction",
+            "depth": "30",
+            "size": "4",
+            "boss": "Pizzaro",
+            "list": {
+                "1-5": [
+                    "Gremlin",
+                    "Demonite",
+                    "1EyeClown",
+                    "SkulRider"
+                ],
+                "6-10": [
+                    "EyeBall",
+                    "MedusaEye",
+                    "Pixy",
+                    "DarkEye"
+                ],
+                "11-20": [
+                    "Orc",
+                    "AgDevil",
+                    "ArcDemon",
+                    "EvilBeast"
+                ],
+                "21-29": [
+                    "Lionex",
+                    "Grendel",
+                    "Ogre",
+                    "GoatHorn"
+                ]
+            }
+        },
+        {
+            "gate": "Sleep",
+            "depth": "30",
+            "size": "4",
+            "boss": "Esterk",
+            "list": {
+                "1-5": [
+                    "Spooky",
+                    "Hork",
+                    "BoneSlave",
+                    "Putrepup"
+                ],
+                "6-10": [
+                    "Mudron",
+                    "Mummy",
+                    "DeadNite",
+                    "NiteWhip"
+                ],
+                "11-20": [
+                    "Reaper",
+                    "WindMerge",
+                    "MadSpirit",
+                    "Shadow"
+                ],
+                "21-29": [
+                    "RotRaven",
+                    "DarkCrab",
+                    "Skullgon",
+                    "Skeletor",
+                    "DeadNoble"
+                ]
+            }
+        },
+        {
+            "gate": "Bazaar Edge",
+            "depth": "30",
+            "size": "4",
+            "boss": "Mirudraas",
+            "list": {
+                "1-5": [
+                    "Goopi",
+                    "SaberMan",
+                    "CoilBird",
+                    "MudDoll"
+                ],
+                "6-10": [
+                    "Facer",
+                    "MadCandle",
+                    "SpikyBoy",
+                    "RogueNite"
+                ],
+                "11-20": [
+                    "Gismo",
+                    "CurseLamp",
+                    "EvilWand",
+                    "JewelBag",
+                    "MadMirror"
+                ],
+                "21-29": [
+                    "Voodoll",
+                    "Balzak",
+                    "MetalDrak",
+                    "Roboster",
+                    "BombCrag"
+                ]
+            }
+        },
+        {
+            "gate": "Arena Right",
+            "depth": "27",
+            "size": "4",
+            "boss": "Mudou",
+            "list": {
+                "1-5": [
+                    "PillowRat",
+                    "FairyRat",
+                    "Almiraj",
+                    "Catfly",
+                    "Skullroo"
+                ],
+                "6-10": [
+                    "Saccer",
+                    "Tonguella",
+                    "MadGopher",
+                    "WindBeast",
+                    "Mommonja"
+                ],
+                "11-20": [
+                    "Goategon",
+                    "HammerMan",
+                    "WildApe",
+                    "Grizzly",
+                    "SuperTen"
+                ],
+                "21-26": [
+                    "Yeti",
+                    "IronTurt",
+                    "GulpBeast",
+                    "Trumpeter",
+                    "Unicorn"
+                ]
+            }
+        },
+        {
+            "gate": "Old Man",
+            "depth": "30",
+            "size": "4",
+            "boss": "DeathMore",
+            "list": {
+                "1-5": [
+                    "MiniDrak",
+                    "DragonKid",
+                    "Crestpent",
+                    "Poisongon"
+                ],
+                "6-10": [
+                    "FairyDrak",
+                    "Pteranod",
+                    "Gasgon",
+                    "KingCobra",
+                    "Chamelgon"
+                ],
+                "11-20": [
+                    "LizardFly",
+                    "Tortragon",
+                    "LizardMan",
+                    "Swordgon",
+                    "WingSnake"
+                ],
+                "21-29": [
+                    "Rayburn",
+                    "Spikerous",
+                    "MadDragon",
+                    "Andreal",
+                    "GreatDrak"
+                ]
+            }
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-import { DWMLocation } from "./dwm-location.model";
+import { DWMLocationSimplified } from "./dwm-location-simplified.model";
 
 export class Monster {
     id: string;
@@ -19,7 +19,7 @@ export class Monster {
     skills: string[];
     resistances: string[];
     note: string;
-    location?: DWMLocation[];
+    location?: DWMLocationSimplified[];
     constructor() {
         this.id = '';
         this.image = '';

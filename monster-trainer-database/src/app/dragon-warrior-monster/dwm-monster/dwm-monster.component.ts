@@ -27,7 +27,18 @@ export class DwmMonsterComponent implements OnInit {
 
   ngOnInit(): void {
     this.route.params.subscribe(param => {
-      if (this.isInvalidId(param['id'])) {
+      if (param['name']) {
+        let z = this.dwmService.getMonsterList().find(
+          m => m.name.toLowerCase() === param['name'].toLowerCase());
+        if (z) {
+          this.monster = z;
+          this.breed = this.dwmService.getBreedingList().find(
+            m => m.name.toLowerCase() === param['name'].toLowerCase());
+          this.monsterStringified = JSON.stringify(this.monster);
+          this.breedStringified = JSON.stringify(this.breed);
+          this.init();
+        }
+      } else if (this.isInvalidId(param['id'])) {
         this.redirectInvalidId()
       } else {
         this.monster = this.dwmService.getMonsterList()[param['id'] - 1];
@@ -43,7 +54,7 @@ export class DwmMonsterComponent implements OnInit {
     this.familyIconPath = convertEnumToImagePath(+this.monster.family)
     this.family = Family[+this.monster.family];
     let gender = convertEnumPercentage(+this.monster.sexChance);
-    this.genderChance = `Boy: ${gender.boy}, Girl $ ${gender.girl}`;
+    this.genderChance = `Boy: ${gender.boy}, Girl: ${gender.girl}`;
   }
 
   isInvalidId(id: any) {

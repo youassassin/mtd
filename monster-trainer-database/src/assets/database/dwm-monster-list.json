@@ -52,11 +52,15 @@
             "note": "Moves & jumps with its tail and wings",
             "location": [
                 {
-                    "gate": "Stable",
+                    "gate": "Monster Farm",
                     "level": "6-11"
                 },
                 {
-                    "gate": "Strength & Mastermind",
+                    "gate": "Strength",
+                    "level": "6-10"
+                },
+                {
+                    "gate": "Control",
                     "level": "6-10"
                 },
                 {
@@ -117,11 +121,19 @@
             "note": "Larger than a regular slime & spotted",
             "location": [
                 {
-                    "gate": "Bazaar & Peace",
+                    "gate": "Bazaar ",
+                    "level": "1-2"
+                },
+                {
+                    "gate": "Peace",
                     "level": "1-3"
                 },
                 {
-                    "gate": "Bewilder & Mastermind",
+                    "gate": "Bewilder",
+                    "level": "1-5"
+                },
+                {
+                    "gate": "Control",
                     "level": "1-5"
                 },
                 {
@@ -1248,7 +1260,11 @@
             "note": "It does not grow any bigger than this",
             "location": [
                 {
-                    "gate": "Bazaar & Peace",
+                    "gate": "Bazaar",
+                    "level": "3-5"
+                },
+                {
+                    "gate": "Peace",
                     "level": "4-5"
                 },
                 {
@@ -1256,7 +1272,11 @@
                     "level": "1-5"
                 },
                 {
-                    "gate": "Memories & Bewilder",
+                    "gate": "Memories",
+                    "level": "1-2"
+                },
+                {
+                    "gate": "Bewilder",
                     "level": "1-2"
                 }
             ]
@@ -1504,7 +1524,7 @@
                     "level": "6-10"
                 },
                 {
-                    "gate": "Stable",
+                    "gate": "Monster Farm",
                     "level": "1-5"
                 },
                 {
@@ -3091,7 +3111,7 @@
                     "level": "1-5"
                 },
                 {
-                    "gate": "Stable",
+                    "gate": "Monster Farm",
                     "level": "1-11"
                 }
             ]
@@ -3453,7 +3473,7 @@
                     "level": "11-20"
                 },
                 {
-                    "gate": "Judgment",
+                    "gate": "Judgement",
                     "level": "1-24"
                 }
             ]
@@ -4590,7 +4610,7 @@
             "note": "Attacks by dropping skulls from the air",
             "location": [
                 {
-                    "gate": "Stable",
+                    "gate": "Monster Farm",
                     "level": "1-8"
                 },
                 {
@@ -5406,7 +5426,7 @@
             "note": "Secrets sweet sap to attract bugs",
             "location": [
                 {
-                    "gate": "Demoliton",
+                    "gate": "Demolition",
                     "level": "6-10"
                 }
             ]
@@ -5467,7 +5487,7 @@
                     "level": "11-15"
                 },
                 {
-                    "gate": "Demoliton",
+                    "gate": "Demolition",
                     "level": "11-28"
                 }
             ]
@@ -5589,7 +5609,7 @@
             "note": "Stores gas inside its body to float in the air",
             "location": [
                 {
-                    "gate": "Demoliton",
+                    "gate": "Demolition",
                     "level": "6-10"
                 },
                 {
@@ -5715,7 +5735,7 @@
                     "level": "1-8"
                 },
                 {
-                    "gate": "Demoliton",
+                    "gate": "Demolition",
                     "level": "6-10"
                 }
             ]
@@ -5894,7 +5914,7 @@
                     "level": "1-4"
                 },
                 {
-                    "gate": "Demoliton",
+                    "gate": "Demolition",
                     "level": "1-5"
                 },
                 {
@@ -5959,7 +5979,7 @@
                     "level": "1-12"
                 },
                 {
-                    "gate": "Demoliton",
+                    "gate": "Demolition",
                     "level": "6-10"
                 }
             ]
@@ -6077,7 +6097,7 @@
                     "level": "1-20"
                 },
                 {
-                    "gate": "Demoliton",
+                    "gate": "Demolition",
                     "level": "11-20"
                 }
             ]
@@ -6786,7 +6806,7 @@
             "note": "Powder on its wings have hallucinogenic effect",
             "location": [
                 {
-                    "gate": "Stable",
+                    "gate": "Monster Farm",
                     "level": "1-3"
                 },
                 {
@@ -9105,7 +9125,7 @@
             "note": "Its real identity underneath the armor is unknown",
             "location": [
                 {
-                    "gate": "Temptaion",
+                    "gate": "Temptation",
                     "level": "Boss NR"
                 }
             ]
@@ -9825,7 +9845,7 @@
             "note": "A swamp mud infested spirit of the dead",
             "location": [
                 {
-                    "gate": "Stable",
+                    "gate": "Monster Farm",
                     "level": "4-5, 9-11"
                 },
                 {
@@ -10421,7 +10441,7 @@
             "note": "Can disguise as any creature & mimic any move",
             "location": [
                 {
-                    "gate": "Stable",
+                    "gate": "Monster Farm",
                     "level": "Boss"
                 }
             ]
@@ -10726,7 +10746,7 @@
                     "level": "6-10"
                 },
                 {
-                    "gate": "Stable",
+                    "gate": "Monster Farm",
                     "level": "6-11"
                 },
                 {
