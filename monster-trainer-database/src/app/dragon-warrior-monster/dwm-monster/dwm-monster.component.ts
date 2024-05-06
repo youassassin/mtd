@@ -27,7 +27,7 @@ export class DwmMonsterComponent implements OnInit {
 
   ngOnInit(): void {
     this.route.params.subscribe(param => {
-      if (param['name']) {
+      if (param['name']) {//TODO: refactor
         let z = this.dwmService.getMonsterList().find(
           m => m.name.toLowerCase() === param['name'].toLowerCase());
         if (z) {

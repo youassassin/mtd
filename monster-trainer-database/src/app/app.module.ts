@@ -16,6 +16,9 @@ import { DwmXpGrowthComponent } from './dragon-warrior-monster/dwm-growth/dwm-xp
 import { DwmGrowthComponent } from './dragon-warrior-monster/dwm-growth/dwm-growth.component';
 import { PageNotFoundComponent } from './dragon-warrior-monster/page-not-found/page-not-found.component';
 import { DwmLocationComponent } from './dragon-warrior-monster/dwm-location/dwm-location.component';
+import { DwmMasterMonsterComponent } from './dragon-warrior-monster/dwm-monster/dwm-master-monster/dwm-master-monster.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { InputSuggestionComponent } from './shared/input-suggestion/input-suggestion.component';
 
 @NgModule({
   declarations: [
@@ -32,11 +35,15 @@ import { DwmLocationComponent } from './dragon-warrior-monster/dwm-location/dwm-
     DwmXpGrowthComponent,
     DwmGrowthComponent,
     PageNotFoundComponent,
-    DwmLocationComponent
+    DwmLocationComponent,
+    DwmMasterMonsterComponent,
+    InputSuggestionComponent
   ],
   imports: [
     BrowserModule,
-    RoutingModule
+    RoutingModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

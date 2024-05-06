@@ -1,0 +1,67 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 3px 5px;
+}
+
+a>img {
+    width: 12px;
+    height: 12px;
+}
+
+a {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+th>a:hover {
+    background-color: lightslategrey;
+}
+
+.lvl-input {
+    width: 3em;
+}
+
+.word-input {
+    width: 8em;
+}
+
+input {
+    margin: 5px;
+}
+
+label {
+    font-weight: 600;
+}
+
+.f-row {
+    display: flex;
+}
+
+.space-2em-left {
+    margin-left: 2em;
+}
+
+.space-3-5em-left {
+    margin-left: 3.5em;
+}
+
+.space-4-3em-left {
+    margin-left: 4.3em;
+}
+
+.space-12em-left {
+    margin-left: 12em;
+}
+
+#skillSearch {
+
+    max-height: 20em;
+}

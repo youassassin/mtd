@@ -8,5 +8,6 @@ ui rehaul
 figure out a way to reverse breed (reverse synthesis dqm dark prince)
 
 //hopefuls
+upload pixel icons and animations for monsters
 future caching for cataloug (gotta catch them all) and breeding trees
 add library like in game

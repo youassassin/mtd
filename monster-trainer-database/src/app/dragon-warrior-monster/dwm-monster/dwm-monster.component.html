@@ -35,10 +35,14 @@
             <h3>Locations</h3>
         </ng-template>
         <div *ngFor="let l of monster.location" style="padding: 2px;">
-            <a class="button" routerLink="/dwm/location/{{l.gate}}">{{l.gate}}</a> - {{l.level}}
+            <div *ngIf="!(l.gate === 'Reward' || l.gate === 'any')"><a class="button"
+                    routerLink="/dwm/location/{{l.gate}}">{{l.gate}}</a> - {{l.level}}</div>
+            <div *ngIf="l.gate === 'Reward'">Reward from Great Tree character<br />{{l.note}}</div>
+            <div *ngIf="l.gate === 'any'">Found in treasure chests<br />{{l.note}}</div>
         </div>
     </div>
     <h3>Experience Growth Rate</h3>
+    <b>Max Level: {{monster.maxLevel}}</b><br />
     <xp-growth [rate]="monster.xpGrowth"></xp-growth>
     <div *ngIf="!isXpDetail"></div>
     <div *ngIf="isXpDetail"></div>

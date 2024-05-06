@@ -1,0 +1,125 @@
+<h1>Foreign Masters</h1>
+<p>Foreign Masters can be found walking around inside gates. There are different ones that give different rewards. The
+    trigger rate to have Foreign Masters
+    to appear is 50%, for warriors it's 5-15% depending on your story completion.</p>
+
+<h3>Masters</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Trigger</th>
+            <th>Reward</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bishop</td>
+            <td>Pick up all items (no items on floor). This takes priority.</td>
+            <td>Fully heal party</td>
+        </tr>
+        <tr>
+            <td>Wizard</td>
+            <td>Walk in more than 15 screens</td>
+            <td>Warps you up to 20 floors down or to before the boss room.</td>
+        </tr>
+        <tr>
+            <td>Bard</td>
+            <td>Only walk on 2 screens</td>
+            <td>Permanently increase 1 stat on all monsters by 20 points.</td>
+        </tr>
+        <tr>
+            <td>Shopkeep</td>
+            <td>Take more that 200 steps.</td>
+            <td>Fills inventory with random meat.</td>
+        </tr>
+        <tr>
+            <td>Warrior (M/F)</td>
+            <td>If no other conditions are met.</td>
+            <td>WarpWing + Random Item</td>
+        </tr>
+    </tbody>
+</table>
+<div class="container">
+    <h3>Potential Monsters</h3>
+    <p>The monsters masters have are selected based on the total level of your team.</p>
+    <form [formGroup]="form">
+        <div class="f-row">
+            <div class="f-col">
+                <label for="monTot">Your monster's levels:</label>
+            </div>
+            <div class="f-col space-12em-left">
+                <label for="monsterSearch">Monster Search:</label>
+            </div>
+            <div class="f-col space-4-3em-left">
+                <label for="skillSearch">Skill Search:</label>
+            </div>
+        </div>
+        <div class="f-row">
+            <div class="f-col">
+                <input id="monOne" class="lvl-input" (input)=updateMonsterLevels($event) formControlName="monOne"
+                    type="text" autocomplete="off"> +
+                <input id="monTwo" class="lvl-input" (input)=updateMonsterLevels($event) formControlName="monTwo"
+                    type="text" autocomplete="off"> +
+                <input id="monThree" class="lvl-input" (input)=updateMonsterLevels($event) formControlName="monThree"
+                    type="text" autocomplete="off"> =
+                <input id="monTot" class="lvl-input" (input)=updateMonsterLevels($event) formControlName="monTot"
+                    type="text" autocomplete="off">
+            </div>
+            <div class="f-col space-3-5em-left">
+                <input id="monsterSearch" class="word-input" formControlName="monster" name="monsterSearch"
+                    (input)=monsterSearch() autocomplete="off">
+            </div>
+            <div class="f-col space-3-5em-left">
+                <input id="skillSearch" class="word-input" formControlName="skill" name="skillSearch"
+                    (input)=skillSearch() list="skillSuggestions" autocomplete="off">
+                <datalist id="skillSuggestions">
+                    <option *ngFor="let s of skills" value="{{s}}"></option>
+                </datalist>
+            </div>
+            <div class="f-col space-2em-left">
+                <input type="button" (click)=resetInput() value="Reset">
+            </div>
+        </div>
+
+    </form>
+    <br />
+    <table>
+        <thead>
+            <tr>
+                <th><a id="tLvl">Team Lvl <img id="tLvlImg" src="../../../../assets/icons/sortable-even.png"></a></th>
+                <th><a id="tMon">Monster <img id="tMonImg" src="../../../../assets/icons/sortable-down.png"></a></th>
+                <th>LVL</th>
+                <th>HP</th>
+                <th>MP</th>
+                <th>ATK</th>
+                <th>DEF</th>
+                <th>AGI</th>
+                <th>ING</th>
+                <th>Skills</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let m of table">
+                <td style="text-align: right;">{{m.lowerTeamLvl}} - {{m.upperTeamLvl}}</td>
+                <td><a class="button" routerLink="/dwm/monster/{{m.monster}}">{{m.monster}}</a></td>
+                <td>{{m.lvl}}</td>
+                <td>{{m.hp}}</td>
+                <td>{{m.mp}}</td>
+                <td>{{m.atk}}</td>
+                <td>{{m.def}}</td>
+                <td>{{m.agi}}</td>
+                <td>{{m.int}}</td>
+                <td style="display: flex;">
+                    <div *ngFor="let s of m.skills | slice:0:m.skills.length-1">
+                        <a class="button" routerLink="/dwm/skill/{{s}}">{{s}}</a>,&nbsp;
+                    </div>
+                    <div>
+                        <a class="button"
+                            routerLink="/dwm/skill/{{m.skills[m.skills.length-1]}}">{{m.skills[m.skills.length-1]}}</a>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

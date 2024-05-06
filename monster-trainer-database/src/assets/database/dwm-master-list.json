@@ -1,0 +1,2177 @@
+{
+    "dwmMasterList": [
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "AgDevil",
+            "lvl": 5,
+            "hp": 30,
+            "mp": 36,
+            "atk": 32,
+            "def": 23,
+            "agi": 23,
+            "int": 45,
+            "skills": [
+                "Berserker",
+                "Cover",
+                "StrongD"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "AmberWeed",
+            "lvl": 13,
+            "hp": 36,
+            "mp": 64,
+            "atk": 50,
+            "def": 36,
+            "agi": 39,
+            "int": 42,
+            "skills": [
+                "FireBal",
+                "DevilCut",
+                "BlazeAir"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "Andreal",
+            "lvl": 45,
+            "hp": 340,
+            "mp": 280,
+            "atk": 200,
+            "def": 320,
+            "agi": 200,
+            "int": 250,
+            "skills": [
+                "Revive",
+                "Surge",
+                "SuckAll"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "ArcDemon",
+            "lvl": 12,
+            "hp": 48,
+            "mp": 46,
+            "atk": 53,
+            "def": 42,
+            "agi": 18,
+            "int": 88,
+            "skills": [
+                "FireSlash",
+                "VacuSlash",
+                "IceSlash"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "ArmyCrab",
+            "lvl": 12,
+            "hp": 46,
+            "mp": 31,
+            "atk": 50,
+            "def": 36,
+            "agi": 28,
+            "int": 50,
+            "skills": [
+                "Curse",
+                "OddDance",
+                "ShelDodge"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "Balzak",
+            "lvl": 33,
+            "hp": 330,
+            "mp": 165,
+            "atk": 210,
+            "def": 320,
+            "agi": 280,
+            "int": 180,
+            "skills": [
+                "SleepAll",
+                "Paralyze",
+                "LureDance"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "Balzak",
+            "lvl": 33,
+            "hp": 380,
+            "mp": 190,
+            "atk": 240,
+            "def": 340,
+            "agi": 300,
+            "int": 210,
+            "skills": [
+                "Thordain",
+                "HealUs",
+                "ThickFog"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "BattleRex",
+            "lvl": 39,
+            "hp": 187,
+            "mp": 122,
+            "atk": 286,
+            "def": 187,
+            "agi": 200,
+            "int": 141,
+            "skills": [
+                "WhiteAir",
+                "Curse",
+                "Hustle"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "BigEye",
+            "lvl": 33,
+            "hp": 155,
+            "mp": 134,
+            "atk": 162,
+            "def": 122,
+            "agi": 137,
+            "int": 100,
+            "skills": [
+                "HealUs",
+                "Farewell",
+                "HighJump"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "Blizzardy",
+            "lvl": 20,
+            "hp": 72,
+            "mp": 53,
+            "atk": 71,
+            "def": 46,
+            "agi": 46,
+            "int": 57,
+            "skills": [
+                "Infermore",
+                "TwinSlash",
+                "HighJump"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "Blizzardy",
+            "lvl": 33,
+            "hp": 182,
+            "mp": 103,
+            "atk": 121,
+            "def": 116,
+            "agi": 152,
+            "int": 107,
+            "skills": [
+                "Sandstorm",
+                "SickLick",
+                "StormWind"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "BombCrag",
+            "lvl": 39,
+            "hp": 210,
+            "mp": 157,
+            "atk": 138,
+            "def": 239,
+            "agi": 18,
+            "int": 132,
+            "skills": [
+                "VacuSlash",
+                "Surge",
+                "MouthShut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "BombCrag",
+            "lvl": 40,
+            "hp": 260,
+            "mp": 174,
+            "atk": 156,
+            "def": 233,
+            "agi": 20,
+            "int": 134,
+            "skills": [
+                "Transform",
+                "PalsyAir",
+                "BigTrip"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "BombCrag",
+            "lvl": 48,
+            "hp": 290,
+            "mp": 200,
+            "atk": 180,
+            "def": 260,
+            "agi": 20,
+            "int": 150,
+            "skills": [
+                "RainSlash",
+                "Imitate",
+                "BeDragon"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "Cactiball",
+            "lvl": 6,
+            "hp": 32,
+            "mp": 37,
+            "atk": 25,
+            "def": 24,
+            "agi": 17,
+            "int": 38,
+            "skills": [
+                "LureDance",
+                "LushLicks",
+                "BladeD"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "Centasaur",
+            "lvl": 33,
+            "hp": 200,
+            "mp": 126,
+            "atk": 225,
+            "def": 270,
+            "agi": 320,
+            "int": 220,
+            "skills": [
+                "Sacrifice",
+                "Vacuum",
+                "PoisonHit"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "Centasaur",
+            "lvl": 40,
+            "hp": 251,
+            "mp": 124,
+            "atk": 290,
+            "def": 352,
+            "agi": 338,
+            "int": 211,
+            "skills": [
+                "Vivify",
+                "FireSlash",
+                "Ahhh"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "ChopClown",
+            "lvl": 48,
+            "hp": 310,
+            "mp": 300,
+            "atk": 300,
+            "def": 200,
+            "agi": 260,
+            "int": 255,
+            "skills": [
+                "Sacrifice",
+                "Focus",
+                "Meditate"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "Copycat",
+            "lvl": 26,
+            "hp": 55,
+            "mp": 45,
+            "atk": 82,
+            "def": 61,
+            "agi": 64,
+            "int": 57,
+            "skills": [
+                "MagicWall",
+                "Imitate",
+                "ThickFog"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "Copycat",
+            "lvl": 38,
+            "hp": 210,
+            "mp": 210,
+            "atk": 120,
+            "def": 167,
+            "agi": 138,
+            "int": 200,
+            "skills": [
+                "Transform",
+                "Kamikaze",
+                "WhiteAir"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "CurseLamp",
+            "lvl": 20,
+            "hp": 60,
+            "mp": 70,
+            "atk": 62,
+            "def": 50,
+            "agi": 42,
+            "int": 59,
+            "skills": [
+                "Snowstorm",
+                "Sacrifice",
+                "DrakSlash"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "DanceVegi",
+            "lvl": 25,
+            "hp": 83,
+            "mp": 61,
+            "atk": 59,
+            "def": 120,
+            "agi": 156,
+            "int": 85,
+            "skills": [
+                "TwinHits",
+                "LureDance",
+                "MouthShut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "DarkCrab",
+            "lvl": 25,
+            "hp": 130,
+            "mp": 64,
+            "atk": 136,
+            "def": 111,
+            "agi": 54,
+            "int": 70,
+            "skills": [
+                "StopSpell",
+                "RobDance",
+                "SickLick"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "DarkEye",
+            "lvl": 6,
+            "hp": 22,
+            "mp": 42,
+            "atk": 21,
+            "def": 15,
+            "agi": 36,
+            "int": 41,
+            "skills": [
+                "TwinHits",
+                "MagicBack",
+                "Sidestep"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "DeadNite",
+            "lvl": 20,
+            "hp": 80,
+            "mp": 65,
+            "atk": 72,
+            "def": 67,
+            "agi": 52,
+            "int": 77,
+            "skills": [
+                "Speedup",
+                "WarCry",
+                "DanceShut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "DeadNoble",
+            "lvl": 46,
+            "hp": 340,
+            "mp": 240,
+            "atk": 340,
+            "def": 280,
+            "agi": 280,
+            "int": 215,
+            "skills": [
+                "HealAll",
+                "FireSlash",
+                "Dodge"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "DeadNoble",
+            "lvl": 48,
+            "hp": 340,
+            "mp": 350,
+            "atk": 350,
+            "def": 190,
+            "agi": 290,
+            "int": 230,
+            "skills": [
+                "MegaMagic",
+                "Sidestep",
+                "StrongD"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "Digster",
+            "lvl": 46,
+            "hp": 267,
+            "mp": 115,
+            "atk": 197,
+            "def": 257,
+            "agi": 110,
+            "int": 185,
+            "skills": [
+                "Hustle",
+                "LifeDance",
+                "Branching"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "Dragon",
+            "lvl": 21,
+            "hp": 105,
+            "mp": 36,
+            "atk": 83,
+            "def": 63,
+            "agi": 48,
+            "int": 64,
+            "skills": [
+                "Heal",
+                "CallHelp",
+                "Cover"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "Droll",
+            "lvl": 12,
+            "hp": 39,
+            "mp": 50,
+            "atk": 40,
+            "def": 28,
+            "agi": 31,
+            "int": 55,
+            "skills": [
+                "Heal",
+                "ThickFog",
+                "Cover"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "DuckKite",
+            "lvl": 5,
+            "hp": 22,
+            "mp": 24,
+            "atk": 25,
+            "def": 21,
+            "agi": 31,
+            "int": 34,
+            "skills": [
+                "BeastCut",
+                "BirdBlow",
+                "Smashlime"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "EvilArmor",
+            "lvl": 34,
+            "hp": 185,
+            "mp": 102,
+            "atk": 229,
+            "def": 420,
+            "agi": 135,
+            "int": 148,
+            "skills": [
+                "SleepAll",
+                "Barrier",
+                "RainSlash"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "EvilBeast",
+            "lvl": 20,
+            "hp": 84,
+            "mp": 53,
+            "atk": 110,
+            "def": 71,
+            "agi": 64,
+            "int": 100,
+            "skills": [
+                "Bolt",
+                "Heal",
+                "BigTrip"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "EvilWand",
+            "lvl": 21,
+            "hp": 66,
+            "mp": 55,
+            "atk": 59,
+            "def": 45,
+            "agi": 53,
+            "int": 45,
+            "skills": [
+                "BlazeMore",
+                "Boom",
+                "ChargeUp"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "FaceTree",
+            "lvl": 26,
+            "hp": 125,
+            "mp": 119,
+            "atk": 67,
+            "def": 74,
+            "agi": 51,
+            "int": 86,
+            "skills": [
+                "MagicWall",
+                "Guardian",
+                "ShelDodge"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "FangSlime",
+            "lvl": 33,
+            "hp": 184,
+            "mp": 78,
+            "atk": 166,
+            "def": 151,
+            "agi": 311,
+            "int": 141,
+            "skills": [
+                "Increase",
+                "EerieLite",
+                "WarCry"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "FireWeed",
+            "lvl": 12,
+            "hp": 49,
+            "mp": 42,
+            "atk": 40,
+            "def": 29,
+            "agi": 30,
+            "int": 46,
+            "skills": [
+                "PaniDance",
+                "LushLicks",
+                "WarCry"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "FunkyBird",
+            "lvl": 39,
+            "hp": 178,
+            "mp": 197,
+            "atk": 151,
+            "def": 227,
+            "agi": 143,
+            "int": 198,
+            "skills": [
+                "Increase",
+                "HealUs",
+                "Lightning"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "Gasgon",
+            "lvl": 5,
+            "hp": 26,
+            "mp": 6,
+            "atk": 34,
+            "def": 25,
+            "agi": 14,
+            "int": 32,
+            "skills": [
+                "Heal",
+                "Dodge"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "Gasgon",
+            "lvl": 34,
+            "hp": 164,
+            "mp": 58,
+            "atk": 67,
+            "def": 117,
+            "agi": 80,
+            "int": 97,
+            "skills": [
+                "HealMore",
+                "YellHelp",
+                "SuckAll"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "GateGuard",
+            "lvl": 48,
+            "hp": 340,
+            "mp": 300,
+            "atk": 330,
+            "def": 210,
+            "agi": 150,
+            "int": 210,
+            "skills": [
+                "WhiteAir",
+                "Imitate",
+                "Guardian"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "GiantMoth",
+            "lvl": 12,
+            "hp": 41,
+            "mp": 46,
+            "atk": 40,
+            "def": 36,
+            "agi": 29,
+            "int": 57,
+            "skills": [
+                "Heal",
+                "PoisonHit",
+                "OddDance"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "Gigantes",
+            "lvl": 33,
+            "hp": 210,
+            "mp": 20,
+            "atk": 226,
+            "def": 84,
+            "agi": 128,
+            "int": 18,
+            "skills": [
+                "Imitate",
+                "Guardian",
+                "Smashlime"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "Gismo",
+            "lvl": 21,
+            "hp": 57,
+            "mp": 47,
+            "atk": 69,
+            "def": 52,
+            "agi": 72,
+            "int": 46,
+            "skills": [
+                "SleepAll",
+                "SlowAll",
+                "PoisonAir"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "Goategon",
+            "lvl": 6,
+            "hp": 26,
+            "mp": 10,
+            "atk": 32,
+            "def": 22,
+            "agi": 26,
+            "int": 25,
+            "skills": [
+                "TwinSlash",
+                "Ramming",
+                "Berserker"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "Goategon",
+            "lvl": 25,
+            "hp": 133,
+            "mp": 107,
+            "atk": 155,
+            "def": 82,
+            "agi": 98,
+            "int": 128,
+            "skills": [
+                "HealAll",
+                "Vivify",
+                "SquallHit"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "GoatHorn",
+            "lvl": 33,
+            "hp": 150,
+            "mp": 190,
+            "atk": 220,
+            "def": 150,
+            "agi": 190,
+            "int": 240,
+            "skills": [
+                "Defense",
+                "Curse",
+                "SickLick"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "Golem",
+            "lvl": 33,
+            "hp": 210,
+            "mp": 59,
+            "atk": 108,
+            "def": 182,
+            "agi": 52,
+            "int": 192,
+            "skills": [
+                "PaniDance",
+                "RobDance",
+                "Hustle"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "GreatDrak",
+            "lvl": 45,
+            "hp": 350,
+            "mp": 130,
+            "atk": 240,
+            "def": 210,
+            "agi": 170,
+            "int": 210,
+            "skills": [
+                "Infermost",
+                "ChargeUp",
+                "Smashlime"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "GreatDrak",
+            "lvl": 50,
+            "hp": 370,
+            "mp": 150,
+            "atk": 250,
+            "def": 220,
+            "agi": 190,
+            "int": 230,
+            "skills": [
+                "TwinHits",
+                "MultiCut",
+                "SickLick"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "Grendal",
+            "lvl": 26,
+            "hp": 99,
+            "mp": 41,
+            "atk": 135,
+            "def": 155,
+            "agi": 112,
+            "int": 113,
+            "skills": [
+                "HealMore",
+                "PsycheUp",
+                "LifeSong"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "Grizzly",
+            "lvl": 13,
+            "hp": 57,
+            "mp": 43,
+            "atk": 62,
+            "def": 23,
+            "agi": 48,
+            "int": 25,
+            "skills": [
+                "Heal",
+                "Massacre",
+                "Radiant"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "GulpBeast",
+            "lvl": 38,
+            "hp": 340,
+            "mp": 90,
+            "atk": 300,
+            "def": 185,
+            "agi": 150,
+            "int": 90,
+            "skills": [
+                "Blizzard",
+                "HighJump",
+                "ZombieCut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "HammerMan",
+            "lvl": 5,
+            "hp": 25,
+            "mp": 12,
+            "atk": 28,
+            "def": 15,
+            "agi": 22,
+            "int": 45,
+            "skills": [
+                "BoltSlash",
+                "VacuSlash",
+                "IceSlash"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "HornBeet",
+            "lvl": 48,
+            "hp": 380,
+            "mp": 190,
+            "atk": 240,
+            "def": 250,
+            "agi": 300,
+            "int": 200,
+            "skills": [
+                "PoisonHit",
+                "Sandstorm",
+                "Meditate"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "IceMan",
+            "lvl": 12,
+            "hp": 38,
+            "mp": 41,
+            "atk": 47,
+            "def": 43,
+            "agi": 21,
+            "int": 51,
+            "skills": [
+                "Massacre",
+                "SquallHit",
+                "Branching"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "IronTurt",
+            "lvl": 26,
+            "hp": 140,
+            "mp": 60,
+            "atk": 130,
+            "def": 100,
+            "agi": 61,
+            "int": 91,
+            "skills": [
+                "Sacrifice",
+                "Barrier",
+                "Tatsucall"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "JewelBag",
+            "lvl": 25,
+            "hp": 68,
+            "mp": 76,
+            "atk": 123,
+            "def": 126,
+            "agi": 40,
+            "int": 130,
+            "skills": [
+                "HealUs",
+                "Sidestep",
+                "DiagoCall"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "KingCobra",
+            "lvl": 21,
+            "hp": 100,
+            "mp": 39,
+            "atk": 80,
+            "def": 72,
+            "agi": 110,
+            "int": 41,
+            "skills": [
+                "Beat",
+                "TwinHits",
+                "EerieLite"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "KingSlime",
+            "lvl": 38,
+            "hp": 250,
+            "mp": 94,
+            "atk": 218,
+            "def": 181,
+            "agi": 206,
+            "int": 200,
+            "skills": [
+                "Blizzard",
+                "EvilSlash",
+                "DrakSlash"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "LandOwl",
+            "lvl": 21,
+            "hp": 95,
+            "mp": 57,
+            "atk": 110,
+            "def": 57,
+            "agi": 53,
+            "int": 48,
+            "skills": [
+                "Infermore",
+                "Heal",
+                "Surge"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "LavaMan",
+            "lvl": 21,
+            "hp": 80,
+            "mp": 43,
+            "atk": 88,
+            "def": 49,
+            "agi": 40,
+            "int": 51,
+            "skills": [
+                "BlazeMore",
+                "FireSlash",
+                "MetalCut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "LavaMan",
+            "lvl": 33,
+            "hp": 180,
+            "mp": 63,
+            "atk": 158,
+            "def": 179,
+            "agi": 87,
+            "int": 101,
+            "skills": [
+                "Curse",
+                "EerieLite",
+                "SamsiCall"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "LavaMan",
+            "lvl": 38,
+            "hp": 190,
+            "mp": 113,
+            "atk": 198,
+            "def": 159,
+            "agi": 140,
+            "int": 101,
+            "skills": [
+                "Thordain",
+                "TwinSlash",
+                "SquallHit"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "Lionex",
+            "lvl": 26,
+            "hp": 110,
+            "mp": 70,
+            "atk": 100,
+            "def": 106,
+            "agi": 122,
+            "int": 117,
+            "skills": [
+                "Firebane",
+                "SuckAir",
+                "Scorching"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "Lipsy",
+            "lvl": 20,
+            "hp": 52,
+            "mp": 43,
+            "atk": 46,
+            "def": 46,
+            "agi": 36,
+            "int": 57,
+            "skills": [
+                "HealUs",
+                "Farewell",
+                "Kamikaze"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "LizardFly",
+            "lvl": 6,
+            "hp": 36,
+            "mp": 16,
+            "atk": 28,
+            "def": 16,
+            "agi": 10,
+            "int": 30,
+            "skills": [
+                "FireAir",
+                "FrigidAir"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "LizardMan",
+            "lvl": 13,
+            "hp": 55,
+            "mp": 34,
+            "atk": 52,
+            "def": 34,
+            "agi": 32,
+            "int": 48,
+            "skills": [
+                "PanicAll",
+                "LureDance",
+                "LegSweep"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "MadCat",
+            "lvl": 34,
+            "hp": 166,
+            "mp": 64,
+            "atk": 159,
+            "def": 124,
+            "agi": 163,
+            "int": 107,
+            "skills": [
+                "HealMore",
+                "IceSlash",
+                "LureDance"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "MadDragon",
+            "lvl": 33,
+            "hp": 200,
+            "mp": 24,
+            "atk": 335,
+            "def": 130,
+            "agi": 190,
+            "int": 30,
+            "skills": [
+                "SuckAir",
+                "WhiteAir",
+                "MouthShut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "MadHornet",
+            "lvl": 13,
+            "hp": 60,
+            "mp": 37,
+            "atk": 54,
+            "def": 31,
+            "agi": 54,
+            "int": 55,
+            "skills": [
+                "Curse",
+                "SandStorm",
+                "TailWind"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "MadMirror",
+            "lvl": 33,
+            "hp": 164,
+            "mp": 62,
+            "atk": 71,
+            "def": 64,
+            "agi": 170,
+            "int": 120,
+            "skills": [
+                "Boom",
+                "BirdBlow",
+                "RainSlash"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "MadPecker",
+            "lvl": 38,
+            "hp": 139,
+            "mp": 88,
+            "atk": 197,
+            "def": 115,
+            "agi": 186,
+            "int": 127,
+            "skills": [
+                "SleepAll",
+                "TwinHits",
+                "BeastCut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "MadSpirit",
+            "lvl": 20,
+            "hp": 63,
+            "mp": 68,
+            "atk": 85,
+            "def": 55,
+            "agi": 64,
+            "int": 60,
+            "skills": [
+                "PanicAll",
+                "Defense",
+                "Bounce"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "ManEater",
+            "lvl": 27,
+            "hp": 88,
+            "mp": 114,
+            "atk": 93,
+            "def": 45,
+            "agi": 42,
+            "int": 57,
+            "skills": [
+                "Zap",
+                "RockThrow",
+                "LushLicks"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "Metabble",
+            "lvl": 38,
+            "hp": 23,
+            "mp": 490,
+            "atk": 190,
+            "def": 670,
+            "agi": 511,
+            "int": 255,
+            "skills": [
+                "Bounce",
+                "Ramming",
+                "YellHelp"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "MetalDrak",
+            "lvl": 43,
+            "hp": 310,
+            "mp": 105,
+            "atk": 240,
+            "def": 220,
+            "agi": 250,
+            "int": 130,
+            "skills": [
+                "Explodet",
+                "EvilSlash",
+                "IceSlash"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "MetalDrak",
+            "lvl": 43,
+            "hp": 330,
+            "mp": 120,
+            "atk": 260,
+            "def": 240,
+            "agi": 250,
+            "int": 160,
+            "skills": [
+                "Chance",
+                "PaniDance",
+                "BigTrip"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "MetalKing",
+            "lvl": 50,
+            "hp": 25,
+            "mp": 700,
+            "atk": 290,
+            "def": 700,
+            "agi": 511,
+            "int": 255,
+            "skills": [
+                "NapAttack",
+                "Guardian",
+                "LifeDance"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "Metaly",
+            "lvl": 20,
+            "hp": 10,
+            "mp": 200,
+            "atk": 45,
+            "def": 44,
+            "agi": 250,
+            "int": 66,
+            "skills": [
+                "Heal",
+                "Massacre",
+                "Guardian"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "Metaly",
+            "lvl": 30,
+            "hp": 15,
+            "mp": 300,
+            "atk": 65,
+            "def": 400,
+            "agi": 350,
+            "int": 86,
+            "skills": [
+                "Heal",
+                "Kamikaze",
+                "SuckAll"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "MistyWing",
+            "lvl": 6,
+            "hp": 35,
+            "mp": 34,
+            "atk": 16,
+            "def": 24,
+            "agi": 32,
+            "int": 30,
+            "skills": [
+                "Sleep",
+                "WarCry",
+                "Tailwind"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "Ogre",
+            "lvl": 27,
+            "hp": 134,
+            "mp": 72,
+            "atk": 120,
+            "def": 107,
+            "agi": 52,
+            "int": 115,
+            "skills": [
+                "TwinSlash",
+                "BeastCut",
+                "Vacuum"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "Orc",
+            "lvl": 13,
+            "hp": 51,
+            "mp": 29,
+            "atk": 36,
+            "def": 25,
+            "agi": 44,
+            "int": 57,
+            "skills": [
+                "Heal",
+                "Vivify",
+                "LureDance"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "Orochi",
+            "lvl": 50,
+            "hp": 360,
+            "mp": 150,
+            "atk": 360,
+            "def": 350,
+            "agi": 200,
+            "int": 180,
+            "skills": [
+                "Defeat",
+                "LureDance",
+                "Hustle"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "Phoenix",
+            "lvl": 12,
+            "hp": 50,
+            "mp": 47,
+            "atk": 53,
+            "def": 27,
+            "agi": 41,
+            "int": 47,
+            "skills": [
+                "Heal",
+                "BlazeAir",
+                "TailWind"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "Phoenix",
+            "lvl": 20,
+            "hp": 81,
+            "mp": 46,
+            "atk": 77,
+            "def": 51,
+            "agi": 66,
+            "int": 40,
+            "skills": [
+                "Heal",
+                "MagicWall",
+                "VacuSlash"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "Phoenix",
+            "lvl": 26,
+            "hp": 110,
+            "mp": 65,
+            "atk": 125,
+            "def": 70,
+            "agi": 100,
+            "int": 75,
+            "skills": [
+                "CallHelp",
+                "PoisonAir",
+                "Hustle"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "Phoenix",
+            "lvl": 40,
+            "hp": 181,
+            "mp": 116,
+            "atk": 177,
+            "def": 121,
+            "agi": 155,
+            "int": 81,
+            "skills": [
+                "DevilCut",
+                "NapAttack",
+                "BazooCall"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "Rayburn",
+            "lvl": 26,
+            "hp": 93,
+            "mp": 55,
+            "atk": 104,
+            "def": 62,
+            "agi": 136,
+            "int": 65,
+            "skills": [
+                "Lightning",
+                "IceStorm",
+                "Paralyze"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "Reaper",
+            "lvl": 6,
+            "hp": 31,
+            "mp": 17,
+            "atk": 29,
+            "def": 13,
+            "agi": 22,
+            "int": 39,
+            "skills": [
+                "StopSpell",
+                "DanceShut",
+                "MouthShut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "Roboster",
+            "lvl": 38,
+            "hp": 280,
+            "mp": 245,
+            "atk": 340,
+            "def": 230,
+            "agi": 360,
+            "int": 210,
+            "skills": [
+                "HealUs",
+                "MultiCut",
+                "StormWind"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "Roboster",
+            "lvl": 38,
+            "hp": 300,
+            "mp": 260,
+            "atk": 350,
+            "def": 240,
+            "agi": 380,
+            "int": 250,
+            "skills": [
+                "HealMore",
+                "Focus",
+                "SquallHit"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "RogueNite",
+            "lvl": 21,
+            "hp": 75,
+            "mp": 61,
+            "atk": 103,
+            "def": 120,
+            "agi": 40,
+            "int": 61,
+            "skills": [
+                "TakeMagic",
+                "Curse",
+                "SickLick"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "RotRaven",
+            "lvl": 26,
+            "hp": 67,
+            "mp": 84,
+            "atk": 114,
+            "def": 70,
+            "agi": 120,
+            "int": 102,
+            "skills": [
+                "Beat",
+                "VacuSlash",
+                "BiAttack"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "Servant",
+            "lvl": 50,
+            "hp": 240,
+            "mp": 340,
+            "atk": 210,
+            "def": 320,
+            "agi": 290,
+            "int": 250,
+            "skills": [
+                "WhiteFire",
+                "Curse",
+                "StormWind"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "Shadow",
+            "lvl": 13,
+            "hp": 59,
+            "mp": 40,
+            "atk": 54,
+            "def": 50,
+            "agi": 26,
+            "int": 46,
+            "skills": [
+                "Sleep",
+                "RobMagic",
+                "SpeedUp"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "Skeletor",
+            "lvl": 39,
+            "hp": 145,
+            "mp": 160,
+            "atk": 272,
+            "def": 224,
+            "agi": 128,
+            "int": 166,
+            "skills": [
+                "BirdBlow",
+                "Focus",
+                "ShelDodge"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "Skullgon",
+            "lvl": 33,
+            "hp": 164,
+            "mp": 63,
+            "atk": 132,
+            "def": 174,
+            "agi": 85,
+            "int": 169,
+            "skills": [
+                "Blazemost",
+                "TwinSlash",
+                "SquallHit"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "SkyDragon",
+            "lvl": 33,
+            "hp": 165,
+            "mp": 164,
+            "atk": 198,
+            "def": 175,
+            "agi": 123,
+            "int": 112,
+            "skills": [
+                "Sacrifice",
+                "Speedup",
+                "Revive"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "Slimeborg",
+            "lvl": 12,
+            "hp": 52,
+            "mp": 24,
+            "atk": 43,
+            "def": 31,
+            "agi": 49,
+            "int": 61,
+            "skills": [
+                "CleanCut",
+                "PyscheUp",
+                "WarCry"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "SlimeNite",
+            "lvl": 5,
+            "hp": 29,
+            "mp": 24,
+            "atk": 31,
+            "def": 18,
+            "agi": 34,
+            "int": 33,
+            "skills": [
+                "Upper",
+                "Speed",
+                "Heal"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "Snapper",
+            "lvl": 5,
+            "hp": 30,
+            "mp": 23,
+            "atk": 20,
+            "def": 10,
+            "agi": 12,
+            "int": 34,
+            "skills": [
+                "Beat",
+                "Slow",
+                "Sandstorm"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "Snapper",
+            "lvl": 40,
+            "hp": 186,
+            "mp": 161,
+            "atk": 234,
+            "def": 124,
+            "agi": 127,
+            "int": 118,
+            "skills": [
+                "SuckAir",
+                "WhiteFire",
+                "Branching"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "Snapper",
+            "lvl": 50,
+            "hp": 250,
+            "mp": 210,
+            "atk": 250,
+            "def": 160,
+            "agi": 160,
+            "int": 200,
+            "skills": [
+                "HighJump",
+                "MultiCut",
+                "SickLick"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "Spikerous",
+            "lvl": 28,
+            "hp": 204,
+            "mp": 18,
+            "atk": 177,
+            "def": 300,
+            "agi": 81,
+            "int": 104,
+            "skills": [
+                "Bounce",
+                "PoisonHit",
+                "ThickFog"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "SpotKing",
+            "lvl": 6,
+            "hp": 32,
+            "mp": 20,
+            "atk": 25,
+            "def": 20,
+            "agi": 32,
+            "int": 43,
+            "skills": [
+                "BiAttack",
+                "CallHelp",
+                "RainSlash"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "StagBug",
+            "lvl": 5,
+            "hp": 27,
+            "mp": 12,
+            "atk": 26,
+            "def": 28,
+            "agi": 15,
+            "int": 28,
+            "skills": [
+                "VacuSlash",
+                "IceSlash",
+                "MetalCut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "StoneMan",
+            "lvl": 34,
+            "hp": 220,
+            "mp": 96,
+            "atk": 147,
+            "def": 220,
+            "agi": 71,
+            "int": 125,
+            "skills": [
+                "Firebolt",
+                "HealUs",
+                "SuckAll"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "StoneMan",
+            "lvl": 40,
+            "hp": 222,
+            "mp": 126,
+            "atk": 199,
+            "def": 257,
+            "agi": 107,
+            "int": 184,
+            "skills": [
+                "StopSpell",
+                "BazooCall",
+                "Guardian"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "StoneMan",
+            "lvl": 48,
+            "hp": 360,
+            "mp": 160,
+            "atk": 240,
+            "def": 360,
+            "agi": 100,
+            "int": 200,
+            "skills": [
+                "SuckAir",
+                "WhiteAir",
+                "EerieLite"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "SuperTen",
+            "lvl": 33,
+            "hp": 156,
+            "mp": 60,
+            "atk": 77,
+            "def": 60,
+            "agi": 136,
+            "int": 78,
+            "skills": [
+                "Firebolt",
+                "FireSlash",
+                "QuadHits"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "Swordgon",
+            "lvl": 25,
+            "hp": 126,
+            "mp": 95,
+            "atk": 95,
+            "def": 128,
+            "agi": 46,
+            "int": 67,
+            "skills": [
+                "Zap",
+                "Increase",
+                "HealMore"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "TailEater",
+            "lvl": 6,
+            "hp": 23,
+            "mp": 20,
+            "atk": 21,
+            "def": 20,
+            "agi": 24,
+            "int": 28,
+            "skills": [
+                "MagicBack",
+                "Heal"
+            ]
+        },
+        {
+            "lowerTeamLvl": 1,
+            "upperTeamLvl": 19,
+            "monster": "TreeBoy",
+            "lvl": 5,
+            "hp": 37,
+            "mp": 45,
+            "atk": 16,
+            "def": 21,
+            "agi": 19,
+            "int": 37,
+            "skills": [
+                "IceBolt",
+                "Heal",
+                "Vivify"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "Trumpeter",
+            "lvl": 45,
+            "hp": 190,
+            "mp": 150,
+            "atk": 330,
+            "def": 210,
+            "agi": 190,
+            "int": 130,
+            "skills": [
+                "Blazemost",
+                "BoltSlash",
+                "DevilCut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "Trumpeter",
+            "lvl": 48,
+            "hp": 220,
+            "mp": 170,
+            "atk": 250,
+            "def": 220,
+            "agi": 210,
+            "int": 150,
+            "skills": [
+                "Explodet",
+                "WarCry",
+                "DanceShut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "Unicorn",
+            "lvl": 45,
+            "hp": 200,
+            "mp": 330,
+            "atk": 200,
+            "def": 150,
+            "agi": 290,
+            "int": 255,
+            "skills": [
+                "SquallHit",
+                "LureDance",
+                "Guardian"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "Voodoll",
+            "lvl": 33,
+            "hp": 154,
+            "mp": 148,
+            "atk": 168,
+            "def": 164,
+            "agi": 120,
+            "int": 133,
+            "skills": [
+                "Bounce",
+                "PoisonAir",
+                "WarCry"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "WhipBird",
+            "lvl": 45,
+            "hp": 480,
+            "mp": 200,
+            "atk": 150,
+            "def": 250,
+            "agi": 240,
+            "int": 230,
+            "skills": [
+                "Farewell",
+                "QuadHits",
+                "Sandstorm"
+            ]
+        },
+        {
+            "lowerTeamLvl": 140,
+            "upperTeamLvl": 297,
+            "monster": "WhipBird",
+            "lvl": 50,
+            "hp": 500,
+            "mp": 200,
+            "atk": 180,
+            "def": 260,
+            "agi": 250,
+            "int": 255,
+            "skills": [
+                "EvilSlash",
+                "BazooCall",
+                "Hustle"
+            ]
+        },
+        {
+            "lowerTeamLvl": 40,
+            "upperTeamLvl": 59,
+            "monster": "WildApe",
+            "lvl": 20,
+            "hp": 65,
+            "mp": 46,
+            "atk": 78,
+            "def": 38,
+            "agi": 51,
+            "int": 47,
+            "skills": [
+                "ChargeUp",
+                "MetalCut",
+                "CleanCut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "WindMerge",
+            "lvl": 12,
+            "hp": 44,
+            "mp": 45,
+            "atk": 38,
+            "def": 40,
+            "agi": 40,
+            "int": 51,
+            "skills": [
+                "Heal",
+                "Cover",
+                "Tailwind"
+            ]
+        },
+        {
+            "lowerTeamLvl": 60,
+            "upperTeamLvl": 79,
+            "monster": "WingSnake",
+            "lvl": 26,
+            "hp": 132,
+            "mp": 77,
+            "atk": 120,
+            "def": 89,
+            "agi": 85,
+            "int": 78,
+            "skills": [
+                "Defense",
+                "PaniDance",
+                "Branching"
+            ]
+        },
+        {
+            "lowerTeamLvl": 20,
+            "upperTeamLvl": 39,
+            "monster": "Wyvern",
+            "lvl": 12,
+            "hp": 46,
+            "mp": 32,
+            "atk": 52,
+            "def": 28,
+            "agi": 48,
+            "int": 84,
+            "skills": [
+                "BiAttack",
+                "SquallHit",
+                "WindBeast"
+            ]
+        },
+        {
+            "lowerTeamLvl": 80,
+            "upperTeamLvl": 99,
+            "monster": "Yeti",
+            "lvl": 34,
+            "hp": 198,
+            "mp": 110,
+            "atk": 170,
+            "def": 170,
+            "agi": 80,
+            "int": 94,
+            "skills": [
+                "Infermost",
+                "HighJump",
+                "Vacuum"
+            ]
+        },
+        {
+            "lowerTeamLvl": 100,
+            "upperTeamLvl": 119,
+            "monster": "ZapBird",
+            "lvl": 39,
+            "hp": 224,
+            "mp": 87,
+            "atk": 187,
+            "def": 167,
+            "agi": 210,
+            "int": 222,
+            "skills": [
+                "UltraDown",
+                "DanceShut",
+                "MouthShut"
+            ]
+        },
+        {
+            "lowerTeamLvl": 120,
+            "upperTeamLvl": 139,
+            "monster": "ZapBird",
+            "lvl": 45,
+            "hp": 260,
+            "mp": 120,
+            "atk": 210,
+            "def": 200,
+            "agi": 240,
+            "int": 255,
+            "skills": [
+                "Massacre",
+                "VacuSlash",
+                "Vacuum"
+            ]
+        }
+    ]
+}

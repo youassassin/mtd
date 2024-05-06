@@ -387,6 +387,10 @@
                 {
                     "gate": "Temptation",
                     "level": "1-19"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -503,7 +507,7 @@
             "note": "Being trapped in a box gives this slime it's shape",
             "location": [
                 {
-                    "gate": "Medal",
+                    "gate": "Medal Man",
                     "level": "1-18"
                 },
                 {
@@ -564,7 +568,7 @@
             "note": "The most abundane of this popular specie",
             "location": [
                 {
-                    "gate": "Beginning",
+                    "gate": "Beginner",
                     "level": "1-4"
                 },
                 {
@@ -625,7 +629,7 @@
             "note": "Uses its powerful tentacles to move about",
             "location": [
                 {
-                    "gate": "Beginning",
+                    "gate": "Beginner",
                     "level": "Boss"
                 }
             ]
@@ -684,6 +688,10 @@
                 {
                     "gate": "Peace",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
                 }
             ]
         },
@@ -806,6 +814,10 @@
                 {
                     "gate": "Mastermind",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -928,6 +940,10 @@
                 {
                     "gate": "Mastermind",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -983,8 +999,12 @@
             "note": "Several Slimes combined into one to form this King",
             "location": [
                 {
-                    "gate": "Medal",
+                    "gate": "Medal Man",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
                 }
             ]
         },
@@ -1046,6 +1066,14 @@
                 {
                     "gate": "Mastermind",
                     "level": "1-5"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -1103,6 +1131,10 @@
                 {
                     "gate": "Mastermind",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
                 }
             ]
         },
@@ -1155,7 +1187,13 @@
                 "3",
                 "1"
             ],
-            "note": "Several Metalys combined to form this King"
+            "note": "Several Metalys combined to form this King",
+            "location": [
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
+                }
+            ]
         },
         {
             "id": "20",
@@ -1465,6 +1503,14 @@
                 {
                     "gate": "Happiness",
                     "level": "1-4"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -1591,6 +1637,10 @@
                 {
                     "gate": "Reflection",
                     "level": "1-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -1709,6 +1759,10 @@
                 {
                     "gate": "Old Man",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -1766,6 +1820,10 @@
                 {
                     "gate": "Villager",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -1888,6 +1946,10 @@
                 {
                     "gate": "Old Man",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
                 }
             ]
         },
@@ -1945,6 +2007,10 @@
                 {
                     "gate": "Old Man",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -2067,6 +2133,10 @@
                 {
                     "gate": "Judgement",
                     "level": "11-24"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -2124,6 +2194,10 @@
                 {
                     "gate": "Old Man",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
                 }
             ]
         },
@@ -2185,6 +2259,10 @@
                 {
                     "gate": "Temptation",
                     "level": "1-16"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -2242,6 +2320,10 @@
                 {
                     "gate": "Old Man",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
                 }
             ]
         },
@@ -2299,6 +2381,14 @@
                 {
                     "gate": "Old Man",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
@@ -2421,6 +2511,10 @@
                 {
                     "gate": "Old Man",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -2524,7 +2618,13 @@
                 "1",
                 "1"
             ],
-            "note": "Its 5 heads can do different things at the same time"
+            "note": "Its 5 heads can do different things at the same time",
+            "location": [
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
+                }
+            ]
         },
         {
             "id": "43",
@@ -2580,6 +2680,10 @@
                 {
                     "gate": "Anger",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
                 }
             ]
         },
@@ -2632,7 +2736,13 @@
                 "2",
                 "2"
             ],
-            "note": "Floats freely in midair with its magical powers"
+            "note": "Floats freely in midair with its magical powers",
+            "location": [
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
+                }
+            ]
         },
         {
             "id": "45",
@@ -3052,6 +3162,10 @@
                 {
                     "gate": "Arena Right",
                     "level": "21-26"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
                 }
             ]
         },
@@ -3229,7 +3343,7 @@
             "note": "Uses its tongue to attack & snare prey",
             "location": [
                 {
-                    "gate": "Beginning",
+                    "gate": "Beginner",
                     "level": "1-4"
                 },
                 {
@@ -3296,6 +3410,10 @@
                 {
                     "gate": "Arena Right",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -3353,6 +3471,10 @@
                 {
                     "gate": "Arena Right",
                     "level": "21-26"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -3475,6 +3597,10 @@
                 {
                     "gate": "Judgement",
                     "level": "1-24"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -3536,6 +3662,10 @@
                 {
                     "gate": "Reflection",
                     "level": "6-28"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -3593,6 +3723,10 @@
                 {
                     "gate": "Arena Right",
                     "level": "21-26"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -3776,6 +3910,10 @@
                 {
                     "gate": "Arena Right",
                     "level": "21-26"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
                 }
             ]
         },
@@ -3833,6 +3971,14 @@
                 {
                     "gate": "Arena Right",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -3894,6 +4040,10 @@
                 {
                     "gate": "Library",
                     "level": "6-24"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -3951,6 +4101,14 @@
                 {
                     "gate": "Arena Right",
                     "level": "21-26"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
@@ -4116,6 +4274,10 @@
                 {
                     "gate": "Memories",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -4173,6 +4335,10 @@
                 {
                     "gate": "Bravery",
                     "level": "Boss NR"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -4240,7 +4406,7 @@
                     "level": "1-5"
                 },
                 {
-                    "gate": "Vilager",
+                    "gate": "Villager",
                     "level": "1-2"
                 }
             ]
@@ -4303,6 +4469,10 @@
                 {
                     "gate": "Control",
                     "level": "21-26"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -4494,6 +4664,10 @@
                 {
                     "gate": "Labyrinth",
                     "level": "6-22"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -4555,6 +4729,10 @@
                 {
                     "gate": "Control",
                     "level": "6-10"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
                 }
             ]
         },
@@ -4677,6 +4855,10 @@
                 {
                     "gate": "Temptation",
                     "level": "13-19"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -4736,7 +4918,7 @@
                     "level": "1-5"
                 },
                 {
-                    "gate": "Beginning",
+                    "gate": "Beginner",
                     "level": "1-4"
                 }
             ]
@@ -4929,6 +5111,10 @@
                 {
                     "gate": "Control",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -5099,7 +5285,17 @@
                 "2",
                 "2"
             ],
-            "note": "Breathes out freezing air to defeat its prey"
+            "note": "Breathes out freezing air to defeat its prey",
+            "location": [
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
+                }
+            ]
         },
         {
             "id": "86",
@@ -5150,7 +5346,25 @@
                 "2",
                 "2"
             ],
-            "note": "Roasts its prey with its fiery breath"
+            "note": "Roasts its prey with its fiery breath",
+            "location": [
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
+                }
+            ]
         },
         {
             "id": "87",
@@ -5206,6 +5420,14 @@
                 {
                     "gate": "Control",
                     "level": "21-26"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
                 }
             ]
         },
@@ -5263,6 +5485,14 @@
                 {
                     "gate": "Control",
                     "level": "21-26"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
@@ -5320,6 +5550,10 @@
                 {
                     "gate": "Joy",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
                 }
             ]
         },
@@ -5489,6 +5723,10 @@
                 {
                     "gate": "Demolition",
                     "level": "11-28"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -5676,6 +5914,10 @@
                 {
                     "gate": "Labyrinth",
                     "level": "1-15"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -5792,7 +6034,7 @@
             "note": "Plants its spores on its prey to multiply",
             "location": [
                 {
-                    "gate": "Medal",
+                    "gate": "Medal Man",
                     "level": "Boss NR"
                 }
             ]
@@ -5855,6 +6097,10 @@
                 {
                     "gate": "Demolition",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -6038,6 +6284,10 @@
                 {
                     "gate": "Demolition",
                     "level": "21-28"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -6099,6 +6349,10 @@
                 {
                     "gate": "Demolition",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -6160,6 +6414,10 @@
                 {
                     "gate": "Arena Right",
                     "level": "21-26"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -6394,6 +6652,10 @@
                 {
                     "gate": "Demolition",
                     "level": "21-28"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -6451,6 +6713,18 @@
                 {
                     "gate": "Demolition",
                     "level": "21-28"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
@@ -6559,7 +6833,7 @@
                 {
                     "gate": "Reward",
                     "level": "World Map",
-                    "note": "Must clear all family gates"
+                    "note": "Must clear all gates. Then talk to Watabou"
                 }
             ]
         },
@@ -6997,8 +7271,12 @@
             "note": "Paralyzes its prey with its deadly kiss",
             "location": [
                 {
-                    "gate": "Medal",
+                    "gate": "Medal Man",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -7060,6 +7338,10 @@
                 {
                     "gate": "Temptation",
                     "level": "9-19"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -7243,6 +7525,10 @@
                 {
                     "gate": "Ambition",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -7426,6 +7712,10 @@
                 {
                     "gate": "Ambition",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -7487,6 +7777,10 @@
                 {
                     "gate": "Ambition",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -7548,6 +7842,10 @@
                 {
                     "gate": "Ambition",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -7609,6 +7907,10 @@
                 {
                     "gate": "Ambition",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -7661,7 +7963,13 @@
                 "2",
                 "2"
             ],
-            "note": "Charges its prey with its big horn"
+            "note": "Charges its prey with its big horn",
+            "location": [
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
+                }
+            ]
         },
         {
             "id": "129",
@@ -7768,6 +8076,10 @@
                 {
                     "gate": "Arena Left",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
                 }
             ]
         },
@@ -7890,6 +8202,10 @@
                 {
                     "gate": "Extinction",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -7951,6 +8267,10 @@
                 {
                     "gate": "Labyrinth",
                     "level": "11-22"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -8081,6 +8401,10 @@
                 {
                     "gate": "Temptation",
                     "level": "17-19"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -8264,6 +8588,10 @@
                 {
                     "gate": "Extinction",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -8512,6 +8840,10 @@
                 {
                     "gate": "Extinction",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -8569,6 +8901,10 @@
                 {
                     "gate": "Extinction",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
                 }
             ]
         },
@@ -8626,6 +8962,10 @@
                 {
                     "gate": "Extinction",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -8683,6 +9023,10 @@
                 {
                     "gate": "Extinction",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -8735,7 +9079,13 @@
                 "2",
                 "1"
             ],
-            "note": "Uses a scythe as tall as its own towering height"
+            "note": "Uses a scythe as tall as its own towering height",
+            "location": [
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
+                }
+            ]
         },
         {
             "id": "147",
@@ -8786,7 +9136,13 @@
                 "0",
                 "0"
             ],
-            "note": "Has achieved the utmost limit of swiftness"
+            "note": "Has achieved the utmost limit of swiftness",
+            "location": [
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
+                }
+            ]
         },
         {
             "id": "148",
@@ -8842,6 +9198,10 @@
                 {
                     "gate": "Extinction",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -9013,6 +9373,10 @@
                 {
                     "gate": "Well",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -9070,6 +9434,14 @@
                 {
                     "gate": "Temptation",
                     "level": "Boss NR"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
                 }
             ]
         },
@@ -9127,6 +9499,10 @@
                 {
                     "gate": "Temptation",
                     "level": "Boss NR"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -9359,6 +9735,10 @@
                 {
                     "gate": "Sleep",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -9481,6 +9861,10 @@
                 {
                     "gate": "Sleep",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -9599,6 +9983,10 @@
                 {
                     "gate": "Sleep",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -9660,6 +10048,10 @@
                 {
                     "gate": "Sleep",
                     "level": "6-10"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -9721,6 +10113,10 @@
                 {
                     "gate": "Sleep",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -9906,7 +10302,7 @@
             "note": "Flies in the air leaving a streak of light",
             "location": [
                 {
-                    "gate": "Medal",
+                    "gate": "Medal Man",
                     "level": "1-8"
                 },
                 {
@@ -9973,6 +10369,10 @@
                 {
                     "gate": "Sleep",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -10034,6 +10434,10 @@
                 {
                     "gate": "Labyrinth",
                     "level": "21-22"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
                 }
             ]
         },
@@ -10089,12 +10493,16 @@
             "note": "Guides dead spirits to the underworld",
             "location": [
                 {
-                    "gate": "Medal",
+                    "gate": "Medal Man",
                     "level": "9-18"
                 },
                 {
                     "gate": "Sleep",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "1-19"
                 }
             ]
         },
@@ -10152,6 +10560,14 @@
                 {
                     "gate": "Sleep",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
@@ -10325,6 +10741,10 @@
                 {
                     "gate": "Sleep",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
                 }
             ]
         },
@@ -10386,6 +10806,10 @@
                 {
                     "gate": "Reflection",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
@@ -10443,6 +10867,14 @@
                 {
                     "gate": "Monster Farm",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
                 }
             ]
         },
@@ -10504,6 +10936,10 @@
                 {
                     "gate": "Reflection",
                     "level": "26-28"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "60-79"
                 }
             ]
         },
@@ -10565,6 +11001,10 @@
                 {
                     "gate": "Reflection",
                     "level": "1-5"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -10874,6 +11314,10 @@
                 {
                     "gate": "Bazaar Edge",
                     "level": "11-20"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -10933,8 +11377,12 @@
                     "level": "6-10"
                 },
                 {
-                    "gate": "Medal",
+                    "gate": "Medal Man",
                     "level": "6-18"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -11057,6 +11505,10 @@
                 {
                     "gate": "Bazaar Edge",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -11114,6 +11566,14 @@
                 {
                     "gate": "Bazaar Edge",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
@@ -11171,6 +11631,14 @@
                 {
                     "gate": "Bazaar Edge",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
@@ -11297,6 +11765,10 @@
                 {
                     "gate": "Library",
                     "level": "1-15"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -11354,6 +11826,14 @@
                 {
                     "gate": "Bazaar Edge",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "120-139"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
@@ -11464,12 +11944,16 @@
                     "level": "11-20"
                 },
                 {
-                    "gate": "Medal",
+                    "gate": "Medal Man",
                     "level": "1-8"
                 },
                 {
                     "gate": "Labyrinth",
                     "level": "1-22"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
                 }
             ]
         },
@@ -11522,7 +12006,21 @@
                 "0",
                 "0"
             ],
-            "note": "It's composed of an energy core & magma"
+            "note": "It's composed of an energy core & magma",
+            "location": [
+                {
+                    "gate": "Foreign Master",
+                    "level": "40-59"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
+                }
+            ]
         },
         {
             "id": "194",
@@ -11573,7 +12071,13 @@
                 "0",
                 "0"
             ],
-            "note": "It's composed of an energy core & ice"
+            "note": "It's composed of an energy core & ice",
+            "location": [
+                {
+                    "gate": "Foreign Master",
+                    "level": "20-39"
+                }
+            ]
         },
         {
             "id": "195",
@@ -11629,7 +12133,7 @@
                 {
                     "gate": "any",
                     "level": "any",
-                    "note": "Treasure Chests"
+                    "note": "starting around Class C"
                 }
             ]
         },
@@ -11752,6 +12256,10 @@
                 {
                     "gate": "Talisman",
                     "level": "Boss"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
                 }
             ]
         },
@@ -11808,8 +12316,24 @@
             "location": [
                 {
                     "gate": "Strength",
-                    "level": "Boss NR",
+                    "level": "Boss NR"
+                },
+                {
+                    "gate": "Reward",
+                    "level": "World Map",
                     "note": "Gift from May"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "80-99"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
@@ -11867,6 +12391,14 @@
                 {
                     "gate": "Bazaar Edge",
                     "level": "21-29"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "100-119"
+                },
+                {
+                    "gate": "Foreign Master",
+                    "level": "140-297"
                 }
             ]
         },
