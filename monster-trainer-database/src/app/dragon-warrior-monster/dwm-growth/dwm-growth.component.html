@@ -1,0 +1,24 @@
+<div *ngIf="!isDetailed">
+    <div *ngFor="let l of LABELS; let i= index">
+        <b>{{l}}: </b>{{stringRate[i]}} ({{rates[i]}})
+    </div>
+</div>
+<div *ngIf="isDetailed">
+    <table *ngFor="let l of LABELS; let i= index">
+        <caption>{{l}} ({{rates[i]}})</caption>
+        <thead>
+            <tr>
+                <th>lvl</th>
+                <th>Growth</th>
+                <th>Total XP</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let l of levels; let j=index">
+                <td>lvl {{l}}:</td>
+                <td>{{detailedRate[i][j]}}</td>
+                <td>{{detailedAmount[i][j]}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

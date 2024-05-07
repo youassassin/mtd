@@ -1,6 +1,8 @@
 
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import * as asjon from '../../../assets/database/dwm-xp-table.json';
+import { DragonWarriorMonsterService } from '../dragon-warrior-monster.service';
+import { Subject } from 'rxjs';
 
 @Component({
   selector: 'dwm-growth',
@@ -9,15 +11,53 @@ import * as asjon from '../../../assets/database/dwm-xp-table.json';
 })
 export class DwmGrowthComponent implements OnInit {
 
+  @Input() rates: string[] = [];
+  @Input() detailEvent!: Subject<boolean>;
+  stringRate: string[] = [];
+  detailedRate: string[][] = [];
+  levels: number[] = [20, 40, 60, 80, 99];
+  amount: number[] = [];
+  detailedAmount: number[][] = [];
+  isDetailed: boolean = false;
+
   ajax = { data: asjon };
 
-  constructor() { }
+  readonly LABELS = ['HP', 'MP', 'ATK', 'DEF', 'AGI', 'INT'];
+
+  constructor(private dwmService: DragonWarriorMonsterService) { }
 
   ngOnInit(): void {
+    this.detailEvent.subscribe(isDetailed => { this.isDetailed = isDetailed });
+    let d = this.dwmService.getGrowthTable();
+
+    this.rates.forEach(n => {
+      this.stringRate.push(this.getStringRate(+n))
+      this.detailedRate.push(this.getStringArrayRate(+n));
+      let arr: number[] = []
+      this.levels.forEach(l => arr.push(d[l - 1][+n]));
+      this.detailedAmount.push(arr);
+    });
   }
 
-  getStringRate(rate: number): string[] {
+  getStringRate(rate: number): string {
+    let result = 'error';
+
+    if (-1 < rate && rate < 4)
+      result = 'Very slow';
+    else if (rate < 8)
+      result = 'Slow';
+    else if (rate < 17)
+      result = 'Normal';
+    else if (rate < 25)
+      result = 'Fast';
+    else if (rate < 32)
+      result = 'Very fast';
+    return result;
+  }
+
+  getStringArrayRate(rate: number): string[] {
     let result: string[] = [];
+
     switch (rate) {
       case 0: result = ['Very slow', 'Very slow', 'Very slow', 'Very slow', 'Very slow']; break;
       case 1: result = ['Very slow', 'Slow', 'Very slow', 'Slow', 'Very slow']; break;

@@ -41,59 +41,15 @@
             <div *ngIf="l.gate === 'any'">Found in treasure chests<br />{{l.note}}</div>
         </div>
     </div>
+
     <h3>Experience Growth Rate</h3>
     <b>Max Level: {{monster.maxLevel}}</b><br />
     <xp-growth [rate]="monster.xpGrowth"></xp-growth>
+    <div class="f-row center-vertical">
+        <h3>Stat Growth Rate</h3>
+        <input class="space-1em-left" type="button" (click)=changeDetail() value={{growthLabel}}>
+    </div>
+    <dwm-growth [rates]="growths" [detailEvent]="detailedSwap"></dwm-growth>
     <div *ngIf="!isXpDetail"></div>
     <div *ngIf="isXpDetail"></div>
-    <div class="info">
-        <div class="row">
-            <div id="dwm-img" class="column">
-            </div>
-            <div class="column">
-                <div class="row">
-                    <div id="name">{{monster.name}}</div>
-                </div>
-                <div class="row">
-                    <div id="title-divider"></div>
-                </div>
-                <div class="row">
-                    <div id="parents-bar" class="column">
-                        <svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                            <line x1="0" y1="10" x2="10" y2="10" stroke="black" />
-                            <line x1="10" y1="2" x2="10" y2="18" stroke="black" />
-                            <line x1="10" y1="2" x2="20" y2="2" stroke="black" />
-                            <line x1="10" y1="18" x2="20" y2="18" stroke="black" />
-                        </svg>
-                    </div>
-                    <div class="column">
-                        <div id="pedigree">{{breed!.parents[0].pedigree[0]}}</div>
-                        <div id="parent">{{breed!.parents[0].parent[0]}}</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="divider" class="row"></div>
-        <div id="skills-wrapper" class="row">
-            <div id="skills-title" class="column padding-right-10">
-                <div id="skills-title">SKILLS</div>
-                <div id="skills-divider">
-                    <div id="skills-divider-inner"></div>
-                </div>
-                <div id="skills-spacer"></div>
-            </div>
-            <div class="column">
-                <div id="skill-one"><a class="button"
-                        routerLink="/dwm/skill/{{monster.skills[0]}}">{{monster.skills[0]}}</a></div>
-                <div id="skill-one"><a class="button"
-                        routerLink="/dwm/skill/{{monster.skills[1]}}">{{monster.skills[1]}}</a></div>
-                <div id="skill-one"><a class="button"
-                        routerLink="/dwm/skill/{{monster.skills[2]}}">{{monster.skills[2]}}</a></div>
-            </div>
-        </div>
-        <div class="row">
-            <div id="monster-description">{{monster.note}}</div>
-        </div>
-
-    </div>
 </div>

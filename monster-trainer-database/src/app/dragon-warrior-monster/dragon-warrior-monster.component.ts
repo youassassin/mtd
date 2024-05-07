@@ -48,7 +48,7 @@ export class DragonWarriorMonsterComponent implements OnInit {
         }
       })
       this.stringify.push(JSON.stringify(m) + ",");
-    }); var keys = Object.keys(mape);
+    });
     this.z = [...mape.entries()];
     let w = ['asd'];
     // this.z = JSON.stringify(new DwmGrowthComponent().growthRateUtil());

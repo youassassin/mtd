@@ -99,3 +99,15 @@ svg {
     shape-rendering: crispedges;
     stroke-width: 2px;
 }
+
+input[type=button] {
+    max-height: 1.5em;
+}
+
+.f-row {
+    display: flex;
+}
+
+.center-vertical {
+    align-items: center;
+}

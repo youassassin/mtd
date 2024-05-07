@@ -48,6 +48,10 @@ export class DragonWarriorMonsterService {
     return this.data.masterList.dwmMasterList;
   }
 
+  getGrowthTable(): number[][] {
+    return this.data.growthTable;
+  }
+
   getXpTable(): number[][] {
     return this.data.xpTable;
   }

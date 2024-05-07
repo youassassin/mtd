@@ -10,21 +10,20 @@ import { DragonWarriorMonsterService } from '../../dragon-warrior-monster.servic
 export class DwmXpGrowthComponent extends DwmGrowthComponent implements OnInit {
 
   @Input() rate: string = '';
-  stringRate: string[] = [];
+  overridestringRate: string[] = [];
   xpAmount: number[] = [];
-  levels: number[] = [20, 40, 60, 80, 99];
 
-  constructor(private dwmService: DragonWarriorMonsterService) { super(); }
+  constructor(private aDwmService: DragonWarriorMonsterService) { super(aDwmService); }
 
   override ngOnInit(): void {
-    this.stringRate = this.getStringRate(+this.rate);
-    let d = this.dwmService.getXpTable();
+    this.stringRate = this.getStringArrayRate(+this.rate);
+    let d = this.aDwmService.getXpTable();
     for (let l of this.levels) {
       this.xpAmount.push(d[l - 1][+this.rate]);
     }
   }
 
-  override getStringRate(rate: number): string[] {
+  override getStringArrayRate(rate: number): string[] {
     let result: string[] = [];
     switch (rate) {
       case 0: result = ['Very fast', 'Very fast', 'Very fast', 'Very fast', 'Very fast']; break;

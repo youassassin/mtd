@@ -5,6 +5,7 @@ import { Monster } from '../model/dwm-monster.model';
 import { Breedable } from '../model/dwm-breedable.model';
 import { Family, convertEnumToImagePath } from '../enum/dwm-family.enum';
 import { convertEnumPercentage } from '../enum/dwm-sex-chance.enum';
+import { Subject } from 'rxjs';
 
 @Component({
   selector: 'app-dwm-monster',
@@ -21,6 +22,9 @@ export class DwmMonsterComponent implements OnInit {
   family: string = '';
   genderChance: string = '';
   isXpDetail: boolean = false;
+  growths: string[] = [];
+  growthLabel: string = 'show detailed';
+  detailedSwap: Subject<boolean> = new Subject();
   constructor(private dwmService: DragonWarriorMonsterService,
     private route: ActivatedRoute,
     private router: Router) { }
@@ -55,6 +59,13 @@ export class DwmMonsterComponent implements OnInit {
     this.family = Family[+this.monster.family];
     let gender = convertEnumPercentage(+this.monster.sexChance);
     this.genderChance = `Boy: ${gender.boy}, Girl: ${gender.girl}`;
+    this.growths = [
+      this.monster.hpGrowth,
+      this.monster.mpGrowth,
+      this.monster.atkGrowth,
+      this.monster.defGrowth,
+      this.monster.agiGrowth,
+      this.monster.intGrowth];
   }
 
   isInvalidId(id: any) {
@@ -64,4 +75,13 @@ export class DwmMonsterComponent implements OnInit {
     this.router.navigate(['/dwm'], { queryParams: { invalid: true } });
   }
 
+  changeDetail() {
+    if (this.growthLabel === 'show detailed') {
+      this.growthLabel = 'show simple'
+      this.detailedSwap.next(true);
+    } else {
+      this.growthLabel = 'show detailed'
+      this.detailedSwap.next(false);
+    }
+  }
 }

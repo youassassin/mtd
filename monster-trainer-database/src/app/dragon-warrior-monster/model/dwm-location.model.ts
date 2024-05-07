@@ -3,6 +3,6 @@ export class DWMLocation {
     depth!: string;
     size!: string;
     boss!: string;
-    list!: {}; //{...topLevel: string[]}
+    list!: {}; //{...1-3: string[]}
     note?: string;
 }
