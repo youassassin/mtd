@@ -115,7 +115,8 @@ export class DwmMasterMonsterComponent implements OnInit {
     }
   }
 
-  skillSearch() {
+  skillSearch(event: any) {
+    console.log(event)
     let name = this.form.get('skill')?.value;
     if (!name)
       this.reset();
@@ -137,8 +138,10 @@ export class DwmMasterMonsterComponent implements OnInit {
         });
         return t.length !== 0;
       });
-      this.skills = Array.from(skillSet);
-      this.skills.sort();
+      if (event.data) {
+        this.skills = Array.from(skillSet);
+        this.skills.sort();
+      }
     }
   }
   sort(event: any) {

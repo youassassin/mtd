@@ -57,22 +57,22 @@
         </div>
         <div class="f-row">
             <div class="f-col">
-                <input id="monOne" class="lvl-input" (input)=updateMonsterLevels($event) formControlName="monOne"
+                <input id="monOne" class="lvl-input" (input)="updateMonsterLevels($event)" formControlName="monOne"
                     type="text" autocomplete="off"> +
-                <input id="monTwo" class="lvl-input" (input)=updateMonsterLevels($event) formControlName="monTwo"
+                <input id="monTwo" class="lvl-input" (input)="updateMonsterLevels($event)" formControlName="monTwo"
                     type="text" autocomplete="off"> +
-                <input id="monThree" class="lvl-input" (input)=updateMonsterLevels($event) formControlName="monThree"
+                <input id="monThree" class="lvl-input" (input)="updateMonsterLevels($event)" formControlName="monThree"
                     type="text" autocomplete="off"> =
-                <input id="monTot" class="lvl-input" (input)=updateMonsterLevels($event) formControlName="monTot"
+                <input id="monTot" class="lvl-input" (input)="updateMonsterLevels($event)" formControlName="monTot"
                     type="text" autocomplete="off">
             </div>
             <div class="f-col space-3-5em-left">
                 <input id="monsterSearch" class="word-input" formControlName="monster" name="monsterSearch"
-                    (input)=monsterSearch() autocomplete="off">
+                    (input)="monsterSearch()" autocomplete="off">
             </div>
             <div class="f-col space-3-5em-left">
                 <input id="skillSearch" class="word-input" formControlName="skill" name="skillSearch"
-                    (input)=skillSearch() list="skillSuggestions" autocomplete="off">
+                    (input)="skillSearch($event)" list="skillSuggestions" autocomplete="off">
                 <datalist id="skillSuggestions">
                     <option *ngFor="let s of skills" value="{{s}}"></option>
                 </datalist>
