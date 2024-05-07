@@ -81,14 +81,19 @@
                 <input type="button" (click)=resetInput() value="Reset">
             </div>
         </div>
-
     </form>
     <br />
     <table>
         <thead>
             <tr>
-                <th><a id="tLvl">Team Lvl <img id="tLvlImg" src="../../../../assets/icons/sortable-even.png"></a></th>
-                <th><a id="tMon">Monster <img id="tMonImg" src="../../../../assets/icons/sortable-down.png"></a></th>
+                <th>
+                    <div class="clickable" id="tLvl" (click)="sort($event)">Team Lvl <img id="tLvlImg"
+                            src="{{EVEN_PATH}}" #tLvlImg></div>
+                </th>
+                <th>
+                    <div class="clickable" id="tMon" (click)="sort($event)">Monster <img id="tMonImg"
+                            src="{{DOWN_PATH}}" #tMonImg></div>
+                </th>
                 <th>LVL</th>
                 <th>HP</th>
                 <th>MP</th>

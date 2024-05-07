@@ -9,19 +9,19 @@ td {
     padding: 3px 5px;
 }
 
-a>img {
+.clickable>img {
     width: 12px;
     height: 12px;
 }
 
-a {
+.clickable {
     cursor: pointer;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
 }
 
-th>a:hover {
+th>.clickable:hover {
     background-color: lightslategrey;
 }
 
