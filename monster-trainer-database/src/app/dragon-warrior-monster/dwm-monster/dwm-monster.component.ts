@@ -75,7 +75,7 @@ export class DwmMonsterComponent implements OnInit {
     this.router.navigate(['/dwm'], { queryParams: { invalid: true } });
   }
 
-  changeDetail() {
+  onChangeDetail() {
     if (this.growthLabel === 'show detailed') {
       this.growthLabel = 'show simple'
       this.detailedSwap.next(true);

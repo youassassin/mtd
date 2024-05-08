@@ -19,6 +19,8 @@ export class DwmGrowthComponent implements OnInit {
   amount: number[] = [];
   detailedAmount: number[][] = [];
   isDetailed: boolean = false;
+  rateTable: number[][] = [];
+  viewModalEvent: Subject<number> = new Subject();
 
   ajax = { data: asjon };
 
@@ -33,10 +35,23 @@ export class DwmGrowthComponent implements OnInit {
     this.rates.forEach(n => {
       this.stringRate.push(this.getStringRate(+n))
       this.detailedRate.push(this.getStringArrayRate(+n));
+
+      let shortArr: number[] = []
       let arr: number[] = []
-      this.levels.forEach(l => arr.push(d[l - 1][+n]));
-      this.detailedAmount.push(arr);
+      for (let i = 0, l = 0; i < d.length; i++) {
+        if (this.levels[l] - 1 === i) {
+          shortArr.push(d[i][+n]);
+          l++;
+        }
+        arr.push(d[i][+n]);
+      }
+      this.detailedAmount.push(shortArr);
+      this.rateTable.push(arr);
     });
+  }
+
+  onViewTable(id: number) {
+    this.viewModalEvent.next(id);
   }
 
   getStringRate(rate: number): string {

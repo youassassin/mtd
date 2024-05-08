@@ -47,7 +47,7 @@
     <xp-growth [rate]="monster.xpGrowth"></xp-growth>
     <div class="f-row center-vertical">
         <h3>Stat Growth Rate</h3>
-        <input class="space-1em-left" type="button" (click)=changeDetail() value={{growthLabel}}>
+        <input class="space-1em-left" type="button" (click)=onChangeDetail() value={{growthLabel}}>
     </div>
     <dwm-growth [rates]="growths" [detailEvent]="detailedSwap"></dwm-growth>
     <div *ngIf="!isXpDetail"></div>

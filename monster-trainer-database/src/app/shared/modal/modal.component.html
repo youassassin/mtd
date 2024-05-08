@@ -1,0 +1,19 @@
+<div *ngIf="isVisible" id="myModal" class="modal">
+    <div class="modal-content" #modal>
+        <span (click)="onClose()" class="close">&times;</span>
+        <table>
+            <thead>
+                <tr>
+                    <th>lvl</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let xp of xpList; let i= index">
+                    <td class="text-left">lvl {{i+1}}</td>
+                    <td class="text-right">{{xp}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

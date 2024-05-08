@@ -6,6 +6,7 @@ ui rehaul
 
 //maybe mvp
 figure out a way to reverse breed (reverse synthesis dqm dark prince)
+fix xp table view box
 
 //hopefuls
 upload pixel icons and animations for monsters

@@ -21,6 +21,17 @@ export class DwmXpGrowthComponent extends DwmGrowthComponent implements OnInit {
     for (let l of this.levels) {
       this.xpAmount.push(d[l - 1][+this.rate]);
     }
+    let shortArr: number[] = []
+    let arr: number[] = []
+    for (let i = 0, l = 0; i < d.length; i++) {
+      if (this.levels[l] - 1 === i) {
+        shortArr.push(d[i][+this.rate]);
+        l++;
+      }
+      arr.push(d[i][+this.rate]);
+    }
+    this.xpAmount = shortArr;
+    this.rateTable.push(arr);
   }
 
   override getStringArrayRate(rate: number): string[] {
