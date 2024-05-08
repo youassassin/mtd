@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './input-suggestion.component.html',
   styleUrls: ['./input-suggestion.component.css']
 })
+//TODO: fix the full height suggestion box
 export class InputSuggestionComponent implements OnInit {
 
   constructor() { }

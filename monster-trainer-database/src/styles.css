@@ -3,6 +3,37 @@
     /* font-family: "Courier New", monospace; */
 }
 
+.font-weight-normal {
+    font-weight: normal;
+}
+
+.float-left-50 {
+    float: left;
+    width: 50%;
+}
+
+.float-right-50 {
+    float: right;
+    width: 50%;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.pad-3em-sides {
+    padding-left: .3em;
+    padding-right: .3em;
+}
+
 .space-1em-left {
     margin-left: 1em;
 }

@@ -19,6 +19,7 @@ import { DwmLocationComponent } from './dragon-warrior-monster/dwm-location/dwm-
 import { DwmMasterMonsterComponent } from './dragon-warrior-monster/dwm-monster/dwm-master-monster/dwm-master-monster.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { InputSuggestionComponent } from './shared/input-suggestion/input-suggestion.component';
+import { ModalComponent } from './shared/modal/modal.component';
 
 @NgModule({
   declarations: [
@@ -37,7 +38,8 @@ import { InputSuggestionComponent } from './shared/input-suggestion/input-sugges
     PageNotFoundComponent,
     DwmLocationComponent,
     DwmMasterMonsterComponent,
-    InputSuggestionComponent
+    InputSuggestionComponent,
+    ModalComponent
   ],
   imports: [
     BrowserModule,
