@@ -20,7 +20,8 @@ export class DwmGrowthComponent implements OnInit {
   detailedAmount: number[][] = [];
   isDetailed: boolean = false;
   rateTable: number[][] = [];
-  viewModalEvent: Subject<number> = new Subject();
+  viewModalEvent: Subject<string> = new Subject();
+  header: string[] = ['lvl', 'Total'];
 
   ajax = { data: asjon };
 
@@ -50,7 +51,7 @@ export class DwmGrowthComponent implements OnInit {
     });
   }
 
-  onViewTable(id: number) {
+  onViewTable(id: string) {
     this.viewModalEvent.next(id);
   }
 

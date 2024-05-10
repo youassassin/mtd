@@ -6,6 +6,7 @@
     <div class="image-wrapper">
         <img src="{{monster.image}}">
     </div>
+
     <h3>Family</h3>
     <div class="family-container">
         <div class="icon-wrapper">
@@ -13,6 +14,7 @@
         </div>
         &nbsp;- {{family}}
     </div>
+
     <h3>Description</h3>
     {{monster.note}}
     <h3>Skills</h3>
@@ -27,8 +29,10 @@
             </tbody>
         </table>
     </div>
+
     <h3>Gender Probability</h3>
     {{genderChance}}
+
     <div *ngIf="monster.location">
         <h3 *ngIf="monster.location.length === 1; else locations">Location</h3>
         <ng-template #locations>
@@ -45,11 +49,13 @@
     <h3>Experience Growth Rate</h3>
     <b>Max Level: {{monster.maxLevel}}</b><br />
     <xp-growth [rate]="monster.xpGrowth"></xp-growth>
+
     <div class="f-row center-vertical">
         <h3>Stat Growth Rate</h3>
         <input class="space-1em-left" type="button" (click)=onChangeDetail() value={{growthLabel}}>
     </div>
     <dwm-growth [rates]="growths" [detailEvent]="detailedSwap"></dwm-growth>
-    <div *ngIf="!isXpDetail"></div>
-    <div *ngIf="isXpDetail"></div>
+
+    <h3>Resistances</h3>
+    <dwm-resistances [list]="monster.resistances"></dwm-resistances>
 </div>

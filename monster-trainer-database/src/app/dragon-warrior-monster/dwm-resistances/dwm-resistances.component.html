@@ -1,0 +1,12 @@
+<div class="container">
+    <form [formGroup]="form">
+        <label for="resistanceSearch">{{searchResult | async}}</label>
+        <input id="resistanceSearch" class="word-input" formControlName="resistance" name="resistanceSearch"
+            (input)="resSearch()" (blur)="reset()" list="resSuggestions" autocomplete="off">
+        <datalist id="resSuggestions">
+            <option *ngFor="let r of dropdown" value="{{r}}"></option>
+        </datalist>
+    </form>
+    <input type="button" (click)="onViewTable('res')" value="view table">
+    <modal [viewModalEvent]="viewModalEvent" [header]="header" [data]="data" [id]="'res'" [col]="0"></modal>
+</div>

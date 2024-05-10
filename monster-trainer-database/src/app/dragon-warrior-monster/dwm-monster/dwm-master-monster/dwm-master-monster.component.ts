@@ -116,7 +116,6 @@ export class DwmMasterMonsterComponent implements OnInit {
   }
 
   skillSearch(event: any) {
-    console.log(event)
     let name = this.form.get('skill')?.value;
     if (!name)
       this.reset();

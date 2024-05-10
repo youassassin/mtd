@@ -20,6 +20,7 @@ import { DwmMasterMonsterComponent } from './dragon-warrior-monster/dwm-monster/
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { InputSuggestionComponent } from './shared/input-suggestion/input-suggestion.component';
 import { ModalComponent } from './shared/modal/modal.component';
+import { DwmResistancesComponent } from './dragon-warrior-monster/dwm-resistances/dwm-resistances.component';
 
 @NgModule({
   declarations: [
@@ -39,7 +40,8 @@ import { ModalComponent } from './shared/modal/modal.component';
     DwmLocationComponent,
     DwmMasterMonsterComponent,
     InputSuggestionComponent,
-    ModalComponent
+    ModalComponent,
+    DwmResistancesComponent
   ],
   imports: [
     BrowserModule,

@@ -5,11 +5,12 @@
 </div>
 <div *ngIf="isDetailed">
     <table *ngFor="let l of LABELS; let i= index">
-        <modal [viewModalEvent]="viewModalEvent" [xpList]="rateTable[i]" [id]="i"></modal>
+        <modal [viewModalEvent]="viewModalEvent" [header]="header" [xpList]="rateTable[i]" [id]="i+''" [col]="6">
+        </modal>
         <tr>
             <th class="font-weight-normal" colspan="3">
                 <div class="float-left-50">{{l}} ({{rates[i]}})</div>
-                <div class="float-right-50"><input type="button" (click)="onViewTable(i)" value="view table">
+                <div class="float-right-50"><input type="button" (click)="onViewTable(i+'')" value="view table">
                 </div>
             </th>
         </tr>

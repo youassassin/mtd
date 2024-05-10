@@ -6,6 +6,7 @@ import * as masterList from '../../assets/database/dwm-master-list.json';
 import * as skillList from '../../assets/database/dwm-skill-list.json';
 import * as xpTable from '../../assets/database/dwm-xp-table.json';
 import * as growthTable from '../../assets/database/dwm-growth-table.json';
+import * as resistanceList from '../../assets/database/dwm-resistance-list.json';
 import { Monster } from './model/dwm-monster.model';
 import { Skill } from './model/dwm-skill.model';
 import { Breedable } from './model/dwm-breedable.model';
@@ -23,7 +24,8 @@ export class DragonWarriorMonsterService {
     breedingList: breedingList,
     xpTable: xpTable,
     growthTable: growthTable,
-    masterList: masterList
+    masterList: masterList,
+    resistanceList: resistanceList
   };
 
   constructor() { }
@@ -54,5 +56,9 @@ export class DragonWarriorMonsterService {
 
   getXpTable(): number[][] {
     return this.data.xpTable;
+  }
+
+  getResistanceTypeList(): string[][] {
+    return this.data.resistanceList.resistanceList;
   }
 }

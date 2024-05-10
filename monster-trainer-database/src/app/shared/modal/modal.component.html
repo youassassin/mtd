@@ -1,17 +1,33 @@
 <div *ngIf="isVisible" id="myModal" class="modal">
-    <div class="modal-content" #modal>
+    <div class="modal-content column-count-{{col}}" #modal>
+        <button (click)="addMiddleRow()">{{detailedLabel}}</button>
         <span (click)="onClose()" class="close">&times;</span>
         <table>
             <thead>
                 <tr>
-                    <th>lvl</th>
-                    <th>Total</th>
+                    <th>{{header[0]}}</th>
+                    <th *ngIf="isDetailed">{{header[2]}}</th>
+                    <th>{{header[1]}}</th>
                 </tr>
             </thead>
-            <tbody>
+            <tbody *ngIf="header[0] === 'lvl'">
                 <tr *ngFor="let xp of xpList; let i= index">
-                    <td class="text-left">lvl {{i+1}}</td>
-                    <td class="text-right">{{xp}}</td>
+                    <td *ngIf="i%2 === 0" class="light-grey-bg text-left">lvl&nbsp;{{i+1}}</td>
+                    <td *ngIf="i%2 === 0" class="light-grey-bg text-right">{{xp}}</td>
+                    <td *ngIf="i%2 === 1" class="text-left">lvl&nbsp;{{i+1}}</td>
+                    <td *ngIf="i%2 === 1" class="text-right">{{xp}}</td>
+                </tr>
+            </tbody>
+            <tbody *ngIf="header[0] !== 'lvl'">
+                <tr *ngFor="let d of data[0]; let i= index">
+                    <td *ngIf="i%2 === 0" class="light-grey-bg">{{data[0][i]}}</td>
+                    <td *ngIf="i%2 === 0 && isDetailed" class="light-grey-bg">{{data[3][i]}}</td>
+                    <td *ngIf="i%2 === 0 && isDetailed" class="light-grey-bg">{{data[1][i]}}&nbsp;({{data[2][i]}})</td>
+                    <td *ngIf="i%2 === 0 && !isDetailed" class="light-grey-bg">{{data[1][i]}}</td>
+                    <td *ngIf="i%2 === 1">{{data[0][i]}}</td>
+                    <td *ngIf="i%2 === 1 && isDetailed">{{data[3][i]}}</td>
+                    <td *ngIf="i%2 === 1 && isDetailed">{{data[1][i]}}&nbsp;({{data[2][i]}})</td>
+                    <td *ngIf="i%2 === 1 && !isDetailed">{{data[1][i]}}</td>
                 </tr>
             </tbody>
         </table>

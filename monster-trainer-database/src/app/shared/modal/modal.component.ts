@@ -10,14 +10,19 @@ export class ModalComponent implements OnInit {
 
   @ViewChild('modal') modal: any;
   @Input() xpList!: number[];
-  @Input() id!: number;
-  @Input() set viewModalEvent(sub: Subject<number>) {
+  @Input() data!: string[][];
+  @Input() id!: string;
+  @Input() header!: string[];
+  @Input() col!: number;
+  @Input() isDetailed: boolean = false;
+  @Input() set viewModalEvent(sub: Subject<string>) {
     sub.subscribe(id => {
       if (this.id === id)
         this.isVisible = true;
     });
   }
   isVisible: boolean = false;
+  detailedLabel: string = 'show detailed';
 
   @HostListener('click', ['$event'])
   clickInside(event: any) {
@@ -29,6 +34,12 @@ export class ModalComponent implements OnInit {
 
   ngOnInit(): void {
   }
+
+  addMiddleRow() {
+    this.isDetailed = !this.isDetailed;
+    this.detailedLabel = this.detailedLabel === 'show detailed' ? 'hide detailed' : 'show detailed';
+  }
+
   onClose() {
     this.isVisible = false;
   }

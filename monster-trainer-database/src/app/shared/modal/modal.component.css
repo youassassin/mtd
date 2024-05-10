@@ -12,17 +12,39 @@
     background-color: rgba(0, 0, 0, 0.4);
 }
 
-.modal-content {
+.column-count-6 {
     column-count: 6;
     -moz-column-count: 6;
     -webkit-column-count: 6;
+}
+
+.column-count-2 {
+    column-count: 2;
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+}
+
+.modal-content {
     background-color: #fefefe;
     margin: auto;
     padding: 20px;
     border: 1px solid #888;
     overflow: auto;
-    max-height: 30em;
-    width: 80%;
+    max-height: 80%;
+    max-width: 80%;
+    inline-size: fit-content;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: solid black 1px;
+}
+
+.flex {
+    display: flex;
 }
 
 .close {
@@ -41,7 +63,7 @@
 
 @media screen and (max-width: 750px) {
 
-    .modal-content {
+    .column-count-6 {
         column-count: 4;
         -moz-column-count: 4;
         -webkit-column-count: 4;
@@ -50,7 +72,7 @@
 
 @media screen and (max-width: 475px) {
 
-    .modal-content {
+    .column-count-6 {
         column-count: 2;
         -moz-column-count: 2;
         -webkit-column-count: 2;

@@ -54,6 +54,10 @@
     margin-left: 12em;
 }
 
+.light-grey-bg {
+    background-color: lightgrey;
+}
+
 input[type=button] {
     cursor: pointer;
     text-transform: lowercase;
