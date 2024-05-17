@@ -70,6 +70,8 @@ export class DwmResistancesComponent implements OnInit {
       b = '';
     });
 
+    this.dropdown.sort();
+
     this.data.push(this.SKILLS);
     this.data.push(arrSkills);
     this.data.push(this.list);
@@ -103,7 +105,8 @@ export class DwmResistancesComponent implements OnInit {
     this.form.get('resistance')?.updateValueAndValidity();
   }
 
-  resSearch() {
+  resSearch(event: any) {
+    console.log(event)
     let name = this.form.get('resistance')?.value;
     if (!name)
       this.reset();
@@ -118,6 +121,7 @@ export class DwmResistancesComponent implements OnInit {
       });
       if (this.dropdown.length === 1 && name.toLowerCase() === this.dropdown[0].toLowerCase()) {
         this.findResistance(this.dropdown[0]);
+        event.preventDefault();
       }
     }
   }
